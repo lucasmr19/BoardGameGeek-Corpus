@@ -1,0 +1,37 @@
+{
+    "id": 174,
+    "name": "T-Rex",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Many regard this game as a trick-taking game, however that would be a very liberal interpretation of trick-taking.  Players are each given an equal set of cards, which they randomly pick a hand of seven.  Each hand one suit is a trump suit, and one suit is a non-trump suit.  Players place one of their cards in front of themselves, and this continues until the hand ends.  At that time, the top card on their piles are compared and the best card picks his reward first, and the remaining reward going to the second place.  The reward cards give players points, and the highest total at the end of the game wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/4hfP3EbREUQ4iL1RWs4Kxg__original/img/42dBkgkN5YwFDZTh-szZMTJBomE=/0x0/filters:format(jpeg)/pic206875.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4hfP3EbREUQ4iL1RWs4Kxg__small/img/IpNQh6zPZjQ71KvDYjT01zKu_cA=/fit-in/200x150/filters:strip_icc()/pic206875.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Hanno Kuhn",
+        "Wilfried Kuhn"
+    ],
+    "artists": [
+        "Marcel-André Casasola Merkle"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Dinosaurs"
+        ]
+    }
+}

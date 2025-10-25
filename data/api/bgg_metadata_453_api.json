@@ -1,0 +1,42 @@
+{
+    "id": 453,
+    "name": "Bohnanza: La Isla Bohnitâ",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "This is an expansion for the Bohnanza card game.  Included in this game is Uwe's farcical answer to Klaus Teuber's Seafarers expansion for Settlers of Catan.  Players are given the option of buying ships to help facilitate bean trading and selling.  Additionally, pirate ships are available, which can be used to raid your opponents' beans while in transit.<br/><br/>La Isla Bohnit&acirc; is part of the Bohnanza family of games.<br/><br/>Expands<br/><br/>    Bohnanza<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/caji_grHQNnoirU6ntqs8w__original/img/erYY9NJa97M3QXFOytiVHzgY67s=/0x0/filters:format(jpeg)/pic10334.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/caji_grHQNnoirU6ntqs8w__small/img/FzD-PeDBGSOP8-fcImxKIT1uKDw=/fit-in/200x150/filters:strip_icc()/pic10334.jpg",
+    "publishers": [
+        "AMIGO",
+        "999 Games"
+    ],
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "artists": [
+        "Björn Pertoft"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Card Game",
+            "Expansion for Base-game",
+            "Farming",
+            "Nautical",
+            "Negotiation",
+            "Pirates"
+        ],
+        "families": [
+            "Game: Bohnanza",
+            "Players: Expansions Changing Player Count"
+        ]
+    }
+}

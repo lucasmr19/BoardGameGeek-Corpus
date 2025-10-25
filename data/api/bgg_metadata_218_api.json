@@ -1,0 +1,40 @@
+{
+    "id": 218,
+    "name": "High-Bid",
+    "yearpublished": "1963",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "25",
+    "maxplaytime": "25",
+    "age": "12",
+    "description": "Players represent collectors attempting to gather sets of valuable properties and artifacts ... coins, antiques, miniatures, etc. These sets are worth handsome sums at game's end. Individual pieces of a set are worthless at game's end, but are able to be sold during the course of the game in order to provide a cash-flow.<br/><br/>These 'properties' are represented on cards. There are 12 different types of properties, varying from 3 - 6 pieces per set. Naturally, the sets containing six pieces are much more valuable than the sets containing only three pieces as it is much more difficult to complete these larger sets.<br/><br/>Each player is dealt six cards and given a starting 'fund' of $2,000. The top 'property' card is revealed and a bidding ensues. The winner pays the bank and takes the card into his hand. The player then has the option of selling 1 - 3 properties to the bank. The idea here is to rid yourself of properties that you do not wish to collect and provide a source of income.<br/><br/>There is danger, however. The sales price is determined randomly via the roll of two dice. The price can vary from 25% - 100% of the listed worth of the item. Further, if a '0' is rolled on one of the dice, then the item is NOT sold outright, but rather an auction takes place amongst the players. This can result in a substantially reduced price to the seller, or a higher price, depending upon the demand for the item. Further, it is quite possible that no one desires the item, so the seller must take the item back into his hand. There is also the possibility that the player will earn a $200 bonus if the proper digit is rolled on one of the dice.<br/><br/>When a property is sold, it is placed on the appropriate section of the 'board' - 25%, 50%, 75%, or 100% (there really isn't a board, just a card holder that indicates these sections). After a player sells properties, he may surrender one of the special 'buyer' cards and purchase from 1 - 3 cards from one of these markets. The player must pay the indicated price (based on the particular percentage market where the property is located) and take the property into his hand.<br/><br/>Again, there is a decision to be made here. Buyer cards are very valuable, as they can be used in a number of fashions:<br/><br/>1) Purchase properties, as described above;<br/><br/>2) Used as a 'wild' card to complete a set; or<br/><br/>3) Valued as $500.00 at the end of the game.<br/><br/>So, a player has to weigh the advantages of each of these options and play accordingly.<br/><br/>Buyer cards are purchases at auction in conjunction with a property card. When a Buyer card is revealed, another card is then revealed, and both cards are then auctioned together. The auction is a 'sealed' auction, however, so the stakes are often high as these cards carry tremendous advantages.<br/><br/>The game continues in this fashion until the property deck expires or a player calls an end to the game. One can only do this, however, if he has a total value (property sets plus cash) in excess of $5,000. Even then, a player should only do this when he feels he has more assets than any of his opponents.<br/><br/>As High Bid, this game was published for the 3M Bookshelf Series and 3M Gamette Series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/3tpXY0VnU3bu701E8cBPBg__original/img/qAxN_nRltuTQxciQK533xv5YFjE=/0x0/filters:format(jpeg)/pic58613.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3tpXY0VnU3bu701E8cBPBg__small/img/sq22SbzA0EjkykKdwsymC0sYICo=/fit-in/200x150/filters:strip_icc()/pic58613.jpg",
+    "publishers": [
+        "3M",
+        "The Avalon Hill Game Co",
+        "Casper"
+    ],
+    "designers": [
+        "Larry Winters",
+        "P. Winters"
+    ],
+    "artists": [
+        "Aspect Annonsbyrå",
+        "Stefan Thulin"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Set Collection"
+        ],
+        "categories": [
+            "Negotiation"
+        ],
+        "families": [
+            "Series: 3M Bookshelf Series",
+            "Series: 3M Gamettes",
+            "Theme: Art"
+        ]
+    }
+}

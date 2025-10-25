@@ -1,0 +1,39 @@
+{
+    "id": 291,
+    "name": "Courtisans of Versailles",
+    "yearpublished": "1988",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "8",
+    "description": "Amid the lavish splendor of the palace of Versailles, players strive to improve their standing among their fellow courtiers. Their mark, with either the Queen or Louis XIV himself, depends on how they manipulate elevated forms of etiquette, repartie, and the true passion of the court...The high art of ridicule. Circumstances change as the court moves from the palace to the hunt, and possibly to the front if war breaks out. Titles, awards, vast fortunes can be amassed through whim and wit, but be aware that a devastating faux pas could find you banished to the colonies, or worse yet, land you in the notorious dungeons of la Bastille.<br/><br/>The original version, Aristo, published by Dragon Radieux, accommodated up to 8 players. The later version only allows for 6.<br/><br/>A winner of the 1988 Concours International de Créateurs de Jeux de Société.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/tJ0BOjq0jNSu99RvGOXNTA__original/img/zTdv3reMFxVgj6sFG3RSASYpV0w=/0x0/filters:format(jpeg)/pic9628.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tJ0BOjq0jNSu99RvGOXNTA__small/img/G-WJNgWGyDPllhZb1EJDaX1UoVk=/fit-in/200x150/filters:strip_icc()/pic9628.jpg",
+    "publishers": [
+        "Clash of Arms Games",
+        "Dragon Radieux",
+        "Tilsit",
+        "Truant Spiele"
+    ],
+    "designers": [
+        "Philippe Mouchebeuf"
+    ],
+    "artists": [
+        "Franck Dion"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Role Playing",
+            "Trading"
+        ],
+        "categories": [
+            "Negotiation",
+            "Political"
+        ],
+        "families": [
+            "Cities: Versailles (France)"
+        ]
+    }
+}

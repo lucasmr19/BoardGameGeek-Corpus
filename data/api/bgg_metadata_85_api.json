@@ -1,0 +1,47 @@
+{
+    "id": 85,
+    "name": "Quebec 1759",
+    "yearpublished": "1972",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Quebec 1759 is a small, simple and short block board-wargame covering the conflict between the British and the French in Canada during the French and Indian War. The game comes with a gorgeous map drawn in the style of the period. Movement is conducted via a point-to-point system following the roads and towns in the area around Quebec. The game comes with handfuls of blocks to represent the British and French units.<br/><br/>This title uses Columbia Games Block system. While there are variations in the rule sets, all of their wargames are based on the block system. Basically this means that rather than using the traditional counters to represent units on the map the game uses wooden blocks that stand upright with unit details only shown on one side. This does two things:  First it provides an easy way of producing a &quot;fog of war&quot; because your opponent can not tell, save through good memory, what type of unit a specific piece is or its current strength. Second, having the blocks stand on end allows the possibility of rotating a block so the current strength is the top number. Although most war games have some type of mechanism that lets units take steps in their overall strength, counters normally have at most two steps because they only have two sides. Blocks, however, have four so you can easily keep track of twice the amount of detail that many other war games provide. With the use of blocks Columbia has provided a way of adding a good deal of depth to their war games without adding complex layers of bookkeeping, allowing interesting and relatively short sessions of play.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/1xM_nGk6WOR6_QaxgNDJ8w__original/img/iUQH14DMZk882LfbP95LnT3qpRc=/0x0/filters:format(png)/pic8362010.png",
+    "thumbnail": "https://cf.geekdo-images.com/1xM_nGk6WOR6_QaxgNDJ8w__small/img/cwaJxT1SGMrghWPOwSIMLYrwKAo=/fit-in/200x150/filters:strip_icc()/pic8362010.png",
+    "publishers": [
+        "Columbia Games",
+        "Gamma Two Games"
+    ],
+    "designers": [
+        "Steve Brewster",
+        "Tom Dalgliesh",
+        "Lance Gutteridge"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Point to Point Movement",
+            "Secret Unit Deployment",
+            "Simulation"
+        ],
+        "categories": [
+            "Age of Reason",
+            "American Indian Wars",
+            "Wargame"
+        ],
+        "families": [
+            "Cities: Quebec (Canada)",
+            "Components: Block Wargames",
+            "Country: Canada",
+            "Country: France",
+            "Country: Great Britain",
+            "History: French and Indian War",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players",
+            "Region: Quebec (Canada)"
+        ]
+    }
+}

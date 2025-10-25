@@ -1,0 +1,38 @@
+{
+    "id": 339,
+    "name": "Quiddler",
+    "yearpublished": "1998",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Quiddler challenges players to create words from an ever-increasing number of letter cards in their hand. The game lasts eight rounds, with three cards being dealt to each player in the first round, four cards in the second, five in the third, and so on. Each card has one or two letters on it as well as a point value.<br/><br/>On a turn, a player draws the top card from the deck or discard pile, then discards a card. When a player is able to use all of the cards in his hand (with one left for discarding) to spell words &mdash; each of which must contain at least two cards &mdash; he may go out by placing the words on the table. Each other player takes one final turn, then plays as many cards as they can in words. Each player now scores, adding the point value for cards used in words, then subtracting points for any cards remaining in hand. In addition, the player with the most words and the player with the longest word each receive 10 bonus points; in case of a tie, no one receives the bonus. Whoever has the highest score after eight rounds wins!<br/><br/>Quiddler also includes rules for a solo variant.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/PKiBxGLQO5a4Sy4XmjvPWw__original/img/ANx-XmQmAx63y5U13GgfXAyJe04=/0x0/filters:format(jpeg)/pic1753681.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PKiBxGLQO5a4Sy4XmjvPWw__small/img/xhOEtriBnDJRfVAtfKG7wEEf_Is=/fit-in/200x150/filters:strip_icc()/pic1753681.jpg",
+    "publishers": [
+        "AMIGO",
+        "HRAS",
+        "PlayMonster",
+        "Set Enterprises, Inc."
+    ],
+    "designers": [
+        "Marsha J. Falco"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Spelling"
+        ],
+        "categories": [
+            "Card Game",
+            "Word Game"
+        ],
+        "families": [
+            "Misc: Mensa Select",
+            "Traditional Card Games: Rummy"
+        ]
+    }
+}

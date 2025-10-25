@@ -1,0 +1,61 @@
+{
+    "id": 28,
+    "name": "Illuminati",
+    "yearpublished": "1987",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "In this classic Steve Jackson (I) game of world domination, each player is a secret society attempting to spread its tendrils into special interest groups throughout the world. This latest edition comes with additional cards and reworked graphics to bring the venerable game up to date.<br/><br/>Re-issue of:<br/><br/>    Illuminati (Small plastic box with 54 black and white cards and paper money)<br/><br/><br/>Expansions:<br/><br/>    Illuminati: Y2K<br/>    Illuminati: Brainwash (re-work of Illuminati Expansion Set 3)<br/>    Illuminati: Bavarian Fire Drill<br/>    Illuminati: Mutual Assured Distraction<br/><br/><br/>Spin Off:<br/><br/>    Illuminati: Crime Lords<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/ea8y04WKGgdQkFy1Pbw9tA__original/img/F_xGJIZyrFTkGwRRhV4wk8uVbh4=/0x0/filters:format(jpeg)/pic1320091.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ea8y04WKGgdQkFy1Pbw9tA__small/img/eph2ZknTAhhs-A8ij76DJbhzjrs=/fit-in/200x150/filters:strip_icc()/pic1320091.jpg",
+    "publishers": [
+        "Steve Jackson Games",
+        "Descartes Editeur",
+        "Devir",
+        "Edge Entertainment",
+        "Finnish Game House",
+        "Laurin Verlag",
+        "Pegasus Spiele",
+        "Queen Games",
+        "Raven Distribution",
+        "Ubik"
+    ],
+    "designers": [
+        "Steve Jackson (I)"
+    ],
+    "artists": [
+        "Lar DeSouza",
+        "Jeffrey D. George",
+        "Frank Gerwin",
+        "John Grigni",
+        "C. Mara Lee",
+        "Carl Manz",
+        "Dave Martin",
+        "David Martin (II)",
+        "Shea Ryan",
+        "Dan Smith",
+        "Czeslaw Sornat",
+        "Cliff Van Meter"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Network and Route Building",
+            "Open Drafting",
+            "Tile Placement",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Card Game",
+            "Humor",
+            "Negotiation",
+            "Political",
+            "Science Fiction"
+        ],
+        "families": [
+            "Game: Illuminati"
+        ]
+    }
+}

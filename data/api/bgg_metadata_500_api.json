@@ -1,0 +1,29 @@
+{
+    "id": 500,
+    "name": "MARK",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "MARK is a game about collecting, processing, and reselling recycled components for a profit. Each turn, a player rolls a pair of color dice and chooses one of the showing die colors to perform an action with. Each color is tied to one type of recyclable material. A player can choose to receive a single new recyclable good to his delivery yard, or he can choose to move a single recyclable good from his delivery yard to his treatment area, or he can choose to sell one good from his treatment area to the market grid in the center of the board.<br/><br/>The market grid has 5 rows, and each row can hold only one variety of recyclable materials. When selling to the market, if it is the first time that good has been sold, the player may choose which row to sell into (left-most position in the row only), otherwise he must sell into the next empty space in the row that variety already occupies. He receives the amount of money shown on the space where he places his recyclable good. When the row is full, all goods of that type are removed from the game. The game ends when four of the market rows are completely filled.<br/><br/>If the player rolls both dice of the same color, he has no choice in which recyclable material to choose, but may perform two actions (delivery, treatment, or sale) with that type of good. In addition, there are two special symbols on the dice (one on each). One is a star symbol, which acts as a wild. The player can choose whatever color he desires. The other is a gavel, which triggers an immediate auction for the type of good shown on the other die, after which the player takes another turn. The auction is a closed-fist auction.<br/><br/>At the beginning of the player's turn, he must pay 5 dollars in storage fees if he has more than 2 recyclable materials in his delivery yard. He must also pay 5 dollars in storage fees if he has more than 2 recyclable materials in his treatment area. This provides tension between waiting for bigger pay-outs and selling recyclable materials early.<br/><br/>The player with the most money at the end of the game wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/62jd6ddfkRqIGiSeGHI4SA__original/img/25cqpirbaF48I8SXPwzhsUmU3NU=/0x0/filters:format(jpeg)/pic3669697.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/62jd6ddfkRqIGiSeGHI4SA__small/img/rtIu_FI4bM5B7TGE5RohPSfPQgo=/fit-in/200x150/filters:strip_icc()/pic3669697.jpg",
+    "publishers": [
+        "franjos Spieleverlag"
+    ],
+    "designers": [
+        "Ronald M. Corn"
+    ],
+    "artists": [
+        "Franz-Josef Schulte"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Economic"
+        ],
+        "families": []
+    }
+}

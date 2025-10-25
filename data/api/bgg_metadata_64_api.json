@@ -1,0 +1,48 @@
+{
+    "id": 64,
+    "name": "Joan of Arc",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "150",
+    "maxplaytime": "150",
+    "age": "10",
+    "description": "Joan of Arc, a game of &quot;Conquest and Perfidy in the Kingdom of France&quot;, deals with the conflicts in France during the Hundred Years' War.  It's a multiplayer wargame with a card-driven combat system and a political layer that players must contend with.<br/><br/>For just over one hundred years England and France battled over who would sit on the French throne. Even within France itself factions developed, putting forth their own candidates challenging the rights of the Dauphin. From this struggle heroes emerged, notably the Black Prince and Jeanne d'Arc, The Maid of Orleans. Tremendous battles were fought at Crecy, Poitiers and Agincourt, yet their impact on the war was ephemeral. Long sieges followed short campaigns, bands of the notorious Free Companies, temporarily unemployed, marauded across the countryside in search of rapine and plunder. Complicating matters, both famine and plague poisoned the seasons. All in all, 'twas a grand time!<br/><br/>The game randomly lasts from 8 to 10 turns.<br/><br/>The winner is the player with the most Pretender Points.  <br/>Points are gained at the end of each turn for each Province a player controls.  <br/>Controlled cities gain revenue. Those can be spent on Battle Cards and fortification.<br/><br/>Battles are resolved by playing Battle Cards (yellow(numerical) or red(special cards), combined with Influence, fortifications, and die roll.<br/><br/>TURN SEQUENCE<br/>Income phase: based on controlled cities<br/>Political phase: vote for War or Peace<br/>Battle Cards collection  <br/>Purchase fortifications and/or cards.  <br/>Player Order phase<br/>Event(s) phase<br/>Foreign Intervention phase<br/>Player Turns: In player order, each player resolves:  <br/>1-Expansion moves<br/>2-Combat only if 2+ Yellow cards; Resolve battle, then repeat combat if needed.<br/>Pretender Points: Players gain points (depending on regions they control), then Influence points (up to 6), then discard all cards.<br/>GAME END: check on turn 8 and 9, automatic on 10<br/><br/>Components:<br/><br/>1 mounted game board <br/>80 cards (a la Tarot) <br/>20 resin cast castles and 10 resin cast strongholds <br/>die-cut coin markers and garrisons representing the factions of France, England, Navarre, Brittany, Flanders and Burgandy.<br/><br/><br/>     Sequel Renaissance<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/UD42fj0ESsolCl951lqOAg__original/img/L_H0SLQH4BlqWi3TquV1xWBgewo=/0x0/filters:format(jpeg)/pic87932.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UD42fj0ESsolCl951lqOAg__small/img/SsEq1EtWiw_1wP7T2K33zcY_Ix8=/fit-in/200x150/filters:strip_icc()/pic87932.jpg",
+    "publishers": [
+        "Clash of Arms Games",
+        "Tilsit",
+        "Truant Spiele"
+    ],
+    "designers": [
+        "Pascal Bernard"
+    ],
+    "artists": [
+        "Thibaud Béghin",
+        "Greg Cervall",
+        "Frantz Rey"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Dice Rolling",
+            "Hand Management",
+            "Take That",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Card Game",
+            "Medieval",
+            "Political",
+            "Wargame"
+        ],
+        "families": [
+            "Cities: Orléans (France)",
+            "Components: Map (Continental / National scale)",
+            "Historical Figures: Joan of Arc",
+            "History: Hundred Years Wars"
+        ]
+    }
+}

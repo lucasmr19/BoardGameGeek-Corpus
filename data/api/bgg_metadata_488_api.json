@@ -1,0 +1,33 @@
+{
+    "id": 488,
+    "name": "Stake Your Claim",
+    "yearpublished": "1985",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "6",
+    "description": "A gold rush themed set collection game with a simple mechanic that enables swift play. There are two variants described, a 2-6 player game as well as a 2-player version outlined in the rules.<br/><br/>Broad appeal to children and adults due to the clear mechanics and straight-forward play.<br/><br/>The game utilizes 44 cards in 11 groups of four different images. Players build up their 'stash piles' by 'patenting' as many 'claims' as possible. This is accomplished by collecting sets in multiple stacks by drawing from a draw pile or common pool of 8 tiles in the center of the table based on matches and placing tiles into the pool if no match can be found.<br/><br/>Matches can also be made with the top card of piles of any other player. The end game comes when all cards are in the possession of the players, and the stacks are consolidated to determine who has the largest stack of claims.<br/><br/>The 2-player variant involves repeat-dealing of four cards to players when their hands are exhausted by set collection from the pool until all cards from the deck have been utilized.<br/><br/>Reimplemented by: <br/><br/>    Räuber<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/DEEIyMgI0Vkubs71wfEAYA__original/img/R4aLh_d6b1R3b8C9BbEKzKc62Nk=/0x0/filters:format(jpeg)/pic91796.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DEEIyMgI0Vkubs71wfEAYA__small/img/LWvmCNECvPUQ5mCiyQ9b-R-0XWY=/fit-in/200x150/filters:strip_icc()/pic91796.jpg",
+    "publishers": [
+        "ASS Altenburger Spielkarten",
+        "Otto Maier Verlag"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Richard Anderson",
+        "Günther Marks"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

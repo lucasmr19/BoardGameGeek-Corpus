@@ -1,0 +1,32 @@
+{
+    "id": 260,
+    "name": "Starship Troopers: Prepare For Battle!",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Starship Troopers: Prepare For Battle! should not be confused with the original Starship Troopers wargame, also by The Avalon Hill Game Co, published in 1976.<br/><br/>Starship Troopers was based on the Heinlein book.  Starship Troopers: Prepare For Battle! is based on the film version.<br/><br/>This is a fast-paced tactical wargame which begins simply and then adds additional rules with each new scenario.<br/>Note that the original Starship Troopers game has completely different rules, maps, units, etc.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Xa6PXEeV0MEDiBY-uRZDJw__original/img/Zwtl0oFNZH0xwRMXkIlryDiSmA4=/0x0/filters:format(jpeg)/pic264939.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Xa6PXEeV0MEDiBY-uRZDJw__small/img/0G5Fp9mbv4TiWnxlBdyTSSLd36g=/fit-in/200x150/filters:strip_icc()/pic264939.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Ben Knight"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Modular Board"
+        ],
+        "categories": [
+            "Movies / TV / Radio theme",
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "id": 258,
+    "name": "Fluxx",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "5",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Fluxx is a card game in which the cards themselves determine the current rules of the game. By playing cards, you change numerous aspects of the game: how to draw cards, how to play cards, and even how to win.<br/><br/>At the start of the game, each player holds three cards and on a turn a player draws one card, then plays one card. By playing cards, you can put new rules into play that change numerous aspects of the game: how many cards to draw or play, how many cards you can hold in hand or keep on the table in front of you, and (most importantly) how to win the game. There are many editions, themed siblings, and promo cards available.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__original/img/6-0pkob0RUXgRyxGPJ2ZKyYObxw=/0x0/filters:format(jpeg)/pic2405641.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__small/img/MjQ7iYoOXuU9AUrTojjYE8sdyTk=/fit-in/200x150/filters:strip_icc()/pic2405641.jpg",
+    "publishers": [
+        "Looney Labs",
+        "AMIGO",
+        "Black Monk",
+        "Edge Entertainment",
+        "Hexagonal",
+        "Hobby Japan",
+        "Hobby World",
+        "Iron Crown Enterprises",
+        "Monkey Time",
+        "Pegasus Spiele",
+        "PS-Games",
+        "Raven Distribution",
+        "Swan Panasia Co., Ltd."
+    ],
+    "designers": [
+        "Andrew Looney",
+        "Kristin Looney"
+    ],
+    "artists": [
+        "Raúl Castellanos",
+        "Michael Hays",
+        "Naomi Kageyama",
+        "Andrew Looney",
+        "Barbara Spelger"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Digital Implementations: Apple App Store",
+            "Digital Implementations: Board Game Arena",
+            "Game: Fluxx",
+            "Misc: Mensa Select",
+            "Players: Games with expansions that add solo play"
+        ]
+    }
+}

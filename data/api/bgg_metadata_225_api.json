@@ -1,0 +1,33 @@
+{
+    "id": 225,
+    "name": "Icehouse",
+    "yearpublished": "1989",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "This is the game that introduced Icehouse Pieces. In December 1989, an initial test run of 100 Icehouse sets were made and sold, packaged in black boxes. Later, a few more of these handmade sets were produced, but in very limited quantities.<br/><br/>This game doesn't use turns, or rounds, or anything else to break up the action.  Players place their pieces as quickly or slowly as they like, in attacking or defending positions.  Only when time runs out or when everyone has used up all their pieces is the game scored, with people getting points for their safe defenders and successful attackers.<br/><br/>Stashes of Icehouse Pieces without rules, later released as Looney Pyramids, have an accessory entry here: Looney Pyramids.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/bovSlfxMG0Pgo31T72kEUg__original/img/G4dQaP3hgia7dVgQTa6PGhAMKj0=/0x0/filters:format(jpeg)/pic2038742.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bovSlfxMG0Pgo31T72kEUg__small/img/GEew9gDGd9yvANZQwfNh_HiU944=/fit-in/200x150/filters:strip_icc()/pic2038742.jpg",
+    "publishers": [
+        "Crystal Caste",
+        "IcehouseGames"
+    ],
+    "designers": [
+        "John Cooper",
+        "Andrew Looney"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Abstract Strategy",
+            "Real-time"
+        ],
+        "families": [
+            "Components: Looney Pyramid Games",
+            "Containers: Tubes"
+        ]
+    }
+}

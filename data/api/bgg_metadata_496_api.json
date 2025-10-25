@@ -1,0 +1,34 @@
+{
+    "id": 496,
+    "name": "Dilemma",
+    "yearpublished": "2000",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Dilemma is a curious combination of speed, dexterity, and bluffing. The starting player places a numbered card in an arena (a plastic dish). Players place or apparently throw numbered cards into the arena. If you do this correctly so that your card covers the opener neatly, you then duel with the starter. You each have a dueling block, showing peace or war. Lay this hidden, then reveal them together:<br/><br/><br/>    Peace/peace means the players swap the cards in the arena.<br/>    War/peace means war takes all the cards but loses one of ten lives.<br/>    War/war means no one gains cards and both lose a life.<br/><br/><br/>If you have no lives, you still duel, but can place only peace. When the game ends, total up the cards you've won, and whoever has the most points wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CRMdI02c6ZQ9IGKQ9sr8sg__original/img/HRTsUGBdi1hw78rv_23epWWpGx4=/0x0/filters:format(jpeg)/pic4899608.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CRMdI02c6ZQ9IGKQ9sr8sg__small/img/P2L_VuJMWdgRX2YpWwjrfoxU_cM=/fit-in/200x150/filters:strip_icc()/pic4899608.jpg",
+    "publishers": [
+        "F.X. Schmid",
+        "Oliphante",
+        "OPEN'N PLAY"
+    ],
+    "designers": [
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Paul Dawiz"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Action / Dexterity",
+            "Card Game"
+        ],
+        "families": [
+            "Components: 2 x 2 Grids"
+        ]
+    }
+}

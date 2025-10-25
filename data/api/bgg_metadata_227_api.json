@@ -1,0 +1,46 @@
+{
+    "id": 227,
+    "name": "Knightmare Chess",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Knightmare Chess adds a whole new element of unpredictability to the game of standard Chess by giving players cards that they can play before, after, or sometimes instead of their turns. Some cards affect only a single move, while others change the entire game. Each card is assigned a point value, so you can build custom decks based on an agreed point total or handicap the match so that the better player has fewer powerful cards. Multiple variants are included in the rules.<br/><br/>Integrates with:<br/><br/><br/>    Knightmare Chess 2<br/><br/><br/>Number of Cards<br/><br/><br/>    French First Edition: 72 Cards<br/>    German First Edition: 51 Cards<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/1RIoXUoJnyhRukrcCbvuKw__original/img/hCjEgJ2CtzfwbrUTw3_fUXLBAsU=/0x0/filters:format(jpeg)/pic199970.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1RIoXUoJnyhRukrcCbvuKw__small/img/rzmjkc7qyjO9DEW2sT8xhRQ1wbY=/fit-in/200x150/filters:strip_icc()/pic199970.jpg",
+    "publishers": [
+        "Bamboo Donkey",
+        "Heidelberger Spieleverlag",
+        "Hobby World",
+        "Ludodélire",
+        "Steve Jackson Games",
+        "Variantes"
+    ],
+    "designers": [
+        "Pierre Cléquin",
+        "Bruno Faidutti"
+    ],
+    "artists": [
+        "Jeff Koke",
+        "Gérard Mathieu",
+        "Anthony Rezendes",
+        "Rogério Vilela"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Card Game",
+            "Expansion for Base-game"
+        ],
+        "families": [
+            "Components: 8 x 8 Grids",
+            "Players: Two-Player Only Games",
+            "Traditional Games: Chess"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 241,
+    "name": "Age of Exploration",
+    "yearpublished": "1994",
+    "minplayers": "1",
+    "maxplayers": "6",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "14",
+    "description": "Each player represents a European syndicate backing expeditions. You begin by attracting a famous explorer such as Columbus, Magellan, Ponce de Leon or Cortez. Then you must outfit an expedition and set off on a voyage of discovery...<br/><br/>At sea, you must brave scurvy, storms and superstitions. After making landfall, you may encounter friendly natives or find yourself embroiled in rivalries, civil wars and prophecies. These and other difficulties will challenge even the boldest of conquistadors on their path to glory.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/eU7uho-OpmBXMGxNpYvjpg__original/img/Y9_IxX2R9mrDWqDm2MCCjAqAL_M=/0x0/filters:format(jpeg)/pic78069.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eU7uho-OpmBXMGxNpYvjpg__small/img/dW--w2rZHnebLr5RKBEFtusyvHs=/fit-in/200x150/filters:strip_icc()/pic78069.jpg",
+    "publishers": [
+        "Prism Games",
+        "TimJim Games"
+    ],
+    "designers": [
+        "Thomas Lehmann"
+    ],
+    "artists": [
+        "Armand Cabrera",
+        "Carolyn Wales"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Push Your Luck",
+            "Simulation"
+        ],
+        "categories": [
+            "Exploration",
+            "Renaissance",
+            "Wargame"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Continents: North America",
+            "Continents: South America",
+            "History: Age of Discovery",
+            "Region: Caribbean Sea",
+            "Region: Central America"
+        ]
+    }
+}

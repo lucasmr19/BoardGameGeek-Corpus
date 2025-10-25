@@ -1,0 +1,55 @@
+{
+    "id": 125,
+    "name": "Money!",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "15",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Your goal in Money! is to trade currencies with the bank and other players so that you end up with more value than anyone else.<br/><br/>Each player starts with a hand of six cards from a deck that contains cards in seven currencies ranging in value from 20-60, along with coins worth 10. Four cards from the deck are placed face up to its left and to its right.<br/><br/>In a round, each player chooses a bid of one or more cards from their hand, then everyone reveals their bid simultaneously. Whoever bid the highest sum takes the four cards to the left or right of the deck or another player's bid, adds these cards to their hand, then places their bid next to the deck or in front of the player whose bid they took. (Alternatively, the player can return their bid to hand.) Then the next player with the highest bid resolves their bid similarly. Once all players have resolved their bids, draw cards from the deck to refill the lots to the left and right of the deck to four cards. When the deck runs out, play one final round, then score your cards in hand.<br/><br/>If you have 200 or more in a single currency, score that many points. If you have less than 200 in a currency, subtract 100 from that amount but don't go below 0. If you have all three 20s or 30s in a currency, score 100 points in addition to whatever the currency itself scores for you. Sum these amounts, along with whatever coins you have in hand. Whoever has the highest score wins.<br/><br/>&bull;&bull;&bull;<br/><br/>Admin note: Most editions of Money! have rules only for 3-5 players; the 2025 edition from Allplay includes rules for a two-player variant.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__original/img/6lg_O2H2P93zc8j6W2nmBkYGyeI=/0x0/filters:format(jpeg)/pic8469504.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/spgIw75EFPR1TViSoe0Sgg__small/img/u0pi1Re9rklBHIniRSKQ3OpTstg=/fit-in/200x150/filters:strip_icc()/pic8469504.jpg",
+    "publishers": [
+        "Allplay",
+        "cosaic",
+        "Eagle-Gryphon Games",
+        "Egmont Polska",
+        "Fractal Juegos",
+        "GaGa Games",
+        "Goldsieber Spiele",
+        "Group SNE",
+        "Playte",
+        "Rio Grande Games",
+        "TWOPLUS Games",
+        "Wargames Club Publishing",
+        "놀이속의세상"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Anne Heidsieck",
+        "Paul Niemeyer",
+        "Cristal Portau",
+        "Marek Szyszko",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Set Collection",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Series: à la Carte (Goldsieber)",
+            "Series: Bookshelf (Gryphon Games)",
+            "Series: Pan tu nie stał! (Egmont)",
+            "Series: Small Box Big Game (Allplay)",
+            "Theme: Anthropomorphic Animals"
+        ]
+    }
+}

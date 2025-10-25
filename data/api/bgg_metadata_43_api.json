@@ -1,0 +1,34 @@
+{
+    "id": 43,
+    "name": "Airlines",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Airlines' theme is exactly as suggested by the title. The game is similar to the Sid Sackson classic, Acquire, in that players are competing to become majority stockholders in several highly-abstracted companies with the player owning the most valuable portfolio at the end being the winner.<br/><br/>Each turn, a player chooses from one of two actions: expand an airline and put stock into his hand, or play stock from his hand. Expanding an airline adds to its route(s) on the board and increases its value but the trick is that when a scoring card shows up (randomly), only played stock counts as a player's holdings.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/rfKJrXZv8obmM8DGF_xNaw__original/img/Z4wTGCyzjBcZM3o_ZfD83_OAnXU=/0x0/filters:format(jpeg)/pic9562.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rfKJrXZv8obmM8DGF_xNaw__small/img/mZthDCSvAcsT-VT3p_mdHHkmnss=/fit-in/200x150/filters:strip_icc()/pic9562.jpg",
+    "publishers": [
+        "ABACUSSPIELE"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Christian Schütte"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Investment",
+            "Network and Route Building",
+            "Stock Holding"
+        ],
+        "categories": [
+            "Aviation / Flight",
+            "Economic"
+        ],
+        "families": []
+    }
+}

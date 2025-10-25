@@ -1,0 +1,40 @@
+{
+    "id": 20,
+    "name": "Full Metal Planète",
+    "yearpublished": "1988",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "In this game of science fiction strip mining, players land on a planet and try and grab as much ore as possible and take off before the game is over.  Each player has tanks, boats, barges, mining equipment and a base ship at his disposal and will have to contend with the weather and the other miners.  The game uses an action point allowance system and thus is dice free.  Each player on his turn has a pool of points that he can divide in a variety of ways, putting all the points into one unit's movement or dividing them among several units.  Each turn is timed so players have to think quickly, and once a move has been made it cannot be retracted.  The game itself is beautifully put together, with a detailed hex grid and real metal miniatures for all of the units.<br/><br/>Online Play: <br/><br/>    Full Metal Galaxy<br/>    Full Metal Program<br/>    VASSAL module<br/><br/><br/>Re-implemented by:<br/><br/>    Full Metal Conquête (as a two-player version)<br/><br/><br/>Expanded by:<br/><br/>    Full Metal Planete: Plateau Modulaire.<br/><br/><br/>Microbadges:<br/> - Full Metal Plan&egrave;te fan  Buy It<br/><br/>",
+    "image": "https://cf.geekdo-images.com/X6ExuMeF_c5xjPQrbEo0Cw__original/img/LlXcdIPs6kgoOpArORy2ymYU02M=/0x0/filters:format(jpeg)/pic451783.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X6ExuMeF_c5xjPQrbEo0Cw__small/img/xRvm4g8LUnrq7CUB9esYyha_ZNA=/fit-in/200x150/filters:strip_icc()/pic451783.jpg",
+    "publishers": [
+        "Ludodélire"
+    ],
+    "designers": [
+        "Gérard Delfanti",
+        "Gérard Mathieu",
+        "Pascal Trigaux"
+    ],
+    "artists": [
+        "Pascal Trigaux"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Real-Time"
+        ],
+        "categories": [
+            "Miniatures",
+            "Science Fiction"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: Miniatures",
+            "Components: Rocks/Stones",
+            "Theme: Mining"
+        ]
+    }
+}

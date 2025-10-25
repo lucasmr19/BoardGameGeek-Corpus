@@ -1,0 +1,35 @@
+{
+    "id": 378,
+    "name": "Lancashire Railways",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "Lancashire Railways is a train game about the birth of the first commercial railroads in Central England in 1829. The Silicon Valley of its day, Manchester was the hub of advanced engineering and manufacturing. Liverpool was the largest port and Manchester needed access for its exports of Cloth and Machinery. Lancashire Railways is set in this era of unrestrained growth and development. Each player starts a railway, and attempts to acquire right-of-way at auction. Players may finance their acquisitions with loans from the Bank, although the interest rate may become exorbitant.<br/><br/>Lancashire Railways is the first game in the Early Railways Series and is the progenitor of later Wallace titles such as Age of Steam and Railroad Tycoon.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Iw2yygHWVdyS1aNmP5imqQ__original/img/IjBzqWcI7TNbZKbbZTQ-OSzkYW8=/0x0/filters:format(jpeg)/pic167745.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Iw2yygHWVdyS1aNmP5imqQ__small/img/cto5SWWj4-j9A8bgTeZUg2P8bx4=/fit-in/200x150/filters:strip_icc()/pic167745.jpg",
+    "publishers": [
+        "Winsome Games"
+    ],
+    "designers": [
+        "Martin Wallace"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Crayon Rail System",
+            "Pick-up and Deliver"
+        ],
+        "categories": [
+            "Economic",
+            "Trains"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Containers: Tubes",
+            "Series: Early Railways (Winsome Games)"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 78,
+    "name": "WestFront: The War in Europe, 1943-45",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "WestFront details the conflict between the Allies and  Germany during WWII between 1943-45. Players have to contend with production, supply, command control and the weather to try and break the other sides lines. Additional rules are included for amphibious invasions. Several scenarios cover every major point of the war. The game comes with a fantastic detailed map of Western Europe and Italy printed on card and many wooden blocks for the units. This is one section of the complete EuroFront series that covers the entire European conflict of WWII.<br/><br/>This title uses Columbia Games Block system. While there are variations in the rule sets for each of their games none the less all of their games are based on block system. Basically this means that rather than the traditional use of counters to represent units on the map the game instead uses wooden blocks that stand upright and with unit details only shown on one side of the blocks. This does two things: First it provides an easy way of producing a &quot;fog of war&quot; because your opponent can not tell, save through good memory, what type of unit a specific piece is and it&rsquo;s current strength. Second, by having the blocks stand on end it provides a way to keep track of a units strength by rotating the block so the current strength is the top number. Most war games have some type of mechanism that lets units take steps in their overall strength. Counters normally have at most two steps because of they only have two sides, however blocks have four and so now you can easily keep track of twice the amount of detail that many other war games provide. With the use of blocks Columbia has provided a way of adding a good deal of depth to their war games without adding further complex layers of bookkeeping and thus allow for interesting and relatively short sessions of play.<br/><br/>Re-implemented as:<br/><br/>    WestFront II: The War in Europe 1943-45 – Second Edition<br/><br/><br/>Expanded by:<br/><br/>    EuroFront: War in Europe, 1939-45<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/3EzB-abNBjU6pvLorzItYg__original/img/QSZJZ7RyIuNbC2n_5L___MnQ-3c=/0x0/filters:format(jpeg)/pic72713.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3EzB-abNBjU6pvLorzItYg__small/img/nQbvylzkM5BPYmHWZzZTKzCz2ew=/fit-in/200x150/filters:strip_icc()/pic72713.jpg",
+    "publishers": [
+        "Columbia Games"
+    ],
+    "designers": [
+        "Craig Besinque"
+    ],
+    "artists": [
+        "Eric Hotz"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Secret Unit Deployment"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: Block Wargames",
+            "Players: Two-Player Only Games",
+            "Series: Front Series (Columbia)"
+        ]
+    }
+}

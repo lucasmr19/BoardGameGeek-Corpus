@@ -1,0 +1,86 @@
+{
+    "id": 50,
+    "name": "Lost Cities",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Lost Cities is a card game in the Kosmos two-player series. The game originally consisted of a single deck of cards of rank 2&ndash;10 in five different colors with three special &quot;handshakes&quot; (&quot;HS&quot; in scoring examples below) in each suit, but as of 2018 the game now includes six colored suits, with the sixth color being optional for gameplay. A game board is included to organize discarded cards and help players organize their card collections.<br/><br/>The object of the game is to gain points by mounting profitable archaeological expeditions to the different sites represented by the colored suits of cards. On a player's turn, they must first play one card, either to an expedition or by discarding it to the color-appropriate discard pile, then draw one card, either from the deck or from the top of a discard pile. Cards played to expeditions must be in ascending order, but they need not be consecutive. Handshakes are considered lower than a 2 and represent investments in an expedition. Thus, if you play a red 4, you may play any other red card higher than a 4 on a future turn but may no longer play a handshake, the 2, or the 3.<br/><br/>The game continues in this fashion with players alternating turns until the final card is taken from the deck. The rest of the cards in hand are then discarded and players score their expeditions. Each expedition that has at least one card played into it must be scored. Cards played into an expedition are worth their rank in points, and handshakes count as a multiplier against your final total; one handshake doubles an expedition's value, while two handshakes triples that value and three handshakes quadruple it. Expeditions start at a value of -20, so you must play at least 20 points of cards into an expedition in order to make a profit. If you are left with a negative value and have a handshake, the multiplier still applies. A 20-point bonus is awarded to every expedition with at least eight cards played into it. A complete game of Lost Cities lasts three matches, with scores for each match being added together.<br/><br/>Scoring example 1: An expedition has a 2,3,7,8,10 for a total of 30. This expedition is worth 10 total points: 30 plus the initial -20.<br/><br/>Scoring example 2: An expedition has 2 HS, and 4,5,6,7,8,10 for a total of 40. This expedition is worth 80 total points: 40 points for cards, plus the initial -20, &times;3 for the two multipliers, plus the 20-pt bonus for playing 8+ cards.<br/><br/>Scoring example 3: An expedition has 1 HS, and 4,6,7 for a total of 17. This expedition is worth -6 total points: 17 plus the initial -20, &times;2 for the multiplier.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__original/img/PdGBQ7xc0GA9ndKnnInx_sQwvl4=/0x0/filters:format(jpeg)/pic4597095.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__small/img/Q-76aN92M3OveMp26t7b0i7V-i4=/fit-in/200x150/filters:strip_icc()/pic4597095.jpg",
+    "publishers": [
+        "KOSMOS",
+        "999 Games",
+        "Albi",
+        "Competo / Marektoy",
+        "Devir",
+        "Filosofia Éditions",
+        "Galakta",
+        "Gameland 游戏大陆",
+        "Group SNE",
+        "IELLO",
+        "Kaissa Chess & Games",
+        "Korea Boardgames",
+        "Land of Beautiful Mind (سرزمین ذهن زیبا)",
+        "Laser plus",
+        "Lautapelit.fi",
+        "Midgaard Games",
+        "Nasza Księgarnia",
+        "Piatnik",
+        "Playhouse Ltd",
+        "Rio Grande Games",
+        "Stupor Mundi",
+        "SuperHeated Neurons",
+        "Swan Panasia Co., Ltd.",
+        "Thames & Kosmos",
+        "Tilsit",
+        "Yaofish Games",
+        "Zvezda",
+        "گیمِ پندو (Pendo Games)"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Vincent Dutrait",
+        "Michaela Kienle",
+        "Dennis Lohausen",
+        "Anke Pohl",
+        "Thilo Rick",
+        "Claus Stephan",
+        "Franz Vohwinkel",
+        "徐昀享 (Xu Yunxiang)",
+        "李小娜 (LI Xiaona)",
+        "杨静雯 (Yang Jingwen)",
+        "郭紫颖 (Guo Ziying)",
+        "陈杰 (Chen Jie)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Melding and Splaying",
+            "Ordering",
+            "Push Your Luck",
+            "Score-and-Reset Game",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game",
+            "Exploration",
+            "Math"
+        ],
+        "families": [
+            "Card Games: Draw and Discard",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: Steam",
+            "Digital Implementations: Triqqy",
+            "Game: Lost Cities",
+            "Misc: Dice Tower Hall of Fame",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)",
+            "Theme: Archaeology / Paleontology"
+        ]
+    }
+}

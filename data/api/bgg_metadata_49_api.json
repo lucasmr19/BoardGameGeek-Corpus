@@ -1,0 +1,52 @@
+{
+    "id": 49,
+    "name": "Mamma Mia!",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Designer Uwe Rosenberg has a talent for dreaming up new and inventive card games, and Mamma Mia! is a perfect example of this talent, with players placing pizza ingredients into a combined pool, then trying to time their pizza baking in order to make use of what's available in the kitchen.<br/><br/>Each player starts the game with eight different pizza orders to fill, with one of those order cards in hand; each player also starts with a hand of ingredient cards (showing pepperoni, mushroom, pineapple, green pepper or olive). On a turn, a player lays down one or more ingredient cards of a single type into a common stack, then optionally adds a pizza order card to that stack. He then refills his hand by drawing as many cards as he played from either the shared ingredient deck or his own order deck.<br/><br/>After the draw pile is exhausted, the shared pile of cards is flipped over and sorted by ingredients until an order comes up. If enough ingredient cards are available to fill that order, the owner scores it; if not, the player can make up the difference by playing cards from his hand (and thereby scoring the order) or else return the card to the bottom of his order deck.<br/><br/>Once all the orders are scored or returned, shuffle the ingredients used in pizzas and start another round of play. After three complete rounds, the player who's filled the most orders wins!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/R4sklz_ELBN5nLFTwagvLQ__original/img/7IHqMhY3qCMcpoMT22fNeFnGLLo=/0x0/filters:format(jpeg)/pic2824027.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R4sklz_ELBN5nLFTwagvLQ__small/img/l6yxKpws7QAmuYE7Kdjb0s4XiOc=/fit-in/200x150/filters:strip_icc()/pic2824027.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Brain Games",
+        "cutia.ro",
+        "DV Games",
+        "G3",
+        "HomoLudicus",
+        "Kaissa Chess & Games",
+        "Korea Boardgames",
+        "Lifestyle Boardgames Ltd",
+        "Möbius Games",
+        "Oya",
+        "PS-Games",
+        "Red Glove",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd.",
+        "Vennerød Forlag AS"
+    ],
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Memory"
+        ],
+        "categories": [
+            "Card Game",
+            "Memory"
+        ],
+        "families": [
+            "Food & Drink: Pizza",
+            "Game: Mamma Mia!",
+            "Theme: Food / Cooking"
+        ]
+    }
+}

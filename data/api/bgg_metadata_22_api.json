@@ -1,0 +1,62 @@
+{
+    "id": 22,
+    "name": "Magic Realm",
+    "yearpublished": "1979",
+    "minplayers": "1",
+    "maxplayers": "16",
+    "minplaytime": "60",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "From the 2nd edition rulebook intro for MAGIC REALM:<br/><br/>MAGIC REALM is a game of fantasy adventuring, set in a land filled with monsters, fabulous treasures, great warriors, and magicians. The scene is set in the ruins of a mighty kingdom, now inhabited by sparse groups of natives and swarms of monsters. Beneath it all are the rich remnants of a magical civilization, scattered and lost across the map.<br/>To this scene come the adventurers, seekers of riches and fame, to make a name for themselves in this promising field. Swordsman and Dwarf, Magician and Sorceror, the humans and the half-humans come seeking to loot the legendary riches of a lost civilization. Now you can play the part of one of these adventurers, stepping into an unknown Realm of magic and monsters, battles and treasures.<br/><br/>As a player, you will take on the role of one of the sixteen major characters who are represented in detail in the game. You will control where he goes, what he tries to do, how he handles himself in combat, and much more. In the course of the game, you will run into deadly monsters, tribes of humans ranging from old friends to sworn enemies, and treasures that will enhance your abilities in many ways.<br/><br/>MAGIC REALM is a complex game designed to recapture the suspense and desperate struggles of fantasy literature. The game creates a small but complete fantasy world, where each game is a new adventure with a new map where everything lies hidden at new locations. The game includes many more playing pieces than are actually used in a single playing. The additional pieces are set up and can appear, depending on the directions in which the characters explore, but many of the treasure troves, treasures, and spells will still be set up, unfound, when the game ends, and many of the monsters and natives might never be met. The result is an extremely unpredictable game full of surprises, a game that plays very differently each time it is played.<br/>The complete game system includes hiking, hiding and searching, fatigue, wounds, rest, trade, hiring natives, and combat between characters, monsters, and natives using a variety of weapons on horseback and afoot, as well as many magical effects.<br/><br/>Between exploring a new land where the mountains, caves, valleys, and woods change every game, and not knowing what you will find in each place, you will find each game a new and unpredictable adventure, filled with surprises. You will find this like no other board game you have ever played.<br/><br/>Avalon Hill Complexity rating - 9<br/><br/>See also the list of articles about Magic Realm in The General.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/X-wQkavJHlZaUqlL1ClEsA__original/img/VSzycwqmBGWE5aDokPi1aR57WUo=/0x0/filters:format(jpeg)/pic148345.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X-wQkavJHlZaUqlL1ClEsA__small/img/UIw4ZFZqMTqMlArymmHI591Gm-k=/fit-in/200x150/filters:strip_icc()/pic148345.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Hobby Japan"
+    ],
+    "designers": [
+        "Richard Hamblen"
+    ],
+    "artists": [
+        "George Goebel",
+        "Richard Hamblen",
+        "Kim Gromoll",
+        "Randall C. Reed",
+        "Chris White (I)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Queue",
+            "Dice Rolling",
+            "Events",
+            "Modular Board",
+            "Paper-and-Pencil",
+            "Player Elimination",
+            "Point to Point Movement",
+            "Role Playing",
+            "Simultaneous Action Selection",
+            "Variable Player Powers",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Adventure",
+            "Exploration",
+            "Fantasy",
+            "Fighting"
+        ],
+        "families": [
+            "Animals: Bats",
+            "Animals: Horses",
+            "Animals: Octopuses",
+            "Animals: Snakes",
+            "Animals: Spiders",
+            "Creatures: Dragons",
+            "Creatures: Goblins",
+            "Creatures: Monsters",
+            "Players: Games with Solitaire Rules",
+            "Theme: Weather",
+            "Theme: Witches",
+            "Theme: Wizards"
+        ]
+    }
+}

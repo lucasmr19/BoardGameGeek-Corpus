@@ -1,0 +1,42 @@
+{
+    "id": 300,
+    "name": "Tutankhamen",
+    "yearpublished": "1993",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "There are 69 artifact tiles in the game of Tutanchamun. These are shuffled and then laid out randomly in a long, serpentine trail. Players take turns choosing any tile from the trail, but can never turn back to choose a tile they have already passed. There are 15 different sets of tiles (three sets each of 8, 6, 4, 2, and 1), and when the last tile of any set has been claimed, the player holding the most in that set scores that number of points, while the player holding second most scores half that number. Complicating matters, there are also three tie-breaker tiles and three tiles that let you &quot;buy&quot; a tile from another player. It's an exercise in numbers that plays quickly, probably 30 minutes tops, and is suitable for youngsters yet susceptible to analysis. The game has a unique layout and a brightly-colored Egyptian pharaoh look. The new edition by Out of the Box Publishing games has different graphics, but is otherwise substantially similar to the original.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CE9Yw9qfd9tnIrDyYZm5Zg__original/img/dwl0_6TwNeEpakAUuQ58NFxX9BQ=/0x0/filters:format(jpeg)/pic79266.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CE9Yw9qfd9tnIrDyYZm5Zg__small/img/toKQGs3Eh84kFcfFjQoTSKrFrJM=/fit-in/200x150/filters:strip_icc()/pic79266.jpg",
+    "publishers": [
+        "AMIGO",
+        "Out of the Box Publishing",
+        "Éveil & Jeux",
+        "Group SNE"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "John Kovalic",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Modular Board",
+            "Open Drafting",
+            "Set Collection"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Ancient"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Category: Combinatorial",
+            "Historical Figures: King Tutankhamun (King Tut)"
+        ]
+    }
+}

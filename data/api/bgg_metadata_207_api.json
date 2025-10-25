@@ -1,0 +1,33 @@
+{
+    "id": 207,
+    "name": "Twitch",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "10",
+    "description": "Twitch is an insanely frantic game of reacting to new information.  When someone plays a card, you must quickly determine if it points to you (e.g., if the player to your right plays a card that says &quot;left&quot;), and if it does, throw the top card of your deck onto the pile.  If you're not quick enough, another player will call you out, and you'll have to take all the cards in the pile into your deck.  The first person to run her deck out wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ydehPE2iH1zwbyy73M9cqg__original/img/uyL2orBcTb6oNMnSkgIUPetrkLY=/0x0/filters:format(jpeg)/pic149668.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ydehPE2iH1zwbyy73M9cqg__small/img/pV2FW-o2qAyM70Pzp_Z8GhrvwtA=/fit-in/200x150/filters:strip_icc()/pic149668.jpg",
+    "publishers": [
+        "AMIGO",
+        "Wizards of the Coast"
+    ],
+    "designers": [
+        "Skaff Elias",
+        "Richard Garfield",
+        "Jim Lin"
+    ],
+    "artists": [
+        "(Uncredited)"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Action / Dexterity",
+            "Card Game"
+        ],
+        "families": []
+    }
+}

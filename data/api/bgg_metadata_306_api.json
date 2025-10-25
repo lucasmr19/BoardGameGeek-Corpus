@@ -1,0 +1,44 @@
+{
+    "id": 306,
+    "name": "Die Siedler von Catan: Historische Szenarien",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "This is an expansion for Die Siedler von Catan (The Settlers of Catan).  There are two scenarios that are included, Cheops and Alexander the Great.  The first recreates the building of the pyramids ala Settlers, and the second follows the imperial expansion of Alexander the Great.<br/><br/>Mayfair Games imported the German version in limited numbers, adding a version of the rules translated into English.  The imported first edition is Mayfair SKU #587.<br/><br/>Belongs to the Catan Series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/_9iyjp258wJCNZi-0z9ncg__original/img/uqzBIvo38EmNr9HlXQSUX7rJ6Iw=/0x0/filters:format(jpeg)/pic391290.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_9iyjp258wJCNZi-0z9ncg__small/img/bsfGQL31wKvaOHsps4y5B6Cv2wc=/fit-in/200x150/filters:strip_icc()/pic391290.jpg",
+    "publishers": [
+        "999 Games",
+        "danspil",
+        "KOSMOS"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Tanja Donner",
+        "Marion Pott",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Network and Route Building",
+            "Trading"
+        ],
+        "categories": [
+            "Ancient",
+            "Civilization",
+            "Expansion for Base-game",
+            "Negotiation"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Ancient: Greece",
+            "Constructions: Pyramids",
+            "Game: Catan"
+        ]
+    }
+}

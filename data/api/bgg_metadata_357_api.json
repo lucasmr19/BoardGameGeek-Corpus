@@ -1,0 +1,40 @@
+{
+    "id": 357,
+    "name": "Excape",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "In Excape, also known as Exxtra and Rapido, you're trying to reach the end of the movement track first, both by rolling doubles (which is a blessed but rare occurrence) and staying on the ranking chart until your next turn.<br/><br/>On a turn, you first move your pawn 0-5 spaces if your two dice are still on the ranking chart. Next, you roll the dice, which show 1-2-3-4-7-X on one dice and 1-2-3-5-6-X on the other. After your first roll, if you roll doubles, move your pawn 1, 2, or 3 spaces based on what you rolled. You then treat your dice as a two-digit number, say 31, 22, 54, or 70, with the X counting as a 0. You can stop and place your dice on the ranking chart in an empty space &mdash; it contains six spaces numbered 0-5 &mdash; or you can roll again. If you roll doubles, you advance you pawn and face the same choices. If you roll an X or two Xs, then your turn ends and you move your pawn back one or two spaces.<br/><br/>When you place your dice on the ranking chart, if you place your dice on a lower-numbered space and your two-digit number is equal to or larger than dice that are on a higher-numbered space, then you bump that player's dice off the chart, which means they won't move at the start of their next turn. You can place any number on an unoccupied space, but the higher the space, the greater the odds of you being bumped before your next turn. How risky do you want to play?<br/><br/>Rapido contains modified rules for two-player games, and you can play with these rules in any version of the game. Each player has two sets of dice, but still only one pawn. If at the start of a turn, you have one or both pairs of dice in front of you, roll like normal, advancing on doubles and hoping to avoid Xs. When you place dice on the ranking chart, you knock off only the opponent's dice, never yours. If at the start of your turn, both pairs of dice are on the ranking chart, advance your pawn the sum of the spaces occupied, then roll a pair of dice.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/90HW-k_LJsDKFeBaRJiGeA__original/img/dWid9fB49xFgBhqhAIVZGugHoeA=/0x0/filters:format(jpeg)/pic440763.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/90HW-k_LJsDKFeBaRJiGeA__small/img/3SLOoWtn6uOjO83n2_y9pdY3Ziw=/fit-in/200x150/filters:strip_icc()/pic440763.jpg",
+    "publishers": [
+        "AMIGO",
+        "Filosofia Éditions",
+        "Game Factory",
+        "Giochi Uniti"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Olivier Fagnère",
+        "Melanie Friedli",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Push Your Luck",
+            "Race"
+        ],
+        "categories": [
+            "Dice"
+        ],
+        "families": [
+            "Cities: Rio de Janeiro (Brazil)"
+        ]
+    }
+}

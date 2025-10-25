@@ -1,0 +1,53 @@
+{
+    "id": 223,
+    "name": "Expeditions: Around the World",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "45",
+    "age": "8",
+    "description": "Based on Wolfgang Kramer's earlier effort Wildlife Adventure, Expedition &mdash; which is on the market as Expeditions: Around the World since 2023 &mdash; is a game about moving three commonly held expeditions around the world in search of various archaeological sites. The board shows a map of the world with many different branching paths, and players advance the expeditions by placing plastic arrows. When an expedition arrives at a location that matches one of your private site cards or one of the public site cards, you score that card. Certain spaces on the board allow you to play again immediately, and other spaces allow you to pick up a bonus action card that you can play at any time on one of your turns.<br/><br/>The game ends when someone has scored all of their cards, then whoever has the highest total score wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/NLW9mPb9B4Sc9upbOD8lKA__original/img/cx-1smnej9Vf4LE-7NnDb-p8s6A=/0x0/filters:format(png)/pic7388989.png",
+    "thumbnail": "https://cf.geekdo-images.com/NLW9mPb9B4Sc9upbOD8lKA__small/img/WJOwgUhXYp8IM44VQQfKs9PRdgM=/fit-in/200x150/filters:strip_icc()/pic7388989.png",
+    "publishers": [
+        "AMIGO",
+        "Queen Games",
+        "Ravensburger",
+        "Super Meeple",
+        "Arrakis Games",
+        "Evrikus",
+        "Kobold Spieleverlag"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Jo Hartwig",
+        "Marc Margielsky",
+        "Yann Valéani"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Connections",
+            "Contracts",
+            "Network and Route Building",
+            "Point to Point Movement",
+            "Race",
+            "Track Movement"
+        ],
+        "categories": [
+            "Adventure",
+            "Educational",
+            "Exploration",
+            "Transportation",
+            "Travel"
+        ],
+        "families": [
+            "Components: Map (Global Scale)",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: Game Park",
+            "Theme: Archaeology / Paleontology"
+        ]
+    }
+}

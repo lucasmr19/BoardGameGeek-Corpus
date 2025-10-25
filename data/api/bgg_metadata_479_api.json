@@ -1,0 +1,34 @@
+{
+    "id": 479,
+    "name": "Bambuti",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "12",
+    "description": "The Bambuti tribe has an annual competition where the villagers bring their most valuable family belongings--large, richly engraved wooden masks--which are constantly pushed back and forward among the participants until the sound of the jungle drums abruptly stops. Who has the most valuable mask?<br/><br/>The players play mask cards with different values and colors in front of them trying to capture the opponent's most valuable masks and gain the most points when the game ends.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/k6SzNs98dzW8FmietVUEEA__original/img/om-2EryDp4xghBKGL98LN3W-19I=/0x0/filters:format(jpeg)/pic296552.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/k6SzNs98dzW8FmietVUEEA__small/img/YkNFocGrN6GGyLH9j6aQG4Bp4PM=/fit-in/200x150/filters:strip_icc()/pic296552.jpg",
+    "publishers": [
+        "Adlung-Spiele"
+    ],
+    "designers": [
+        "Hartmut Kommerell"
+    ],
+    "artists": [
+        "Jürgen Martens"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Continents: Africa",
+            "Country: Democratic Republic of the Congo",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

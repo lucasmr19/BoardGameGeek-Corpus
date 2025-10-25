@@ -1,0 +1,43 @@
+{
+    "id": 359,
+    "name": "Bucket Brigade",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "7",
+    "description": "Bucket Brigade is a card game with a racing track by Reiner Knizia. Players use colored cards (numbered 1 or 2) to move four colored tokens along a track. The color that wins the race makes cards in that color worth +3 at the end of the round.  The other three, depending on how far they advanced, are worth anywhere from +2 to -1.  If a color moved farther, its color are worth more points -- but you probably spent more of that color to move it there, giving you fewer points!  Irony.<br/><br/>The new Bucket Brigade edition by Face 2 Face Games uses the exact same rules, score levels on the racetrack, and card distribution as the original, but instead of Honeybears, the racing tokens are firemen ascending a ladder.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/nJHbYFhxUQUDtf-S3s5bAA__original/img/9obNdfPuabb-DXPnC2kz8HgESIo=/0x0/filters:format(jpeg)/pic199026.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nJHbYFhxUQUDtf-S3s5bAA__small/img/UzKsgSrfyBfIsPqzdWBlQlWhMQM=/fit-in/200x150/filters:strip_icc()/pic199026.jpg",
+    "publishers": [
+        "Face2Face Games",
+        "HomoLudicus",
+        "Piatnik",
+        "Egmont Polska",
+        "Hobby World",
+        "Ubik"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Tom Lackner",
+        "Rolf Vogt",
+        "Rob Walker"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game",
+            "Children's Game"
+        ],
+        "families": [
+            "Animals: Bears",
+            "Animals: Hedgehogs / Porcupines"
+        ]
+    }
+}

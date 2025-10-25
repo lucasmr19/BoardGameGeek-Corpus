@@ -1,0 +1,77 @@
+{
+    "id": 11,
+    "name": "Bohnanza",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "Bohnanza is the first in the Bohnanza family of games and has been published in several different editions, including a 2023 version with flowers.<br/><br/>This entry lists a few different major card sets for Bohnanza: the base game for 3-5 players, the expanded game with the same name for 2-7 players (that is, first expansion included), and Bohnanza Pocket.<br/><br/>In the game, you plant, then harvest bean cards in order to earn coins. Each player starts with a hand of random bean cards, and each card has a number on it corresponding to the number of that type of beans in the deck. Unlike in most other card games, you can't rearrange the order of cards in hand, so you must use them in the order that you've picked them up from the deck &mdash; unless you can trade them to other players, which is the heart of the game.<br/><br/>On a turn, you must plant the first one or two cards in your hand into the &quot;fields&quot; in front of you. Each field can hold only one type of bean, so if you must plant a type of bean that's not in one of your fields, then you must harvest a field to make room for the new arrival. This usually isn't good! Next, you reveal two cards from the deck, and you can then trade these cards as well as any card in your hand for cards from other players. You can even make future promises for cards received right now! After all the trading is complete &mdash; and all trades on a turn must involve the active player &mdash; then you end your turn by drawing cards from the deck and placing them at the back of your hand.<br/><br/>When you harvest beans, you receive coins based on the number of bean cards in that field and the &quot;beanometer&quot; for that particular type of bean. Flip over 1-4 cards from that field to transform them into coins, then place the remainder of the cards in the discard pile. When the deck runs out, shuffle the discards, playing through the deck two more times. At the end of the game, everyone can harvest their fields, then whoever has earned the most coins wins.<br/><br/>The original German edition supports 3-5 players. The English version from Rio Grande Games comes with the first edition of the first German expansion included in a slightly oversized box. One difference in the contents, however, is that bean #22's Weinbrandbohne (Brandy Bean) was replaced by the Wachsbohne, or Wax Bean. This edition includes rules for up to seven players, like the Erweiterungs-Set, but also adapts the two-player rules of Al Cabohne in order to allow two people to play Bohnanza.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/8SADtu_4zBH_UJrCo935Iw__original/img/RNuAr2CDbxE3XzeJVkxj4Df3eVM=/0x0/filters:format(jpeg)/pic6348964.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8SADtu_4zBH_UJrCo935Iw__small/img/vwTEQOWA3Mw__ztkTMulOgJ82Pw=/fit-in/200x150/filters:strip_icc()/pic6348964.jpg",
+    "publishers": [
+        "AMIGO",
+        "999 Games",
+        "Brain Games",
+        "Broadway Toys LTD",
+        "Copag Cards (Copag)",
+        "Corfix",
+        "Fractal Juegos",
+        "G3",
+        "Gigamic",
+        "Kaissa Chess & Games",
+        "Kikigagne?",
+        "Korea Boardgames",
+        "Lautapelit.fi",
+        "Lifestyle Boardgames Ltd",
+        "Lookout Games",
+        "Mercurio",
+        "Midgaard Games",
+        "Möbius Games",
+        "Paper Iyagi",
+        "PaperGames (III)",
+        "Piatnik",
+        "Rebel Sp. z o.o.",
+        "Rio Grande Games",
+        "Spilbræt.dk",
+        "Stratelibri",
+        "Swan Panasia Co., Ltd.",
+        "VR Distribution"
+    ],
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "artists": [
+        "Björn Pertoft",
+        "Klemens Franz",
+        "Mady Nijenhuis",
+        "Beth Sobel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Multi-Use Cards",
+            "Negotiation",
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Card Game",
+            "Farming",
+            "Negotiation"
+        ],
+        "families": [
+            "Components: Multi-Use Cards",
+            "Containers: Tin/Metal Box",
+            "Digital Implementations: BrettspielWelt",
+            "Food & Drink: Vegetables",
+            "Game: Bohnanza",
+            "Misc: Dice Tower Hall of Fame",
+            "Occupation: Farmer",
+            "Players: Games with expansions that change player count",
+            "Series: Bean Games (Lookout)",
+            "Theme: Flowers"
+        ]
+    }
+}

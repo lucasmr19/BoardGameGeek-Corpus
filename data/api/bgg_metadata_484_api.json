@@ -1,0 +1,42 @@
+{
+    "id": 484,
+    "name": "Stratego Legends",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "Stratego Legends takes the familiar game play of Stratego and expands it into something new. In addition to ranks, all pieces now have powers as well. Some fly, some teleport. Some perform better in the marshes or in the mountains. Others have powerful death curses that provide long-lasting effects to the battle. There are over 200 different pieces in the universe, each with its special function.<br/> Stratego Legends is an &quot;optionally collectible&quot; game. Each box comes with a light army and a dark army whose pieces have been chosen to work well together. However, there are rules for customizing armies (and the lands they fight upon) to specialize your attack force. There are also rules for multiplayer games where 4, 6, or 8 players can square off as two teams.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Brrv_oaHN7ycxicRnOoBjA__original/img/__PjtF3DTIVxenL9RRbp8QsKml0=/0x0/filters:format(png)/pic3480263.png",
+    "thumbnail": "https://cf.geekdo-images.com/Brrv_oaHN7ycxicRnOoBjA__small/img/kkAqxM0B8owZwJR1oA8tZl1cD14=/fit-in/200x150/filters:strip_icc()/pic3480263.png",
+    "publishers": [
+        "Avalon Hill",
+        "Jumbo"
+    ],
+    "designers": [
+        "Craig Van Ness"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Memory",
+            "Modular Board",
+            "Rock-Paper-Scissors",
+            "Secret Unit Deployment",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Bluffing",
+            "Collectible Components",
+            "Deduction",
+            "Fantasy",
+            "Memory"
+        ],
+        "families": [
+            "Collectible: Collectible Token Games",
+            "Game: Stratego"
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "id": 483,
+    "name": "Diplomacy",
+    "yearpublished": "1959",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "360",
+    "maxplaytime": "360",
+    "age": "12",
+    "description": "Diplomacy, the classic boardgame of pure negotiation has taken many forms over the years.<br/><br/>The first The Avalon Hill Game Co version has perhaps the widest release, but Avalon Hill re-released the game in 1999, complete with a colorful new map and metal pieces.  In 2008, Avalon Hill released a 50th anniversary edition with a new map and cardboard pieces representing the armies and navies.<br/><br/>In the game, each player represents one of the seven &quot;Great Powers of Europe&quot; (Great Britain, France, Austria-Hungary, Germany, Italy, Russia or Turkey) in the years prior to World War I. Play begins in the Spring of 1901, and players must negotiate and make deals with other players in order to have any success in expanding their borders. They will make both Spring and Autumn moves each year. with two kinds of military units: armies and fleets. On any given turn, each of your military units has limited options: it can move into an adjoining territory, support an allied unit in an attack on an adjoining territory, support an allied unit in defending an adjoining territory, or hold its position. Players instruct each of their units by writing a set of &quot;orders.&quot; The outcome of the various orders is basically determined by the total strength of the units involved. There are no dice rolls or other elements of chance. With its incredibly simplistic movement mechanism fused to a significant negotiation element, this system is highly respected by many gamers.<br/><br/>Avalon Hill Complexity rating - 3<br/><br/>Re-implemented by:<br/><br/>    Colonial Diplomacy<br/>    Diplomacy: Classical Variant<br/>    Diplomacy: Hundred Variant<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/CGJihifkrZSqW40zElgXkQ__original/img/m38u19fIxQceN0fJtLU3O31MhXw=/0x0/filters:format(jpeg)/pic7376874.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CGJihifkrZSqW40zElgXkQ__small/img/_Ar945YdaXSz3iFIR_aOCCcf6zc=/fit-in/200x150/filters:strip_icc()/pic7376874.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Games Research, Inc.",
+        "(Self-Published)",
+        "asmodee",
+        "Avalon Hill",
+        "Banana Games",
+        "Descartes Editeur",
+        "Devir",
+        "Editrice Giochi",
+        "Gibsons",
+        "Grow Jogos e Brinquedos",
+        "Intellectual Diversions",
+        "Jedko Games",
+        "Joc Internacional",
+        "Jumbo",
+        "Kipo's",
+        "Kod Kod",
+        "Miro Company",
+        "Mondadori Giochi",
+        "Parker Brothers",
+        "Parker Spiele",
+        "Philmar",
+        "Renegade Game Studios",
+        "Waddington Sanders Ltd.",
+        "Waddingtons"
+    ],
+    "designers": [
+        "Allan B. Calhamer"
+    ],
+    "artists": [
+        "Blake Beasley",
+        "Hugh Bredin",
+        "Vincent Dutrait",
+        "Gilles Lautussier",
+        "Janos Orban",
+        "Guillaume Rohmer",
+        "Allison Shinkle"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Negotiation",
+            "Player Elimination",
+            "Prisoner's Dilemma",
+            "Simulation",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing",
+            "Negotiation",
+            "Political",
+            "Post-Napoleonic",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Miniatures",
+            "Continents: Europe",
+            "Country: Austria-Hungary",
+            "Country: France",
+            "Country: Germany",
+            "Country: Italy",
+            "Country: Ottoman Empire",
+            "Country: Russia",
+            "Country: United Kingdom",
+            "Digital Implementations: VASSAL",
+            "Game: Diplomacy",
+            "Misc: BGG Hall of Fame",
+            "Misc: Dice Tower Hall of Fame",
+            "Region: Mediterranean Sea",
+            "War Battlespace: Land warfare",
+            "War Level of Command: Strategic"
+        ]
+    }
+}

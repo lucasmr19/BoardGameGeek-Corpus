@@ -1,0 +1,38 @@
+{
+    "id": 183,
+    "name": "Stonehenge",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "10",
+    "description": "Stonehenge is a two-player game that has druids competing at Stonehenge to be the Master Druid.<br/><br/>Each player has 8 coloured megaliths (tall wooden blocks) and 9 matching discs (numbered 1,1,2,2,3,3,4,5, &amp; 6). The board is a triangle of 5 dissecting lines, with the corners lopped off, so the lines are 2,3,4,5,4 spaces long. On each side are 5 extra spaces, where players put their megaliths.<br/><br/>Players take turns putting down a numbered disc on the intersections of the lines on the board. When you have the majority total in any direction, you claim that line by placing your megalith on the end point. Ties on a line are lost by the last placing player; a clever balancing rule which forces careful choices. The player to get their eighth megalith down wins.<br/><br/>Stonehenge is the same as Linea (Spielbox 1992, smaller board).<br/><br/>The Megalith edition is Selection #9 of The Games Collection by Pin International.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/MBn_hF8YN_x4_4TXWKQoRg__original/img/6myPOEygl0ysEnxvkn7PjavGEQ0=/0x0/filters:format(jpeg)/pic4090583.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MBn_hF8YN_x4_4TXWKQoRg__small/img/YtCzTyQIoopS3zO-t7cjojhB0tc=/fit-in/200x150/filters:strip_icc()/pic4090583.jpg",
+    "publishers": [
+        "Blatz",
+        "Pin International"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Torsten Schöps"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Components: Wooden pieces & boards",
+            "Country: England",
+            "Players: Two-Player Only Games",
+            "Series: The Games Collection (Pin International)"
+        ]
+    }
+}

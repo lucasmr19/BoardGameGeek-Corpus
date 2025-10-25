@@ -1,0 +1,65 @@
+{
+    "id": 175,
+    "name": "What the Heck?",
+    "yearpublished": "1988",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "7",
+    "description": "Rarely is a game broken down to its barest elements like this one.  Players are given an equal deck of bidding cards from one to fifteen.  Each turn, a prize tile is randomly selected from a pool.  A prize tile is worth either positive or negative points (from -5 to +10).  Each player is attempting to gather the most positive points from these prizes.  Players secretly select one of their remaining bidding cards and reveal them simultaneously.  For positive prizes, the highest card gets the prize; For negative prizes, the lowest card is stuck with the prize.  However, if two people play the highest (or lowest) card, they cancel each other out and the prize goes to the next in line.  The highest total score after all fifteen prizes are awarded wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/H8E6oM1nSZhTEObsWidbxQ__original/img/RrDKOO1rAqBiDP-eLdKUAShmLxo=/0x0/filters:format(png)/pic6796338.png",
+    "thumbnail": "https://cf.geekdo-images.com/H8E6oM1nSZhTEObsWidbxQ__small/img/3rdTSQjkh9HQwhWk9-sepVwwOkU=/fit-in/200x150/filters:strip_icc()/pic6796338.png",
+    "publishers": [
+        "999 Games",
+        "AMIGO",
+        "asmodee",
+        "Corfix",
+        "Dal Negro",
+        "F.X. Schmid",
+        "Fractal Juegos",
+        "Gigamic",
+        "Korea Boardgames",
+        "Mercurio",
+        "Möbius Games",
+        "Morapiaf",
+        "Oliphante",
+        "Otto Maier Verlag",
+        "Ravensburger",
+        "Swan Panasia Co., Ltd.",
+        "Waddingtons",
+        "Winning Moves Games (USA)"
+    ],
+    "designers": [
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Marek Bláha",
+        "Wilfried Gebhard",
+        "Björn Pertoft",
+        "Frantz Rey",
+        "Tobias Schweiger",
+        "Th. A. Weiss"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction: Sealed Bid",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Birds",
+            "Animals: Cats",
+            "Animals: Meerkat",
+            "Animals: Mice",
+            "Animals: Pigs",
+            "Animals: Wolves",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: BoardSpace",
+            "Series: Kartenspiele (Ravensburger)"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": 440,
+    "name": "Zoff in Buffalo",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "Once a year, Buffalo City goes beef crazy. Cowboys drive their cows here to the biggest auction in the Wild West. The players must attempt to find grazing for their cows on the limited pasture.<br/><br/>Which beef baron will most cleverly play his cards?<br/><br/>Players have 10 cards to play which specify a number of cows.  Each round features a simultaneous selection of 2 of the 10 cards and a designation of which of the several pastures (the number of pastures in the game depends on the number of players) you'll try to place the cows in.  The tricky part starts with the rule that no two players can ever have exactly the same number of cows in a given pasture.  So if you plan to put 4 cows in a certain pasture, but somebody else has exactly 4 there already when your turn comes around, you'll only get to put 3 of them in -- and if somebody else has exactly 3 there already, you'll only get to put 2 of them in.  And it's very detrimental to your gameplan if you don't get to play all the cows you're entitled to!<br/><br/>When a pasture is completely filled with cows, there are bonuses paid in the form of a chance to put extra cows into other pastures, but perversely, the better bonuses go to the players with the second or third most cows, not the first most.  This is the *really* tricky part.<br/><br/>The game ends after five swift rounds and all 10 of your cards played, maybe half an hour from start to finish. Whoever has the most cows in the pastures wins!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/7D1zofYVUpFYGP1TYTRzGQ__original/img/hz5c3ho8ub3bPlFC9sheceK87Qg=/0x0/filters:format(jpeg)/pic392776.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7D1zofYVUpFYGP1TYTRzGQ__small/img/clbNyzXW5effb5Z_m_XD6YuFoPo=/fit-in/200x150/filters:strip_icc()/pic392776.jpg",
+    "publishers": [
+        "F.X. Schmid"
+    ],
+    "designers": [
+        "Christwart Conrad"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "American West",
+            "Farming"
+        ],
+        "families": [
+            "Animals: Cattle / Cows"
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 284,
+    "name": "Lords of the Sierra Madre (Second Edition)",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "14",
+    "description": "The setting is northern Mexico starting in 1898 where an economic boom, a dictator who welcomes foreign investment and wide-open land set the stage for one of the greatest capitalist free-for-alls in history. Each player is an hacendado. These entrepreneurs vie to build the largest empire of railroads, mines, ranches and other businesses. They may employ banditos, strikers and other sneaky maneuvers to tax, bribe, raid and destroy their opponents, often employing police, federal troops, even the US Army. They may even get themselves elected to the governor's office or the presidency itself (a crime in Mexico).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ILVyGXQvr-EGnMa0lcwLxg__original/img/wQdOLUEFbCp8qejQczdrbEYAzK8=/0x0/filters:format(jpeg)/pic87950.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ILVyGXQvr-EGnMa0lcwLxg__small/img/4aGLGqC2T0vGZ7EjK2yEZy8maYM=/fit-in/200x150/filters:strip_icc()/pic87950.jpg",
+    "publishers": [
+        "Decision Games (I)",
+        "Sierra Madre Games"
+    ],
+    "designers": [
+        "Phil Eklund"
+    ],
+    "artists": [
+        "David McElhannon",
+        "Beth Queman"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Auction / Bidding",
+            "Open Drafting",
+            "Trading"
+        ],
+        "categories": [
+            "American West",
+            "Economic",
+            "Negotiation",
+            "Post-Napoleonic",
+            "Transportation",
+            "Wargame"
+        ],
+        "families": [
+            "Country: Mexico"
+        ]
+    }
+}

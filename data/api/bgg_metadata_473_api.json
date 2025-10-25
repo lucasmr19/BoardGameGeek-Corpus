@@ -1,0 +1,32 @@
+{
+    "id": 473,
+    "name": "Olé!",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "The object of this simple card game is to rid yourself of your hand of cards.  The deck consists of four suits, two have one through twelve cards, two have one through fifteen cards.  The suits are ranked high to low, with the fifteen suits in the middle.  Each turn, players have to play a card onto the last card played.  In order for the play to be legal, the card played must be 'higher' in either suit or numeric value.  If you play a card that beats the last card in both categories (suit and value), then you must play another card with the same restrictions.  If you cannot play a card, then you take penalty.  The first person to play his entire hand ends the hand, and everyone scores the value of the remaining cards in his hand.  During subsequent hands, the player with the highest score (the current loser) can decide to reverse the suit order (mirror it) to make his hand better.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/FkasOCddNnQ-R95Ddl4RpQ__original/img/odO2dKAnCQ7der3JxEZa55J0S9w=/0x0/filters:format(jpeg)/pic12218.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FkasOCddNnQ-R95Ddl4RpQ__small/img/H6d9RYKWqcWMIiBJtC6rLZKeto4=/fit-in/200x150/filters:strip_icc()/pic12218.jpg",
+    "publishers": [
+        "ABACUSSPIELE"
+    ],
+    "designers": [
+        "Wolfgang Panning"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Ladder Climbing"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

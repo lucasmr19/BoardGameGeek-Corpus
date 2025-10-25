@@ -1,0 +1,33 @@
+{
+    "id": 37,
+    "name": "Dragon Masters",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "This odd little game put out by Games Workshop Ltd. uses some of the components of their Mighty Empires strategy game.  Players are competing princes in the elven homeland.  Players have to manage an economy based on villages and cities as they recruit dragons to defeat their enemies.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/640B5-ljtmZqgCPI2aCLtw__original/img/1PFucTE4ovuqaj5peRmBVLgHPL8=/0x0/filters:format(jpeg)/pic1314183.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/640B5-ljtmZqgCPI2aCLtw__small/img/rl24_4BwKOz9NcFTszFClMCarNo=/fit-in/200x150/filters:strip_icc()/pic1314183.jpg",
+    "publishers": [
+        "Games Workshop Ltd."
+    ],
+    "designers": [
+        "Ian Livingstone"
+    ],
+    "artists": [
+        "Christos Achilleos"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Fantasy",
+            "Wargame"
+        ],
+        "families": [
+            "Creatures: Dragons",
+            "Setting: Warhammer Fantasy Board Games"
+        ]
+    }
+}

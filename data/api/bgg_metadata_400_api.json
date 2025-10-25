@@ -1,0 +1,37 @@
+{
+    "id": 400,
+    "name": "Shanghai",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Players bid for the right to choose which of three locations the marker will go. Once there, any of the players can score by having a corresponding card for that location. Things are complicated by the fact that player payouts for using a card vary through the use of a clock-type mechanism. The goal of the game is to score enough points to overtake a non-player scoring token that advances throughout the game.<br/><br/>Awards<br/><br/>1997 Vuoden Perhepeli<br/><br/>Re-implements:<br/><br/>    Holiday<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/jOAOwzq8GsCkGIVpyaZ3gg__original/img/sCvL1EGi13UjaLA5G-KUSdBUdx8=/0x0/filters:format(jpeg)/pic199303.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jOAOwzq8GsCkGIVpyaZ3gg__small/img/ecZnzpmO3bhAYTR0wBMw3Q9wlhQ=/fit-in/200x150/filters:strip_icc()/pic199303.jpg",
+    "publishers": [
+        "Ravensburger"
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [
+        "Klaus Albrecht",
+        "Clive Davis",
+        "Wolfgang Scheit",
+        "Walter Wagner"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "Bluffing"
+        ],
+        "families": [
+            "Cities: Shanghai (China)",
+            "Components: 7 x 7 Grids"
+        ]
+    }
+}

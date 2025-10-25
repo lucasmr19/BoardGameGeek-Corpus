@@ -1,0 +1,53 @@
+{
+    "id": 299,
+    "name": "De Bellis Antiquitatis: Quick Play Wargame Rules with Army Lists for Ancient and Medieval Battles",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "300",
+    "age": "14",
+    "description": "A flexible, fast-playing set of miniatures rules. An army consists of 12 units (called &quot;elements&quot;), classified as Blades, Warband, Knights and so forth. The rules are very simple (and can actually fit on one sheet of paper) but nevertheless pretty effective.<br/><br/>The Fantasy version is Hordes of the Things, and the De Bellis Multitudinis: Wargames Rules for Ancient and Medieval Battles – 3000 BC to 1500 AD rules add more detail and significantly increase army size.<br/><br/>De Bellis Renationis extends the time period through the end of the Renaissance (1700 AD) and Horse, Foot and Guns covers the period from 1701 to 1915.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/4LIvyqLmIaFY6Q3_4fOGpA__original/img/2xfdk4nGafj3ZK7wBZyUrtwtQrM=/0x0/filters:format(jpeg)/pic2303637.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4LIvyqLmIaFY6Q3_4fOGpA__small/img/zq_Dohi-HbdmAzG5fcxVRCO6_Xg=/fit-in/200x150/filters:strip_icc()/pic2303637.jpg",
+    "publishers": [
+        "Hobby Products GmbH",
+        "Wargames Research Group",
+        "ZBB Editions"
+    ],
+    "designers": [
+        "Philip C. Barker",
+        "Sue Laflin Barker",
+        "Richard Bodley Scott"
+    ],
+    "artists": [
+        "Ingo Martin",
+        "Josef Ochmann"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Dice Rolling",
+            "Line of Sight",
+            "Measurement Movement",
+            "Modular Board",
+            "Simulation"
+        ],
+        "categories": [
+            "Ancient",
+            "Book",
+            "Medieval",
+            "Miniatures",
+            "Wargame"
+        ],
+        "families": [
+            "Ancient: Greece",
+            "Ancient: Rome",
+            "Ancient: Sparta",
+            "Components: Miniature agnostic",
+            "Game: DBx",
+            "History: Hundred Years Wars",
+            "Players: Wargames with Rules Supporting Only Two Players"
+        ]
+    }
+}

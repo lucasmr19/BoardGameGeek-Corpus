@@ -1,0 +1,46 @@
+{
+    "id": 62,
+    "name": "Curse of the Mummy's Tomb",
+    "yearpublished": "1988",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "Players are a group of explorers in a pyramid attempting to learn forbidden knowledge and find treasure.<br/><br/>However the pyramid has many traps and tricks, and lurking about is the Mummy who will not rest until all are dead.  Comes with a 3D three level gameboard that players have to ascend and metal miniatures.<br/><br/>Expanded by<br/>Curse of the Mummy's Tomb: In Search of Eternity<br/><br/><br/>Flavour text from the box:<br/><br/>&quot;When the moon conjoins with the planet of the God Anubis, the elixir of eternal life will flow.  Whoever partakes of the sacred waters shall stay youthful for one hundred years.  Immortality is the reward for he who overcomes the dead that walk.&quot;<br/><br/>",
+    "image": "https://cf.geekdo-images.com/4ec1CU2Lbqg_EXcCIPUv4g__original/img/nO9YHqik2DidD_pH4HNg_7VqUdc=/0x0/filters:format(jpeg)/pic146706.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4ec1CU2Lbqg_EXcCIPUv4g__small/img/u3vN4tnvsLpE2NPzVKK3ie8Svt0=/fit-in/200x150/filters:strip_icc()/pic146706.jpg",
+    "publishers": [
+        "Games Workshop Ltd.",
+        "Sfera"
+    ],
+    "designers": [
+        "Stephen Hand"
+    ],
+    "artists": [
+        "Dave Andrews",
+        "Gary Chalk",
+        "Trish Morrison",
+        "Aly Morrison",
+        "James Warhola"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Queue"
+        ],
+        "categories": [
+            "Adventure",
+            "Ancient",
+            "Horror"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Components: 3-Dimensional (3D)",
+            "Constructions: Pyramids",
+            "Country: Egypt",
+            "Creatures: Mummies",
+            "Occupation: Adventurer / Explorer",
+            "Theme: Archaeology / Paleontology"
+        ]
+    }
+}

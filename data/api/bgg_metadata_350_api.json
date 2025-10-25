@@ -1,0 +1,34 @@
+{
+    "id": 350,
+    "name": "Hattrick",
+    "yearpublished": "1995",
+    "minplayers": "4",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "extrapolated from the Game Cabinet:<br/><br/>A card game with an unusual rule where two tricks can be opened at the same time<br/><br/>The player to the left of the dealer starts by playing any one card. Now each player follows in clockwise order playing a card, until everybody played one. The second player has the option to play either a card with the same color, or to open a second trick by playing a card of an different color next to the already played card. When someone plays a second color, he starts a second trick on the table. If the second player started a second trick, the third player just has the options to follow either one of the colors or discard a card of the third color (pass). He may not place a card of the third color on one of the existing tricks or start a third trick. If the second player followed the color of the first card, the third one has the option to start a 2nd trick (and so on).<br/><br/>The players who played the card with the highest number in the respective trick win the respective cards. They place them visible to everyone in front of themselves on the table, stacked by colors, so everyone can see which color they are collecting. The player with the highest card in both tricks starts to play a card for the next round<br/><br/>After all rounds are completed highest score wins.<br/><br/>3rd and 4th version of Sticheln by the same game designer allow to play Hattrick, too. It is explained in the rules book as a variant.<br/><br/>1997 Mensa Select<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Tp_1w6jhm8eWEmvsSWw-Zg__original/img/6bIiqkNVb8E3ysKZrx_5L2wthd8=/0x0/filters:format(jpeg)/pic48639.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Tp_1w6jhm8eWEmvsSWw-Zg__small/img/lBFcU_tDiOd0t2SRQxsGosn2wlY=/fit-in/200x150/filters:strip_icc()/pic48639.jpg",
+    "publishers": [
+        "AMIGO",
+        "U.S. Games Systems, Inc."
+    ],
+    "designers": [
+        "Klaus Palesch"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Misc: Mensa Select"
+        ]
+    }
+}

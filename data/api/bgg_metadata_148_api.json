@@ -1,0 +1,33 @@
+{
+    "id": 148,
+    "name": "Die Glücksritter",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "Translated as Soldier of Fortune, this game features players trying to construct a castle.  Each turn, players secretly select two actions from a possible six.  If a player is the only one to pick a particular action, then the action gives more benefits.  Otherwise, players pick certain actions to earn money, build pieces of their castle, steal from other players, or receive special action cards.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Qe6lsUC_Lwz4zMa1VV0uZA__original/img/hsgO96uq1XSsfrrxEE9xn3k2RHE=/0x0/filters:format(jpeg)/pic885.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Qe6lsUC_Lwz4zMa1VV0uZA__small/img/7FX8SNIuzRPtnOxSETd5HtSY6Po=/fit-in/200x150/filters:strip_icc()/pic885.jpg",
+    "publishers": [
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Klaus Kreowski"
+    ],
+    "artists": [
+        "Nicholas Price"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Rock-Paper-Scissors",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing",
+            "Medieval"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "id": 242,
+    "name": "Junta",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "16",
+    "description": "Players represent various families in Republica de los Bananas. Each game turn has between 7 and 9 rounds, drawing cards, President assigns roles, foreign aid money is drawn, the president proposes a budget which is voted on, locations are chosen, there are assassination attempts, then the bank may be open or not, there may be a coup and aftermath, then the next round starts. The game is won by whoever has the most pesos in their Swiss bank account when the money runs out.<br/><br/>The game is for 4 to 7 players (although there are 2 and 3 player variants).  A president for life (El Presidente) is elected and then she or he allocates roles for all other players.  Depending upon his or her office and the various cards they hold, each player has a certain number of votes. These are important for the first vote to elect El Presidente and then there are votes each turn on the budget proposed by the President. The budget starts when the President draws 8 money cards face down from the money deck (which varies in denomination from $1 to $3) and proposes allocations. Not everyone will be included in the budget and the amounts are at the President's discretion. The President can keep undisclosed foreign aid money.<br/><br/>Players may attempt to assassinate the other players including the President by guessing where they will be from among five locations. Players who successfully assassinate another player take that player's unbanked money, the only safe money is the money that has been deposited in a players' Swiss bank account, and the only way to get to the bank is to survive the assassination round. Players assassinated or killed simply become another member of their family and begin again with new cards, but keeping any of their family's funds deposited in their Swiss bank account.<br/><br/>If players are unhappy, see an advantage, or just want to, and there is a 'coup excuse', they can start a coup. A coup sees players compete using armed forces to control a majority of the 5 power centers. Rebel players control the forces of the role which they were assigned prior to the coup  (e.g. army, navy, air force), and players loyal to the President do the same, seeking to control the strongholds until the coup is over. At the conclusion of each coup players who have control of the 5 power centres vote to be pro-President or pro-Junta determining if the President stays, or the Junta wins and elects a new President. And someone is sent to the firing squad.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CJdl6aOlXL1FyXG7hfSJQg__original/img/ahJ4r9b6FFu7T-r0lanVMOiDCds=/0x0/filters:format(jpeg)/pic2497596.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CJdl6aOlXL1FyXG7hfSJQg__small/img/n_oIzqiT-dscED5jS_U8ygQPPOc=/fit-in/200x150/filters:strip_icc()/pic2497596.jpg",
+    "publishers": [
+        "Alderac Entertainment Group",
+        "ASS Altenburger Spielkarten",
+        "Borras Plana S.A.",
+        "Creative Wargames Workshop",
+        "Descartes Editeur",
+        "Ediciones MasQueOca",
+        "Hobby Japan",
+        "Matagot",
+        "Pegasus Spiele",
+        "Purgatory Publishing, Inc.",
+        "Schmidt Spiele",
+        "ToyCo",
+        "West End Games"
+    ],
+    "designers": [
+        "Eric Goldberg",
+        "Ben Grossman",
+        "Steve Marsh (I)",
+        "Steven Marsh (II)",
+        "Vincent Tsao",
+        "Nikola Vrtis"
+    ],
+    "artists": [
+        "Larry Catalano",
+        "Peter Corless",
+        "Stephen Crane",
+        "Stefan Dick",
+        "James Dunn",
+        "Martin Hoffmann",
+        "Jon Rettich",
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Betting and Bluffing",
+            "Dice Rolling",
+            "Events",
+            "Hand Management",
+            "Simultaneous Action Selection",
+            "Trading",
+            "Variable Player Powers",
+            "Voting"
+        ],
+        "categories": [
+            "Economic",
+            "Humor",
+            "Negotiation",
+            "Political"
+        ],
+        "families": [
+            "Game: Junta",
+            "Misc: LongPack Games",
+            "Theme: Tropical"
+        ]
+    }
+}

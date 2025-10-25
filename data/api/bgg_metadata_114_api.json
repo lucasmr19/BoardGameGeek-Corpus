@@ -1,0 +1,39 @@
+{
+    "id": 114,
+    "name": "Ransom",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "This game comes inside what looks like a video tape case, which is definitely odd for a board game.  Inside the package are cards for properties on Manhattan island, workers, building materials, and building contracts.  Each turn, players turn over a card and either purchase it outright or auction it to the group.  But when the contracts get bought, players will need to negotiate a deal, because it's very difficult to build a decent sized building on your own.  The deal making is vicious and cutthroat, ergo the name.<br/><br/>The 1995 edition features rules in English, Japanese, German, Spanish and French (see the Tidwell review).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/-JAu9hk32fpjPTD9VCrEKg__original/img/NANpTl5u6vlvr9WRTDeUuR0LOAg=/0x0/filters:format(jpeg)/pic236986.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-JAu9hk32fpjPTD9VCrEKg__small/img/FJ2UQYRMHE8zZCS-rOzyyAUQ_A8=/fit-in/200x150/filters:strip_icc()/pic236986.jpg",
+    "publishers": [
+        "(Self-Published)"
+    ],
+    "designers": [
+        "Philip O'Neill"
+    ],
+    "artists": [
+        "Lewis Michael"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Memory",
+            "Trading"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Bluffing",
+            "City Building",
+            "Economic",
+            "Negotiation"
+        ],
+        "families": [
+            "Containers: Video Tape Boxes"
+        ]
+    }
+}

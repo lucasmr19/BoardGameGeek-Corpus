@@ -1,0 +1,55 @@
+{
+    "id": 173,
+    "name": "Formula Dé",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "10",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "Formula D&eacute; is a fast-paced racing game in which the cars' top speeds are limited by having to end a certain number of turns in each curve of the racetrack.  This can be tricky, because although players can regulate their speeds by choosing which gear to be in and each gear allows a certain range of movement, the exact amount is determined randomly.   Great fun for a big group.<br/><br/>A winner of the 1990 Concours International de Créateurs de Jeux de Société.<br/><br/>Expanded by: (Ludodélire Expansions)<br/><br/>    Formule Dé Circuit № 1: Grand Prix de MONACO  (included in french edition)<br/>    Formule Dé Circuit № 2: FRANCE – Circuit de Nevers Magny-Cours<br/>    Formule Dé Circuit № 3: GRAN PREMIO D'ITALIA – Autodromo Nazionale Monza<br/>    Formule Dé Circuit № 4: GROSSER PREIS VON DEUTSCHLAND – Hockenheim Ring  (included in german edition)<br/>    Formule Dé Circuit № 5: GRAND PRIX DE BELGIQUE – Circuit de Spa – Francorchamps<br/>    Formule Dé Circuit № 6: GRANDE PREMIO DE PORTUGAL – Circuito do Estoril<br/>    Formule Dé Circuit № 7: BRITISH GRAND PRIX – Silverstone Circuit  (included in british edition)<br/>    Formule Dé Circuit № 8: GRAN PREMIO DE ESPAÑA – Circuit de Catalunya<br/>    Formule Dé Circuit \t№ 9: GRAND PRIX DU CANADA – Circuit Gilles Villeneuve<br/>    Formule Dé Circuit \t№ 10: GRANDE PREMIO DE BRASIL – Circuito do Interlagos<br/>    Formule Dé Circuit № 11: JAPAN GRAND PRIX – Suzuka Circuit<br/>    Formule Dé Circuit № 12: SOUTH of AFRICA GRAND PRIX – Kyalami Circuit<br/>    Formule Dé Circuit № 13: SAN MARINO – Autodromo Enzo & Dino Ferrari<br/>    Formule Dé: World Championship<br/><br/><br/>Expanded by: (Descartes Editeur Expansions)<br/><br/>    Formula Dé Circuits 1 & 2: Monaco & Zandvoort 1   (plans were included in base game)<br/>    Formula Dé Circuits 3 & 4: Zandvoort 2 & SPA-Francorchamps<br/>    Formula Dé Circuits 5 & 6: Kyalami & Ferrari Autodromo<br/>    Formula Dé Circuits 7 & 8: Magny-Cours & Monza<br/>    Formula Dé Circuits 9 & 10: Estoril & Interlagos<br/>    Formula Dé Circuits 11 & 12: Watkins Glen & Silverstone<br/>    Formula Dé Circuits 13 & 14: Montreal & Long Beach<br/>    Formula Dé Circuits 15 & 16: Hockenheim & Zeltweg<br/>    Formula Dé Circuits 17 & 18: Buenos-Aires & Barcelona<br/>    Formula Dé Circuits 19 & 20: Suzuka & Melbourne<br/>    Formula Dé Circuits 21 & 22: Budapest & Nürburgring<br/>    Formula Dé Circuits 23 - 26: USA Track Pack #1<br/>    Formula Dé Circuits 27 - 30: USA Track Pack #2<br/>    Formula Dé Circuits 31 & 32: Zhuhai & Sepang<br/>    Formula Dé Circuit 33: 10th Anniversary<br/>    Formula Dé Circuits 34 & 35: Bahrain & Shanghai<br/><br/><br/>Expanded by: (asmodee Expansions)<br/><br/>    Formula D: The \"Shortcut\"<br/>    Formula D: Circuits 1 – Sebring & Chicago<br/>    Formula D: Circuits 2 – Hockenheim and Valencia<br/>    Formula D: Circuits 3 – Singapore & The Docks<br/>    Formula D: Circuits 4 – Grand Prix of Baltimore & Buddh<br/>    Formula D: Circuits 5 – New Jersey & Sotchi<br/>    Formula D: Circuits 6 – Austin & Nevada Ride<br/><br/><br/>Re-implemented by:<br/><br/>    Formula Dé Mini<br/>    Formula D<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/S6Jrqf7MeqiueJI1uuqgcw__original/img/wacVVrR-MrBG5suNiry_9fPPbwk=/0x0/filters:format(jpeg)/pic168167.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S6Jrqf7MeqiueJI1uuqgcw__small/img/731_1UDPU0q4RWrMgDP9JLzrZRM=/fit-in/200x150/filters:strip_icc()/pic168167.jpg",
+    "publishers": [
+        "Eurogames",
+        "999 Games",
+        "asmodee",
+        "Descartes Editeur",
+        "Fantasy Shop",
+        "Top Licence Games"
+    ],
+    "designers": [
+        "Laurent Lavaur",
+        "Eric Randall"
+    ],
+    "artists": [
+        "Bernard Bittler",
+        "Elisabeth Daniel",
+        "Babbette Huckaba",
+        "Guillaume Rohmer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Different Dice Movement",
+            "Grid Movement",
+            "Player Elimination",
+            "Push Your Luck",
+            "Race",
+            "Roll / Spin and Move",
+            "Simulation",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Cities: Monte Carlo (Monaco)",
+            "Components: Polyhedral (not D6) dice",
+            "Game: Formula Dé / Formula D",
+            "Misc: Dice Tower Hall of Fame",
+            "Sports: Auto Racing",
+            "Sports: Formula 1"
+        ]
+    }
+}

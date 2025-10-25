@@ -1,0 +1,38 @@
+{
+    "id": 6,
+    "name": "Mare Mediterraneum",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "In the ancient lands along the Mediterranean, players attempt to satisfy their unique victory conditions via trade, war and construction.  This lavishly produced game contains tons of wooden game components and a beautiful roll-out vinyl map.  Players produce a score of different commodities to trade with other cities in the hope of creating enough income to fill their capitals with buildings, produce artwork, and fill warehouses with goods.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/277POF80AUz2ZE9XSApyDg__original/img/hQCIS_adSN2LfBgUCsEpJ6CsPVQ=/0x0/filters:format(jpeg)/pic28424.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/277POF80AUz2ZE9XSApyDg__small/img/FUFTIqOZLoPbHTbD4Zg2uvLry-A=/fit-in/200x150/filters:strip_icc()/pic28424.jpg",
+    "publishers": [
+        "Historien Spiele Galerie (Historien Spielegalerie)"
+    ],
+    "designers": [
+        "Jean du Poël"
+    ],
+    "artists": [
+        "Jean du Poël"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Civilization",
+            "Nautical"
+        ],
+        "families": [
+            "Ancient: Greece",
+            "Ancient: Rome",
+            "Components: Wooden pieces & boards",
+            "Containers: Tubes",
+            "Region: Mediterranean Sea"
+        ]
+    }
+}

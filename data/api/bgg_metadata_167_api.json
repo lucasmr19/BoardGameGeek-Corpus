@@ -1,0 +1,35 @@
+{
+    "id": 167,
+    "name": "Dicke Kartoffeln",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "You may not expect much from a game about potato farming, but there's quite a lot to this one.  Each player owns a farm of five fields, and over the course of several years must deal with such issues as crop rotation, market watching, over-fertilization, insects, weather, and more.  As the game winds to a close, the winner will be the player with healthiest fields as well as the greatest profits.<br/><br/>Note: The first edition of the game is for 2-4 players (later editions are for 2-6).<br/><br/>4th Place 1989 Hippodice Spieleautorenwettbewerb.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/XVCVwD8xhIPHRVTdsYQQPQ__original/img/hf-o1xLvIbM1x_3kKVSofk6Ve_I=/0x0/filters:format(jpeg)/pic256839.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XVCVwD8xhIPHRVTdsYQQPQ__small/img/V7xKDmE0LyZ3H_Wkq5mI193o0gY=/fit-in/200x150/filters:strip_icc()/pic256839.jpg",
+    "publishers": [
+        "ABACUSSPIELE"
+    ],
+    "designers": [
+        "Doris Matthäus",
+        "Frank Nestel"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation"
+        ],
+        "categories": [
+            "Economic",
+            "Farming"
+        ],
+        "families": [
+            "Food & Drink: Vegetables"
+        ]
+    }
+}

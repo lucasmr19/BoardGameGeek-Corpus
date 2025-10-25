@@ -1,0 +1,38 @@
+{
+    "id": 344,
+    "name": "Classic Art",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "In Classic Art, first released as Members Only, players attempt to predict how many works of art will be present in five exhibitions. The riskier your predictions in a season, the more you score &mdash; but only if you're correct, of course!<br/><br/>The game consists of 65 cards, with 13 cards in each of five categories; eleven of the cards are &quot;positive&quot; and two are &quot;negative&quot;. At the start of each season, players get a hand of cards (7-11 depending on the player count) and two cards are placed face up from the deck in their respective exhibitions.<br/><br/>In the first round of the season, players may predict how many works of art will be in an exhibition at the end of the current season by placing 1-2 tokens (along with their high risk token) on a prediction space. Each exhibition allows you to bet on whether the art will be rare (bet spaces 1-4) or plentiful (bet spaces 5-8). In each subsequent round, a player must place two cards from their hand in the appropriate exhibitions, then they may place a prediction. They may place only one &quot;double token&quot; prediction in a season, and predicting is optional. When all players have only three cards in hand, they each discard one face down, then place the other two cards in exhibitions. Whenever a negative card and positive card appear in an exhibition, remove them.<br/><br/>At the end of a season, players score for correct predictions. If art in an exhibition is &quot;rare&quot;, i.e., four or fewer works, then all plentiful bets fail, and vice versa. What's more, a rare bet succeeds only if the number of works is equal to or fewer than the bet, e.g., if you bet 3, then you succeed only if three or fewer works of art are present. A plentiful bid succeeds only if the number of works is equal to or more than the bet. The riskier the bet, the higher the payout per token in that successful bet, with players recording points separately for each exhibition.<br/><br/>At the end of a season, tokens on failed bets (other than the high risk ones) are removed from play, while tokens on successful bids are returned to players. If a player has zero or one tokens at the end of a season, all of their tokens are returned to them.<br/><br/>A player can score at most 10 points in an exhibition. Continue playing seasons until at the end of a season, each exhibition has at least one player who has scored 5 points in it. The game ends at the point, and players tally their scores &mdash; but tokens in the 0-4 range in an exhibition are worthless. Whoever scores the most points wins!<br/><br/>In Members Only players bet on odd things like how many royal scandals will happen in a month, and in Glenn's Gallery, another version of this design, players bet on the number of customers who will show up to look at types of art, but otherwise gameplay is nearly identical to Classic Art. The only difference is that each player has a dedicated &quot;double bid&quot; token instead of being allowed to bid two tokens once per season.<br/><br/>Classic Art includes a two-player variant that can be used in prior releases. After dealing eleven cards to each player, set up a ten-card &quot;house&quot; deck. On each player's turn, they play the top card of the house in addition to two cards from their hand. In the last round, play the final two cards from the house along with the chosen two cards from both players.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/8U58kYycXuTgnkFCEtL8rQ__original/img/6itGAfobq0LokM8uqM4Cr-j5Sww=/0x0/filters:format(png)/pic7424076.png",
+    "thumbnail": "https://cf.geekdo-images.com/8U58kYycXuTgnkFCEtL8rQ__small/img/F7bK8lnt7tNs5J_IudnI79-DmDg=/fit-in/200x150/filters:strip_icc()/pic7424076.png",
+    "publishers": [
+        "Blatz",
+        "CMON Global Limited",
+        "Mayfair Games",
+        "Group SNE",
+        "Planeta Igor"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Chris McGloughlin"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Betting and Bluffing",
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Theme: Art"
+        ]
+    }
+}

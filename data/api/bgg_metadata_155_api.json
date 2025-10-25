@@ -1,0 +1,36 @@
+{
+    "id": 155,
+    "name": "Was sticht?",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "This is a two-trump, trick-taking card game, with several twists.  At the beginning of the game, players draft tasks they intend to complete in order to win the game.  (Tasks include things like &quot;Take no tricks&quot;, &quot;Take 1 Trick&quot;, or &quot;Take No Red Cards&quot;.)  Then, all of the cards are dealt out in front of the players before each hand.  Row by row, the players draft cards, and the dealer declares who would have won each row's trick, if it had been played that way.  Players use this information to deduce what the trump number and suit are.  After all the cards are drafted, each player - except the dealer - selects one of the task tiles she drafted, which will be her mission for the hand.  The dealer is stuck trying to uniquely accomplish someone else's task for the round - but at least doesn't have to preselect which person's goal he is trying to &quot;steal&quot;.  The hand is then played in the traditional fashion, with each player trying to take tricks or not, based on the goal she selected.  The first player to complete five tasks wins the game.<br/><br/>Re-implemented by:<br/><br/>    Mü and Lots More<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/8a2t9ON6lPFZeaCMzKNbCg__original/img/hSrj-1L2cucPHsfvbVmCSukZU28=/0x0/filters:format(jpeg)/pic274047.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8a2t9ON6lPFZeaCMzKNbCg__small/img/rdfhJvSFvsG97niVARKFZkrcerQ=/fit-in/200x150/filters:strip_icc()/pic274047.jpg",
+    "publishers": [
+        "Moskito Spiele",
+        "New Games Order, LLC"
+    ],
+    "designers": [
+        "Karl-Heinz Schmiel"
+    ],
+    "artists": [
+        "Ralf E. Kahlert"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Open Drafting",
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game",
+            "Deduction"
+        ],
+        "families": [
+            "Animals: Mosquitoes"
+        ]
+    }
+}

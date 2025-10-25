@@ -1,0 +1,36 @@
+{
+    "id": 311,
+    "name": "Time Agent",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "180",
+    "maxplaytime": "360",
+    "age": "12",
+    "description": "In Time Agent, each player plays a different race who are going back through time and re-writing history to ensure that their race comes out on top. Or rather, that their race was always on top. Anyway, each race is different, but races have some natural alliances and enemies.<br/><br/>CONTENTS:<br/>1   mounted 17x22 mapboard<br/>95  die-cut tiles<br/>360 die-cut counters<br/>6   Race Information Cards<br/>6   Reference Cards<br/>2   Rules Summary Sheets<br/>1   Rules of Play<br/>1   Galactic Guide/Player's Notes &amp; Reference Map<br/>55  Time Reversal Disks<br/>2   d6<br/><br/>",
+    "image": "https://cf.geekdo-images.com/2FF5liGEPh0iMY-x57UFlg__original/img/VXpv50CMhfxdrzqO3M_fONkvRZE=/0x0/filters:format(jpeg)/pic77507.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2FF5liGEPh0iMY-x57UFlg__small/img/ITRJZRVWYrPWPK453tNHLUEILxQ=/fit-in/200x150/filters:strip_icc()/pic77507.jpg",
+    "publishers": [
+        "Prism Games",
+        "TimJim Games"
+    ],
+    "designers": [
+        "Thomas Lehmann"
+    ],
+    "artists": [
+        "Armand Cabrera",
+        "Carolyn Wales"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Science Fiction"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Theme: Time Travel"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 319,
+    "name": "Top It",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "10",
+    "description": "Each player has a collection of mosaic pieces in different shapes. Each pieces has a value. You get points for building onto the mosaic. The player with the most points at the end wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/nyjDbv3DDfHAdlGgEWDnVg__original/img/QGBGgqHs5QXyxD-NqiVZeOmR5N0=/0x0/filters:format(jpeg)/pic238707.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nyjDbv3DDfHAdlGgEWDnVg__small/img/kf5HGS44Q3ZDS_Tje-_1-WHaW48=/fit-in/200x150/filters:strip_icc()/pic238707.jpg",
+    "publishers": [
+        "Goldsieber Spiele"
+    ],
+    "designers": [
+        "Eberhard Schnatz"
+    ],
+    "artists": [
+        "Siegfried Blandow"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": []
+    }
+}

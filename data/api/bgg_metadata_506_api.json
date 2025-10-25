@@ -1,0 +1,45 @@
+{
+    "id": 506,
+    "name": "The Big Cheese",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "An auction game in which players bid from their pool of &quot;worker rats&quot; to gain control of corporate projects.  The workers from the winning bid are then are assigned to the project.  Each turn, one worker is removed from each project.  A project is complete once all workers have been removed.  The value of a numbered project is only determined at completion by a die roll. Two other projects, Veto and The Big Cheese, allow special actions during the game. The game has two different scoring schemes, depending on whether players use a single six-sided die or a set of seven polyhedral dice.<br/><br/>This is part of the Hip Pocket Games series.<br/><br/>Awards<br/><br/>1999 Listed in GAMES Magazine's GAMES 100<br/><br/>",
+    "image": "https://cf.geekdo-images.com/gzxzdgEGdp40umADM7tsOA__original/img/a3oP04kjgl9VPF67N_EqQ0Itml0=/0x0/filters:format(jpeg)/pic190390.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gzxzdgEGdp40umADM7tsOA__small/img/7Ei4T2vxPuzWYgm9f-KqctLpPII=/fit-in/200x150/filters:strip_icc()/pic190390.jpg",
+    "publishers": [
+        "Cheapass Games",
+        "New Games Order, LLC",
+        "Red Glove"
+    ],
+    "designers": [
+        "James Ernest",
+        "Jon Wilkie"
+    ],
+    "artists": [
+        "Rossana Berretta",
+        "James Ernest",
+        "Carol Monahan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game",
+            "Print & Play"
+        ],
+        "families": [
+            "Animals: Rats",
+            "Components: Polyhedral (not D6) dice",
+            "Containers: Triangular Boxes",
+            "Food & Drink: Cheese",
+            "Series: Hip Pocket Games"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "id": 259,
+    "name": "Atlantic Storm",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "In this unique take on the trick-taking genre, cards represent the units that attacked or defended Allied convoys in the North Atlantic throughout World War II.<br/><br/>For each trick, the lead player selects a convoy that traversed either the Arctic or the Atlantic in a given year (1940-1943), then declares whether the battle will be fought in the air, on the surface of the ocean, or under the sea.  He follows that up by playing a unit, either German or Allied, that was available in the chosen year and could fight in the chosen environment, and the other players subsequently either pass or play a unit (of either nationality) that meets the same conditions.  When all players have made their selections, dice (sometimes) are rolled and totals are compared to determine whether the Germans or the Allies won.  The player who contributed the most to the winning team gets to decide how the convoy and the opposing enemy ships, which are all worth victory points and possibly an increased hand size, are to be distributed amongst the players who were on the winning side.  After twenty convoys have been fought over in this manner, the player with the most victory points' worth of convoys and captured ships wins the game!<br/><br/>Re-implemented by:<br/><br/><br/>     Pacific Typhoon<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/Tm-a-L5RL_qHz49-VGN53A__original/img/5-iKrialCrygjMdxNvfKGOO9NL8=/0x0/filters:format(jpeg)/pic130606.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Tm-a-L5RL_qHz49-VGN53A__small/img/q2VvajyZkK8PGeMBEvCUrwoQdQQ=/fit-in/200x150/filters:strip_icc()/pic130606.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Don Greenwood",
+        "Ben Knight"
+    ],
+    "artists": [
+        "Mark Forrer",
+        "Tyson Milbert",
+        "Kurt Miller",
+        "Dave Shaw (II)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game",
+            "Nautical",
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Card Games: Outplay"
+        ]
+    }
+}

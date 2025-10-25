@@ -1,0 +1,36 @@
+{
+    "id": 268,
+    "name": "Cheops",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "9",
+    "description": "This game revolves around using your family members to steal scarabs from a pyramid and selling them to make a profit.  Players can choose whether to sell scarabs immediately, or put them in their warehouse to sell at the end of the game for potentially higher profit.  Various laws and price boards influence the price of the scarabs up until the end of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/wAJTspPfmCjEfhwY962FSw__original/img/nwyZhOaWeTJwoXBu5AufddKV1Ms=/0x0/filters:format(jpeg)/pic1289537.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wAJTspPfmCjEfhwY962FSw__small/img/DmuF342AmS0A_MCwkiBqS89WSaA=/fit-in/200x150/filters:strip_icc()/pic1289537.jpg",
+    "publishers": [
+        "Hans im Glück"
+    ],
+    "designers": [
+        "Klaus Paal"
+    ],
+    "artists": [
+        "Simona Koch"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Set Collection",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Ancient"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Country: Egypt"
+        ]
+    }
+}

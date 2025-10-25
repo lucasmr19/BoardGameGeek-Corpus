@@ -1,0 +1,44 @@
+{
+    "id": 122,
+    "name": "Quo Vadis?",
+    "yearpublished": "1992",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "In an interesting departure from his normally computational-heavy game structure, Reiner Knizia put together this negotiation game.  Players are represented on the board by a group of politicians moving through a network of committees, and need to seek support from their competitors to advance upward toward the Senate.  Supporting an opponent gains you prestige, needed in quantity at the end of the game.  Once all five Senate positions are filled, the game is over, and only players who have a politician in the Senate are eligible to win.  Of those players, whoever has the most prestige wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/AyOfO7atmdQP23YZikTO3A__original/img/pjnoS2mrcfQsQ4AEN3nHhCtlp2I=/0x0/filters:format(jpeg)/pic3008003.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AyOfO7atmdQP23YZikTO3A__small/img/XwzZuBmdOTIjQblFyb08-ZAOISY=/fit-in/200x150/filters:strip_icc()/pic3008003.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "AMIGO",
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Pete Fenlon",
+        "Jason Hawkins",
+        "Jessica Ney",
+        "Franz Vohwinkel",
+        "Stephen Graham Walsh"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Negotiation",
+            "Point to Point Movement",
+            "Trading",
+            "Voting"
+        ],
+        "categories": [
+            "Ancient",
+            "Negotiation",
+            "Political"
+        ],
+        "families": [
+            "Ancient: Rome"
+        ]
+    }
+}

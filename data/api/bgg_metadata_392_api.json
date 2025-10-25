@@ -1,0 +1,46 @@
+{
+    "id": 392,
+    "name": "Brawl",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "10",
+    "description": "From the Cheapass Games web site: (6 November 2011)<br/><br/>History: In 1999, James Ernest refined his notion of Real Time card games. Building on his first real time card game, Falling, which was multi-player with a dealer, he created Brawl, a two-player card game with no dealer.<br/><br/>Summary: Brawl is a lightning-fast combat game where two players burn through their 35-card decks in about 35 seconds. Each deck contains a unique mix of cards, and each deck requires a slightly different playing style to win.<br/><br/>Mechanics: Each player takes one deck, sets a &quot;base&quot; card on the table, and begins to play. Players play their cards (Hit, Block, Clear, etc.) as fast as they like, trying to win each Base by playing more Hits on their own side. At the bottom of both decks are three Freeze cards. When every base is Frozen, the game is over.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/aTZfcunxGLdySlp7cOkVnQ__original/img/04F6flvYEminyUzJtI6_4tQNMmA=/0x0/filters:format(png)/pic3469273.png",
+    "thumbnail": "https://cf.geekdo-images.com/aTZfcunxGLdySlp7cOkVnQ__small/img/zHvhMUQhUbdn4lUN4wZeR__FStc=/fit-in/200x150/filters:strip_icc()/pic3469273.png",
+    "publishers": [
+        "Cheapass Games",
+        "DriveThruCards",
+        "Eclipse Editions",
+        "Truant Spiele"
+    ],
+    "designers": [
+        "James Ernest"
+    ],
+    "artists": [
+        "Phil Foglio",
+        "Ryan Kinnaird",
+        "Maxime le François",
+        "Bryce Nakagawa",
+        "Brian Snoddy"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Real-Time",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Card Game",
+            "Fighting",
+            "Print & Play",
+            "Real-time"
+        ],
+        "families": [
+            "Crowdfunding: Kickstarter",
+            "Sports: Combat Sports / Martial Arts",
+            "Theme: Anime / Manga"
+        ]
+    }
+}

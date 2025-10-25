@@ -1,0 +1,44 @@
+{
+    "id": 34,
+    "name": "Arkham Horror",
+    "yearpublished": "1987",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "Arkham Horror is a cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos.  The game has players exploring the town of Arkham as they attempt to stop unmentionable horrors from spilling into the world. It's possible for everyone to go insane and lose in this game.<br/><br/>Re-implemented in:<br/><br/>Arkham Horror (2005)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/AhS53CO05pBagyr9EfRazg__original/img/tYocUbfd0yIGoQPiWJ7YVFdCmyY=/0x0/filters:format(jpeg)/pic5747491.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AhS53CO05pBagyr9EfRazg__small/img/vkAI2JcO2v2Y_pO1Fi5shUGzCxc=/fit-in/200x150/filters:strip_icc()/pic5747491.jpg",
+    "publishers": [
+        "Chaosium",
+        "Descartes Editeur",
+        "Hobby Japan"
+    ],
+    "designers": [
+        "Charlie Krank",
+        "Richard Launius",
+        "Sandy Petersen",
+        "Lynn Willis"
+    ],
+    "artists": [
+        "Tom Sullivan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Cooperative Game",
+            "Role Playing",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Adventure",
+            "Horror",
+            "Novel-based"
+        ],
+        "families": [
+            "Components: Standees",
+            "Game: Arkham Horror",
+            "Theme: Cthulhu Mythos"
+        ]
+    }
+}

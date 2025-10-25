@@ -1,0 +1,36 @@
+{
+    "id": 179,
+    "name": "Nuba",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "10",
+    "maxplaytime": "10",
+    "age": "12",
+    "description": "The board is a 5 x 6 grid. Each player has ten tokens, numbered 1 - 9 and one 'X'. Players alternate setting their pieces in the two rows nearest them. The lower the number on the token, the better a wrestler that piece is. The higher the number, the better the musician (but that makes that piece a lousy wrestler). The idea is to get your highest possible piece to the opposite side of the board.<br/><br/>When a piece successfully reaches the opposite side of the board, it is placed in the honorable musician space. It remains there unless another piece (of either player) with a higher value reaches the opposite side, in which case it supplants this piece as the best musician. The game ends when no one can oust the reigning musician (which means no one has a piece left on the board of a higher value). If a player's piece marked with the 'X' reaches the opposite side, the game immediately ends and that player is victorious.<br/><br/>A variant is given in which all pieces which cross the board are summed to determine the winner, although a player exiting their 'X' still wins immediately.<br/><br/>The original magazine publication also suggests playing on a 6x6 board with additional '10' and '11' pieces.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/26GQfHyVWeS91qLg1VewCQ__original/img/n0ch8bobhy3jRFibpnbNKt0sGvI=/0x0/filters:format(jpeg)/pic168579.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/26GQfHyVWeS91qLg1VewCQ__small/img/88BJ0l4H26mHvea7UWmWB98HzVI=/fit-in/200x150/filters:strip_icc()/pic168579.jpg",
+    "publishers": [
+        "AMIGO",
+        "Games & Puzzles Publications"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Square Grid"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Components: 5 x 6 Grids",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 109,
+    "name": "Wettstreit der Baumeister",
+    "yearpublished": "1994",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Jean du Poël put this game out on the market for about a year before the game's name was changed to Wettstreit der Baumeister in 1998.<br/><br/>This translates to &quot;Contest of the Architects&quot;. The game has a beautiful assortment of large, thick tiles to represent the cities. Players bid on a single building tile every turn, with half the proceeds going to the auctioning player. When a player is ready to start construction of his city, the tiles are laid out in order with the single restriction that not two touching tiles are the same type. The building types are city halls, churches, towers, and gates. When the one of the two draw piles is exhausted, the cities are judged for symmetry, with the highest scoring city winning.<br/><br/>Rules apply to either game:<br/><br/>Within two decks of 20 cards are contained the City Wall, Towers and Gates, Churches, City Halls, etc. During play, one of the decks lies face up, the other face down. There are three parts to each player's turn. First, the player rolls a die in an attempt to better his finances (1 to 5 on the die; the sixth side gives a sabotage-counter instead). Second, he alone may look at the top hidden card before he makes an offer on either of the two top cards from the two decks. The other players then bid on the two cards. If the player (the Auctioneer) makes the highest bid, he may take the card and pay the bank. If, on the other hand, one of the other players buys the card, that player pays half the money to the bank and half to the Auctioneer. Third, a player may either build (lay down another card on his city) or sabotage a City Card of another player. The player receiving the sabotage must then pay the value of the card or remove it.<br/><br/>The game ends when either of the decks is depleted.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/R8_4_Ncj6dNmxF7MLDwOyA__original/img/AT0GO9HECPu1DH1KhyKEyTC-2Bg=/0x0/filters:format(jpeg)/pic613651.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R8_4_Ncj6dNmxF7MLDwOyA__small/img/jBjFvzwd4ngY4iSK9wghwdPql2I=/fit-in/200x150/filters:strip_icc()/pic613651.jpg",
+    "publishers": [
+        "Historien Spiele Galerie (Historien Spielegalerie)",
+        "KOSMOS",
+        "Tilsit"
+    ],
+    "designers": [
+        "Jean du Poël"
+    ],
+    "artists": [
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "City Building"
+        ],
+        "families": [
+            "Containers: Tubes"
+        ]
+    }
+}

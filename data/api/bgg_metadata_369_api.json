@@ -1,0 +1,47 @@
+{
+    "id": 369,
+    "name": "5ive Straight",
+    "yearpublished": "1958",
+    "minplayers": "2",
+    "maxplayers": "9",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "7",
+    "description": "A very nice peg-board game, now re-issued. The plastic board has 100 holes, numbered in a oft reversing spiral with 1 in the center. A deck of numbered cards from 1-100 is shuffled and players start with 4 each. You may either play a card and stick a peg in, or draw a card, the hand limit being 4. And of course, you're trying to get five of your pegs in a row to win. Simple, except that playing a card allows you to place a peg in that number, or any empty number above. So with a 60, I can fill a space from 60 to 100, the outside rows effectively, but with a 6, I can play practically anywhere, especially the key points in the center area. The game is for 2-3 players, but works even better when played in partnership, your partner frustrated as you fill high numbers with low cards, you frustrated as your partner fails to block. Very good fun and nice for non-gamers.<br/><br/>Similar to:<br/><br/>    Take 5<br/>    5 in a Row<br/>    Go-Moku<br/>    Renju<br/>    Pente<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/_tDAslBkrhjLL8zJYT0v-g__original/img/bAOu6ty5PMdy9gF7l3d1nROFT9w=/0x0/filters:format(jpeg)/pic4057336.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_tDAslBkrhjLL8zJYT0v-g__small/img/8N_6HdLDGYPo4HX-x5b55vge1Eo=/fit-in/200x150/filters:strip_icc()/pic4057336.jpg",
+    "publishers": [
+        "Broman/Percepta Corporation",
+        "Genesis Art Studio",
+        "Hartville Game Company",
+        "Irwin Toy Ltd.",
+        "Milton Bradley",
+        "Skor-Mor",
+        "Stillmore Products",
+        "Straight Line Products",
+        "Washburne Research and Manufacturing, Inc.",
+        "Winning Moves Games (USA)"
+    ],
+    "designers": [
+        "Jack Montgomery",
+        "Ellen Washburne",
+        "Norman Washburne"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Pattern Building",
+            "Take That"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Card Game",
+            "Children's Game",
+            "Puzzle"
+        ],
+        "families": [
+            "Components: 10 x 10 Grids"
+        ]
+    }
+}

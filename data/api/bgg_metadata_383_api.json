@@ -1,0 +1,35 @@
+{
+    "id": 383,
+    "name": "Turf Horse Racing",
+    "yearpublished": "1995",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Classic Knizia betting and racing game. Initially players bet on the horses as they are dealt from the deck, then the horses race on the die roll, the course being 40 spaces. The cards &amp; die have 4 symbols, jockey's hat, boot, horse shoe and horse's head; the head is on the die 3 times, giving it a 50% chance of being rolled. The cards have different values against each symbol, showing how far they move when that symbol is rolled. But the number against the horse's head is always 1 to 7 for the same horse. So Raven Beauty always has a 50% chance of moving 7 spaces, Lagoon Lady moves 4, and poor old Roamin' Emporer goes 1 space. The trick, and it's a good trick, is that the other 3 values vary wildly for the lower horses, making them outside chances to win. One lucky roll and Roamin' Emporer can leap forward 20 places! So do you bet on the steady goers, or take a gamble on the nags? Players take turns to roll the die and choose which horse moves, so with a good roll you move one you've bet on, with a bad roll you move someone else's horse. Points are awarded to 1st, 2nd &amp; 3rd home, and one of your bets is a doubler.<br/><br/>Re-implemented as:<br/><br/>    Winner&#039;s Circle / Royal Turf <br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/jddKraLJ0h40DvSTaoH_EA__original/img/JOTiszG-QpkdHn2oQOVp3p309ew=/0x0/filters:format(jpeg)/pic5238648.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jddKraLJ0h40DvSTaoH_EA__small/img/PEumwMq9RlP3h6I-yvggJfJzBFM=/fit-in/200x150/filters:strip_icc()/pic5238648.jpg",
+    "publishers": [
+        "Gibsons"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Betting and Bluffing",
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Animals",
+            "Dice",
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Sports: Horse Racing"
+        ]
+    }
+}

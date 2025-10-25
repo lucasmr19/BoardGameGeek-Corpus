@@ -1,0 +1,46 @@
+{
+    "id": 216,
+    "name": "Atlanteon",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "The original edition, titled Revolution, is set in French Revolution-era Paris. Royalists and Jacobins fight for superiority in the 25 city districts, which are represented by the game board. The two players alternately place one of their counters in order to control that space. When a player puts one of his number counters on the board, he projects influence onto the neighboring spaces in that row and column, and onto the space the counter itself is on. The amount of the influence corresponds to the number on the counter. Whoever controls all three of the buildings or controls eleven city districts has won the game.<br/><br/>The game was later reprinted as Atlanteon, in which mighty undersea warriors fight to control the capital of the Sunken Kingdoms. One player controls the vicious Marauders, who are trying to capture the city, while the other player controls the heroic Guardians, who are trying to defend their home.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/W9J6g4h0MjXjCf_GNXLBtg__original/img/VPSRsFPlYaMzOX8hUX8b5fMvT6o=/0x0/filters:format(jpeg)/pic1516987.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/W9J6g4h0MjXjCf_GNXLBtg__small/img/YuPQt41qzAMX8FIa7QkewEGX7QA=/fit-in/200x150/filters:strip_icc()/pic1516987.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Esdevium",
+        "Fantasy Flight Games",
+        "Heidelberger Spieleverlag"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Marko Djurdjević",
+        "Tobias Mannewitz",
+        "Scott Nicely",
+        "Brian Schomburg"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Tile Placement",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Napoleonic"
+        ],
+        "families": [
+            "Components: 5 x 5 Grids",
+            "Mythology: Atlantis",
+            "Players: Two-Player Only Games",
+            "Series: Abacus White Box",
+            "Series: Fantasy Flight Silver Line"
+        ]
+    }
+}

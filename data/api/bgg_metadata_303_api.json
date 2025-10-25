@@ -1,0 +1,32 @@
+{
+    "id": 303,
+    "name": "Koalition",
+    "yearpublished": "1992",
+    "minplayers": "4",
+    "maxplayers": "10",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "60 politicians of all colors stand for election in the 15 countries of the European Union: unimaginable benefits and positions of influence await their power brokers, for it is these Machiavellian lobbyists and self-appointed &ldquo;leaders&ldquo; who hold the real power in the palms of their hands.<br/><br/>With no thought for party loyalties or manifestos they pull the strings of their politician puppets, paying only enough lip-service to the conventional rules of politics to keep the voters quiet.<br/><br/>Party scandals shamelessly arranged, press campaigns against innocent politicians, filthy intrigues to bring about the fall of opponents, the sudden favoring of surprise candidates better suited to government or to profitable leadership: these unscrupulous power brokers stop at nothing to form tactical coalitions. Cloaked in phony democracy, it all serves to gain total power over Europe.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/xhCaK-ENqjy4kELm3OH0bQ__original/img/WEM2eRnguwnk-8I4C8VXFsTblDg=/0x0/filters:format(jpeg)/pic60544.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xhCaK-ENqjy4kELm3OH0bQ__small/img/6n6GhPz8ZFYiJYlGDbDeCUMN5OY=/fit-in/200x150/filters:strip_icc()/pic60544.jpg",
+    "publishers": [
+        "Hexagames (I)",
+        "Salagames"
+    ],
+    "designers": [
+        "Hartmut Witt"
+    ],
+    "artists": [
+        "Andreas Steiner"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game",
+            "Negotiation",
+            "Political"
+        ],
+        "families": []
+    }
+}

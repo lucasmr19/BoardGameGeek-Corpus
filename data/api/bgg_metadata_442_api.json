@@ -1,0 +1,40 @@
+{
+    "id": 442,
+    "name": "Um Reifenbreite",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "90",
+    "age": "8",
+    "description": "Translating as &quot;By the Width of a Tire,&quot; this game covers a Tour de France-type of bicycle race.  Each player takes control of a four-member racing team, and the goal is to score as many points as possible for the whole team.  Movement is primarily handled by dice, however a limited card set partially replaces die results.  Once you add unique rules which allow riders to draft one another and multiple kinds of road surfaces, this game has much to offer race fans.<br/><br/>Homas Tour is the original edition of the cycle racing game later known as Um Reifenbreite. Many copies of the original game were destroyed in a warehouse fire in 1979. The combination of its sudden rarity and recognition as a good game meant that Homas Tour was (and is) very desirable, particularly to collectors. Everyone else can save their money and enjoy Um Reifenbreite!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/rAVVAKie8Ujp0wEZzAfBAQ__original/img/-obi9KyxHXw2VDktyR-yQVNnO-I=/0x0/filters:format(jpeg)/pic103131.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rAVVAKie8Ujp0wEZzAfBAQ__small/img/dL4aQY53BEfMH3DWy30K8qKqLnM=/fit-in/200x150/filters:strip_icc()/pic103131.jpg",
+    "publishers": [
+        "(Unknown)",
+        "Dino Toys s. r. o.",
+        "Homas Spelen",
+        "Jumbo"
+    ],
+    "designers": [
+        "Rob Bontenbal"
+    ],
+    "artists": [
+        "Jan van Haasteren"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Sports: Bicycling / Cycling",
+            "Sports: Tour de France"
+        ]
+    }
+}

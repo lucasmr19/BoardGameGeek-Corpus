@@ -1,0 +1,48 @@
+{
+    "id": 196,
+    "name": "Kremlin",
+    "yearpublished": "1986",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "75",
+    "maxplaytime": "75",
+    "age": "12",
+    "description": "A game of political intrigue set in the Soviet Politburo of the early 20th century, with a satirical edge.  With politicians like Eduard Boremtodev, Nikolai Shootemdedsky and Natasha Nogoodnik vying for control of the party, you know the battle will be an entertaining one.<br/><br/>At the start of the game, a number of politician cards are laid out to fill the positions of the politburo.  Players then secretly note influence on ten politicians they hope to control during the game, indicated by a number from 1 to 10.<br/>Gameplay is not clockwise, but proceeds phase by phase with the politician holding the relevant office performing the appropriate action by the player who reveals the greatest influence on the politician in question.  Players attempt to remove politicians opposed to their interests by purging, exiling them to Siberia or by demoting them within the Politburo.  One&rsquo;s own preferred politicians can be promoted or pardoned of their previous &lsquo;sins&rsquo;. <br/>But each action a politician takes causes him (or in one case, her) to age by one or more years (a measure of the aging effect of the stress of the job). Each turn, politburo members face a health check which can result in the politician becoming ill, or even dying.  The 'older' a politician gets the more likely it is that he (or she) will become ill.<br/>At the end of each turn, the Party Chief must be healthy enough to wave to the crowd at the October parade. Controlling a politician who succeeds at this three times makes you the winner.<br/><br/>The original Fata Morgana edition included rules requiring the players to hold funeral speeches for deceased party chairmen and drinking vodka with it, for instance. The later Avalon Hill edition scrapped these rules and gave the game a less satirical and more serious tone.<br/><br/>Jolly Roger reimplemented an edition providing three different KREMLIN games in one box -See Kremlin (Third Edition)-:<br/><br/>1: The 'original' with fictional politicians, set in a USSR where KGB investigations send those found guilty to Siberia. This version will have victory conditions based on the original Fata Morgana rules.<br/><br/>2: A version inspired by the Avalon Hill variant titled 'Revolution'. Set in the 1920s, it uses historical politicians as well as fictional politicians. It's a more violent game as those arrested by the KGB are shot and removed from the game<br/><br/>3: A new version, set in the modern USSR and Russia, an era of entrenched bureaucracy and alternatives for escaping KGB persecution. This version introduces the concept of &quot;Going into Exile&quot; to avoid Siberia. It also includes modern politicians from the 1960s onwards, whether it is Kosygin or Putin and Gorbachev.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/wATGDDZIEe3lpV0TG6D2Wg__original/img/ScBNhYmbEnaxoR5Yu-t6kU-o0kU=/0x0/filters:format(jpeg)/pic1490479.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wATGDDZIEe3lpV0TG6D2Wg__small/img/L10QeDpXJebe0zH8EBnlioZCS1o=/fit-in/200x150/filters:strip_icc()/pic1490479.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Fata Morgana Spiele",
+        "New Games Order, LLC"
+    ],
+    "designers": [
+        "Urs Hostettler"
+    ],
+    "artists": [
+        "Res Brandenberger",
+        "Rasenjin Hayami",
+        "Charles Kibler",
+        "George I. Parrish, Jr."
+    ],
+    "classifications": {
+        "mechanics": [
+            "Secret Unit Deployment",
+            "Voting"
+        ],
+        "categories": [
+            "Negotiation",
+            "Political"
+        ],
+        "families": [
+            "Cities: Moscow (Russia)",
+            "Country: Russia",
+            "Country: Soviet Union",
+            "Decades: The 1920's",
+            "Decades: The 1930's",
+            "Digital Implementations: Tabletopia",
+            "Digital Implementations: VASSAL",
+            "Interwar period (Nov. 1918 - Aug. 1939)",
+            "Misc: Dice Tower Hall of Fame"
+        ]
+    }
+}

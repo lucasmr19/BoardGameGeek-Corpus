@@ -1,0 +1,30 @@
+{
+    "id": 360,
+    "name": "Quests of the Round Table",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "from Game Report Online Review:<br/><br/>The game comes with two decks of cards. The story deck determines what happens on each player's turn; a quest, a tournament, or a special event. The adventure deck holds the allies, foes, weapons, tests, and amour cards which get dealt and drawn into players' hands. Players begin the game as squires with a lowly battle strength of five and, by earning shields, try to be the first to progress through knight and champion knight to become a knight of the round table<br/><br/>",
+    "image": "https://cf.geekdo-images.com/rAjVWnbwHAPtPHv0DbzMhw__original/img/vcWfdP7OAptaDPHAe3OJm1R6dVQ=/0x0/filters:format(jpeg)/pic1514925.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rAjVWnbwHAPtPHv0DbzMhw__small/img/xQh0Mu6e3uz35y5hIK-oMIYFvik=/fit-in/200x150/filters:strip_icc()/pic1514925.jpg",
+    "publishers": [
+        "Gamewright"
+    ],
+    "designers": [
+        "Scott Kimball"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game",
+            "Medieval"
+        ],
+        "families": [
+            "Theme: King Arthur / The Knights of the Round Table / Camelot"
+        ]
+    }
+}

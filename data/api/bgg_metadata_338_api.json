@@ -1,0 +1,34 @@
+{
+    "id": 338,
+    "name": "Bargain Hunter",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "This game illustrates Herr Rosenberg&#039;s talent for unique card games.  The deck is one through nine in six suits, with two of each card (two 1s, two 2s, etc.).  After the initial hand of eight is dealt, players select one card value to collect, which is placed face-up in front of each player.  A fairly standard trick-taking game takes place with the remaining cards, with players following suit if they can.  If you cannot, the card you play can be trump, if you desire.  If two cards of the same suit/value appear, the second can be declared as either high or low.  When a player wins a trick, the cards of the same value they are collecting are placed in his 'good' pile, with each worth one point.  All the rest are put in the 'bad' pile, with each worth minus one point.  However at the end of each hand, you can convert one value of cards from your 'bad' pile onto the 'good' pile.  Of course, if you had enough of them, you'll be collecting that value for the next hand...<br/><br/>",
+    "image": "https://cf.geekdo-images.com/8ivvc_2NjujMTmwT3eugeg__original/img/lJOEut-D4s8Q6sBjwSJaUnXyIPs=/0x0/filters:format(jpeg)/pic681363.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8ivvc_2NjujMTmwT3eugeg__small/img/bA3ukpm31_Beh3hdMLxNEONZsx8=/fit-in/200x150/filters:strip_icc()/pic681363.jpg",
+    "publishers": [
+        "Queen Games",
+        "Valley Games, Inc."
+    ],
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "artists": [
+        "Reinhard Horst",
+        "Patrick LaMontagne"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection",
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

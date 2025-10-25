@@ -1,0 +1,54 @@
+{
+    "id": 494,
+    "name": "Ave Caesar",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Set in the Roman stadium Circus Maximus, in Ave Caesar, players use cards to move their chariots around a quasi-variable track. The track itself has bottlenecks and lane-changing restrictions, which make the race interesting for the racers (very similar to Detroit-Cleveland Grand Prix or Daytona 500). Players are required to race three laps, and they must stop to 'Hail Caesar' before they can finish (a pit stop). The game is light, but if you waste too many moves taking the longer, outside-routes on corners, you may not have enough movement to finish the race. Later, the game was revamped into Ausgebremst, with the most notable changes being modular boards and options to reduce the luck.<br/><br/>The Cafe Games/Pro Ludo edition has only 2 different tracks compared to the Ravensburger edition with 2 track variants on both sides of the board.<br/><br/>It was re-released in 2022 by DiceTree Games with deluxe components, new maps, and new variants (by the designer).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/jfsOYuwuwuTwx-2ggixX0g__original/img/IjE1UgwAuH-1W01nbOC6yFWwufQ=/0x0/filters:format(jpeg)/pic7074363.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jfsOYuwuwuTwx-2ggixX0g__small/img/OVHVl9SyNPlQ8iJNMUfgCYVoyVk=/fit-in/200x150/filters:strip_icc()/pic7074363.jpg",
+    "publishers": [
+        "asmodee",
+        "Cafe Games",
+        "DiceTree Games",
+        "Grow Jogos e Brinquedos",
+        "Japon Brand",
+        "Man-indo",
+        "Möbius Games",
+        "Otto Maier Verlag",
+        "Pro Ludo",
+        "Ravensburger",
+        "数寄ゲームズ (Suki Games)",
+        "Ubik"
+    ],
+    "designers": [
+        "Wolfgang Riedesser"
+    ],
+    "artists": [
+        "Ingrid Berner",
+        "Eckhard Freytag",
+        "Thomas Thiemeyer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Race",
+            "Track Movement"
+        ],
+        "categories": [
+            "Ancient",
+            "Miniatures",
+            "Racing"
+        ],
+        "families": [
+            "Ancient: Rome",
+            "Components: Miniatures",
+            "Misc: LongPack Games",
+            "Series: Book Box (DiceTree)",
+            "Sports: Chariot Racing"
+        ]
+    }
+}

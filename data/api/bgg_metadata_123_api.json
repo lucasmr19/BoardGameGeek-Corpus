@@ -1,0 +1,34 @@
+{
+    "id": 123,
+    "name": "Green Thumb Cards",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "7",
+    "description": "In this card game players are competing gardeners, attempting to collect sets of various plants in order to put them into their stacks.  In the meantime their incomplete sets are vulnerable to various event cards and other players.  Players have a number of attack cards at their disposal which they can use to wreak havoc on opponents' gardens.  These cards range from bugs and pests to kids tromping through the garden, and even animals that chew up or pee all over the plants.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/eH99Of7TbWZZ0jrPstm8Yw__original/img/9Cv1ZOgv41TK4s2hBSH2eXKOELA=/0x0/filters:format(png)/pic6303221.png",
+    "thumbnail": "https://cf.geekdo-images.com/eH99Of7TbWZZ0jrPstm8Yw__small/img/SnIOGkNSIq3HV_gtIkNiMA2tmkA=/fit-in/200x150/filters:strip_icc()/pic6303221.png",
+    "publishers": [
+        "Playful Minds"
+    ],
+    "designers": [
+        "(Uncredited)"
+    ],
+    "artists": [
+        "(Uncredited)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection",
+            "Take That"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Theme: Gardening"
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 270,
+    "name": "Svea Rike",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "From user review:<br/><br/>The game is designed to re-create the history of Sweden from 1523 (the reign of Gustav Vasa) to 1818 (Karl XIII). Each player represent one of five noble families attempting to build status for their family. Status is achieved by accumulating fiefs, money, history cards in sets (which include such things as Queens, scientists, cultural personalities, palaces, commanders, etc.), troops and merchants.<br/><br/>The game is driven by event cards ... and there are a ton of 'em. On a turn, a player draws an event card and can play as many of them as he sees fit (whether during his turn or not). Thus, the game becomes a series of various events, usually aiding the player and/or hurting his opponents in some fashion.<br/><br/><br/>Expanded by:<br/><br/>    Svea Rike: Batalj<br/><br/><br/><br/>Note:<br/>The game was first published by Casper in 1996, and after their demise by Användbart Litet Företag (ALF) in the early 2000s.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/6eBJTEiXbb5Ncgarav6MIw__original/img/Pf2e5n26Qv33AHk0qltJ_TN0ybk=/0x0/filters:format(jpeg)/pic7039327.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6eBJTEiXbb5Ncgarav6MIw__small/img/vHj0AGVx9k6m2wxB49y70fK-arw=/fit-in/200x150/filters:strip_icc()/pic7039327.jpg",
+    "publishers": [
+        "Användbart Litet Företag",
+        "Casper"
+    ],
+    "designers": [
+        "Dan Glimne",
+        "Henrik Strandberg"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "End Game Bonuses",
+            "Events",
+            "Open Drafting",
+            "Set Collection",
+            "Simulation",
+            "Take That"
+        ],
+        "categories": [
+            "Civilization",
+            "Economic"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Country: Sweden"
+        ]
+    }
+}

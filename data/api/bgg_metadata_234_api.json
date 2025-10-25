@@ -1,0 +1,52 @@
+{
+    "id": 234,
+    "name": "Hannibal: Rome vs. Carthage",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "150",
+    "maxplaytime": "150",
+    "age": "12",
+    "description": "This game uses the very popular card system which first appeared in Avalon Hill&#039;s We the People game to detail the struggle between Carthage's Hannibal and the Roman Republic in approximately 200 BC.<br/><br/>Hannibal: Rome vs. Carthage is an asymmetrical card driven game for 2 players set in times of epic struggle between ancient Rome and Carthage. It presents a conflict between two super-powers of Antiquity from classical Clausewitzian perspective, according to which a power only reverts to military operations when there is no other way to achieve the goal: political dominance.<br/><br/>Players use Strategy Cards for multiple purposes: moving generals, levying new troops, reinforcing existing armies, gaining political control of the provinces involved in the war, and introducing historical events. When two armies meet on the battlefield, a second set of cards, called Battle Cards, are used to determine the winner. Ultimately both players seek victory by dominating both fronts: military and political.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/bqr3DAoxWUz1VeOCRk7gkw__original/img/h0puqZ7VhIY9Yi7WjVnRdnD4s8g=/0x0/filters:format(jpeg)/pic706069.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bqr3DAoxWUz1VeOCRk7gkw__small/img/Zy5cZ_cx2foRN8z-BsqDQaN2l90=/fit-in/200x150/filters:strip_icc()/pic706069.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Valley Games, Inc.",
+        "Descartes Editeur",
+        "Smart Ltd"
+    ],
+    "designers": [
+        "Mark Simonitch"
+    ],
+    "artists": [
+        "Kurt Miller"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Campaign / Battle Card Driven",
+            "Dice Rolling",
+            "Events",
+            "Point to Point Movement",
+            "Simulation"
+        ],
+        "categories": [
+            "Ancient",
+            "Political",
+            "Wargame"
+        ],
+        "families": [
+            "Ancient: Carthage",
+            "Ancient: Rome",
+            "Components: Map (Continental / National scale)",
+            "History: Punic Wars",
+            "Misc: Dice Tower Hall of Fame",
+            "Players: Two-Player Only Games",
+            "Region: Mediterranean Sea",
+            "Series: Classic Line (Valley Games)",
+            "Series: Tactics Line (Valley Games)",
+            "War Level of Command: Strategic"
+        ]
+    }
+}

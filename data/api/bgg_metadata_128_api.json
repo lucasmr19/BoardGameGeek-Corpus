@@ -1,0 +1,59 @@
+{
+    "id": 128,
+    "name": "Take it Easy!",
+    "yearpublished": "1983",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "10",
+    "description": "It's really difficult to succinctly describe this game, so take a look at the pictures! Take It Easy is a true multi-player solitaire in which each player individually completes a hexagon-shaped board with spots for 19 hexagon tiles. There's no limit to number of players if you've got enough sets on hand. One person (the caller) draws a tile randomly and tells the others which of the 27 tiles featuring colored/numbered lines crossing in three directions, with numbers from 1 to 9, it is. &quot;The 9-8-7,&quot; for example. Each player then chooses which empty spot on his own board he'll play the 9-8-7. This is repeated until the boards are filled.<br/><br/>The idea is to complete same-numbered lines across your board. Scoring is calculated by multiplying the number on the tile with the number of tiles in the completed line. A complete column of three 9s is worth 27, for example...but a lot of players will hope for five 9s to fill the big column down the middle.<br/><br/>Take It Easy is often compared to Bingo because of the familiar pattern of a number being called and then everybody looking at their cards to play it, and then scoring if a line is completed. But that's as far as the comparison goes.  Bingo is sheer luck; Take It Easy is a game of skill.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/4uhHaI4jH-S9SqQ3s9dIrw__original/img/E9x2aqIuUK-msNMWo5UA8Ae_xLo=/0x0/filters:format(jpeg)/pic3108440.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4uhHaI4jH-S9SqQ3s9dIrw__small/img/meHHpFd-n5Z9fA8HB_Pp76eRmaE=/fit-in/200x150/filters:strip_icc()/pic3108440.jpg",
+    "publishers": [
+        "Burley Games",
+        "F.X. Schmid",
+        "Spear's Games",
+        "Arclight Games",
+        "Brain Picnic",
+        "Cappelen Damm AS",
+        "Cranio Creations",
+        "DiceTree Games",
+        "Eagle-Gryphon Games",
+        "förlAgo AB",
+        "IELLO",
+        "Play Smart",
+        "Ravensburger",
+        "Rebel Sp. z o.o.",
+        "Swan Panasia Co., Ltd.",
+        "White Goblin Games",
+        "Zacatrus",
+        "Zvata Studios"
+    ],
+    "designers": [
+        "Peter Burley"
+    ],
+    "artists": [
+        "Peter Burley",
+        "Alexander Strohmaier",
+        "Steve Tolley",
+        "Franz Vohwinkel",
+        "Thomas Weiss"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Bingo",
+            "Pattern Building",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Puzzle"
+        ],
+        "families": [
+            "Misc: LongPack Games",
+            "Players: Games with Solitaire Rules",
+            "Series: Take It ..."
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": 267,
+    "name": "Tycoon",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "In Tycoon, players are businessmen traveling around the world, doing what businessmen do: making money.  In this case, business is defined as opening hotels and factories in major cities, like Sydney, Cairo, and New York.<br/><br/>Players are seeking to build hotels in as many cities as possible while also building the first or second most hotels in given cites to earn money, which is also your score. Additional money can be earned by building factories in each city, but these are limited in number.<br/><br/>During the course of the game players will take turns buying and/or using plane tickets to move about the board's nine cities. A number of tickets are displayed in rows, divided into two types: The more expensive scheduled flights which allow you to move directly to the printed city, or move your token a number of city spaces orthogonally on the board. Cheaper charter flights allow movement directly between the two city spaces printed on the ticket. You may buy tickets at any time during your turn, and you are not required to move but must do so before taking any regular actions; you may also use any many tickets in a turn as you wish.<br/><br/>The regular actions include building hotels and factories. Hotels are built on a u-shaped track. When a hotel is built on a red space the building that is oldest/furthest back on the track is removed. Players with the first and second most hotels on the track will be the only ones to score, with ties broken by the player with the earliest bulding on the track. There are only two factory spaces per city, and they will score points equal to the second place of the hotel scoring. In lieu of any actions or flying, or if you simply have no money, you may also take out loans; this removes your token from the board and forces you to use the more costly scheduled flights to return to the board.<br/><br/>At the start of the game players are given all of their factories. Each round players are given a set number of hotels in addition to any they have left over from the previous round. When any player has built all of the hotels in front of them a scoring occurs. After three scorings the game ends and the player with the most money is the winner.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/auu_P7W6rlXjVWJMR1hnpQ__original/img/AS8hbkJUOw6EsH7W3L12JDazpD0=/0x0/filters:format(jpeg)/pic102645.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/auu_P7W6rlXjVWJMR1hnpQ__small/img/3SkSTq65qqOU_76oVfbjptEYDic=/fit-in/200x150/filters:strip_icc()/pic102645.jpg",
+    "publishers": [
+        "Jumbo"
+    ],
+    "designers": [
+        "Wolfgang Kramer",
+        "Horst-Rainer Rösner"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": []
+    }
+}

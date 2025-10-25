@@ -1,0 +1,36 @@
+{
+    "id": 374,
+    "name": "Colorado County",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "In this unique game, players buy plots of land on a large, grass-covered board. After a random-like placement of twelve placement markers, the players simultaneously bid for cards which will allow the players to put control markers on the board in the positions indicated on the cards. However, only three cards are available, so only the top three bidders will receive a prize. As if the pressure wasn't enough, players receive a supply of bidding chips (called cowboy tiles) at the beginning of the game, which are only replenished by bidding lowest or zero (missing out on a card/placement) or by selling an owned plot (only 4 or 5 sales per game).<br/><br/>Some of the plots that the players own will score differently, depending on the timing. At the beginning of the game, border plots are the key; later in the game, control of lakes and large masses of tokens are at a premium. The scoring values vary over the 4 rounds considerably.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/AHZ4LF5zDYEkxoTYlKTKYQ__original/img/u0v_-OmQHcPCT5DI6bqpea7WHDE=/0x0/filters:format(jpeg)/pic171379.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AHZ4LF5zDYEkxoTYlKTKYQ__small/img/HhlG74m55VL9K5GrTsA4MgSAHgo=/fit-in/200x150/filters:strip_icc()/pic171379.jpg",
+    "publishers": [
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Reinhard Staupe"
+    ],
+    "artists": [
+        "Sabine Stephan",
+        "Dirk Westphal"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Simultaneous Action Selection",
+            "Tile Placement"
+        ],
+        "categories": [
+            "American West"
+        ],
+        "families": [
+            "States: Colorado"
+        ]
+    }
+}

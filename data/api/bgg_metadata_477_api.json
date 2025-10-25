@@ -1,0 +1,35 @@
+{
+    "id": 477,
+    "name": "The Broadway Game",
+    "yearpublished": "1981",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "In The Broadway Game, you're a producer engaged in the rough and tumble world of show business finance. You can take your shows out of town and come back a hit...or die on the road from bad reviews. Your investors can pull out or a union can strike your set. Your star can fall ill; you can sell the movie rights; or be rocked by scandal. It's Broadway...<br/><br/>The Broadway Game was invented in the late 1950's backstage in New York by Ernie Parmentier. Over the years it has become a cult hit, played in theater circles from New York to Hollywood. Now, in this new version presented by stage and screen star Mike Farrell, you can see what the excitement's all about!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/KdbHG9PnGUrjzTa8yhwHdA__original/img/omK04eCMailGBTq7Aww8_SYoSPw=/0x0/filters:format(jpeg)/pic693575.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KdbHG9PnGUrjzTa8yhwHdA__small/img/lYN0motKHDmezQj5XR-_5Wc0guU=/fit-in/200x150/filters:strip_icc()/pic693575.jpg",
+    "publishers": [
+        "MJ&E Productions",
+        "Tactical Studies Rules (TSR)"
+    ],
+    "designers": [
+        "Ernie Parmentier"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Roll / Spin and Move",
+            "Stock Holding"
+        ],
+        "categories": [
+            "Economic",
+            "Movies / TV / Radio theme"
+        ],
+        "families": [
+            "Cities: New York (New York, USA)",
+            "Country: USA"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": 472,
+    "name": "DungeonQuest",
+    "yearpublished": "1985",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Players explore the ruins of Castle Dragonfire trying to reach the treasure chamber in the center of the dungeon and escape alive with as much treasure as possible. A limited number of turns before the game ends puts pressure on players to take risks and score rewards because anyone left in the dungeon when time runs out dies! A tile-laying system creates the maze-like dungeon and ensures that no two games are ever exactly the same.<br/><br/>Originally published in Sweden as Drakborgen (Dragon Keep) in 1985 by Alga, a subsidiary of BRIO AB. Sold in Norway (Skatten i borgen) and Denmark (Drageborgen). Licenced to Germany (Schmidt Spiele) as Drachenhort, to Great Britain (Games Workshop) as DungeonQuest. A 2nd edition named Drakborgen Legenden was released in 2002 (never released outside Sweden). The game was re-licensed to FFG in 2010, who released the 3rd edition the same year. See the family entry for more information.<br/><br/>Expanded by:<br/><br/>    Drakborgen II (the Swedish expansion that upon Games Workshop's British release was split into the two below:)<br/>    Heroes for Dungeonquest<br/>    Dungeonquest: Catacombs<br/><br/><br/>Re-implemented by:<br/><br/>    Drakborgen Legenden<br/>    DungeonQuest (Third Edition)<br/>    DungeonQuest: Revised Edition<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/Fj9TR_aSKK5KUi1KTmc9eA__original/img/NcygNshb8fwKgOQHgjVw4_iXZoY=/0x0/filters:format(jpeg)/pic184398.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Fj9TR_aSKK5KUi1KTmc9eA__small/img/B3bqTeGfH7oxqUP0DlNz77nvXsw=/fit-in/200x150/filters:strip_icc()/pic184398.jpg",
+    "publishers": [
+        "Alga",
+        "Games Workshop Ltd.",
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Jakob Bonds",
+        "Dan Glimne"
+    ],
+    "artists": [
+        "Dave Andrews",
+        "Gary Chalk",
+        "Colin Dixon",
+        "Jes Goodwin",
+        "Anders Jeppsson",
+        "Peter Andrew Jones",
+        "Peter Jones (I)",
+        "Pete Knifton",
+        "Alastair Morrison",
+        "Bill Sedgwick",
+        "Ugurcan Yüce"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Push Your Luck",
+            "Rock-Paper-Scissors",
+            "Role Playing",
+            "Tile Placement",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Adventure",
+            "Exploration",
+            "Fantasy"
+        ],
+        "families": [
+            "Category: Dungeon Crawler",
+            "Components: Polyhedral (not D6) dice",
+            "Creatures: Dragons",
+            "Digital Implementations: VASSAL",
+            "Players: Games with Solitaire Rules",
+            "Series: Drakborgen"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": 88,
+    "name": "Torres",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Torres is an abstract game of resource management and tactical pawn movement.  Players are attempting to build up castles and position their knights to score the most points each turn.  Players have a limited supply of knights and action cards that allow special actions to be taken.  Efficient use of pieces and cards, along with a thoughtful awareness of future possibilities, is the heart of this game.<br/><br/>Torres is considered by many to be an informal member of what is referred to as the Mask Trilogy.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/vLDgCpcL-beOsC5iWfZ9ig__original/img/upBZeKEaQHY6LZS7R-hykx6a7kY=/0x0/filters:format(jpeg)/pic3515154.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vLDgCpcL-beOsC5iWfZ9ig__small/img/TPQCIaZKOl2ApBfBk0HgVjVsovw=/fit-in/200x150/filters:strip_icc()/pic3515154.jpg",
+    "publishers": [
+        "F.X. Schmid",
+        "HUCH!",
+        "ABACUSSPIELE",
+        "Devir",
+        "IDW Games",
+        "Ravensburger",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd.",
+        "Tilsit",
+        "White Goblin Games"
+    ],
+    "designers": [
+        "Michael Kiesling",
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Alessandra Cimatoribus",
+        "Michael Menzel",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Area Majority / Influence",
+            "Enclosure",
+            "Grid Movement",
+            "Hand Management",
+            "Square Grid",
+            "Three Dimensional Movement",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Medieval"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)",
+            "Components: 8 x 8 Grids",
+            "Digital Implementations: Boiteajeux",
+            "Digital Implementations: Yucata",
+            "Misc: LongPack Games",
+            "Series: The Mask Trilogy (Kramer / Kiesling)"
+        ]
+    }
+}

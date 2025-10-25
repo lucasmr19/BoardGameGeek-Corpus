@@ -1,0 +1,34 @@
+{
+    "id": 425,
+    "name": "Thunder's Edge",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "180",
+    "maxplaytime": "300",
+    "age": "12",
+    "description": "From the website<br/>Thunder's Edge is a science-fiction board game of politics, strategy and giant mecha for two to five players. Each player controls one of Earth's factions, each of which is trying to exert power over the planet Thunder's Edge. To win, players must gain the support of important lobby groups within the government, hold key locations on Thunder's Edge by military force, and fight for control of vital off-world locations.<br/><br/>from review by Nickjost:<br/>Play begins by setting up the board. The board is composed of hexes a la Settlers of Catan. These hexes are dealt out to the players who may look at them and then deploy them face down one at a time. The players then receive an initial allotment of money. They may spend this money to purchase units for the initial planet-fall. Any money that isn't spent is doubled. Opening strategies are based on buying enough infantry to hold any cities that you can know of (from the hexes dealt) and deploying those infantry to guard those cities.<br/><br/>There are also several other components. First, is the tension track. This is essentially a turn marker. Once the tension track is exhausted the game ends. There are also a few off-world locations that provide special bonuses. Military units also make use of the transit and orbit boards. Units in &quot;transit&quot; are moved to &quot;orbit&quot;. Units in &quot;orbit&quot; can be deployed to the board. This introduces a minimum one turn delay from when an item is purchased to when it can be deployed.<br/><br/>Expanded by:<br/><br/>    Thunder&#039;s Edge: Demon Canyon<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/GS8yXuAtoENWPBhbhs_sBA__original/img/g7EPkhW0ZvZ9M1ZRWj42fy_JA5U=/0x0/filters:format(jpeg)/pic82172.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GS8yXuAtoENWPBhbhs_sBA__small/img/gf4LHPqjvUOOq_VrQzN95fXKBtw=/fit-in/200x150/filters:strip_icc()/pic82172.jpg",
+    "publishers": [
+        "Fantasy Flight Games"
+    ],
+    "designers": [
+        "Christian T. Petersen"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Delayed Purchase",
+            "Modular Board",
+            "Tile Placement",
+            "Trading"
+        ],
+        "categories": [
+            "Political",
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": []
+    }
+}

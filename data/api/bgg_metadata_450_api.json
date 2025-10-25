@@ -1,0 +1,38 @@
+{
+    "id": 450,
+    "name": "Octi",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "10",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Octi is a unique abstract strategy game.   Its object is to move your pieces into your opponent's starting points.  Octi  allows for multiple jumping, capturing, and special movement of pieces.  On each move players decide whether to bring in new pieces, upgrade their existing pieces, or move a piece.  The choices in this game are staggering and each move presents and entire new way of thinking about the game.  There is a 4 player teams variant that is included in the rules.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/bewY-dF4QP6v69Zx-85OWQ__original/img/_8lS-RMOvYtF4ipOVa7WhKAZHYY=/0x0/filters:format(jpeg)/pic818066.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bewY-dF4QP6v69Zx-85OWQ__small/img/81SQZ6gZtLbociMITkBflio4_aE=/fit-in/200x150/filters:strip_icc()/pic818066.jpg",
+    "publishers": [
+        "FoxMind",
+        "Great American Trading Company",
+        "Heidelberger Spieleverlag"
+    ],
+    "designers": [
+        "Don Green (I)"
+    ],
+    "artists": [
+        "(Uncredited)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Square Grid"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Components: 9 x 9 Grids",
+            "Components: Wooden pieces & boards"
+        ]
+    }
+}

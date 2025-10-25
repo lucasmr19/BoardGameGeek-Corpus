@@ -1,0 +1,56 @@
+{
+    "id": 163,
+    "name": "Balderdash",
+    "yearpublished": "1984",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "A clever repackaging of the parlor game Dictionary, Balderdash contains several cards with real words nobody has heard of.  After one of those words has been read aloud, players try to come up with definitions that at least sound plausible, because points are later awarded for every opposing player who guessed that your definition was the correct one.<br/><br/>Versions of the game as a parlor game go back at least as far as 1970, although Balderdash itself was not published until 1984.<br/><br/>Mattel, Inc. republished Balderdash in 2006 in a form that derives its gameplay from the sequel Beyond Balderdash.<br/><br/>Re-implemented by:<br/><br/>    Beyond Balderdash / Absolute Balderdash<br/>    Kokkelimonke Jubileum<br/><br/><br/>Re-implements:<br/><br/>    Beyond Balderdash*<br/><br/><br/><br/>    In a peculiar situation, this game was reimplemented by Beyond/Absolute Balderdash and then combined back into the original title (Balderdash) but with the rules and cards from Beyond/Absolute; while Tactic re-published their version of Beyond/Absolute combined with the original Balderdash and called it Kokkelimonke Jubileum.<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/hXNqiCcLt9AJzcqBSsyKiQ__original/img/77EMP3lRlpwjMTGP1cHQqv7w5lk=/0x0/filters:format(jpeg)/pic5121000.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hXNqiCcLt9AJzcqBSsyKiQ__small/img/z9TNjpF6z2JxYMWRDtsF958SX8A=/fit-in/200x150/filters:strip_icc()/pic5121000.jpg",
+    "publishers": [
+        "Canada Games Company Lmt.",
+        "(Unknown)",
+        "Casper",
+        "Drumond Park Ltd.",
+        "The Game Works, Inc.",
+        "The Games Gang, LTD",
+        "Hasbro",
+        "Mattel, Inc.",
+        "Milton Bradley",
+        "Parker Brothers",
+        "Schmidt Spiele",
+        "Tactic",
+        "Target Games",
+        "Vaka-Helgafell",
+        "Ventura Games",
+        "Western Publishing Company",
+        "Weston Group"
+    ],
+    "designers": [
+        "Laura Robinson",
+        "Paul Toyne"
+    ],
+    "artists": [
+        "Búi Kristjánsson"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Paper-and-Pencil",
+            "Voting"
+        ],
+        "categories": [
+            "Bluffing",
+            "Party Game",
+            "Word Game"
+        ],
+        "families": [
+            "Game: Balderdash",
+            "Mechanism: Give a Clue / Get a Clue",
+            "Misc: Dice Tower Hall of Fame",
+            "Traditional Games: Dictionary"
+        ]
+    }
+}

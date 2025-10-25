@@ -1,0 +1,49 @@
+{
+    "id": 382,
+    "name": "Heimlich & Co.",
+    "yearpublished": "1984",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "The game board in Heimlich &amp; Co. is an oval movement track, with points allocated to the various spaces. Seven differently colored &quot;spies&quot; are placed on the board. On a player's turn, they roll a die, then move any combination of characters forward that number of spaces. The newly-moved spies then score points based on their new location. However, the trick here is that each player's color isn't known until the end of the game, so players are encouraged to deduce which color belongs to whom.<br/><br/>Heimlich &amp; Co. includes advanced rules which allow players to score more points at the end of the game for correctly guessing everyone's identity.<br/><br/>(&quot;Heimlich&quot;, by the way, is a German adjective meaning secretly or slyly.)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/QsCxE_M4m867EjIRf8JKng__original/img/DZXsDJUVb07gukb6I5f3EQXDmwI=/0x0/filters:format(jpeg)/pic4510070.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QsCxE_M4m867EjIRf8JKng__small/img/hvkRDCStxLmdF_6WZa41ffyG75Y=/fit-in/200x150/filters:strip_icc()/pic4510070.jpg",
+    "publishers": [
+        "Edition Perlhuhn (Göttinger Spiele)",
+        "Ravensburger",
+        "999 Games",
+        "AMIGO",
+        "Discovery Toys",
+        "Diset S. A.",
+        "Egmont Polska",
+        "Grow Jogos e Brinquedos",
+        "Majora",
+        "Otto Maier Verlag",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Oliver Freudenreich",
+        "Sławomir Kiełbus",
+        "Dietrich Lange",
+        "Matthias Wittig"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hidden Roles",
+            "Roll / Spin and Move",
+            "Track Movement"
+        ],
+        "categories": [
+            "Bluffing",
+            "Spies / Secret Agents"
+        ],
+        "families": [
+            "Containers: Tubes"
+        ]
+    }
+}

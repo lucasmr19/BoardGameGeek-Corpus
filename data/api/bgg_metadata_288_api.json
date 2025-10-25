@@ -1,0 +1,34 @@
+{
+    "id": 288,
+    "name": "Rossyïa 1917",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "300",
+    "maxplaytime": "300",
+    "age": "0",
+    "description": "&quot;Rossy&iuml;a 1917&quot; is a Strategic level mid-high complexity board-wargame of the Russian Civil War 1917-1922. It covers the military aspect of the civil war at an operational level. Units are brigades and divisions, rated for steps, combat, movement and shock (quality) value. The full-color map covers Russia from the Polish border to the Siberian plains, superimposed with a hexagonal grid, each hexagon representing 25 miles.<br/><br/>The game is played by players alternating HQ units and using them to perform various actions, including moving military units and initiating combat. Rules cover shock combat, political events, rail movement, naval movement, air power, tanks, armored trains, reserves and more.<br/><br/>Game consists of 37 pages of rules, 2 maps measuring 80cm by 60 cm, over 1000 counters and numerous charts.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/yVNnspfvI_1tSVsZPnpE3w__original/img/gwxQwGFb7boFDOmERC1pCLSN-oE=/0x0/filters:format(jpeg)/pic49238.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yVNnspfvI_1tSVsZPnpE3w__small/img/b3oMBkgT5m_5WeQpAcCCU_mFBHk=/fit-in/200x150/filters:strip_icc()/pic49238.jpg",
+    "publishers": [
+        "Azure Wish Enterprise (AWE)"
+    ],
+    "designers": [
+        "François-Stanislas Thomas"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Hexagon Grid"
+        ],
+        "categories": [
+            "Civil War",
+            "Wargame"
+        ],
+        "families": [
+            "History: Russian Civil War",
+            "Misc: Championnat de France de Wargame",
+            "Players: Wargames with Rules Supporting Only Two Players"
+        ]
+    }
+}

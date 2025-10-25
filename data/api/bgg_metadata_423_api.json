@@ -1,0 +1,41 @@
+{
+    "id": 423,
+    "name": "1856: Railroading in Upper Canada from 1856",
+    "yearpublished": "1995",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "300",
+    "maxplaytime": "300",
+    "age": "14",
+    "description": "This 18xx game takes the basic mechanics from Tresham's 1829, and adds several new elements. Players seek to make the most money by buying and selling stock in various rail companies located on an map of eastern Canada. The board itself is actually a fairly abstract hexagonal system, with track tiles placed on top of the hexes. Players buy and sell stock in various share companies, whose actions are controlled by the majority stockholder. The stock manipulation aspect of the game is widely-regarded as one of the best. Plus each 18xx title adds new and different elements to the game.<br/><br/>This game features the formation of the Canadian Government Railroad, and government loans as well as major obstacles for railroad growth. A game is finished when the bank runs out of money or one player goes bankrupt, and the player with the greatest personal holdings wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/zqZhLWMGNSHmWtRTWHEKYQ__original/img/73fmUuEnpamo0BpxdvoSTJ-eFKM=/0x0/filters:format(jpeg)/pic159311.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zqZhLWMGNSHmWtRTWHEKYQ__small/img/KBxyJcHzMCCUQ5JaVQaFjeE35A8=/fit-in/200x150/filters:strip_icc()/pic159311.jpg",
+    "publishers": [
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Bill Dixon"
+    ],
+    "artists": [
+        "John Kamacher",
+        "Mike Russo",
+        "Chris Vande Voort"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Network and Route Building",
+            "Stock Holding",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Economic",
+            "Trains"
+        ],
+        "families": [
+            "Country: Canada",
+            "Digital Implementations: 18xx.games",
+            "Series: 18xx"
+        ]
+    }
+}

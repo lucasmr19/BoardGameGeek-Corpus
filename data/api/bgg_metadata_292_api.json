@@ -1,0 +1,38 @@
+{
+    "id": 292,
+    "name": "Attacke",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Themed as a joust of knights, Attacke is a simple card laying contest. The cards are in 5 colors and are numbered 2,3,4,5, &amp; 7. From a hand of five, a player lays one or more cards of one color, declares the total value, and draws one card. Following players must lay cards to beat that total in that color to stay in the round. If you can't or choose not to play, you're out and draw a final card. The round continues with players adding more cards to their total or dropping out until one player remains and that player takes a token in that color. There are joker cards (shields) of 7 or 10. First to win 4 out of the 5 colored tokens, wins the game.<br/><br/>Ridiculously simple and really great fun. Do you contest this color seriously, or throw some cards down just to draw a color you need?<br/><br/>Re-implemented by:<br/><br/>    Ivanhoe<br/>    Gem Dealer<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/LnXhHhrX_e7V2yCXC6_l0Q__original/img/ZT6bjlaLOOX6696LpdbqqdsGZzw=/0x0/filters:format(png)/pic5295425.png",
+    "thumbnail": "https://cf.geekdo-images.com/LnXhHhrX_e7V2yCXC6_l0Q__small/img/G2fvr8_gMQuJZ96BshT0XgYOe_k=/fit-in/200x150/filters:strip_icc()/pic5295425.png",
+    "publishers": [
+        "asmodee",
+        "cosaic",
+        "F.X. Schmid",
+        "Group SNE"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "M. Dostler",
+        "Jun Suemi"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Hand Management",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game",
+            "Medieval"
+        ],
+        "families": []
+    }
+}

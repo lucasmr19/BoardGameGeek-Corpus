@@ -1,0 +1,43 @@
+{
+    "id": 165,
+    "name": "Black Box",
+    "yearpublished": "1977",
+    "minplayers": "1",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "10",
+    "description": "Black Box  or &quot;KO-code&quot; is a puzzle game in which one player creates a puzzle by secretly choosing the positions of 4-5 marbles on a 8x8 grid.   The other player tries to guess their positions by shooting 'rays' into the grid and seeing how they bounce around.  The player requiring the fewest rays to solve a puzzle wins.<br/><br/>The German First Edition was named LOGO but the LEGO-Company was not amused with this Title and thought there will be a possibility of confusion. So PARKER renamed the Second Editon to ORDO.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/6v94O3LyEQ-unURDnxnPHA__original/img/Rv_zXH3fmXE-0j_MMKeJ-UNi2XQ=/0x0/filters:format(jpeg)/pic23902.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6v94O3LyEQ-unURDnxnPHA__small/img/RO4A6COfo-WQvFJUvXpCdSLHVWM=/fit-in/200x150/filters:strip_icc()/pic23902.jpg",
+    "publishers": [
+        "Alga",
+        "Capiépa Éditeur: Jeux Éducatifs",
+        "Clipper",
+        "franjos Spieleverlag",
+        "MB Spiele",
+        "Parker Brothers",
+        "Waddingtons"
+    ],
+    "designers": [
+        "Eric Solomon"
+    ],
+    "artists": [
+        "Franz-Josef Schulte"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Deduction",
+            "Secret Unit Deployment"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Deduction",
+            "Puzzle"
+        ],
+        "families": [
+            "Components: Marbles",
+            "Players: Games with Solitaire Rules"
+        ]
+    }
+}

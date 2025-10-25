@@ -1,0 +1,39 @@
+{
+    "id": 72,
+    "name": "Verräter",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "This board game masquerading as a card game is about a conflict between two factions, the Rose and the Eagle. In each turn, players attempt to change the allegiance of one land district, contributing power cards to swing the conflict in their favor. Players also choose roles such as Diplomat, Traitor, and Builder that give them special abilities for that turn. The most potentially devastating role is that of the Verr&auml;ter, or Traitor, which allows the player to change allegiances just as the conflict begins. Points are awarded for winning over districts, for taking certain roles, and for building counting-houses.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/0czKv-oPkqJri0VU0EZyAw__original/img/_RC6HgACmqqYqASo7PGm-wS8oc4=/0x0/filters:format(jpeg)/pic172332.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0czKv-oPkqJri0VU0EZyAw__small/img/oABiy9s37p_eZFDKRKOBeZIigoQ=/fit-in/200x150/filters:strip_icc()/pic172332.jpg",
+    "publishers": [
+        "Adlung-Spiele",
+        "New Games Order, LLC"
+    ],
+    "designers": [
+        "Marcel-André Casasola Merkle"
+    ],
+    "artists": [
+        "Marcel-André Casasola Merkle"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Modular Board",
+            "Open Drafting",
+            "Team-Based Game",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Card Game",
+            "Political"
+        ],
+        "families": [
+            "Digital Implementations: BrettspielWelt"
+        ]
+    }
+}

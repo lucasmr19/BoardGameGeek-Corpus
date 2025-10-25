@@ -1,0 +1,36 @@
+{
+    "id": 164,
+    "name": "Before I Kill You, Mister Spy...",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Before I Kill You, Mr. Bond is a silly, stupid game straight from the Cheapass Games playbook. In it, players take on the role of villains building their remote fortresses and capturing secret agents. When one is captured, he can be killed right away, but what's the fun in that? The real points come when you slowly reveal your secret plan to him &mdash; or leave him to be eaten by sharks. Of course, that's where the risk is, too, and the longer you postpone the kill, the greater the likelihood that another player will produce a card that allows the agent to escape and destroy your fortress.<br/><br/>Reissued in color in 2004 as James Ernest's Totally Renamed Spy Game (with many more cards), then reissued again in 2016 as Before I Kill You, Mister Spy...<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CMYnGVcqpdlN8D8Fi64Dpg__original/img/MkRBpDEL4Hw-81uG-IvH9ZHLsk0=/0x0/filters:format(jpeg)/pic3051016.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CMYnGVcqpdlN8D8Fi64Dpg__small/img/7rrSNbVpY5TOPBax-G6Pj4DesDA=/fit-in/200x150/filters:strip_icc()/pic3051016.jpg",
+    "publishers": [
+        "Cheapass Games"
+    ],
+    "designers": [
+        "James Ernest"
+    ],
+    "artists": [
+        "James Ernest",
+        "Cheyenne Wright"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Push Your Luck"
+        ],
+        "categories": [
+            "Card Game",
+            "Spies / Secret Agents"
+        ],
+        "families": [
+            "Books: James Bond",
+            "Misc: Self-Referential Games"
+        ]
+    }
+}

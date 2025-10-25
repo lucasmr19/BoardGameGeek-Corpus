@@ -1,0 +1,36 @@
+{
+    "id": 272,
+    "name": "Downtown",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Taking a fairly common theme, this game is about building three types of neighborhoods in a developing city.  Each turn one or two blocks will get zoned, based on the players' votes.  Once all four properties in a block have been bought and the block has been zoned, its base score is the number of completed blocks adjoining it.  However, there are serious multipliers (positive and negative) for locating certain types of developments next to each other.<br/><br/>1st Place 1996 Hippodice Spieleautorenwettbewerb (as Boomtown).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/LnK_2616-meuaGuFmu_vfg__original/img/9QCs3dv7LUhp2aTFYIegtfJSj0E=/0x0/filters:format(jpeg)/pic151023.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LnK_2616-meuaGuFmu_vfg__small/img/2IWshktk69llbhbqz4wM2_P0Ejk=/fit-in/200x150/filters:strip_icc()/pic151023.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Grünspan-Spiele"
+    ],
+    "designers": [
+        "Bernhard Weber"
+    ],
+    "artists": [
+        "Sascha Krämer",
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection",
+            "Tile Placement",
+            "Voting"
+        ],
+        "categories": [
+            "City Building",
+            "Negotiation"
+        ],
+        "families": []
+    }
+}

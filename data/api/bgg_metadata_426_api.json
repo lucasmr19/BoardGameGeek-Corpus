@@ -1,0 +1,48 @@
+{
+    "id": 426,
+    "name": "The Battle of the Bulge",
+    "yearpublished": "1981",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "The Battle of the Bulge is an historically correct re-creation of the famous World War II campaign of the same name.  The 101st Airborne Division is hopelessly encircled at Bastogne. The German commander demands surrender. General Anthony McAuliffe replies to the demand with one simple word &quot;Nuts!&quot;.<br/><br/>The game's scale is 3.2 km (2 miles) per hex; 12 hours per turn. Units are regiments and brigades. 377 Counters (including blanks)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/TBQyIGo5RPWgIExDtQXs_w__original/img/BiM-HfsKSJ4aW7RKRahElwpK5Hc=/0x0/filters:format(jpeg)/pic771975.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TBQyIGo5RPWgIExDtQXs_w__small/img/FQKtGSqETcmR_G40vYGScK5IiMg=/fit-in/200x150/filters:strip_icc()/pic771975.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Bruno Sinigaglio",
+        "Mick Uhl"
+    ],
+    "artists": [
+        "Jean Baer",
+        "Rodger B. MacGowan",
+        "Dale Sheaffer",
+        "Mick Uhl"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Movement Points",
+            "Simulation",
+            "Zone of Control"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Country: Belgium",
+            "History: World War II (Battle of the Bulge)",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players",
+            "War Battlespace: Land warfare",
+            "War Level of Command: Operational"
+        ]
+    }
+}

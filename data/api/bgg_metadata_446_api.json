@@ -1,0 +1,36 @@
+{
+    "id": 446,
+    "name": "Avalanche",
+    "yearpublished": "1965",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Players take turns dropping their marbles down the channels of the game, trying to get as many marbles as possible to fall out the bottom.  Impeding the motion of the marbles are several plastic gates.  The gates catch the first marble that hits their top (subsequent marbles roll off) and swing back and forth when a marble hits their base.  Using logic, players deduce which way the gates will move when they drop their marble, and try to make a move that results in the most marbles making it to the bottom of the game (or that blocks a potentially good move by their opponent).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/6Gwob4FqzWcPHRgsIthFrA__original/img/FiCULptz4aO9qHqgWONzPtdbZH0=/0x0/filters:format(jpeg)/pic860210.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6Gwob4FqzWcPHRgsIthFrA__small/img/rXla7Iev39IuXw8KO9XwIwSyizE=/fit-in/200x150/filters:strip_icc()/pic860210.jpg",
+    "publishers": [
+        "Hasbro",
+        "Lakeside",
+        "MB Spiele",
+        "Milton Bradley",
+        "Parker Brothers"
+    ],
+    "designers": [
+        "Frank W. Sinden"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Abstract Strategy",
+            "Action / Dexterity",
+            "Children's Game"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Components: Marbles"
+        ]
+    }
+}

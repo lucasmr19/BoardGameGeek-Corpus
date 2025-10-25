@@ -1,0 +1,44 @@
+{
+    "id": 353,
+    "name": "Inkognito: The Card Game",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "20",
+    "maxplaytime": "30",
+    "age": "11",
+    "description": "It is Carnival in Venice, and you are seeking your partner, one of three other world famous secret agents.  Your mission is to make contact with that agent and trade information that will allow the two of you to break into a safe containing the last known whereabouts of a mysterious figure known only as &quot;the Grand Old Man.&quot;  But beware, for another team of agents has been sent to Venice as well, to steal the information before you, and one mistake could cost you your life...<br/><br/>In INKOGNITO: THE CARD GAME, each player is assigned the role of one of four secret agents: Lord Fiddlebottom, Colonel Bubble, Agent X or Madame Zsa Zsa, and must deduce who the other players are by arranging meetings with them to share tidbits of information.  The players may also meet up with &quot;the Ambassador&quot; to gain valuable knowledge about the other spies.  The first player to deduce the identities of the other agents and meet up with their partner wins the game.<br/><br/>INKOGNITO: THE CARD GAME is a deductive card game of secrets, lies, and investigation for 2-5 players, playable in 2-30 minutes.<br/><br/>Re-implements:<br/><br/>    Inkognito<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/ObrWfB0VE8vEIhh_xUUUqQ__original/img/9cuaEVhdMDNCNtvlsx4AwN_0lXs=/0x0/filters:format(jpeg)/pic194865.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ObrWfB0VE8vEIhh_xUUUqQ__small/img/LVuunDBIkWPnsPEevJ9kI37KqeI=/fit-in/200x150/filters:strip_icc()/pic194865.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Fantasy Flight Games",
+        "Venice Connection"
+    ],
+    "designers": [
+        "Leo Colovini",
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Camille Kuo",
+        "Scott Nicely",
+        "Brian Schomburg"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game",
+            "Deduction",
+            "Murder / Mystery"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Cities: Venice (Veneto, Italy)",
+            "Country: Italy",
+            "Series: Fantasy Flight Silver Line",
+            "Versions & Editions: Card Versions of Non-Card Games"
+        ]
+    }
+}

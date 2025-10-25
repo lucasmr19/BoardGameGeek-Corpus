@@ -1,0 +1,35 @@
+{
+    "id": 57,
+    "name": "Schoko & Co.",
+    "yearpublished": "1987",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "13",
+    "description": "Schoko &amp; Co is all about producing chocolate in order to make money. Players are chocolate barons who have to contend with every element of the business from production to sales. Buy cocoa, convert it into chocolate and then sell it at sales meetings to big distributors, all along financing the staff and labor to pull it all off. Whoever is the most efficient gets the most money and the win.<br/><br/>Ambition is the title of the French language edition by the same publisher.<br/><br/>A winner of the 1986 Concours International de Créateurs de Jeux de Société.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/DQL64DCpR-D612hTvpYdpQ__original/img/3jTDrRsy4LO2MHB_4f4QMW4LV20=/0x0/filters:format(jpeg)/pic1378439.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DQL64DCpR-D612hTvpYdpQ__small/img/LqRwRBe_xeU11ptXUXjuxWEfRfE=/fit-in/200x150/filters:strip_icc()/pic1378439.jpg",
+    "publishers": [
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Yves Hirschfeld",
+        "Gilles Monnet"
+    ],
+    "artists": [
+        "(Uncredited)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Commodity Speculation"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Food & Drink: Chocolate"
+        ]
+    }
+}

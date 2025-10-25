@@ -1,0 +1,41 @@
+{
+    "id": 44,
+    "name": "David & Goliath",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "This game adds a very interesting twist to the standard trick-taking genre.  There are five suits and players must follow suit, if they can.  However, the winner of the trick is the highest card played, regardless of suit.  The winner gets all the cards from the trick, minus the card he won it with.  That card is given to the player that played the lowest card.  After all tricks have been played, the scoring begins.  Players score the face-value of the cards in the suits that they only collected one or two of, and one point per card for suits with more than two.  The player with the most points after a number of hands wins the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/XTkkx0j13h77fnCG7mYI3A__original/img/a08G83lXvnLaMCgSA9cExpDTvII=/0x0/filters:format(jpeg)/pic359902.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XTkkx0j13h77fnCG7mYI3A__small/img/XCpA1Xdr0NDRTZ9dt1ZnXFQzR3o=/fit-in/200x150/filters:strip_icc()/pic359902.jpg",
+    "publishers": [
+        "Berliner Spielkarten",
+        "Pegasus Spiele",
+        "Playroom Entertainment",
+        "Wargames Club Publishing"
+    ],
+    "designers": [
+        "Reinhard Staupe"
+    ],
+    "artists": [
+        "Alexander Bradley",
+        "Oliver Freudenreich"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game",
+            "Children's Game",
+            "Religious"
+        ],
+        "families": [
+            "Animals: Mice",
+            "Religious: The Bible"
+        ]
+    }
+}

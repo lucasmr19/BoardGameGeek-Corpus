@@ -1,0 +1,40 @@
+{
+    "id": 200,
+    "name": "Entdecker",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "[Careful: there are two similar games with Entdecker in the title. Don't confuse Entdecker with Die Neuen Entdecker (also known as Entdecker: Exploring New Horizons), a different game. In short - if your Entdecker's board has a scout trail leading to native huts, it's not this Entdecker.]<br/><br/>Entdecker starts with a blank game board that represents an unexplored sea. Tiles are drawn and placed on squares on the board. As the tiles are placed islands develop on the board and players pay to place settlements, bases, or scouts on these islands in an effort to become the most powerful discoverer of all. Completed islands yield victory points to all who have invested in exploration on an island, but of course the most points go to the player who has established the strongest presence.<br/><br/>Re-implemented by:<br/><br/><br/>     Die Neuen Entdecker or Entdecker: Exploring New Horizons<br/><br/><br/><br/>     In 2004, a smaller version of the Entdecker game was released, based on the online version available on the <a target='_blank' href=\"http://www.playcatan.de\" rel=\"nofollow noreferrer noopener\">www.playcatan.de</a> site.<br/>         Oceania.<br/>    <br/><br/><br/><br/>     In 2007, the game system was revamped in a new &quot;Entdecker&quot;-series of 3 titles (so far):<br/>         Im Reich der Jadegottin (published 2007)<br/>         Im Reich der Wüstensohne (published 2008)<br/>         Im Reich der D&auml;monen (not yet published)<br/>    <br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/qXUTaJxFGRqX1G9hCHv_vQ__original/img/oJSgPjr_NK-mhNNduhd0PKs3H_E=/0x0/filters:format(jpeg)/pic194144.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qXUTaJxFGRqX1G9hCHv_vQ__small/img/roUGcOtYQxZXvdZvZEnp5t_tFrM=/fit-in/200x150/filters:strip_icc()/pic194144.jpg",
+    "publishers": [
+        "999 Games",
+        "Goldsieber Spiele",
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Andreas Steiner",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Modular Board",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Exploration"
+        ],
+        "families": [
+            "Components: Map (Regional scale)",
+            "History: Age of Discovery",
+            "Occupation: Adventurer / Explorer"
+        ]
+    }
+}

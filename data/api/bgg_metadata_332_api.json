@@ -1,0 +1,36 @@
+{
+    "id": 332,
+    "name": "Vernissage",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "A variety of components and a long rules set make this game seem difficult, but it's an interesting auction game as players try to promote certain artists and their works.<br/><br/>Roll the special die, choose a Fate counter to place against an artist, bringing them in or out of favour. Play cards to move the artist up the steps in the gallery. Damage an artist's reputation by placing the Critic's feather against them. Player's can object or contest the Fate counters, using cash cards.<br/><br/>When an artist is IN, the players earn money if they own the artist's paintings. But when an artist is OUT, the artist is chucked out, but their paintings remain in the game. And artists can earn a Great or Small Vernissage if it's highest on the stairs, moving the artist IN.<br/><br/>The game ends on various conditions, and the players cash up the values of their paintings, paying back any loans they took, most cash wins.<br/><br/>An odd mixture of mechanisms, but it does work, providing an entertaining auction and placement game, with a struggle to bring your proteges out on top.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Rnpw8lV8x9uGfG_CJqsYkg__original/img/9MYcp9a7A8xrMHspnxT_MW4a14c=/0x0/filters:format(jpeg)/pic217022.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Rnpw8lV8x9uGfG_CJqsYkg__small/img/Xi-9otWrKQWb8XA_kGAIVGRmEBg=/fit-in/200x150/filters:strip_icc()/pic217022.jpg",
+    "publishers": [
+        "TM Spiele"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Commodity Speculation",
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Economic",
+            "Negotiation"
+        ],
+        "families": [
+            "Theme: Art"
+        ]
+    }
+}

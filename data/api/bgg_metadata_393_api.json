@@ -1,0 +1,46 @@
+{
+    "id": 393,
+    "name": "Dinosaurs of the Lost World",
+    "yearpublished": "1987",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "8",
+    "description": "One of Avalon Hill&#039;s family games that appeals to gamers as well.  Players control different expeditions which they equip to explore the Lost World.  Victory is achieved through finding various species of dinosaurs and collecting specimens.  The game comes with a modular board to ensure that no two games are alike, and lots of dinosaur stand-up pieces.  One of the most entertaining parts of the game occurs when a dinosaur chases an expedition back to base camp!<br/><br/><br/>This Avalon Hill game has features beyond most family games that appeals to strategy gamers and increase replayability.  First, the board is modular; the location of all the dinosaur sites and required items is completely random every game.  This sort of feature, unusual before the German games of the 90's, puts Dinosaurs of the Lost World years ahead of its time.<br/><br/>Second, players may influence and interact with other players both indirectly by moving dinosaurs in their path or directly by either trading items amicably or attacking their expedition mercilessly.<br/><br/>Third-The sharp limits set out in the rules on weapons and ammunition force the players to pick their battles carefully and makes each dinosaur encounter thrilling and high stakes.  Followed strictly, the rules give the dinosaurs a real possibility of winning a combat and requires strategic planning from players if they hope to avoid being chased right out of the game.<br/><br/>Fourth- The consequences of losing a dinosaur combat are serious.  During the chase you may lose one or more useful tools and even victory points.  Once you escape from the dinosaur, you are returned to camp and lose your next turn.  Because actions that can be taken in camp are somewhat limited, a lost dinosaur battle completely knocks out one turn and diminishes what can be accomplished in two additional turns.<br/><br/>Finally- The game has excellent style.  The dinosaur areas are displayed in a unique &ldquo;comic book&rdquo; format, allowing for great enjoyment and immersion from all players regardless of age.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/m4xbOcRLX3gHyRWiIFZzFA__original/img/tQh3Zt-oHeMXZU0N4pOkT3zyNvY=/0x0/filters:format(jpeg)/pic675608.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/m4xbOcRLX3gHyRWiIFZzFA__small/img/iCyZq25wQU2W13uliDCXZ1VKkWA=/fit-in/200x150/filters:strip_icc()/pic675608.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Mick Uhl"
+    ],
+    "artists": [
+        "James Talbot"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Events",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Modular Board",
+            "Open Drafting",
+            "Race",
+            "Trading",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Adventure",
+            "Animals",
+            "Novel-based",
+            "Prehistoric",
+            "Science Fiction"
+        ],
+        "families": [
+            "Animals: Dinosaurs",
+            "Digital Implementations: VASSAL"
+        ]
+    }
+}

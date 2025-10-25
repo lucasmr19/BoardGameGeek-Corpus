@@ -1,0 +1,44 @@
+{
+    "id": 255,
+    "name": "Jena-Auerstadt: The Battle for Prussia, 14 October 1806",
+    "yearpublished": "1975",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "150",
+    "maxplaytime": "150",
+    "age": "12",
+    "description": "Extrapolated from a short review written by Francois Charton for the SPI Compendium<br/><br/>A small mini-game picturing the twin battles of October 1806, about 100 counters (a little less in fact), one half regular size map, representing the two battlefields, connected by a series of off-map movement boxes. Game takes about 10 minutes to learn and 1-2 hours to play, high solitaire playability.  The rules are as simple as possible. Units have Zones of control, which cannot be exited. When in enemy ZOC, combat is mandatory. Units may advance after combat. Retreats through ZOCs are forbidden, so you need to surround the enemy to eliminate him. Artillery may fire two hexes away (and not suffer from adverse results). Cavalry units are just faster and weaker infantry units .  There are two scenarios.  The historical one pictures Napoleon in Jena, outnumbering the Prussians, and Davout in Auerstadt, outnumbered by other Prussians. ). To win, you have to eliminate as many enemy units as possible at the end of the game (thus demoralizing the enemy).  The second &quot;what-if&quot; scenario assumes that all the Prussians have been sent to Jena, for the decisive battle. Davout will enter as reinforcement, on the flank/back of the Prussians, but in the end of the game.  Play balance to be pretty good, perhaps slightly favoring  the French.<br/><br/>One on four games included in the Napoleon At War QuadriGame.  The games in this set are based on the Napoleon At Waterloo system.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/1B-P640LP-rFqwxdH2E2zg__original/img/LXACR04bZkJWvGBSUvs5_37BYPw=/0x0/filters:format(png)/pic8397374.png",
+    "thumbnail": "https://cf.geekdo-images.com/1B-P640LP-rFqwxdH2E2zg__small/img/In47jZ-Y20ycFCaPpMxqEOGtGgg=/fit-in/200x150/filters:strip_icc()/pic8397374.png",
+    "publishers": [
+        "Hobby Japan",
+        "Kokusai-Tsushin Co., Ltd. (国際通信社)",
+        "SPI (Simulations Publications, Inc.)"
+    ],
+    "designers": [
+        "Tom Walczyk"
+    ],
+    "artists": [
+        "Redmond A. Simonsen",
+        "Horace Vernet"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Ratio / Combat Results Table",
+            "Zone of Control"
+        ],
+        "categories": [
+            "Napoleonic",
+            "Wargame"
+        ],
+        "families": [
+            "Cities: Auerstedt (Thuringia, Germany)",
+            "Cities: Jena (Thuringia, Germany)",
+            "Country: Prussia",
+            "Players: Two-Player Only Games",
+            "Series: Napoleon At Waterloo (SPI)"
+        ]
+    }
+}

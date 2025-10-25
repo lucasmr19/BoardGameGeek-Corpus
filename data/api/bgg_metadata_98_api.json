@@ -1,0 +1,55 @@
+{
+    "id": 98,
+    "name": "Axis & Allies",
+    "yearpublished": "1981",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "Axis and Allies is the most successful of Milton Bradley&#039;s Gamemaster series.<br/><br/>It depicts WWII on a grand scale, full global level. Up to five players can play on two different teams. The Axis which has Germany and Japan, and the Allies which has the USA, the United Kingdom, and the USSR. A full map of the world is provided, broken up in various chunks similar to Risk. The game comes with gobs of plastic miniatures that represent various military units during WWII.  Players have at their disposal infantry, armor, fighters, bombers, battleships, aircraft carriers, submarines, troop transports, anti-air guns, and factories. All of the units perform differently and many have special functions. Players have to work together with their teammates in order to coordinate offenses and decide how best to utilize their production points. Players also have the option of risking production resources on the possibility of developing a super technology that might turn the tide of war.<br/><br/>Axis and Allies was originally published by Nova Games in 1981.<br/><br/>Re-implemented by:<br/><br/>    Axis & Allies Anniversary Edition<br/>     Axis &amp; Allies: Global 1940 (Axis & Allies: Pacific 1940 combined with Axis & Allies: Europe 1940)<br/><br/><br/>Expanded by:<br/><br/>    Totally Untested Volume 2 of Max's Advanced Rules for Axis & Allies (Unofficial expansion)<br/>    Conquest of the Pacific (Unofficial expansion)<br/>    Midway (Unofficial expansion)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__original/img/-mqPeX0oe4pkmLxBNyRt3uGyyf0=/0x0/filters:format(jpeg)/pic24006.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__small/img/T03oThwiFNU19-9XppxmcQ7_rMs=/fit-in/200x150/filters:strip_icc()/pic24006.jpg",
+    "publishers": [
+        "Jedko Games",
+        "Milton Bradley",
+        "Nova Game Designs",
+        "PewterCraft"
+    ],
+    "designers": [
+        "Larry Harris, Jr."
+    ],
+    "artists": [
+        "Jim Butcher (II)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling",
+            "Minimap Resolution",
+            "Stat Check Resolution",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Economic",
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)",
+            "Components: Map (Global Scale)",
+            "Components: Miniatures",
+            "Country: Germany",
+            "Country: Japan",
+            "Country: Soviet Union",
+            "Country: United Kingdom",
+            "Country: USA",
+            "Digital Implementations: VASSAL",
+            "Game: Axis & Allies (Avalon Hill)",
+            "Misc: Dice Tower Hall of Fame",
+            "Region: The World",
+            "Series: Gamemaster (Milton Bradley)",
+            "Theme: Nuclear option"
+        ]
+    }
+}

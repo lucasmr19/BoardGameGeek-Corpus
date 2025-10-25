@@ -1,0 +1,43 @@
+{
+    "id": 335,
+    "name": "Breakthru",
+    "yearpublished": "1965",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "10",
+    "description": "Part of the 3M Bookshelf Series.<br/><br/>Breakthru is a modern member of the Hnefatafl family of games, where the players have unequal forces and different objectives. One player, commanding a gold fleet consisting of one large flagship and 12 escorts, has the objective of evading capture while aggressively trying to break through his opponent's blockade in order to escort his flagship to safety. His opponent, commanding a silver fleet attempts to create an impenetrable blockade and then strategically outmaneuver and destroy the gold fleet's escorts with the objective of capturing the flagship and winning the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/FL2r5AbkROsC_NwO5A-xzA__original/img/Rqkx0DJt4n-EWdARgd_zqY2EEBg=/0x0/filters:format(jpeg)/pic119969.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FL2r5AbkROsC_NwO5A-xzA__small/img/PMXv6yuxZWyxn82S_v56CHmm_7o=/fit-in/200x150/filters:strip_icc()/pic119969.jpg",
+    "publishers": [
+        "3M",
+        "The Game Crafter, LLC",
+        "NewVenture Games"
+    ],
+    "designers": [
+        "Alex Randolph"
+    ],
+    "artists": [
+        "(Uncredited)",
+        "David McCord"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Nautical"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Components: 11 x 11 Grids",
+            "Digital Implementations: TableTop Simulator Mod (TTS)",
+            "Digital Implementations: VASSAL",
+            "Players: Two-Player Only Games",
+            "Series: 3M Bookshelf Series",
+            "Traditional Games: Tafl"
+        ]
+    }
+}

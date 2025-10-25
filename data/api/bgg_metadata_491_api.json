@@ -1,0 +1,43 @@
+{
+    "id": 491,
+    "name": "Web of Power",
+    "yearpublished": "2000",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "50",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Players struggle for influence over regions of Europe by placing two different type of control markers, Monasteries and Advisors. Monasteries are the basic placement, with the goal of securing a majority in a region or chain of monasteries or even decent points from second place. The placement of the Advisors is more restricted as the total number of Advisors in a region is limited by the majority player's number of monasteries. The game is played in two rounds and is very fast paced.<br/><br/>Online Play<br/><br/><br/>     <a target='_blank' href=\"http://www.boardgames-online.net\" rel=\"nofollow noreferrer noopener\">http://www.boardgames-online.net</a> (turn-based)<br/><br/><br/>Implemented bonus maps: China, Hellenia, Skandinavia, America, AD 850, Life on Mars, Big in Japan, Soviet Union<br/><br/><br/>     <a target='_blank' href=\"http://www.onlinebrettspiele.de/kuk/default.asp?l=en\" rel=\"nofollow noreferrer noopener\">http://www.onlinebrettspiele.de/kuk/default.asp?l=en</a> (Against AI)<br/><br/><br/>Re-implemented by:<br/><br/><br/>     China<br/>     Iwari<br/><br/><br/>Expanded by:<br/><br/><br/>    Web of Power: The Vatican<br/>    Web of Power: The Duel<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/AQiDnYHjzFh34SOPCNzrHg__original/img/k7n0mXH7EpF3gAZA2q4PZS__UUQ=/0x0/filters:format(jpeg)/pic209855.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AQiDnYHjzFh34SOPCNzrHg__small/img/-XcIT5SRD0sJpLwitIKbQfkzmz0=/fit-in/200x150/filters:strip_icc()/pic209855.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "999 Games",
+        "GameField",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Michael Schacht"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Network and Route Building",
+            "Open Drafting"
+        ],
+        "categories": [
+            "Medieval",
+            "Territory Building"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)",
+            "Components: Wooden pieces & boards",
+            "Digital Implementations: BrettspielWelt",
+            "Series: Web of Power / China"
+        ]
+    }
+}

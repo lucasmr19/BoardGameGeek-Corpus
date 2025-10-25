@@ -1,0 +1,43 @@
+{
+    "id": 30,
+    "name": "Dark Tower",
+    "yearpublished": "1981",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "An epic fantasy quest to recover an ancient magic scepter from a tyrant king in his Dark Tower, brought to life in electronic form.<br/><br/>To vanquish the usurper, players search the four realms of the circular game board for three keys to unlock the tower's gate.  On this journey, there are battles to be fought against roving bands of brigands, dragons, plague and hunger.  There are bazaars to visit to purchase supplies and assistants for the quest.  There are uncharted territories to get lost in and tombs and ruins to plunder.  And there is a mighty army to be raised before the player can lay siege to the tower and fight either to glorious victory or crushing defeat.<br/><br/>Dark Tower was technologically impressive when it was released in 1981.  Gameplay was facilitated by a small computer inside the black plastic shell of the tower itself.  Players input their moves on a small membrane keypad each turn and the computer took over from there, doing everything from conducting the progress of battles to keeping track of how much (or little) food was left to feed the players' always hungry warriors. The computer would play brief musical serenades at significant points of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/3Nl1qEL5tdB6Eo19FCBm9Q__original/img/yQtEd4BmQOOL96gRnK9jvrSeud0=/0x0/filters:format(jpeg)/pic4007794.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3Nl1qEL5tdB6Eo19FCBm9Q__small/img/8tfmpYuXf-FuQQq11tOTE0YmFv4=/fit-in/200x150/filters:strip_icc()/pic4007794.jpg",
+    "publishers": [
+        "Milton Bradley"
+    ],
+    "designers": [
+        "Roger Burten",
+        "Alan Coleman",
+        "Vincent A. A. J. Erato"
+    ],
+    "artists": [
+        "Bob Pepper"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Push Your Luck"
+        ],
+        "categories": [
+            "Adventure",
+            "Electronic",
+            "Exploration",
+            "Fantasy",
+            "Fighting"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)",
+            "Components: Miniatures",
+            "Creatures: Dragons",
+            "Theme: Wizards"
+        ]
+    }
+}

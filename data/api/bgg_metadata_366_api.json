@@ -1,0 +1,37 @@
+{
+    "id": 366,
+    "name": "Viva Pamplona!",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "8",
+    "description": "In this fluffy, dice-intensive game set in Pamplona, Spain, players control 3-runner teams competing in the running of the bulls.  By rolling the dice and moving their runners (the most significant decisions are which runners to move, and how far to move them when a choice is available), the players try to keep their teams in front of and as close to the bull as possible, while pushing other runners into more cowardly locations.  The reason for all this is that after all players have had their turns, there's a chance that Toro will attack, and the players whose runners are in the most dangerous positions will score the most points.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/HlpkNljU9WnJIfYhVZ02sg__original/img/uwHTkEZOLx1jR11y2jTjUJpf1no=/0x0/filters:format(jpeg)/pic1111577.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HlpkNljU9WnJIfYhVZ02sg__small/img/vz6JDQaPDbl4CwQcj5haFx3q8Og=/fit-in/200x150/filters:strip_icc()/pic1111577.jpg",
+    "publishers": [
+        "F.X. Schmid"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Wolfgang Kramer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Racing"
+        ],
+        "families": [
+            "Animals: Cattle / Cows",
+            "Cities: Pamplona (Spain)",
+            "Country: Spain",
+            "Region: Basque Country"
+        ]
+    }
+}

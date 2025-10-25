@@ -1,0 +1,37 @@
+{
+    "id": 69,
+    "name": "Bollox",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "10",
+    "description": "Bollox is easy to learn as there are only two rules. Playing the game of Bollox, well, is a bit trickier.<br/><br/>Your objective? Get five pieces in a row. Sounds easy, right?<br/><br/>Rule One: Black plays first. Still sounds easy? Not so fast!<br/><br/>Rule Two: The seemingly sudden 'Sandwich Move'. Just like it sounds, when you entrap two of your opponent's pieces between two of your own, you get to &quot;evict&quot; one of your opponent's pieces. This 'Sandwich Move' really does &quot;bollox up&quot; the game plan of the unwary player. Often the Sandwich Move can completely turn the game around and give you a dazzling win.<br/><br/>1999 Mensa Select<br/><br/>",
+    "image": "https://cf.geekdo-images.com/XuPXpUWbGRMfGR2lewxo5A__original/img/T08q1X35jNRSPQf0b9NTYGE-jTM=/0x0/filters:format(jpeg)/pic26032.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XuPXpUWbGRMfGR2lewxo5A__small/img/n-jC6VNXAILV7T7Usm5Qn4Cz0NE=/fit-in/200x150/filters:strip_icc()/pic26032.jpg",
+    "publishers": [
+        "Cadaco",
+        "The London Game Company LTD"
+    ],
+    "designers": [
+        "Rob Nelson (II)"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Hexagon Grid",
+            "Pattern Building"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Category: n in a row",
+            "Components: Marbles",
+            "Misc: Mensa Select",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

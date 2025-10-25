@@ -1,0 +1,53 @@
+{
+    "id": 431,
+    "name": "Alhambra: The Card Game",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Alhambra: The Card Game is a game that both inspired and was named after the more popular, award-winning game and franchise, Alhambra.<br/><br/>This game has been released in several different versions, with the same core rules but different themes. The 2010 release of the game re-themed what was then called Stimmt So! to Alhambra: The Card Game, after the popular Game: Alhambra franchise and related, award-winning game Alhambra.  Alhambra, is itself derived from Stimmt So!. The original version of the game, Al Capone, was published in 1992 by a self-publishing company, db-Spiele, which was owned by the game designer Dirk Henn.<br/><br/>The re-theming of Stimmt So! and Alhambra: The Card Game resulted in the same game with different themes and only minor differences. Changes between Stimmt So! to Alhambra: The Card Game include:<br/>1) The initial money rules from Alhambra are used.<br/>2) The 2 player variant rules from Alhambra are used.<br/><br/>Stimmt So! A description of this version:<br/>Using mechanics similar to Union Pacific or its predecessor, Airlines, this game is about acquiring stock interests in the various aspects of a large corporation.  There are six <br/>different types of stock, which will reward the majority and sometimes the minority stockholders throughout the game.  Stock is made available by drawing cards on a four-card queue.  Each of the positions on the queue is a different stock market, which means there are four different currencies (Dollar, Euro, Ruble, Yen).  The currency cards are drawn from another queue on the same board.  A turn is quite simple - either take one of the four available currency cards or use some of your currency cards to purchase one of the available stocks.  If you pay more than the amount indicated on the stock card, the excess is lost.  However, if you purchase the stock for the exact printed price, then you can buy another stock, and so on.  After two randomly distributed payouts, the game ends with a final payout with the final stock card.  The player with the highest payout point total is the winner.<br/><br/>Al Capone  A description of this version:<br/>Using Influence cards, you collect Trade cards from different areas of town under the Mafia control, giving you control over the Distillery, the Chinese Laundry, the Betting Shop, etc. If you spend the exact amount of Influence required, you get another turn, and so on. Scoring occurs randomly twice during the game and at the end. When the first scoring occurs, only the majority holder in each Trade scores. When the second scoring occurs, the first and second majority holders score, and at the final scoring, the first three majority holders score. Ties are split accordingly.<br/><br/>Other versions/re-themes:<br/>Alhambra Bonn card game is Alhambra the card game with the Bonn theme. Originally as a limited run for Bonn, Germany and surrounding areas. There is also a Alhambra New York card game which is currently out of print, as well as an Alhambra Nederland card game. The re-themes are collectors items that people like to collect.<br/><br/>Player Counts:<br/>Earlier versions typically had a player count of 3-6 players while more recent versions, such as New York, is listed as 2-6 players.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/0sIAdfhWnYkF6SjU6_BPfw__original/img/Ln3mILAxCGThvC4MgURvz5sZCjs=/0x0/filters:format(jpeg)/pic1102461.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0sIAdfhWnYkF6SjU6_BPfw__small/img/wm7wr8pyt1q_U0iHhQNfWlYF6M8=/fit-in/200x150/filters:strip_icc()/pic1102461.jpg",
+    "publishers": [
+        "Queen Games",
+        "db-Spiele",
+        "Piatnik"
+    ],
+    "designers": [
+        "Dirk Henn"
+    ],
+    "artists": [
+        "Jo Hartwig",
+        "Reinhard Horst"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Open Drafting",
+            "Set Collection"
+        ],
+        "categories": [
+            "Arabian",
+            "Card Game",
+            "City Building",
+            "Economic",
+            "Humor",
+            "Medieval"
+        ],
+        "families": [
+            "Cities: Bonn (North Rhine-Westphalia, Germany)",
+            "Cities: Granada (Andalusia, Spain)",
+            "Cities: New York (New York, USA)",
+            "Country: Belgium",
+            "Country: Netherlands",
+            "Country: USA",
+            "Game: Alhambra",
+            "Historical Figures: Al Capone",
+            "Region: The World",
+            "Versions & Editions: Card Versions of Non-Card Games"
+        ]
+    }
+}

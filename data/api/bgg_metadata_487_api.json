@@ -1,0 +1,33 @@
+{
+    "id": 487,
+    "name": "Power",
+    "yearpublished": "1981",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "One of the elements of Diplomacy that makes it so unique is the writing of orders for your pieces and then the simultaneous resolution of the move for everyone.  Power uses this same general concept, only minus all the devil-inspired backstabbing that makes Diplomacy what it is.  In this game, players are given equal forces consisting of ships, planes and other weapons of modern warfare, including a 'nuke' of sorts.  Each turn, players can move a set number of their pieces based on the chosen piece's movement.  The board is a painfully simple system of orthogonal squares.  Once all moves for a given turn have been written down, all pieces are moved simultaneously.  If more than one force's pieces occupy the same space, then a superiority check is made with each type of piece contributing a set number of strength points (usually inversely related to movement).  The largest force then takes possession of all opposing pieces, making the shift in power quite significant, and the central theme for the remainder of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/E2LnSHeRGsk2h7yq7Yda1A__original/img/qc8FJeFyfU9625-S02gR2dhJiOw=/0x0/filters:format(jpeg)/pic455935.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/E2LnSHeRGsk2h7yq7Yda1A__small/img/mGamV1A4Q_2yizydBgYC5qELorg=/fit-in/200x150/filters:strip_icc()/pic455935.jpg",
+    "publishers": [
+        "Power Games International",
+        "Spear's Games"
+    ],
+    "designers": [
+        "Monte B. Young"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Secret Unit Deployment",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Modern Warfare"
+        ],
+        "families": []
+    }
+}

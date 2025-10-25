@@ -1,0 +1,64 @@
+{
+    "id": 372,
+    "name": "Schotten Totten",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "In Schotten Totten, nine boundary stones lie between you and your opponent.  In front of each, you build poker-like formations of three cards on a side.  Whoever plays the higher-ranking formation wins the stone.  And in a unique twist, you may use your powers of logic to claim a stone even before your opponent has played all three of his cards, by demonstrating that the stone is impossible for him to win.  Successfully claim five stones, or any three adjacent stones, and you win the game.<br/><br/>In 2000 GMT published a rethemed version as Battle Line which includes an extra 10 &quot;tactics&quot; cards that modify the standard game play, and with cards that run from 1 to 10 (instead of 1 to 9).<br/><br/>The 2004 Edition of Schottentotten has these &quot;tactics&quot; cards too.<br/>Schotten-Totten FAQ.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__original/img/C5YBiD7Qhpkf5FO1GteEjo9KRVE=/0x0/filters:format(jpeg)/pic2932872.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__small/img/97DW-2XWDrSSkgy3XnUJ7f7tLiQ=/fit-in/200x150/filters:strip_icc()/pic2932872.jpg",
+    "publishers": [
+        "ASS Altenburger Spielkarten",
+        "IELLO",
+        "Bureau de Juegos",
+        "Buró",
+        "Cube Factory of Ideas",
+        "Edge Entertainment",
+        "Geekach LLC",
+        "Gemblo Company",
+        "Mancalamaro",
+        "Muduko",
+        "PaperGames (III)",
+        "Pegasus Spiele",
+        "Pro Ludo",
+        "PS-Games",
+        "Redbox Editora (Redbox)",
+        "Reflexshop",
+        "REXhry",
+        "Schmidt Spiele",
+        "TCG Factory",
+        "Ubik",
+        "uplay.it edizioni",
+        "Zito! Ώρα για παιχνίδι"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Bärbel Skarabela",
+        "Dorien Boekhorst",
+        "Jean-Baptiste Reynaud",
+        "Piotr Sokołowski"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Card Play Conflict Resolution",
+            "Hand Management",
+            "Melding and Splaying",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Card Games: Lane Battler",
+            "Country: Scotland",
+            "Game: Schotten-Totten",
+            "Players: Two-Player Only Games",
+            "Series: Mini Games (IELLO)"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": 444,
+    "name": "Escape from the Hidden Castle",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Although billed as a children's game, Escape from the Hidden Castle, a.k.a. Midnight Party or Hugo, is actually quite enjoyable by adults as a light, fun game. Each player controls a number of guests at a party, with the number of guests dependent on the number of players. These guests start the round in the spaces of the gallery on the game board, one guest per space; this initial placement is a large part of a player's strategy.<br/><br/>The Phantom (or &quot;Hugo the ghost&quot; in earlier versions) starts in the cellar, then climbs the stairs towards the gallery where the guests circle. The mechanism for the Phantom's movement is simple: On a player's turn, he rolls a special die. If he gets a number, he moves his pieces; if he gets a Phantom, the Phantom moves. This means that with more players in the game, the Phantom moves a lot more frequently, so you must adjust your strategy accordingly.<br/><br/>Once the Phantom has reached the gallery, the guests can start ducking into rooms adjoining the gallery to avoid him, with only one guest per room! A couple of rooms are special in that they add or subtract extra &quot;fright points&quot; from your score. As the Phantom catches up with the remaining guests, they are sequestered on the stair steps, then in the cellar. The first guest caught &quot;earns&quot; the most fright points, with those caught later in the round earning less and less.<br/><br/>Once all the guests have been caught, the fright points are tallied. After playing a predetermined number of rounds, the player with the fewest fright points wins!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/mbZOI5Ke9pA0uKXXG6-Awg__original/img/IoT1AAHN1w08ZdagufrMIjCV9cU=/0x0/filters:format(png)/pic3989540.png",
+    "thumbnail": "https://cf.geekdo-images.com/mbZOI5Ke9pA0uKXXG6-Awg__small/img/W3Vs0LlGQIvzaa8soiMaVWp3Ssw=/fit-in/200x150/filters:strip_icc()/pic3989540.png",
+    "publishers": [
+        "Ravensburger",
+        "AMIGO",
+        "Discovery Toys",
+        "Giochi Uniti",
+        "Möbius Games",
+        "Otto Maier Verlag",
+        "Το Καλό Παιχνίδι Α.Ε."
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Nicole Baron",
+        "Marek Bláha",
+        "Bernard Giroud",
+        "Iris Schotten",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Push Your Luck",
+            "Race",
+            "Roll / Spin and Move",
+            "Track Movement"
+        ],
+        "categories": [
+            "Children's Game",
+            "Horror"
+        ],
+        "families": [
+            "Components: Glow in the Dark",
+            "Creatures: Ghosts",
+            "Digital Implementations: Board Game Arena",
+            "Theme: Spooky Old Houses"
+        ]
+    }
+}

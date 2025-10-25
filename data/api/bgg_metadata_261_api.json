@@ -1,0 +1,35 @@
+{
+    "id": 261,
+    "name": "Olympia 2000 (v. Chr.)",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "9",
+    "description": "In this relative of Hols der Geier/Raj, players use simultaneously played cards to compete in ancient Olympic events, such as long-jump, discus, or archery.  The cards have a picture of the athlete as well as a rating for his skills in each of the different events.  Often times, an athlete will be very good at one event and be very poor in others, while some athletes are simply too inept for words, and still others are god-like.  The key to the game is using your cards wisely, because although the best athlete gets the prize for the current event, the worst athlete gets to pick the up-coming event.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/rw3mlhpyPiX8edZwbg8p4g__original/img/CzPRBk9Xx-UI_pHlJk7o8UYSYS0=/0x0/filters:format(jpeg)/pic1118996.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rw3mlhpyPiX8edZwbg8p4g__small/img/ckDNmMMzcInfpXKLNoa4SthvXAo=/fit-in/200x150/filters:strip_icc()/pic1118996.jpg",
+    "publishers": [
+        "Hans im Glück"
+    ],
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Ancient",
+            "Card Game",
+            "Sports"
+        ],
+        "families": [
+            "Sports: Olympics"
+        ]
+    }
+}

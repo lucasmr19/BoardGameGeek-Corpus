@@ -1,0 +1,39 @@
+{
+    "id": 467,
+    "name": "Bohnanza Erweiterungs-Set",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "This is an expansion for the Bohnanza card game.  This small package of cards adds several new types of beans to be added to the mix included in the base game.  Additionally, there's a reference card which denotes which bean types (suits) should be included in the deck for various player numbers.  Generally speaking, this expansion is a requirement, if you want the best Bohnanza experience with varied numbers of players.<br/><br/>Bohnanza Erweiterungs-Set is part of the Bohnanza family of games.<br/><br/>This expansion has been re-published in several editions.<br/><br/>It should not be confused with Bohnanza Erweiterungs-Set (Revised Edition).<br/><br/>Expands:<br/><br/>    Bohnanza<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/fUQsTA2R0LiA7CoOwoO_xA__original/img/shZGMVJ_TubL-Dn9Ls1g3p_kW98=/0x0/filters:format(jpeg)/pic248734.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fUQsTA2R0LiA7CoOwoO_xA__small/img/nGsbFugmhQJc0Ud3xwBK8oYGqMA=/fit-in/200x150/filters:strip_icc()/pic248734.jpg",
+    "publishers": [
+        "AMIGO"
+    ],
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "artists": [
+        "Björn Pertoft"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Card Game",
+            "Expansion for Base-game",
+            "Farming",
+            "Negotiation"
+        ],
+        "families": [
+            "Game: Bohnanza",
+            "Players: Expansions Changing Player Count"
+        ]
+    }
+}

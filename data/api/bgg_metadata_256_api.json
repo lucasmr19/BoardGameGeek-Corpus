@@ -1,0 +1,44 @@
+{
+    "id": 256,
+    "name": "Mississippi Queen",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "In this light, fun family game, players race their paddleboats down the Mississippi, picking up passengers along the way.  But onboard coal supplies are limited, so each ship's acceleration and maneuvers must be carefully planned.  Perhaps most interestingly, the twists and turns of the river are unknown at the start of the game, and are only revealed as ships progress downstream.<br/><br/>Expanded by: <br/><br/>    Mississippi Queen: The Black Rose<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/JkZ5KTRdQwX9IHNsviQ3Sg__original/img/S2SHNFd-dGs_oBxnTNrzNFm-fnU=/0x0/filters:format(jpeg)/pic174176.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JkZ5KTRdQwX9IHNsviQ3Sg__small/img/z4A9dzH-VX8SJP0lNAe-2TJ6Vs8=/fit-in/200x150/filters:strip_icc()/pic174176.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Rio Grande Games",
+        "Simba Toys"
+    ],
+    "designers": [
+        "Werner Hodel"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Bias",
+            "Grid Movement",
+            "Map Addition",
+            "Modular Board",
+            "Pick-up and Deliver",
+            "Race"
+        ],
+        "categories": [
+            "Nautical",
+            "Racing",
+            "Transportation"
+        ],
+        "families": [
+            "Country: USA",
+            "Rivers: Mississippi",
+            "States: Mississippi"
+        ]
+    }
+}

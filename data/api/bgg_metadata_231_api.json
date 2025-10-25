@@ -1,0 +1,39 @@
+{
+    "id": 231,
+    "name": "Geronimo",
+    "yearpublished": "1995",
+    "minplayers": "1",
+    "maxplayers": "5",
+    "minplaytime": "480",
+    "maxplaytime": "480",
+    "age": "12",
+    "description": "The U.S. - Indian conflicts, a tragic period of history.<br/><br/>Each turn, players are randomly assigned a side to play -- either Indian tribes or the U.S. Only one player represents the U.S. each turn, while the other players each have a number of Indian tribes under their control. Indian players get to select one or two of their active tribes, but the rest are dealt to them randomly. There are usually more Indian tribes available than what are active each turn, but players don't really know which ones are inactive.  This can be unsettling to the U.S. player as he must decide where to deploy his limited troops and columns.<br/><br/>All players compete to earn victory points.  The U.S. player is faced with the task of building up sufficient resources (settlements, towns, railroads, mines, etc.) to maintain existing states and convert territories into states. The Indian players play the role of guerrillas to earn victory points, but also can deny resources to the U.S. player. However, he must be very careful not to suffer too many casualties, as this could cause his tribe to go on reservation or become extinct, which costs the player dearly in victory points.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/KmV2KFHes6VnFEZxdL7jLA__original/img/WaQFRHAgRoOqL_r1SGs2SycGd44=/0x0/filters:format(jpeg)/pic87910.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/KmV2KFHes6VnFEZxdL7jLA__small/img/PrC1ytSjJevtVqfHGhcae2rspzM=/fit-in/200x150/filters:strip_icc()/pic87910.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Richard H. Berg"
+    ],
+    "artists": [
+        "Stephen Langmead",
+        "Kurt Miller"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "American Indian Wars",
+            "American West",
+            "Wargame"
+        ],
+        "families": [
+            "Country: USA",
+            "History: Apache Wars",
+            "Theme: Native Americans / First Peoples"
+        ]
+    }
+}

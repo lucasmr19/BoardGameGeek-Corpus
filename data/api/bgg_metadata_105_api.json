@@ -1,0 +1,60 @@
+{
+    "id": 105,
+    "name": "Colossal Arena",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "40",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "Colossal Arena/Titan:The Arena is a strategic card game for 2 to 5 players: you play, not as combatants, but as spectators, cheering and betting on the melee ongoing in a fantasy arena/colosseum in which fantasy creatures are pitted against each other in battle!<br/><br/>Each round one of the creatures will die. To decide which unlucky soul will be the victim, players put numbered power cards in front of the creatures, with the lowest one going to the graveyard.  The jockeying for position and strategic diplomacy in playing the numbered power cards can be intense - but what makes this game even more interesting is that the players' place bets throughout the game which will sometimes allow them to use a creature's special power in battle!<br/><br/>The winner at the end of the game is the bettor who's raked in the most winnings - just another day in the life of a fantasy monster gambler.<br/><br/>Titan: The Arena is actually a reworking of a Reiner Knizia game called Grand National Derby, but The Avalon Hill Game Co's remake was quite significant from a gameplay standpoint.<br/><br/>The Titan: The Arena printing is often confused with its namesake, Titan.  But other than the fact that they both use fantasy creatures as a general theme, there is very little that is similar between the two.<br/><br/>Reimplemented by: Galaxy: The Dark Ages<br/><br/>",
+    "image": "https://cf.geekdo-images.com/SsmaQGmmqdcBmyJDd041YQ__original/img/-qRLT0PI62LJweiUG_xzF8h3F_g=/0x0/filters:format(jpeg)/pic1680709.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SsmaQGmmqdcBmyJDd041YQ__small/img/NePlv3cJ9YyIf24_6MYI_oAd3as=/fit-in/200x150/filters:strip_icc()/pic1680709.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Altar Games",
+        "Delta Vision Publishing",
+        "Edge Entertainment",
+        "Fantasy Flight Games",
+        "Hobby Japan",
+        "Korea Boardgames",
+        "Lautapelit.fi",
+        "Midgaard Games",
+        "Nexus Editrice",
+        "Swan Panasia Co., Ltd.",
+        "Ubik"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Cyrille Daujean",
+        "Thierry Doizon",
+        "Dan Harding",
+        "Steve Holmes",
+        "Jan Patrik Krásný",
+        "Tyson Milbert",
+        "Kurt Miller",
+        "Keith Parkinson"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Betting and Bluffing",
+            "End Game Bonuses",
+            "Hand Management",
+            "Investment",
+            "Once-Per-Game Abilities",
+            "Take That"
+        ],
+        "categories": [
+            "Card Game",
+            "Fantasy",
+            "Mythology"
+        ],
+        "families": [
+            "Creatures: Monsters",
+            "Series: Betting Trilogy (Reiner Knizia)",
+            "Series: Fantasy Flight Silver Line"
+        ]
+    }
+}

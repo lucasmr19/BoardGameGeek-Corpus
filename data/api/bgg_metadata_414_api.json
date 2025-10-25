@@ -1,0 +1,37 @@
+{
+    "id": 414,
+    "name": "Around the World in 80 Days",
+    "yearpublished": "1986",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Around the World in 80 Days is a game that simulates the Jules Verne book with the same name. This game was published by Ravensburger and is not to be confused with other &quot;Around the World&quot; games with Verne connection. Especially not the Alga edition Jorden runt på 80 dagar that was published in the same year(!).<br/><br/>Players start out in London and race around the world. By skillful use of cards, each player tries to be the first to get back to London.<br/><br/>This is an action game without dice. Using cards representing different travel modes, players try to use as many of their cards as they can. Playing all of ones cards during a turn, allows one a bonus move.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/mXes1H5HlEcb0VRFObYcJQ__original/img/Yg9izfAjE1egtZOMq_qroPW3blM=/0x0/filters:format(jpeg)/pic664642.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mXes1H5HlEcb0VRFObYcJQ__small/img/yUatX2NYK46nUosAvEyjdb9xjEo=/fit-in/200x150/filters:strip_icc()/pic664642.jpg",
+    "publishers": [
+        "Fisher Price",
+        "Otto Maier Verlag"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Klaus Bürgle",
+        "Th. A. Weiss"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Open Drafting",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Novel-based",
+            "Racing"
+        ],
+        "families": [
+            "Authors: Jules Verne"
+        ]
+    }
+}

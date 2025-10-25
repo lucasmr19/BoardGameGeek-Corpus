@@ -1,0 +1,29 @@
+{
+    "id": 53,
+    "name": "Brauerei",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "0",
+    "maxplaytime": "0",
+    "age": "14",
+    "description": "Brauerei, a game about the German beer market, has players attempting to bring their beer brands to the national markets.  First though they have to master the local and regional markets, making sure everyone is supplied with beer and attempting to anticipate and evolve the public's taste in beer.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/kkRQv3NvDn0i7VGurL8BZQ__original/img/Xog_nPIdTq9MIKCC-EU4VJ1TmDc=/0x0/filters:format(jpeg)/pic514060.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kkRQv3NvDn0i7VGurL8BZQ__small/img/7HapFncDfjUnnNi6h8LBmqWN69g=/fit-in/200x150/filters:strip_icc()/pic514060.jpg",
+    "publishers": [
+        "Fanfor-Verlag"
+    ],
+    "designers": [
+        "Valentin Herman"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Food & Drink: Beer"
+        ]
+    }
+}

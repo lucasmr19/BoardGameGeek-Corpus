@@ -1,0 +1,40 @@
+{
+    "id": 370,
+    "name": "El Grande: König & Intrigant",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "This expansion for El Grande replaces two different elements from the original game, the action cards and the turn-order cards, with a single set of cards.  Prior to the start of the game, players cull their personal play decks to thirteen. Then each turn, they each select one of their cards, which will dictate their turn order priority, the number of caballeros to add to their court, the number of caballeros eligible to add to the board, and their action.<br/><br/>This expansion is included in both the 10th Anniversary Edition (Decennial) of El Grande, as well as The El Grande Expansions, and El Grande Big Box<br/><br/>Expanded by:<br/><br/>    El Grande: König & Intrigant – Player's Edition<br/>    El Grande: König & Intrigant – Unverkäufliche Sonderkarten<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/oTSwMpnuTRF42K3igSFWGg__original/img/6MfeG9_hFCfiyrX5_BWdrTInP2s=/0x0/filters:format(jpeg)/pic293862.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oTSwMpnuTRF42K3igSFWGg__small/img/1bLBKzSrwHDGQ3jbC9HKCCWBODk=/fit-in/200x150/filters:strip_icc()/pic293862.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Wolfgang Kramer",
+        "Richard Ulrich"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Auction / Bidding",
+            "Hand Management",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Expansion for Base-game",
+            "Political",
+            "Renaissance"
+        ],
+        "families": [
+            "Game: El Grande"
+        ]
+    }
+}

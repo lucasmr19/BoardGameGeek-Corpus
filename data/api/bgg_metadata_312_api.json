@@ -1,0 +1,41 @@
+{
+    "id": 312,
+    "name": "Landlord!",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "10",
+    "maxplaytime": "10",
+    "age": "10",
+    "description": "This is a card game for 2 to 6 players. Build apartments, rent them to tenants, and collect rent. In Landlord every card you play gives you two options, one side of the card is an apartment the other side has tenants, roofs, renovations and special actions. Move wealthy tenants into your apartments and put the deadbeats into your opponents'. You can even bomb buildings but don't get caught, jail awaits those who are careless.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/A8nrgJvmJmz8oo3u_xBYxw__original/img/skzfNv695rOWuNdZAcECijyU-Io=/0x0/filters:format(jpeg)/pic1514256.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/A8nrgJvmJmz8oo3u_xBYxw__small/img/lToFyd39hmQVRi8wvYM6U-JJYHc=/fit-in/200x150/filters:strip_icc()/pic1514256.jpg",
+    "publishers": [
+        "2F-Spiele",
+        "ABACUSSPIELE",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Friedemann Friese"
+    ],
+    "artists": [
+        "Wolfgang Panning",
+        "Thomas Schäfer",
+        "Franz Vohwinkel",
+        "Patrick Wilhelmi"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Tags",
+            "Take That",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Card Game",
+            "Humor"
+        ],
+        "families": []
+    }
+}

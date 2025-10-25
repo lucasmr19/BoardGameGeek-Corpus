@@ -1,0 +1,40 @@
+{
+    "id": 152,
+    "name": "Mü & More",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "11",
+    "description": "While the headline game, M&uuml;, is the main attraction, this deck of custom cards comes with rules for several games:<br/><br/>    M&uuml; - A complex trick-taking game. For 3-6 players, ages 12 and up.<br/>    The Last Panther - A trick-taking game similar to Hearts, where players try to avoid negative points. For 3-8 players, ages 10 and up.<br/>    Wimm&uuml;ln - A trick-taking game where players must estimate how many tricks they will take, akin to Oh Hell!. For 3-6 players, ages 8 and up.<br/>    Rumm&uuml; - A Rummy-like card laying game where players try to get rid of their hands by playing high-scoring combinations of cards. For 3-6 players, ages 8 and up.<br/>    Safar&uuml; - A card &quot;catching&quot; game using basic adding skills. For 2-4 players, ages 10 and up.<br/>    Calcory (only in the original 1995-1998 edition) - A memory and calculation game, where players push their luck to uncover the most cards. For 2-4 players, ages 7 and up. Calcory uses wooden markers that were not packaged in subsequent releases, so the game was dropped from the set.<br/><br/><br/>M&uuml; is regarded by many as one of the best offerings in the trick-taking genre.  Players reveal cards to declare their bids: the highest bidder becomes the Chief and the second highest bidder is the Vice.  Both the Vice and Chief choose a trump (either number or suit), and then players try to capture tricks to score the most points.  The Chief chooses a partner and tries to cover the bid to score bonus points, while the Vice and remaining players seek to stop the Chief from reaching his goal.<br/><br/>The deck consists of 60 cards in 5 different colored suits.  Each suit contains cards numbered from 0 to 9, with two of each the 1 and 7 cards.  Cards also have 0, 1, or 2 triangles printed on them to show the point value of that card.<br/><br/>Mü and Lots More includes a a tweaked version of M&uuml; and a different set of games.<br/><br/>2020 DiceTree Korean edition (titled The Last Panther + 6 games) includes Calcory and another new climbing card game 기드라(Ghydra) by Changhyun Baek.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/URjVVHsHtozP-wQUcfWgSw__original/img/j910ii0qHFjP4m8rf8Sr8GW3ojA=/0x0/filters:format(jpeg)/pic149672.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/URjVVHsHtozP-wQUcfWgSw__small/img/fbqb-HnNal9CDUnkvIXU3UTsfgk=/fit-in/200x150/filters:strip_icc()/pic149672.jpg",
+    "publishers": [
+        "AMIGO",
+        "DiceTree Games",
+        "Doris & Frank",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Doris Matthäus",
+        "Frank Nestel"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Bids As Wagers",
+            "Team-Based Game",
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game",
+            "Game System"
+        ],
+        "families": [
+            "Digital Implementations: Board Game Arena"
+        ]
+    }
+}

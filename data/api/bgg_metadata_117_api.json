@@ -1,0 +1,40 @@
+{
+    "id": 117,
+    "name": "Ta Yü",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "In Ta Y&uuml;, a game of connections, one side tries to extend from the starting tile in the center to reach the western and eastern edges of the board while the opposing side tries to reach the northern and southern edges.  On your turn you simply draw a tile and decide where to place it, extending the network of tiles already on the board.<br/><br/>Several refinements make this simple proposition into an engrossing game.  First, each tile is 3x1 (to be played on a 19x19 board) and has exactly three outlets (potential connection points). Second, your score is not simply the number of spots you've reached on one edge added to the number of spots you've reached on the other, but is the product of those two numbers.  So you can't just concentrate on one side and ignore the other, because zero times anything is still zero.  Third, on each side of the board there are three special points which score double if reached, adding a dab of focus to the choices.<br/><br/>Interestingly, you need to play both offense and defense and will often have to decide to which use to put a particular tile.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/XlGHKjhSXsoLsqUrRuf1vg__original/img/tqgIE1TjdlDBMiG3_VDBk0ThERA=/0x0/filters:format(jpeg)/pic7016450.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XlGHKjhSXsoLsqUrRuf1vg__small/img/2ugOVo7pPuYab4eAP3W3C_cQ2sc=/fit-in/200x150/filters:strip_icc()/pic7016450.jpg",
+    "publishers": [
+        "Crown & Andrews Ltd.",
+        "Goliath Games",
+        "KOSMOS",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Niek Neuwahl"
+    ],
+    "artists": [
+        "Dirk Hoffmann",
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Connections",
+            "Team-Based Game",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Components: 19 x 19 Grids",
+            "Mechanism: Connection"
+        ]
+    }
+}

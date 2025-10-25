@@ -1,0 +1,32 @@
+{
+    "id": 451,
+    "name": "Beutelschneider",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "0",
+    "description": "Translated as Cutpurse, this is a fairly unique entry in the trick-taking genre.  Three of the suits are relatively normal, however, the cards that are worth points, in the form of gold coins, have the least value.  The special thing about this game is the trump suit, which could have the Assassin killing the King or the Adventurer seducing the Countess; the character interaction is very interesting aspect.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/n6ty2zc7Y9lUcYZQHyCy-w__original/img/GPpe9S7x7XcEwvKYOQsAt3vt6Z0=/0x0/filters:format(jpeg)/pic293821.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/n6ty2zc7Y9lUcYZQHyCy-w__small/img/TYErgl-xNdC64Ls5EGA5tVUTWtM=/fit-in/200x150/filters:strip_icc()/pic293821.jpg",
+    "publishers": [
+        "Harlekin"
+    ],
+    "designers": [
+        "Mark Sienholz"
+    ],
+    "artists": [
+        "Daniel Alles",
+        "Guido Paul"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

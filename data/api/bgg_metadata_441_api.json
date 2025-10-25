@@ -1,0 +1,36 @@
+{
+    "id": 441,
+    "name": "Filthy Rich",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "14",
+    "description": "Filthy Rich is a card game that is played with a binder and 4 pages of Ultra Pro card protector pages.  Players launch business billboards in the form of cards that get placed in the pages.  If the number rolled on the business dice corresponds to your billboard you get paid.  Income is spent to acquire Luxuries, and the first player to own three luxuries wins!  However, Luxuries and Businesses have a tax value that is due during a randomly-triggered tax phase.  if you cannot pay your taxes, you must liquidate your empire.  Special action cards and events add to this light but fun game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/4IIrcAUtTQq6ftFiQVIrAg__original/img/YIafpqHLFgX25JXO-HfXZOCGL04=/0x0/filters:format(jpeg)/pic184241.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4IIrcAUtTQq6ftFiQVIrAg__small/img/pzSEuDordR4BVzn-FviYsmGBmM4=/fit-in/200x150/filters:strip_icc()/pic184241.jpg",
+    "publishers": [
+        "Wizards of the Coast"
+    ],
+    "designers": [
+        "Richard Garfield"
+    ],
+    "artists": [
+        "Christopher Rush"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: Binders",
+            "Components: Polyhedral (not D6) dice",
+            "Components: Transparent Elements"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "id": 221,
+    "name": "Ikusa",
+    "yearpublished": "1986",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "240",
+    "maxplaytime": "360",
+    "age": "12",
+    "description": "Shogun / Samurai Swords is the last game in the original Milton Bradley Gamemaster series. It was later rereleased by HAH under the name Ikusa. The game focuses on the chaotic feudal society of Japan during the Middle Ages. Players play one of several factions that erupt into a civil war, trying to consolidate their strongholds and then defeat other armies for the right to be called Shogun, the supreme ruler.<br/><br/>In the game, players command forces on islands of feudal Japan.  Player forces include provincial forces in the provinces and mobile armies commanded by daimyos.  In each turn, players will allocate their koku into bids and purchases for the round.  The round begins with the allocation of turn order, which is determined by bid, and in the case of tied bids, by player agreement or random draw.  Then players other bids and payments are accounted for in purchases of castles and fortresses, drafting of new troops and ronin, and a bid for the lone ninja.  Following the bids phase, players in turn order plan and execute attacks against enemy territories, with attacks resolved through die rolls.  A player wins the game when he or she has captured a certain number of territories, either via straight conquest or by vanquishing the last of an opponent's diamyos and taking over that player's forces.<br/><br/>The game was originally published as Shogun and was later changed to Samurai Swords due to a name conflict with James Clavell&#039;s Shogun. Ikusa is the latest iteration of the game.<br/><br/>Winner of 1988 Origins Awards:<br/><br/>     Best Pre-20th Century Board Game<br/>     Best Graphic Presentation of a Board Game<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/ifdKlfucDda8AVX4aeHjbw__original/img/9T1fbqhLnylr4B3WJCB2qNOvXFk=/0x0/filters:format(png)/pic9148474.png",
+    "thumbnail": "https://cf.geekdo-images.com/ifdKlfucDda8AVX4aeHjbw__small/img/fkPOG3rShpgoelera-hqcK3_g4o=/fit-in/200x150/filters:strip_icc()/pic9148474.png",
+    "publishers": [
+        "Milton Bradley",
+        "Renegade Game Studios",
+        "Avalon Hill",
+        "Wizards of the Coast"
+    ],
+    "designers": [
+        "Michael Gray"
+    ],
+    "artists": [
+        "Steve Argyle",
+        "Takeshi Oga"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Auction / Bidding",
+            "Auction: Multiple Lot",
+            "Dice Rolling",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Civil War",
+            "Medieval",
+            "Territory Building",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)",
+            "Components: Miniatures",
+            "Components: Player Screens",
+            "Components: Polyhedral (not D6) dice",
+            "Country: Japan",
+            "History: Sengoku Period",
+            "Series: Gamemaster (Milton Bradley)",
+            "Theme: Ninjas",
+            "Theme: Samurai"
+        ]
+    }
+}

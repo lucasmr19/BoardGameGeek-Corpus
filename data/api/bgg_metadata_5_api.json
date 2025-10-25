@@ -1,0 +1,71 @@
+{
+    "id": 5,
+    "name": "Acquire",
+    "yearpublished": "1963",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "In Acquire, each player strategically invests in businesses, trying to retain a majority of stock.  As the businesses grow with tile placements, they also start merging, giving the majority stockholders of the acquired business sizable bonuses, which can then be used to reinvest into other chains.  All of the investors in the acquired company can then cash in their stocks for current value or trade them 2-for-1 for shares of the newer, larger business.  The game is a race to acquire the greatest wealth.<br/><br/>History of Acquire: This Sid Sackson classic has taken many different forms over the years depending on the publisher, yet the rules and game play have stayed the same. The 1966 version of the 3M bookshelf edition included rules for a 2-player variant. The original version is part of the 3M Bookshelf Series.<br/><br/>Many books and websites incorrectly list this as a 1962 publication as the 3M Company used previously copyrighted artwork when they released the game in 1964. 3M actually received the idea for the game of &quot;Vacations&quot; from Sid Sackson in May of 1963 and decided to take his idea and put it into artwork they had developed the year before for a game called &quot;ACQUIRE.&quot; 3M's original game idea for a game called ACQUIRE must not have been very good so they decided to take Sid's idea of Vacations and put it into their concept of ACQUIRE. They released some limited test market games in 8 Midwestern U.S. cities in December of 1963 with a box that had a 1963 copyright. These games had Sid's original rules. When 3M released the mass market games in 1964, they had developed some of Sid's original ideas and changed some rules and game play to match their production desires. They released them with outer boxes that were copyrighted 1962 and inner boxes with rules that were dated 1963.<br/><br/>December 1963 - Test Market World Map Wood Tile Edition<br/>1964 - Dated 1962/63 wood tiles, chipboard with plastic overlay &amp; stocks with printed backs<br/>1965 - Dated 1962/63 plastic tiles, chipboard with plastic overlay &amp; stocks with printed backs (last edition made with printed backs until 1999)<br/>1966 - Dated 1962/66 plastic tiles, chipboard with plastic overlay &amp; non-wax coated stocks (Only edition with these stocks)<br/>1968 - Dated 1968/66 plastic tiles, clear plastic board with paper underlay (Both 1966 inner box games have a lot of mixed parts)<br/>1971 - Dated 1968/71 plastic tiles, yellow hard plastic board<br/>1975 - 3M sells rights for game of ACQUIRE to the Avalon Hill Company<br/>1976 - Dated 1976 plastic tiles, yellow hard plastic board, redesigned money, no inner box (This edition was also produced in 1977, 79, 81, 82,       &amp; 86)<br/>1989 - Dated 1976 Gray box edition with new box artwork same contents as regular 1976 editions (This edition was also produced in 1992)<br/>1995 - Dated 1995 Large box cardboard edition with chipboard board and tiles, Special Powers Variant Tiles inspired by German editions<br/>1997 - Avalon Hill sells the rights to the game of ACQUIRE to Hasbro<br/>1999 - Dated 1999 Large box with large plastic board and tiles, 3D company buildings, redesigned stocks &amp; money, large info cards<br/>2006 - Hasbro assigns rights for the game of ACQUIRE to their subsidiary, Wizards of the Coast<br/>2006 - Lloyd's (private) Rules of ACQUIRE are made public, two major rule changes that help to bring the balance of the game of ACQUIRE back to the  intentions of Sid Sackson's original ideas. Lloyd Solon's Rules help players to correct poor strategy during the beginning of the game that can been seen with new and unexperienced players (running out of money soon is the main mistake that must be omitted!).  <br/>2008 - Dated 2008 cardboard edition with chipboard board &amp; tiles, redesigned stocks &amp; money<br/>2016 - Dated 2016 The current affordable mass-market edition. It looks at first sight to be similar to previous modern editions, but has been criticised for the use of inferior design choices such as hard-to-read grey-on-grey embossed slots and the unusual tile fonts. It contains modified rules and a slightly smaller playing grid. Although these changes have been criticised for not ultimately improving upon Sackson's original design, they are generally regarded as not being too damaging to it.<br/>2023 - Renegade Game Studio partners with Hasbro, and releases their new version, with Classic Mode or Tycoon Mode &mdash; play with or without tertiary stockholder merger bonus. <br/>2024 - The Renegade 60th Anniversary edition includes a set of plastic weighted poker chips, and Special Powers Variant cards.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/gIQlWhlaqjPiunZjjwz_XA__original/img/ZRnstiRspAWMorOn6UKoKx9ibwI=/0x0/filters:format(jpeg)/pic8483227.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gIQlWhlaqjPiunZjjwz_XA__small/img/f06arYYwY_QZmOnAbQhhg-6mIUo=/fit-in/200x150/filters:strip_icc()/pic8483227.jpg",
+    "publishers": [
+        "3M",
+        "The Avalon Hill Game Co",
+        "Arclight Games",
+        "Avalon Hill",
+        "Banana Games",
+        "Broadway Toys LTD",
+        "Dujardin",
+        "Grow Jogos e Brinquedos",
+        "Korea Boardgames",
+        "PS-Games",
+        "Renegade Game Studios",
+        "Schmidt France",
+        "Schmidt International",
+        "Schmidt Spiele",
+        "Selecta Spel en Hobby",
+        "Smart Games, Inc.",
+        "Yayoi The Dreamer"
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [
+        "Eric Hibbeler",
+        "Scott O'Gara",
+        "Scott Okumura",
+        "Anita Osburn",
+        "Peter Whitley"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Connections",
+            "End Game Bonuses",
+            "Hand Management",
+            "Hidden Victory Points",
+            "Income",
+            "Investment",
+            "Market",
+            "Pattern Building",
+            "Square Grid",
+            "Stock Holding",
+            "Tile Placement",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Economic",
+            "Territory Building"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)",
+            "Components: 9 x 12 Grids",
+            "Digital Implementations: TableTop Simulator Mod (TTS)",
+            "Digital Implementations: VASSAL",
+            "Misc: BGG Hall of Fame",
+            "Misc: Dice Tower Hall of Fame",
+            "Series: 3M Bookshelf Series"
+        ]
+    }
+}

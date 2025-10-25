@@ -1,0 +1,51 @@
+{
+    "id": 464,
+    "name": "Billabong",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "In the geometrical racing game Billabong &mdash; currently available on the market as Billabong Race &mdash; players maneuver teams of kangaroos by jumping around a &quot;billabong&quot;, that is, &quot;a dead-end channel extending from the stream of a river&quot;, with this term being used in Australia. The board is filled with checkerboard-style squares around the billabong in the middle.<br/><br/>To start, everyone takes turns placing their five kangaroos on an empty square behind the stream that serves as the race's start &mdash; and finish &mdash; line. On your turn, you move one of your five kangaroos, usually moving it in a jump or series of jumps over the other kangaroos. Jumps can be long, but they must take a specific format; for example, if the kangaroo to be jumped over is five spaces away from your current location, your landing space must be five spaces beyond this kangaroo. You can jump over only one kangaroo at a time, but you can make multiple jumps on a turn as long as each jump is along a straight line (whether orthogonally or diagonally) and it does not pass over the billabong. Your other option &mdash; moving a kangaroo just one space &mdash; is usually used as a positioning tactic for a subsequent move.<br/><br/>The first player to get all five kangaroos around the billabong and over the finish line wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/-3pIIxoebAd6sLBXgfJg-A__original/img/_mR6PAC_gtblWsTlHON_qOpc8OE=/0x0/filters:format(jpeg)/pic4092517.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-3pIIxoebAd6sLBXgfJg-A__small/img/LLHDHlWKOcZzcCcdz-308PDzjg0=/fit-in/200x150/filters:strip_icc()/pic4092517.jpg",
+    "publishers": [
+        "AMIGO",
+        "franjos Spieleverlag",
+        "OPEN'N PLAY",
+        "Playte",
+        "SimplyFun"
+    ],
+    "designers": [
+        "Eric Solomon"
+    ],
+    "artists": [
+        "Klemens Franz",
+        "Ralf E. Kahlert",
+        "Alvin Madden",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Race",
+            "Square Grid"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Animals",
+            "Racing"
+        ],
+        "families": [
+            "Animals: Kangaroos",
+            "Category: Combinatorial",
+            "Components: 14 x 16 Grids",
+            "Components: Meeples (Animal) / Animeeples",
+            "Components: Wooden pieces & boards",
+            "Country: Australia",
+            "Digital Implementations: Yucata",
+            "Theme: Anthropomorphic Animals"
+        ]
+    }
+}

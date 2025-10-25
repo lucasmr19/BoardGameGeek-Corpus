@@ -1,0 +1,30 @@
+{
+    "id": 499,
+    "name": "Arbos",
+    "yearpublished": "1999",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "6",
+    "description": "A manual dexterity game where players attempt to place wooden branches and leaves on a trunk that wobbles around.  If you knock any leaves or branches off they go into your current pile of leaves and branches.  First one to get rid of all their leaves and branches wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/sF1IUUa-l6io7EeRq3hHug__original/img/BNINVe6mvpxp-BazV58T-fIMyRw=/0x0/filters:format(jpeg)/pic248093.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sF1IUUa-l6io7EeRq3hHug__small/img/Lv0UlZLhKye_f8AGTt1l0Ez4Pdk=/fit-in/200x150/filters:strip_icc()/pic248093.jpg",
+    "publishers": [
+        "M + A Spiele"
+    ],
+    "designers": [
+        "Martin Arnold",
+        "Armin Müller"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Action / Dexterity",
+            "Children's Game",
+            "Party Game"
+        ],
+        "families": []
+    }
+}

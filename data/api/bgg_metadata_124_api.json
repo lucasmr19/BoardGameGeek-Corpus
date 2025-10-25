@@ -1,0 +1,41 @@
+{
+    "id": 124,
+    "name": "Primordial Soup",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "In Primordial Soup each player controls a species of primitive &quot;amoeboid&quot; organisms. Together these species form an ecosystem where each feeds on the excreta of the others. To win a player must guide the evolution of their species to increase their population and the sophistication of their genes.<br/><br/>Each round consists of various phases. Firstly each organism must move (either by drifting or under its own power) and then feed. Then the environment undergoes a random change which changes the direction of drift and may force some organisms to give up genes. Then the species may buy new genes, and then may reproduce. At this point some organisms will die and finally each species is scored. This is repeated until either a species gets at least 42 points or the environment cards are exhausted.<br/><br/>The possible genes include genes for enhanced control of movement, more efficient metabolism, more efficient reproduction, attack and defence.<br/><br/>Expanded by:<br/><br/>    Primordial Soup: Freshly Spiced<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/92He_gRx-E9sZLJwP6lsgA__original/img/qNhNoko5aTtSNK7T3A7XonECNN8=/0x0/filters:format(jpeg)/pic294731.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/92He_gRx-E9sZLJwP6lsgA__small/img/ydWCjArE9Cw-WOQLjlVMpbl8wCg=/fit-in/200x150/filters:strip_icc()/pic294731.jpg",
+    "publishers": [
+        "Doris & Frank",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Doris Matthäus",
+        "Frank Nestel"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Bias",
+            "Dice Rolling",
+            "Grid Movement",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Prehistoric"
+        ],
+        "families": [
+            "Theme: Bacteria",
+            "Theme: Biology",
+            "Theme: Evolution",
+            "Theme: Science"
+        ]
+    }
+}

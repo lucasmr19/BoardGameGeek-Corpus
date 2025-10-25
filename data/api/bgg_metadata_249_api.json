@@ -1,0 +1,40 @@
+{
+    "id": 249,
+    "name": "Lifeboats",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Also known as 'Rette Sich Wer Kann' ('Each Man for Himself') and often times referred to as 'The Lifeboat Game,' this pure negotiation game puts a different spin on the typical ocean catastrophe.  There's been a boating accident, and a rag-tag group of six lifeboats is trying to make its way to one of several islands just over the horizon.  However only one boat will make any forward progress in a given turn, so players try to convince everyone to vote for his particular favorite.  To further complicate matters, the sailors can't seem to decide which boat they want to be in, so they're constantly jumping out of boats to swim to another one.  As if all that wasn't enough, one of the boats springs a leak each turn.  If the boat is at maximum occupancy when the leak occurs, then players vote to decide who to toss to the sharks!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/wcjYK7MwVpOf_V7zcOEcdQ__original/img/obGvnlB_BqyPjgR6K45RmZ3OE9w=/0x0/filters:format(jpeg)/pic166390.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wcjYK7MwVpOf_V7zcOEcdQ__small/img/vUJyR9MRiIPMpcDSu6j3U1fAyxc=/fit-in/200x150/filters:strip_icc()/pic166390.jpg",
+    "publishers": [
+        "Argentum Verlag",
+        "Walter Müller's Spielewerkstatt",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Ronald Wettering"
+    ],
+    "artists": [
+        "Matthias Catrein",
+        "Wolfgang Steinmeyer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Player Elimination",
+            "Simultaneous Action Selection",
+            "Voting"
+        ],
+        "categories": [
+            "Nautical",
+            "Negotiation",
+            "Party Game"
+        ],
+        "families": [
+            "Admin: Better Description Needed!"
+        ]
+    }
+}

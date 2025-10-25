@@ -1,0 +1,46 @@
+{
+    "id": 486,
+    "name": "Barnyard Buddies",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "4",
+    "description": "In Barnyard Buddies, a bunch of cards depicting various animals in different colors are placed faceup on the table. Each turn, one player reveals a card that depicts four animals, each in a different color. All players race to figure out the animal and color not depicted on this revealed card, then grab the card on the table showing this colored animal combination.<br/><br/>This quick, mind-crushing exercise continues until the deck is depleted. Whoever collects the most cards wins!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/_Hrxnciw-pxc1-Z0BcUWog__original/img/GXBm9vLmGUwr1TgDNUTWTABLic0=/0x0/filters:format(jpeg)/pic738245.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_Hrxnciw-pxc1-Z0BcUWog__small/img/Cu9AUGkJkOzz9TNm1CU7hNy53WM=/fit-in/200x150/filters:strip_icc()/pic738245.jpg",
+    "publishers": [
+        "999 Games",
+        "AMIGO",
+        "asmodee",
+        "Gamewright",
+        "Gigamic",
+        "Kaissa Chess & Games",
+        "Mercurio",
+        "MINDOK",
+        "Playroom Entertainment",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Reinhard Staupe"
+    ],
+    "artists": [
+        "Guy Francis",
+        "Oliver Freudenreich",
+        "Uschi Heusel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Pattern Recognition"
+        ],
+        "categories": [
+            "Animals",
+            "Children's Game",
+            "Real-time"
+        ],
+        "families": [
+            "Theme: Circus"
+        ]
+    }
+}

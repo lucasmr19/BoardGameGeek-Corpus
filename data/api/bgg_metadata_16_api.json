@@ -1,0 +1,38 @@
+{
+    "id": 16,
+    "name": "MarraCash",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Taking on the roles of shop owners in the Moroccan marketplace, players buy various shops, as color-coded tourists in the form of neat little wooden people in hats start showing up at the entry gate. Players can then move them into their own like-colored shops to earn money or move them into opponents' shops for a share of the profits. After all the tourists have been placed onto the board, the player with the biggest bankroll takes the victory. This game combines some great auction elements with spatial relationships for an appealing overall effect.<br/><br/>Contents:<br/>  1 game board<br/>  1 blue auction stone<br/>  1 counter sheet with:<br/>      - 24 shop signs (6 each of Ali, Anfa, Omar and Leila)<br/>      -   4 player aid cards<br/>24  plastic stands<br/>54 pawns = &quot;visitors&quot; (14 yellow, 10 each of red, blue, green and purple)<br/>25 game cards with &quot;souvenirs&quot;<br/>Money in different values (500, 200, 100 and 25 Dirhams)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/MG02VVqE39lZZdOgtJU0mg__original/img/8ORCptrP1isD69HfHLq_C9tWnh0=/0x0/filters:format(jpeg)/pic573942.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MG02VVqE39lZZdOgtJU0mg__small/img/okBWket3jiozTnncTFzXEM_Lpag=/fit-in/200x150/filters:strip_icc()/pic573942.jpg",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "artists": [
+        "Marion Pott",
+        "Oliver Vogel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Category: Combinatorial",
+            "Cities: Marrakech (Morocco)",
+            "Country: Morocco",
+            "Occupation: Merchant"
+        ]
+    }
+}

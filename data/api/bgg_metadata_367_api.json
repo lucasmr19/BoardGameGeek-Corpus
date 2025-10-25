@@ -1,0 +1,31 @@
+{
+    "id": 367,
+    "name": "Overthrone",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "from the Game Report:<br/><br/>The game is played in a series of rounds during which each person plays a card to the center of the table. Usually these cards will fall into one of four Suits: Gold, Courtiers, Provinces and Musketeers. The cards feature ranks from 1-7, and after all cards have been played the person who played the highest card in each Suit collects all the cards of that type. Captured cards are then placed into a person's &quot;structure&quot;, which shows all the elements of a player's court. At the end of the game and at various points during play, a player scores points based on the value of the cards in his structure.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/cr7U006293OMGD45OCgabQ__original/img/hpTqGdO8IHZJhdwwL66MDoJsrmw=/0x0/filters:format(jpeg)/pic2090680.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/cr7U006293OMGD45OCgabQ__small/img/83Z6tJ7JvNx1c-hSgb6VJmD4zVo=/fit-in/200x150/filters:strip_icc()/pic2090680.jpg",
+    "publishers": [
+        "Heidelberger Spieleverlag",
+        "R&R Games"
+    ],
+    "designers": [
+        "Frank DiLorenzo",
+        "Stacey Merrill"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

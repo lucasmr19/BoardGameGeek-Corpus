@@ -1,0 +1,35 @@
+{
+    "id": 186,
+    "name": "Split",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Newer version of SPLIT is now available. Publisher is GDC-GameDevCo Ltd. The game still features the patented SPLIT half cards and looks much better than the original (design wise) and seems to have some adjustments to the rules.<br/><br/>In this surprisingly solid offering from Hasbro, players use cards to take actions on a board.  The cards depict halves of a standard deck of cards, and players attempt to match the halves with those next to the board.  Depending on the quality of the match (perfect, strong, weak), the action is likewise powerful or weak.  The object of the game is to place a series of your markers in a continuous line across the board.  Also the game is scalable for two to six players, with four through six using partners to keep the action interesting.<br/><br/>Re-implemented as:<br/><br/>    Split (Revised Edition)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/TR6i6zV1AyHeUFk_jpaHzQ__original/img/C74sRL2S3j5quBNtD387wcHCsgk=/0x0/filters:format(jpeg)/pic271959.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TR6i6zV1AyHeUFk_jpaHzQ__small/img/V39Sk9n8F5T_yrKIZtcYHiMh77E=/fit-in/200x150/filters:strip_icc()/pic271959.jpg",
+    "publishers": [
+        "GDC-GameDevCo Ltd.",
+        "Hasbro",
+        "Parker Brothers"
+    ],
+    "designers": [
+        "David Hoyt"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Pattern Building",
+            "Point to Point Movement",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Components: 10 x 10 Grids"
+        ]
+    }
+}

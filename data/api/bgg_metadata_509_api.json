@@ -1,0 +1,43 @@
+{
+    "id": 509,
+    "name": "The Reef",
+    "yearpublished": "2000",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "After arranging the cards to form the reef, players roll dice to collect worms, spend worms to buy cards, use the cards to breed fish to win the game. You need to buy more boats to increase the columns on which you can fish. You need to buy reef cards (5 in total) on which you breed the parents, first to get 5 offspring wins. There are also pearl cards, which act as joker worms, and sharks, which eliminate cards by eating them.<br/><br/>There is a deck of offspring, 4 are dealt up, being combinations of the 5 colors. So there are blue green fish, pink yellow fish, purple purple fish. The parents are in the same colors, some male, some female. So, for example, to collect the blue green baby fish, you need a blue male and green female, or a blue female and green male. Any used cards go to the discard, which gets shuffled round and feed back into the reef. The cost of cards depends on their position on the reef, and there is a rule for flowing cards through past your boats.<br/><br/>The Reef is part of the Kosmos two-player series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/egQ3YotRi30f-ye6u48S1Q__original/img/QkYTOZ_QZYK0ViDxHk6UIDGJjvU=/0x0/filters:format(jpeg)/pic18410.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/egQ3YotRi30f-ye6u48S1Q__small/img/DPGwU8Z5NJcPOoFBfvnUYaiLkRY=/fit-in/200x150/filters:strip_icc()/pic18410.jpg",
+    "publishers": [
+        "KOSMOS",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Christine Lehmann",
+        "Wolfgang Lehmann"
+    ],
+    "artists": [
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Contracts",
+            "Dice Rolling",
+            "Income",
+            "Open Drafting",
+            "Race",
+            "Set Collection"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Fish / Fishes",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)"
+        ]
+    }
+}

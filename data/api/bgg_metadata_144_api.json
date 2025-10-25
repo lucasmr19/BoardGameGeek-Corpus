@@ -1,0 +1,33 @@
+{
+    "id": 144,
+    "name": "Elfenwizards",
+    "yearpublished": "1995",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "This game is from Alan Moon&#039;s days at White Wind.  Sharing many elements with Avalon Hill&#039;s Kremlin, players represent a family of wizards that are seeking to advance their political power.  Players are given an armada of dice to roll for a turn, and these are then used to lend points of support for upcoming elections.  The winner is the player who either takes the top office twice or gathers the most political points over the course of four turns.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/bpw2NljB21reQEcL9nF9CQ__original/img/5KqmM5H0-s1AJvNgoQlqplUiZlE=/0x0/filters:format(jpeg)/pic27452.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bpw2NljB21reQEcL9nF9CQ__small/img/msRCE0pgkU00UpQH9PdsVI4lNEM=/fit-in/200x150/filters:strip_icc()/pic27452.jpg",
+    "publishers": [
+        "White Wind"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Negotiation"
+        ],
+        "families": [
+            "Creatures: Fairies / Elves / Pixies"
+        ]
+    }
+}

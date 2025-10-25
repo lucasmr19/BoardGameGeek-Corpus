@@ -1,0 +1,39 @@
+{
+    "id": 134,
+    "name": "Cape Horn",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "This is a sailing game where players are racing around Cape Horn.  Each turn a player may move their boat by using the wind markers that are placed out on the board.  The trick is other players can impede your progress by playing their wind markers to slow you down.  First person to hit 3 way-points wins.  You can also win by hitting 2 way-points and then crossing the finish line.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/d78Gf9wr4SVzu-YhSUJ_Mw__original/img/SmphqBeB8TfsB6SCVZSL31WudLg=/0x0/filters:format(jpeg)/pic607819.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/d78Gf9wr4SVzu-YhSUJ_Mw__small/img/xftdlUM3tEqW1G6MBEJEAAx2U70=/fit-in/200x150/filters:strip_icc()/pic607819.jpg",
+    "publishers": [
+        "KOSMOS",
+        "Rio Grande Games",
+        "Tilsit"
+    ],
+    "designers": [
+        "Thorsten Gimmler"
+    ],
+    "artists": [
+        "Anke Pohl",
+        "Thilo Rick",
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Tile Placement"
+        ],
+        "categories": [
+            "Nautical",
+            "Racing"
+        ],
+        "families": [
+            "Country: Chile",
+            "Sports: Sailing"
+        ]
+    }
+}

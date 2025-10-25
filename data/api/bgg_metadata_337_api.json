@@ -1,0 +1,62 @@
+{
+    "id": 337,
+    "name": "Circus Flohcati",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "6",
+    "description": "In Circus Flohcati, players collect acts from the flea circus to score points, with the game containing ten types (colors) of acts, with acts being valued from 0-7 points.<br/><br/>On a turn, you can choose one of the face-up cards on the table and add that to your hand or flip the top card from the deck and add it to the cards on display. If you flip an action card, you must take that action &mdash; often stealing a card from an opponent &mdash; then your turn ends. If you flip a card of the same color as any face-up card, then you instead discard the newly revealed card and your turn ends with you getting nothing. Otherwise, you again face the same options: Collect a face-up card or reveal a new card.<br/><br/>If on your turn you have three cards of the same value in hand, you can play this trio on the table for a guaranteed 10 points. The game ends either when someone reveals that they have all ten acts in hand or when the deck has been exhausted. You score only for the highest-valued act of each color, so either avoid taking duplicate colors or ditch them in trios. If you have all ten acts in hand, score a 10-point &quot;gala show&quot; bonus. Whoever has the highest score wins.<br/><br/>Editions of Circus Flohcati bear a player count of either 2-5 or 3-5, but they don't differ in the rules or nature of the components.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/h-HgnES2sJu6_j_L00HYxA__original/img/CvJmtKrLzIITDXqIYJdFKAkR80s=/0x0/filters:format(jpeg)/pic7594785.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h-HgnES2sJu6_j_L00HYxA__small/img/vBQ6QR6l081DCGQt5DQQq9CiM5Q=/fit-in/200x150/filters:strip_icc()/pic7594785.jpg",
+    "publishers": [
+        "AMIGO",
+        "25th Century Games",
+        "ABACUSSPIELE",
+        "Gap Times",
+        "Grail Games",
+        "Muduko",
+        "New Games Order, LLC",
+        "oook! Game",
+        "OPEN'N PLAY",
+        "Play Smart",
+        "Playte",
+        "Popcorn Games",
+        "Rio Grande Games",
+        "Süddeutsche Zeitung",
+        "TWOPLUS Games",
+        "University Games",
+        "YaoPlay",
+        "游隙时光"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Heiko Günther",
+        "JBJ",
+        "Yusuke Mamada",
+        "Łukasz Silski",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Open Drafting",
+            "Push Your Luck",
+            "Set Collection"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Fleas",
+            "Animals: Insects",
+            "Theme: Circus",
+            "Crowdfunding: Kickstarter",
+            "Mechanism: Card Line",
+            "Series: The Mike Line (Grail Games)"
+        ]
+    }
+}

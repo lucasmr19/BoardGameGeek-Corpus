@@ -1,0 +1,33 @@
+{
+    "id": 226,
+    "name": "Isi",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Isi is a colorful abstract strategy game played on two levels.  On a basic level, each player is moving a pawn around the island of Isi, picking up tokens - there's a little strategy here, because which tokens you pick up are important, and one player's pawn can interfere with the other's.  But on another level, players are spending those tokens to build 'trade routes' between cities on the same island.  Cities grow as they become connected by trade routes, and at the end of the game whichever city's grown the most becomes the capital city; whoever is connected the most to the capital wins the game.<br/><br/>Re-implemented by:<br/><br/>    Morisi<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/76iArYYHqyhCMMoTx-UqdA__original/img/kAGf5rFaMudANVFj_lX1rsiYMYI=/0x0/filters:format(jpeg)/pic296559.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/76iArYYHqyhCMMoTx-UqdA__small/img/jDw1cIXumwmadnLqzVYTRiWg_MI=/fit-in/200x150/filters:strip_icc()/pic296559.jpg",
+    "publishers": [
+        "Cwali"
+    ],
+    "designers": [
+        "Corné van Moorsel"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Modular Board",
+            "Network and Route Building"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Containers: Tubes",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

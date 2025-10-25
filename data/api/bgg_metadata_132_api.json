@@ -1,0 +1,51 @@
+{
+    "id": 132,
+    "name": "Caesar & Cleopatra",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Caesar and Cleopatra is a card laying game where players assume the roles of these two great leaders. Caesar wants Rome to invade Egypt while Cleopatra wants it to remain independent and both try to influence Roman officials to support their cause.<br/><br/>Players take turns and send their agents, i.e. play numbered cards from 1 to 5 to influence one group of Roman officials, Aedils, Quaestors, Senators, Pretorians and Censors. They can send fewer agents face-down or more agents face-up. Additionally they can play action cards like Assassins that take out opposing agents or scouts that reveal face-down agents. Players can decide if they want to refill their hand from the agent deck or the action card deck but once one of the decks is empty they don't have access to any more of these cards.<br/><br/>After each players turn, a card from the voting stack is revealed and the group of officials that is indicated on the card casts their vote. The player who has the most influence points next to that group wins one official from that group to his cause and then removes his strongest agent from that stack.<br/><br/>The game ends when all the officials have picked a side and the player who has influenced most of them wins the game, with bonus points for the majority in each group and some simple hidden objectives.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/NikwfBhoTkfVQdd8NXHU0g__original/img/oErlCUa2wpooXygRkk1trUdgeT8=/0x0/filters:format(jpeg)/pic8647817.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NikwfBhoTkfVQdd8NXHU0g__small/img/_BN22f238wsEaS_OWDQtiwF5WFM=/fit-in/200x150/filters:strip_icc()/pic8647817.jpg",
+    "publishers": [
+        "KOSMOS",
+        "999 Games",
+        "Filosofia Éditions",
+        "Galakta",
+        "Kaissa Chess & Games",
+        "Laser plus",
+        "Rio Grande Games",
+        "Thames & Kosmos",
+        "Tilsit"
+    ],
+    "designers": [
+        "Wolfgang Lüdtke"
+    ],
+    "artists": [
+        "Fiore GmbH",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Set Collection"
+        ],
+        "categories": [
+            "Ancient",
+            "Bluffing",
+            "Card Game"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Ancient: Rome",
+            "Historical Figures: Cleopatra",
+            "Historical Figures: Julius Caesar",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)"
+        ]
+    }
+}

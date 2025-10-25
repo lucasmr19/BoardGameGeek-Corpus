@@ -1,0 +1,43 @@
+{
+    "id": 68,
+    "name": "Successors: The Battles for Alexander's Empire (First/Second Edition)",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "Following in the footsteps of the successful card driven war game systems of We the People and Hannibal: Rome vs. Carthage, Successors adds a new element in adding a multi-player dimension to the series. Players are the generals under the recently deceased Alexander the Great and recreate the civil war within the Hellenistic sphere of the middle east. The map is a point to point system, the counters are extra large and quite colorful and a deck of cards is provided that gives a refreshing twist to the typical war game.<br/><br/>Re-implemented by:<br/><br/>    Successors: The Battles for Alexander's Empire<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/Gl3Zy0ZRU87klG89fc3tKg__original/img/hHvF0Yn3j11O56TqSKc6ni4q0xc=/0x0/filters:format(jpeg)/pic290690.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Gl3Zy0ZRU87klG89fc3tKg__small/img/KJFvydQQM6RwWdWrQq4oKUGby6c=/fit-in/200x150/filters:strip_icc()/pic290690.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Wydawnictwo Gołębiewski"
+    ],
+    "designers": [
+        "Richard H. Berg",
+        "Mark Simonitch"
+    ],
+    "artists": [
+        "Kurt Miller",
+        "Patrick O'Brien",
+        "Mark Simonitch"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Campaign / Battle Card Driven",
+            "Dice Rolling",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Ancient",
+            "Wargame"
+        ],
+        "families": [
+            "Ancient: Greece",
+            "Components: Map (Continental / National scale)",
+            "History: Wars of the Diadochi and Syrian Wars",
+            "War Level of Command: Strategic"
+        ]
+    }
+}

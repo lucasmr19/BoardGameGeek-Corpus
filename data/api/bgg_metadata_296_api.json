@@ -1,0 +1,38 @@
+{
+    "id": 296,
+    "name": "Medieval Merchant",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Players secure valued markets via affordable trade routes between medieval cities while simultaneously forcing opponents into less affordable and less valued markets.  The cities themselves have a variable number of spaces for players to develop business branches within, or alternatively establish new trade routes into wider reaching cities and towns.  Players may generate income and risk losing dominance over a city, or add branches within a city that lower the value of your product but can award you with a stronger market influence.  At the end of the game, the player with the most influence wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/km0MC8jtvz6nPThWqiEGbw__original/img/8rNBESTXI8_GeSBs1V3lxjy4x8M=/0x0/filters:format(jpeg)/pic150859.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/km0MC8jtvz6nPThWqiEGbw__small/img/1ku-b0y1V9gg-lNE44SfqINi1hk=/fit-in/200x150/filters:strip_icc()/pic150859.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Christwart Conrad"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Income"
+        ],
+        "categories": [
+            "Economic",
+            "Medieval"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)",
+            "Components: Wooden pieces & boards",
+            "Occupation: Merchant"
+        ]
+    }
+}

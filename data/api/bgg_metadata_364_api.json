@@ -1,0 +1,46 @@
+{
+    "id": 364,
+    "name": "Samarkand",
+    "yearpublished": "1980",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "40",
+    "maxplaytime": "40",
+    "age": "9",
+    "description": "A trading game in which you don't trade with the other players.  Instead the commodities are displayed on the board in a number of &quot;nomad camps.&quot;  If your move brings you to a camp, you must present a gift to the camp -- then you can trade your cards for any cards in the camp.  You can also buy goods from the deck at &quot;oasis&quot; squares.  Once you've amassed a number of a particular commodity, you head for the city where that commodity is bought.  There are a few other details to complicate matters, but basically everyone repeats this process until someone has the 500 cash in hand to win the game.  Samarkand is an entertaining exercise with no especially brain-taxing strategies to figure out and makes a good family game.<br/><br/>This game is sometimes called Bazaar II, because Schmidt Spiele originally published this game under the name Bazaar, even though Bazaar is a completely different game.  Both games are by Sid Sackson.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Atd02Sv9YsphI7EfFDktkg__original/img/Tdj-Cz3cI0zSbysd4gSCThPuTGk=/0x0/filters:format(jpeg)/pic510724.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Atd02Sv9YsphI7EfFDktkg__small/img/bJxuLXSGSaxLuQV7Glj_M-JRulQ=/fit-in/200x150/filters:strip_icc()/pic510724.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Grünspan-Spiele",
+        "Rio Grande Games",
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [
+        "James Guerney",
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Pick-up and Deliver",
+            "Race",
+            "Set Collection",
+            "Square Grid",
+            "Trading"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Cities: Samarkand (Uzbekistan)",
+            "Components: 4 x 5 Grids",
+            "Country: Uzbekistan",
+            "Digital Implementations: Board Game Arena",
+            "Occupation: Merchant",
+            "Theme: Deserts"
+        ]
+    }
+}

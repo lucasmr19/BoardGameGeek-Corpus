@@ -1,0 +1,37 @@
+{
+    "id": 387,
+    "name": "Corruption",
+    "yearpublished": "2000",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Described by the designer as a cross between Doris &amp; Frank&#039;s Banana Republic and stud poker, this game casts players as construction company owners who are seeking to bribe various government officials for lucrative building contracts.  Each turn, six new contracts are up for grabs, and players compete for them by placing secret bribe amounts.  At the end of each round, whoever offered the most bribe money for each contract gets it.  Special cards, whose backs look just like bribe cards, can alter the contest significantly, but while the bribe cards are recycled after each of the three rounds, the special cards are not.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/tBUB6ID38InHv8SbZT0g8w__original/img/gv7mObJdIlTAZJ7CYQolmkoc4zc=/0x0/filters:format(jpeg)/pic335335.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tBUB6ID38InHv8SbZT0g8w__small/img/4qec3maBLtIWcQPVQ3us6pHXWp0=/fit-in/200x150/filters:strip_icc()/pic335335.jpg",
+    "publishers": [
+        "Atlas Games",
+        "Descartes Editeur"
+    ],
+    "designers": [
+        "Bruno Faidutti"
+    ],
+    "artists": [
+        "C. Brent Ferguson",
+        "J. Scott Reeves",
+        "Cyril Saint Blancat"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Bluffing",
+            "Card Game"
+        ],
+        "families": [
+            "Series: Blue Games (Descartes)"
+        ]
+    }
+}

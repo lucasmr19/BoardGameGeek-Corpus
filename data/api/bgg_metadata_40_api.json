@@ -1,0 +1,47 @@
+{
+    "id": 40,
+    "name": "Borderlands",
+    "yearpublished": "1982",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "Trying to squeeze Diplomacy into a reasonable amount of time, Eon designed Borderlands to be a game where political wrangling is a must, and a free market society fuels the ambition for conquest.  Borderlands blends the conflict and deal-making elements from Diplomacy with resource management inspired by Settlers of Catan.<br/><br/>The German edition of the game, Ascalion, contains elements from the two Borderlands expansions.<br/><br/>Reimplemented by<br/><br/>    Gearworld: The Borderlands<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/pJmlIpIcUU7NOZlJE0z4KA__original/img/DnE7MHdiG04qX7Q2QEJJygJUAv0=/0x0/filters:format(jpeg)/pic651637.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pJmlIpIcUU7NOZlJE0z4KA__small/img/xlZa76JpuuoGBwnkmpgXoTdEPVc=/fit-in/200x150/filters:strip_icc()/pic651637.jpg",
+    "publishers": [
+        "Edition Spielkunst",
+        "Eon Products, Inc. (Eon)",
+        "Tsukuda Hobby",
+        "Welt der Spiele"
+    ],
+    "designers": [
+        "Bill Eberle",
+        "Jack Kittredge",
+        "Peter Olotka"
+    ],
+    "artists": [
+        "Frank Frazetta",
+        "Dean Morrissey"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Random Production",
+            "Simulation",
+            "Trading"
+        ],
+        "categories": [
+            "Bluffing",
+            "Civilization",
+            "Fantasy",
+            "Negotiation",
+            "Political"
+        ],
+        "families": [
+            "Digital Implementations: VASSAL",
+            "Islands: Fictional"
+        ]
+    }
+}

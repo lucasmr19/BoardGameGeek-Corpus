@@ -1,0 +1,34 @@
+{
+    "id": 133,
+    "name": "Frischfleisch",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "18",
+    "description": "Each player in Frischfleish (Fresh Flesh) represents a unique group of individuals stranded on a desert island.  Although there is a rescue attempt in the works, it's still a month away.  In the meantime, the characters will have to live off the land or off of each other depending on how it goes.  Players attempt to guide the members of their group around the island, keeping them alive with the food they find in the desert.  However if their foraging is less than successful, finding some poor schmuck's meaty thigh is a viable substitute.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/UBxzacwiJwG_sFQXcxTmaw__original/img/xu4uBZTA969VqIONPrQpp7HiGyg=/0x0/filters:format(jpeg)/pic464789.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UBxzacwiJwG_sFQXcxTmaw__small/img/BpbVrv5TrSCN50DerzRZQWkMc3Y=/fit-in/200x150/filters:strip_icc()/pic464789.jpg",
+    "publishers": [
+        "2F-Spiele"
+    ],
+    "designers": [
+        "Friedemann Friese"
+    ],
+    "artists": [
+        "Lars-Arne \"Maura\" Kalusky"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Modular Board"
+        ],
+        "categories": [
+            "Exploration",
+            "Horror"
+        ],
+        "families": [
+            "Theme: Cannibals / Cannibalism"
+        ]
+    }
+}

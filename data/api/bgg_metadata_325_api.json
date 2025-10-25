@@ -1,0 +1,87 @@
+{
+    "id": 325,
+    "name": "CATAN: Seafarers",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "This is an expansion for CATAN. Players can build shipping lanes, which are very similar to roads. Additionally, the game comes with many different water-hex-heavy variant setups. The English version (CATAN Studio) should only be used with the English base game, instead of the German one (Kosmos), because of matching components. The Kosmos German version should only be used with the German base game. Additionally, several different editions exist; 5th edition is the most recent. Editions should only be used with same edition, otherwise the purchase of adapter kit is required.<br/><br/>Part of the Catan Series.<br/><br/>This game requires CATAN.  Ideally, using the same publisher and edition of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/v8ll_1CxVGP-KN-NqkoQsg__original/img/HQqjNMRHo7Nxuoa72J5yyIq-NCY=/0x0/filters:format(jpeg)/pic8828019.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/v8ll_1CxVGP-KN-NqkoQsg__small/img/1Kuh2BgF2fqDNHijFUZHBqjKwOA=/fit-in/200x150/filters:strip_icc()/pic8828019.jpg",
+    "publishers": [
+        "KOSMOS",
+        "999 Games",
+        "Albi",
+        "asmodee",
+        "Brädspel.se",
+        "Brain Games",
+        "Catan Studio",
+        "Competo / Marektoy",
+        "danspil",
+        "Devir",
+        "Dexy Co",
+        "Filosofia Éditions",
+        "Galakta",
+        "Giochi Uniti",
+        "GP Games",
+        "Grow Jogos e Brinquedos",
+        "HaKubia",
+        "Hobby World",
+        "Ideal Board Games",
+        "Igroljub",
+        "IntelliGames.BG",
+        "Ísöld ehf.",
+        "Kaissa Chess & Games",
+        "Korea Boardgames",
+        "Laser plus",
+        "Mayfair Games",
+        "MIPL",
+        "Piatnik",
+        "Rozum",
+        "Smart Ltd",
+        "Spilbræt.dk",
+        "SuperHeated Neurons",
+        "Swan Panasia Co., Ltd.",
+        "Tilsit",
+        "TRY SOFT"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Volkan Baga",
+        "Tanja Donner",
+        "Eric Hibbeler",
+        "Michaela Kienle",
+        "Harald Lieske",
+        "Michael Menzel",
+        "Quentin Regnes",
+        "Matt Schwabel",
+        "Klaus Teuber",
+        "Franz Vohwinkel",
+        "Stephen Graham Walsh"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hand Management",
+            "Memory",
+            "Modular Board",
+            "Network and Route Building",
+            "Trading"
+        ],
+        "categories": [
+            "Expansion for Base-game",
+            "Exploration",
+            "Nautical",
+            "Negotiation"
+        ],
+        "families": [
+            "Components: Hexagonal Tiles",
+            "Game: Catan",
+            "Islands: Fictional"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 281,
+    "name": "Ostindiska kompaniet",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "from the translation:<br/>The Swedish East India Company loaded their ships in G&ouml;teborg with Swedish export goods.  These were carried to Cadiz in Spain and there sold in exchange for Spanish silver piastres, the only currency acceptable to the Chinese and South Indian merchants.  From Cadiz the ships sailed east to ports in India and China (invariably Canton in the latter), where they sought to purchase the most profitable goods.  These were carried back to G&ouml;teborg and sold at a healthy profit.  (The Company actually supplied most of the Swedish GNP in those days!)  You will reinvest your profits in new cargo to start the Cadiz/Far East cycle again, but you must also buy shares in the Company.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/RvCQD8vq6z7c_FjJWest3A__original/img/liYywlhS41jj4JoT5UHZGwpYiB0=/0x0/filters:format(jpeg)/pic1851288.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RvCQD8vq6z7c_FjJWest3A__small/img/iAyEJJKSe2P7kVJn6uroi8Ghoxk=/fit-in/200x150/filters:strip_icc()/pic1851288.jpg",
+    "publishers": [
+        "G&RRR",
+        "neoGames"
+    ],
+    "designers": [
+        "Dan Glimne"
+    ],
+    "artists": [
+        "Dan Glimne",
+        "Jacob Hägg",
+        "Ann-Marie Hedström"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Pick-up and Deliver"
+        ],
+        "categories": [
+            "Economic",
+            "Nautical"
+        ],
+        "families": []
+    }
+}

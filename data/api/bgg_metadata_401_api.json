@@ -1,0 +1,31 @@
+{
+    "id": 401,
+    "name": "Gold Connection",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Borrowing elements of his classic 'push your luck' game, Can&#039;t Stop, Sackson places participants in the role of gold looters in this game.  Players move around to various locations inside a vault filled with gold bars.  Dice are rolled to capture bars with numbers on them, with the idea that bigger-numbered bars that are far from your starting location on that turn are the most difficult gold bars to acquire.  You can continue collecting gold on your turn until you either miss a dice attempt or decide you've collected enough for one turn.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/eEChbVGVrXh3IoSXTsshyg__original/img/6w7EV7HBTW3Za6MrpTNOaxRckGE=/0x0/filters:format(jpeg)/pic195411.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eEChbVGVrXh3IoSXTsshyg__small/img/xL061rckbzoQzF63UvDYLgEEvPo=/fit-in/200x150/filters:strip_icc()/pic195411.jpg",
+    "publishers": [
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Push Your Luck",
+            "Set Collection"
+        ],
+        "categories": [
+            "Dice"
+        ],
+        "families": []
+    }
+}

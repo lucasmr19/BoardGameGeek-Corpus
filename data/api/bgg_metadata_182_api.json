@@ -1,0 +1,43 @@
+{
+    "id": 182,
+    "name": "Hungry",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "In this quick, fun, and fairly abstract game, players play cards in an effort to acquire tiles that are either color-coded or number-coded.  Players take turns, first playing a card onto a tile that matches either the card's number or its color, then drawing to refill their hands.  When all cards have been played, each tile is evaluated, and whichever player has the most cards played to that tile gets that tile's points.  After calculating point totals and figuring in bonuses, the player with the highest score is the winner.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/14F14Wv4Khjgw8va58a1lg__original/img/xj4WxEiH-gOZuSjvb82evyubKfc=/0x0/filters:format(jpeg)/pic3950556.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/14F14Wv4Khjgw8va58a1lg__small/img/Y05W0rCK5OAz2W1cjh3LtyeA8Hc=/fit-in/200x150/filters:strip_icc()/pic3950556.jpg",
+    "publishers": [
+        "Kanga Games",
+        "Nasza Księgarnia",
+        "Playroom Entertainment",
+        "Spiel Spass",
+        "W. Nostheide Verlag GmbH"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Wesly Gibs",
+        "Paul Herbert",
+        "Elisa Teague",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Card Game",
+            "Medieval"
+        ],
+        "families": [
+            "Magazine: Spielbox"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "id": 18,
+    "name": "RoboRally",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "45",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "The robots of the RoboRally automobile factory spend their weekdays toiling at the assembly line. They put in hard hours building high-speed supercars they never get to see in action. But on Saturday nights, the factory becomes a world of mad machines and dangerous schemes as these robots engage in their own epic race.It takes speed, wits, and dirty tricks to become a racing legend! Each player chooses a robot and directs its moves by playing cards. Chaos ensues as all players reveal the cards they've chosen. Players face obstacles like industrial lasers, gaping pits, and moving conveyor belts -- but those can also be used to their advantage! Each player aims to make it to each of the checkpoints in numerical order. The first player to reach all of the checkpoints wins. <br/><br/>In RoboRally players each control a different robot in a race through a dangerous factory floor. Several goals will be placed on the board and you must navigate your robot to them in a specific order. The boards can be combined in several different ways to accommodate different player counts and races can be as long or as short as player's desire.<br/><br/>In general, players will first fill all of their robot's &quot;registers&quot; with facedown movement cards. This happens simultaneously and there is a time element involved. If you don't act fast enough you are forced to place cards randomly to fill the rest. Then, starting with the first register, everyone reveals their card. The card with the highest number moves first. After everyone resolves their movement they reveal the next card and so on. Examples of movement cards may be to turn 90 degrees left or right, move forward 2 spaces, or move backward 1 space though there are a bigger variety than that. You can plan a perfect route, but if another robot runs into you it can push you off course. This can be disastrous since you can't reprogram any cards to fix it!<br/><br/>Robots fire lasers and factory elements resolve after each movement and robots may become damaged. If they take enough damage certain movement cards become fixed and can no longer be changed. If they take more they may be destroyed entirely. The first robot to claim all the goals in the correct order wins, though some may award points and play tournament style.<br/><br/>The game was reprinted by Avalon Hill (Hasbro/WotC) in 2005.<br/><br/>UPC 742818050029<br/><br/>",
+    "image": "https://cf.geekdo-images.com/eJx8hRJ6-86C2VrhECwEPA__original/img/-9I8B82hDOO1n0h9urwZUdz6bqc=/0x0/filters:format(jpeg)/pic1000553.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/eJx8hRJ6-86C2VrhECwEPA__small/img/J1PlqFqtN-hxuXM4eEi-ekANPP4=/fit-in/200x150/filters:strip_icc()/pic1000553.jpg",
+    "publishers": [
+        "Wizards of the Coast",
+        "999 Games",
+        "ADC Blackfire Entertainment",
+        "AMIGO",
+        "Avalon Hill",
+        "Hasbro",
+        "Play Factory"
+    ],
+    "designers": [
+        "Richard Garfield"
+    ],
+    "artists": [
+        "Peter Bergting",
+        "Bob Carasca",
+        "Phil Foglio",
+        "Daniel Gelon",
+        "Jennifer Lathrop",
+        "Paul Sottosanti",
+        "Franz Vohwinkel",
+        "Peter Whitley"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Queue",
+            "Bias",
+            "Grid Movement",
+            "Lose a Turn",
+            "Modular Board",
+            "Programmed Movement",
+            "Race",
+            "Scenario / Mission / Campaign Game",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Maze",
+            "Miniatures",
+            "Racing",
+            "Science Fiction"
+        ],
+        "families": [
+            "Components: 12 x 12 Grids",
+            "Components: Miniatures",
+            "Components: Sand Timers",
+            "Misc: Dice Tower Hall of Fame",
+            "Theme: Robots",
+            "Theme: Sci-Fi Sports",
+            "Theme: Teaching Programming"
+        ]
+    }
+}

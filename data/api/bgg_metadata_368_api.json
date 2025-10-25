@@ -1,0 +1,40 @@
+{
+    "id": 368,
+    "name": "Relationship Tightrope",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "This game is a relative of the Raj/Hols der Geier family of games, the german title means Tightrope.  Each turn, a number of red and blue sticks are up for grabs.  The highest card played will take the blue sticks and the lowest card will take the red sticks.  The trick is that a red stick cancels a blue stick (that is, a well balanced tightrope walker), and the goal is to score as few points as possible.  However, there are two different ways of playing the game, depending on how players wish to play: strategic or otherwise.  The basic game has players simultaneously playing cards (ala Raj), whereas the strategic version plays like a trick-taking game with players selecting a card sequentially.<br/><br/>Re-implemented by:<br/><br/>    Yin Yang/Fifty-Fifty<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/FUyJ12REPB7P0lYrJo50lA__original/img/G0Zp_I-WFa7TuAWnSnrMmF9OtMw=/0x0/filters:format(jpeg)/pic48609.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FUyJ12REPB7P0lYrJo50lA__small/img/6vhs-omn8b7MAZvvEw6bhuBt0Kg=/fit-in/200x150/filters:strip_icc()/pic48609.jpg",
+    "publishers": [
+        "ASS Altenburger Spielkarten",
+        "Korokorodou",
+        "Überplay"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Alvin Madden",
+        "Thorsten Schäfer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Simultaneous Action Selection",
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Theme: Circus",
+            "Theme: Laundry & Socks",
+            "Theme: Love / Romance"
+        ]
+    }
+}

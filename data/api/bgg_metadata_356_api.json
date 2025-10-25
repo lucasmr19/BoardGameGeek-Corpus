@@ -1,0 +1,36 @@
+{
+    "id": 356,
+    "name": "Ab die Post!",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "8",
+    "description": "A race game that has players flying around the course, avoiding the storm cloud, doing repairs and maybe picking up a passenger for bonus points. The game has a black plastic storm cloud with a little clear cap into which you put colored balls and a black ball. Players draw cards to help them do repairs, then fly the course choosing when to take the outside, middle or inside lane. Shake the storm cloud and see which color ball falls into the cap. The color sets the speed at which you fly, but if black appears you are forced to land and do repairs, by paying back cards. If you are on the inside lane, the shortest course, you pay the most.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/jJhs7Bd6kfb6JckwF8kDaw__original/img/cU7BtuXJJASVTKGXFQPBsCt_770=/0x0/filters:format(jpeg)/pic174588.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jJhs7Bd6kfb6JckwF8kDaw__small/img/74TSAdV3DBPWbn2GUi_rsy6esSY=/fit-in/200x150/filters:strip_icc()/pic174588.jpg",
+    "publishers": [
+        "Goldsieber Spiele"
+    ],
+    "designers": [
+        "Helga Huber",
+        "Hermann Huber"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Race"
+        ],
+        "categories": [
+            "Aviation / Flight"
+        ],
+        "families": [
+            "Sports: Aerial Racing",
+            "Theme: Mail / Stamps / The Post Office"
+        ]
+    }
+}

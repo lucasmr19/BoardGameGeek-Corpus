@@ -1,0 +1,49 @@
+{
+    "id": 147,
+    "name": "Crude: The Oil Game",
+    "yearpublished": "1974",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "13",
+    "description": "In Crude: The Oil Game, players take on the role of oil company CEOs, seeking to expand their companies into multi-national energy mega-corporations.  Just as with real world energy companies, player will setup facilities for oil drilling, oil pumping, oil refining into gasoline, and gasoline selling to the consumer... all of which are represented by actual plastic pieces placed on the board!  Players also speculate by buying and selling oil and gasoline barrels in both the domestic and foreign markets... again represented by actual plastic barrels in their playing area!<br/><br/>However, the changing economic climate, as well as sudden world news events, will challenge players to keep a long-term strategic view of the world energy markets.  The first player to reach a corporation value of $750 million is the winner!<br/><br/>Crude: The Oil Game is not only a great simulation of the global oil markets, but with almost 300 plastic playing pieces, it is a sight to behold!  Known as McMulti when it was printed in Europe almost 25 years ago, this great game is finally back in print after many years!<br/><br/>Brought back into print in 2012 by Stronghold Games, Crude: The Oil Game has been a highly sought-after (&quot;Grail&quot;) game. This is an early Euro-style game &ndash; before Euro-style existed! &ndash; which accurately simulates the market forces and elements of the oil and gasoline markets at all levels of production, including oil drilling, oil pumping, oil and gasoline buying and selling in the domestic and foreign markets, oil refining, and finally gasoline selling to the consumer.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/I3eBzN15oKeaTLEdjdUEXA__original/img/XAeJPfkjBXikQHsWt9OnbU2Pw44=/0x0/filters:format(jpeg)/pic1389675.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/I3eBzN15oKeaTLEdjdUEXA__small/img/9ZzWTbstIIGBjcLfW3uGXAIo_lk=/fit-in/200x150/filters:strip_icc()/pic1389675.jpg",
+    "publishers": [
+        "St. Laurent Games",
+        "Hexagames (I)",
+        "Pegasus Spiele",
+        "Stronghold Games"
+    ],
+    "designers": [
+        "James J. St. Laurent"
+    ],
+    "artists": [
+        "William Bricker"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Dice Rolling",
+            "End Game Bonuses",
+            "Events",
+            "Income",
+            "Market",
+            "Random Production",
+            "Simulation",
+            "Square Grid",
+            "Tile Placement",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Economic",
+            "Industry / Manufacturing"
+        ],
+        "families": [
+            "Digital Implementations: TableTop Simulator Mod (TTS)",
+            "Theme: Oil / Gas / Petroleum",
+            "Theme: Trucks"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "id": 217,
+    "name": "A la carte",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "In one of his sillier games, Karl-Heinz Schmiel casts the players as semi-psychotic cooks attempting to hone their culinary skills. Each player receives a miniature pan and a hotplate. Then each turn you can either attempt to turn up the heat, season your dish, or attempt to steal another cook's recipe in the making. Heating your hotplate is a random affair with a die, and could raise the heat on everyone's plate. Spicing the dish is heart of the game and done by up-ending small bottles filled with little colored wood pellets. When the pellets tumble out of the bottle (sometimes, if they do), the number of pellets can't exceed two, because over-spicing the dish ruins it and you have to throw it in the trash!<br/><br/>The 2009 version includes some changed rules, a new victory condition, additional recipes and some new mechanics in comparison to the 1989 version.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/BvXlvPrfHf-6Mhmthc3kJg__original/img/rbgGmxFgY_-3WGBoC5ljkjULFVk=/0x0/filters:format(jpeg)/pic599251.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BvXlvPrfHf-6Mhmthc3kJg__small/img/Y_x322bcKRHcaKP2gOc_7sbLXgE=/fit-in/200x150/filters:strip_icc()/pic599251.jpg",
+    "publishers": [
+        "Heidelberger Spieleverlag",
+        "Moskito Spiele",
+        "Competo / Marektoy",
+        "Fantasy Flight Games",
+        "Giochi Uniti",
+        "HeidelBÄR Games",
+        "IELLO",
+        "Intrafin Games",
+        "Stratelibri",
+        "Swan Panasia Co., Ltd.",
+        "UBO CnC"
+    ],
+    "designers": [
+        "Karl-Heinz Schmiel"
+    ],
+    "artists": [
+        "Jochen Eeuwyk",
+        "Michael Präpasser",
+        "Christof Tisch"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Dice Rolling",
+            "Set Collection"
+        ],
+        "categories": [
+            "Action / Dexterity"
+        ],
+        "families": [
+            "Components: Gems/Crystals",
+            "Players: Games with expansions that change player count",
+            "Theme: Food / Cooking"
+        ]
+    }
+}

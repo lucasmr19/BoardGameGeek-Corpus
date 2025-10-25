@@ -1,0 +1,40 @@
+{
+    "id": 436,
+    "name": "Canyon",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Canyon is a trick-taking game in which players try to predict exactly how many tricks they will take.  The number of cards in a hand increases and then decreases in size.  A correct prediction gives your marker movement points around a scoring track depicted on a river in a canyon, whose main feature of interest is a section of &quot;rapids&quot; near the finish line where your marker will be &quot;caught in the current&quot; and sent back a few spaces if you go too many hands without a correct prediction.<br/><br/>Re-implements:<br/><br/>    Bid & Bluff<br/><br/><br/>Expanded by:<br/><br/>    Grand Canyon<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/--ft4w4hRnsbSUqhEvB5VA__original/img/Y50BdXA9OSr1ZNb5ld8TzZQlDQE=/0x0/filters:format(jpeg)/pic70466.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/--ft4w4hRnsbSUqhEvB5VA__small/img/mSHFCm80JFwYqw6HjNQSOd3YVeI=/fit-in/200x150/filters:strip_icc()/pic70466.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Grünspan-Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Frederick A. Herschler"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Betting and Bluffing",
+            "Grid Movement",
+            "Predictive Bid",
+            "Trick-taking"
+        ],
+        "categories": [
+            "American West",
+            "Card Game",
+            "Racing"
+        ],
+        "families": [
+            "Theme: Native Americans / First Peoples"
+        ]
+    }
+}

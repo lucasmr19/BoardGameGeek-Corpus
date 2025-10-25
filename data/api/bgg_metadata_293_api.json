@@ -1,0 +1,41 @@
+{
+    "id": 293,
+    "name": "Bamboleo",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "6",
+    "description": "This is definitely one of the more unusual offerings from our German friends. An assortment of oddly shaped wooden blocks are placed onto a round, wooden 'platter.' The platter has a cork ball on its underside, which is then placed on top of a conical stand. The trick is that the oddly shaped pieces are to be removed one-by-one, which has a high probability of upsetting the whole contraption's delicate balance. The bigger the piece that you remove when it's your turn, the more points you'll score, but you have a higher likelihood of spilling everything, which scores you negative points.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Haz0aE28ZWXr4YSIprzVLA__original/img/O0NdbW-WkdS2P8jaLOg0aUNQPSU=/0x0/filters:format(jpeg)/pic665201.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Haz0aE28ZWXr4YSIprzVLA__small/img/ALhP49dysXMO3xY4mMmDP6_tcmA=/fit-in/200x150/filters:strip_icc()/pic665201.jpg",
+    "publishers": [
+        "Competo / Marektoy",
+        "Kaissa Chess & Games",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd.",
+        "Vennerød Forlag AS",
+        "Zoch Verlag"
+    ],
+    "designers": [
+        "Jacques Zeimet"
+    ],
+    "artists": [
+        "Oliver Richtberg",
+        "Jacques Zeimet"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Push Your Luck",
+            "Stacking and Balancing"
+        ],
+        "categories": [
+            "Action / Dexterity",
+            "Party Game"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)"
+        ]
+    }
+}

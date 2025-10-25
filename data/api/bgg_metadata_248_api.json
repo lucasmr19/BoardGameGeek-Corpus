@@ -1,0 +1,49 @@
+{
+    "id": 248,
+    "name": "Blood Royale",
+    "yearpublished": "1987",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "&quot;Power is Wealth, Wealth is Power&quot;<br/><br/>Up to five players control one of the major blood lines of the middle ages and must guide their dynasty of family members through the ages as they attempt to gain the most wealth through diplomatic, economic and military means.<br/><br/>Taking a unique twist on your typical multiplayer conquest game, Blood Royale downplays the war aspect of the game and makes the dynastic families political fortunes as the heart and soul of the game.  Players must utilize their family members well if they wish to create a stable seat of power in their country and in the rest of Europe.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ie9yfEYuQ0kgWyLeVF-mJw__original/img/_JGyIe4VSo1_qN8pt5MWyqB2MFM=/0x0/filters:format(jpeg)/pic267087.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ie9yfEYuQ0kgWyLeVF-mJw__small/img/i4b_0pudG6lSV3CCUIT5aEpzhzY=/fit-in/200x150/filters:strip_icc()/pic267087.jpg",
+    "publishers": [
+        "Games Workshop Ltd."
+    ],
+    "designers": [
+        "Derek Carver",
+        "Paul Cockburn"
+    ],
+    "artists": [
+        "Christos Achilleos",
+        "Dave Andrews",
+        "Colin Dixon",
+        "Stephen Dukes"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Events",
+            "Paper-and-Pencil",
+            "Pick-up and Deliver",
+            "Role Playing",
+            "Set Collection",
+            "Simulation"
+        ],
+        "categories": [
+            "Medieval",
+            "Negotiation",
+            "Political",
+            "Territory Building"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: Map (Continental / National scale)",
+            "Components: Polyhedral (not D6) dice",
+            "Continents: Europe"
+        ]
+    }
+}

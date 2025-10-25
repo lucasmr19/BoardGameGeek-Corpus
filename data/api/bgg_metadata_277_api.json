@@ -1,0 +1,43 @@
+{
+    "id": 277,
+    "name": "Res Publica",
+    "yearpublished": "1991",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "In Res Publica you are the will of the people, guiding five ancient civilizations to greater heights of power and technology.<br/><br/>Each turn, the active player makes a trade offer... and each player in turn responds in kind. Using the cards and the information gained through the trading process, players work to acquire five identical people cards in order to build a city (which increases the number of cards you can draw each turn) or five identical technology cards in order to build a monument (which garners end game victory points).<br/><br/>At the end of the game, players total the points achieved via cities and monuments and the one who has the most wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/2HOXcss5hwLTr2G1ZhkSqg__original/img/S2hScmuaAtzXlX9smDFgkQSi8rg=/0x0/filters:format(jpeg)/pic1101876.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2HOXcss5hwLTr2G1ZhkSqg__small/img/hFUZWOXKnwGfIqaD8fpn92fW7cw=/fit-in/200x150/filters:strip_icc()/pic1101876.jpg",
+    "publishers": [
+        "Queen Games",
+        "Avalanche Press Ltd.",
+        "Eclipse Editorial",
+        "Hexagames (I)"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Peggy Coleman",
+        "Marko Fiedler",
+        "Jo Hartwig",
+        "Howard David Johnson",
+        "Claus Stephan",
+        "Jorge Tabanera Redondo"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Card Game",
+            "Civilization"
+        ],
+        "families": [
+            "Theme: Anthropomorphic Animals"
+        ]
+    }
+}

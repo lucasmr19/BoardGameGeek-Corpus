@@ -1,0 +1,69 @@
+{
+    "id": 438,
+    "name": "Scotland Yard",
+    "yearpublished": "1983",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "In Scotland Yard, one of the players takes on the role of Mr. X. His job is to move from point to point around the map of London taking taxis, buses or subways. The detectives &ndash; that is, the remaining players acting in concert &ndash; move around similarly in an effort to move into the same space as Mr. X. But while the criminal's mode of transportation is nearly always known, his exact location is only known intermittently throughout the game.<br/><br/>The 125 fare tickets are 5 black, 23 pink underground, 43 green bus,  54 yellow taxi.<br/><br/>Similar to<br/><br/>    The Fury of Dracula<br/>    Clue: The Great Museum Caper<br/>    Ghost Chase<br/>    Letters from Whitechapel<br/>    Garibaldi: The Escape<br/>    Specter Ops<br/>    Whitehall Mystery<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/yEhaXszPTy5N4hiY469DPA__original/img/uko6rePMJGd9B8XZMi6DcHLJA_0=/0x0/filters:format(jpeg)/pic8377405.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yEhaXszPTy5N4hiY469DPA__small/img/vDtUEdMUid0w4RKHmlwxz9a-Beo=/fit-in/200x150/filters:strip_icc()/pic8377405.jpg",
+    "publishers": [
+        "Ravensburger",
+        "Bonaparte",
+        "Educa Sallent SA",
+        "Funskool Games",
+        "Grow Jogos e Brinquedos",
+        "Kawada, Co. Ltd",
+        "Korea Boardgames",
+        "Majora",
+        "Milton Bradley",
+        "Otto Maier Verlag",
+        "Swan Panasia Co., Ltd.",
+        "ツクダプリスクール (Tsukuda Preschool)"
+    ],
+    "designers": [
+        "Manfred Burggraf",
+        "Dorothy Garrels",
+        "Wolf Hoermann",
+        "Fritz Ifland",
+        "Werner Scheerer",
+        "Werner Schlegel"
+    ],
+    "artists": [
+        "Erika Binz-Blanke",
+        "Rene Habermacher",
+        "Thomas Haubold",
+        "Henry M. Linder",
+        "Projekt Team III",
+        "Michael Schacht",
+        "Franz Vohwinkel",
+        "Thomas Weiss",
+        "Torsten Wolber",
+        "Ugurcan Yüce"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hidden Movement",
+            "Point to Point Movement",
+            "Secret Unit Deployment",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Deduction",
+            "Travel"
+        ],
+        "families": [
+            "Characters: Mister X",
+            "Cities: London (England, UK)",
+            "Containers: Tin/Metal Box",
+            "Country: England",
+            "Digital Implementations: Steam",
+            "Misc: Dice Tower Hall of Fame",
+            "Players: One versus Many",
+            "Theme: Police"
+        ]
+    }
+}

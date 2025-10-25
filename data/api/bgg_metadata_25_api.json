@@ -1,0 +1,38 @@
+{
+    "id": 25,
+    "name": "Battlemist",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "200",
+    "maxplaytime": "200",
+    "age": "12",
+    "description": "In this fantasy relative to Twilight Imperium, players control races that must juggle military and economic concerns with a quest to gather the magical stars spread across the land.  The game board is made up of hex tiles and players use a resource system that has similarities to The Settlers of Catan.  A card driven system resolves players' quests.<br/><br/>Expanded by:<br/><br/>    Battlemist: The Sails of War<br/><br/><br/>Reimplemented by:<br/><br/>    Runewars<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/2ouk0jwg4T38K_PrALpSjQ__original/img/DQFxuBlKb-ExHmLljfuF8wYWjII=/0x0/filters:format(jpeg)/pic4222282.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2ouk0jwg4T38K_PrALpSjQ__small/img/ve8_jlJFKfckhH08TOZpzjE9AyA=/fit-in/200x150/filters:strip_icc()/pic4222282.jpg",
+    "publishers": [
+        "Fantasy Flight Games"
+    ],
+    "designers": [
+        "Christian T. Petersen"
+    ],
+    "artists": [
+        "Bill Heagy",
+        "Christian T. Petersen"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid"
+        ],
+        "categories": [
+            "Exploration",
+            "Fantasy",
+            "Wargame"
+        ],
+        "families": [
+            "Mechanism: 4X",
+            "Setting: The Realms of Terrinoth"
+        ]
+    }
+}

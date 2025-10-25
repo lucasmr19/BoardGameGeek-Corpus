@@ -1,0 +1,47 @@
+{
+    "id": 103,
+    "name": "Titan",
+    "yearpublished": "1980",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "This classic game of the Fantasy Monster Slug-a-thon is a standby from the The Avalon Hill Game Co of yore.  The game still has a very devoted following, which is a tribute to the depth of the various strategies and approaches.  The game is divided into two realms, the masterboard and the battleboards.  On the masterboard, legions of mythical creatures roam about trying to recruit bigger and badder monsters and kill opposing legions in the process.  When a combat occurs, the action moves to the corresponding battleboard type corresponding to the area the fight is taking place in.  After lots of dice are tossed, the army that remains standing is returned to the masterboard with the spoils of war: points.<br/><br/>The points are used to recruit Angels and Archangels and to augment the leader character of the player's army: The Titan.  As the points increase, the Titans become ever more powerful; at game end, the titan is able to kill most other character with a single blow. But be careful: If the Titan dies, the player is out of the game.<br/><br/>The last Titan standing is the ruler of all, and winner of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/MxQroqFDoQAV4s2oyYnyWQ__original/img/prIQozvI371DWiib_dN9WWqLcCk=/0x0/filters:format(jpeg)/pic1083237.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/MxQroqFDoQAV4s2oyYnyWQ__small/img/dUjeyKSqzgcRd2NaU1Fy8lnEjlw=/fit-in/200x150/filters:strip_icc()/pic1083237.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Gorgonstar Publications",
+        "Heidelberger Spieleverlag",
+        "Valley Games, Inc."
+    ],
+    "designers": [
+        "Jason B. McAllister",
+        "David A. Trampier"
+    ],
+    "artists": [
+        "Mike Doyle (I)",
+        "Kurt Miller",
+        "Kenn Nishiuye",
+        "David A. Trampier",
+        "Chris White (I)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Minimap Resolution",
+            "Player Elimination",
+            "Roll / Spin and Move",
+            "Secret Unit Deployment",
+            "Set Collection"
+        ],
+        "categories": [
+            "Fantasy",
+            "Wargame"
+        ],
+        "families": [
+            "Series: Classic Line (Valley Games)"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 384,
+    "name": "TurfMaster",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "75",
+    "maxplaytime": "75",
+    "age": "10",
+    "description": "Turfmaster is a horse-racing game for two to eight players, played over a &quot;meet&quot; of three races.  The board is two-sided, and hurdles are provided so that players can choose flat racing or steeplechases (races with fences that the horses must jump).<br/><br/>Players each have their own deck of 32 movement cards, dice and a horse of their own colour.  Ten cards are randomly selected for each race, with two cards left over which can be drawn for use in any one race.  Cards played in a race are removed from the game.<br/><br/>A round consists of two parts.  First all players simultaneously select a card and move the number on the played card (if able), in position order.  After this, a single pair of dice is rolled by one player (the rolling player rotates throughout the game).  The player rolling the dice decides if all horses move the value of one or both of the dice and all horses move (again in position order).<br/><br/>Like a real horse race, inside position is important.  The game has rules for lane changing, blocking and handicaps on the leaders which restrict the values of the cards the players whose horses are in the first three spots are able to play, or how much (or even IF) a horse in one of those spots can move on a dice roll.  To try to counter this, players have &quot;joker&quot; cards which can be used to avoid being handicapped when in one of the first three spots.  The steeplechase introduces additional rules for jumping fences.  Horses can be forced to pull up short of a fence (because they are blocked on the other side and have nowhere to land safely) or can occasionally fall if their movement ends on a fence - which takes four movement points to jump.  Players will need to plan their moves carefully to prevent other players from getting their full amount of movement, and to avoid having players doing that to them.<br/><br/>The first four horses to finish each race are awarded points towards their final total.<br/><br/>The game comes in two versions.  The regular version which has single-colour plastic horses, and the &quot;DeLuxe&quot; version which has hand-painted pewter horses (each jockey wears a different coloured jersey) - each in a little protective case.   In addition, several other tracks are available - there are two course collections which can be purchased separately and a third (web-published) collection.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CFHt1QjC5wrqgUbGkALSlg__original/img/LQExn-kA3uxS6ujqHolG0z5nVpo=/0x0/filters:format(jpeg)/pic289677.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CFHt1QjC5wrqgUbGkALSlg__small/img/4KxqJ6A8IyNwpIDl87lohBYwf_U=/fit-in/200x150/filters:strip_icc()/pic289677.jpg",
+    "publishers": [
+        "AZA Spiele"
+    ],
+    "designers": [
+        "Albrecht Nolte"
+    ],
+    "artists": [
+        "Stefan Niehues",
+        "Peter Röseler"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hand Management",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Animals",
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Sports: Horse Racing"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 67,
+    "name": "Conquest",
+    "yearpublished": "1974",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "Conquest was designed to be a diceless wargame.  Its latest version updates the original with plastic units and a colorful map.  Set in ancient times, Conquest has players utilizing troops, cavalry, chariots, elephants and ships to try to capture their opponents' fortifications or occupy the &quot;quest&quot; locations.  The map is designed for point-to-point movement, and play hinges on a pool of action points that each side uses to move its different units.  Conquest comes in two versions, one designed for four players and one designed exclusively for two.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/q_Smtd-fGvpxqWIZB8-_wA__original/img/YO5AvueF8DJ015euZ90wweHSdxQ=/0x0/filters:format(jpeg)/pic940999.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/q_Smtd-fGvpxqWIZB8-_wA__small/img/QtBRAyRc75PXNayGWreyYvn6ckE=/fit-in/200x150/filters:strip_icc()/pic940999.jpg",
+    "publishers": [
+        "(Self-Published)",
+        "Bütehorn Spiele (Buchholz Verlag)",
+        "Hexagames (I)",
+        "Numbskull Games",
+        "Quest Games"
+    ],
+    "designers": [
+        "Donald Benge"
+    ],
+    "artists": [
+        "Donald Benge"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Ancient",
+            "Wargame"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Digital Implementations: VASSAL",
+            "Game: Conquest (Donald Benge)"
+        ]
+    }
+}

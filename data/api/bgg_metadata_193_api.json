@@ -1,0 +1,39 @@
+{
+    "id": 193,
+    "name": "Fill or Bust",
+    "yearpublished": "1981",
+    "minplayers": "2",
+    "maxplayers": "10",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Fill or Bust is all about rolling dice and pressing your luck. On your turn, roll the dice and set aside at least one die that scores you points. If you want, you can roll the remaining dice &ndash; but if none of those dice score for you, you lose all points accumulated that round! Your challenge is further complicated by a deck of cards that determines what goal you might be forced to shoot for during that turn. Some goal cards dangle the prospect of huge bonuses, while others slam the door on you, ending your turn before it starts.<br/><br/>Other than the deck of cards that push goals on players, Fill or Bust is similar to Farkle.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/9X6ax_bIQ4zbHAnervx6LA__original/img/bUHfFtq_aYZ91rEnURaXss_4XEQ=/0x0/filters:format(jpeg)/pic1512955.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9X6ax_bIQ4zbHAnervx6LA__small/img/wpu7eiM-QsVtzKqRmWwXF3l2b_k=/fit-in/200x150/filters:strip_icc()/pic1512955.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Bowman Games",
+        "Game Factory",
+        "GP Games",
+        "HOT Games",
+        "PS-Games"
+    ],
+    "designers": [
+        "(Uncredited)"
+    ],
+    "artists": [
+        "Christof Tisch"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Push Your Luck"
+        ],
+        "categories": [
+            "Dice"
+        ],
+        "families": [
+            "Game: Farkle"
+        ]
+    }
+}

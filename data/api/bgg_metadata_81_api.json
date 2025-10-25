@@ -1,0 +1,40 @@
+{
+    "id": 81,
+    "name": "EuroFront: War in Europe, 1939-45",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "600",
+    "maxplaytime": "600",
+    "age": "12",
+    "description": "EuroFront is a supplementary rules system that allows all of the Front games (EastFront: The War in Russia, 1941-45, WestFront: The War in Europe, 1943-45, MedFront: War in North Africa 1940-43 and possibly the VolgaFront: East of EastFront 1942-43 expansion) to be combined into one sprawling game that covers the entire European theater of WWII.  Rules are provided to link all the games together seamlessly and add units for neutral and minor powers in Europe.  Further, rules are provided so that simulate the political history and allow for the possibility that non-historical outcomes occur with respect to how minor powers react to the events of WWII.  Part of the EuroFront series.<br/><br/>This title uses Columbia Games Block system.  While there are variations in the rule sets, all of their games are based on the block system.  Basically this means that rather than using the traditional  counters to represent units on the map the game uses wooden blocks that stand upright with unit details only shown on one side.  This does two things:  First it provides an easy way of producing a &quot;fog of war&quot; because your opponent can not tell, save through good memory, what type of unit a specific piece is or its current strength.  Second, having the blocks stand on end allows the possibility of rotating a block so the current strength is the top number.  Although most war games have some type of mechanism that lets units take steps in their overall strength, counters normally have at most two steps because they only have two sides.  Blocks, however, have four so you can easily keep track of twice the amount of detail that many other war games provide.  With the use of blocks Columbia has provided a way of adding a good deal of depth to their war games without adding complex layers of bookkeeping, allowing interesting and relatively short sessions of play.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/6FhY6fsZqSdqk0vsat-aIQ__original/img/1lwheDcdTYaYF7rtrnSKIDH_OP4=/0x0/filters:format(jpeg)/pic72710.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6FhY6fsZqSdqk0vsat-aIQ__small/img/Z8whljmMVOS_X6AZ7jN2jrDjJ3E=/fit-in/200x150/filters:strip_icc()/pic72710.jpg",
+    "publishers": [
+        "Columbia Games"
+    ],
+    "designers": [
+        "Craig Besinque"
+    ],
+    "artists": [
+        "Eric Hotz"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Secret Unit Deployment",
+            "Simulation"
+        ],
+        "categories": [
+            "Expansion for Base-game",
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: Block Wargames",
+            "Continents: Europe",
+            "Series: Front Series (Columbia)"
+        ]
+    }
+}

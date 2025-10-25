@@ -1,0 +1,55 @@
+{
+    "id": 235,
+    "name": "Blackbeard",
+    "yearpublished": "1991",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "Introduction (from the rule book):<br/><br/>BLACKBEARD recreates &quot;The Golden Age of Piracy&quot; at the turn of the 18th century. Each player becomes one or more pirates and attempts to amass a fortune and retire before a King's Commissioner tracks him down, a Warship stumbles across him, or his own crew cuts his throat! Merchant ships plying the trade routes are the targets. Prizes range from near-worthless supplies to the fabulous Spanish and Mogul treasure ships. Luck, skill and cunning all play a part as you comb the Seven Seas (well ... at least three of them) for fame and fortune. Players should be aware that the game simulates 18th century piracy and therefore features random happenstance. Little can be planned. Players who are ready to strike when opportunity presents itself and are wily and aggressive without being rash will fare best in the long run.<br/><br/><br/>Players take up the roles of famous pirates navigating the major sea lanes during the golden age of piracy.  Plunder and pirateering await as each player moves about on the map in a variable system through a deck of cards.  Rather than the normal turn order in games, players move when their designation is drawn in a deck.  When not in the role of their pirate they can take on the role of one of the English military ships hunting the sea for pirates.  By making shrewd choices and having some luck the player can end the game a wealthy and retired pirate with a large fleet of ships that have been accumulated over the years.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/x3PPn_TiMX_kn75HoMBOYg__original/img/qJfpzHF1BaPbby16-q1dPEiSvLM=/0x0/filters:format(jpeg)/pic164665.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/x3PPn_TiMX_kn75HoMBOYg__small/img/ZTPtOO0-y0Wa-0wUmYdxNI6UeAQ=/fit-in/200x150/filters:strip_icc()/pic164665.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Descartes Editeur"
+    ],
+    "designers": [
+        "Richard H. Berg"
+    ],
+    "artists": [
+        "Dave Dobyski",
+        "Charles Kibler",
+        "George I. Parrish, Jr."
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Movement Points",
+            "Simulation",
+            "Solo / Solitaire Game",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Adventure",
+            "Age of Reason",
+            "Nautical",
+            "Pirates",
+            "Wargame"
+        ],
+        "families": [
+            "Country: Cuba",
+            "Country: Spain",
+            "Digital Implementations: VASSAL",
+            "History: Age of Kings",
+            "Players: Games with Solitaire Rules",
+            "Players: Wargames with Solitaire Rules",
+            "Region: Caribbean Sea",
+            "Region: Indian Ocean",
+            "Theme: Colonial",
+            "Theme: Pirates"
+        ]
+    }
+}

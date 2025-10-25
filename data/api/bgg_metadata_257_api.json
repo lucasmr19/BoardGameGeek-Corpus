@@ -1,0 +1,50 @@
+{
+    "id": 257,
+    "name": "Kill Doctor Lucky",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "In this notorious game, an inversion of Clue, you hate Doctor Lucky. Maybe he left you out of his will. Maybe he killed your pet rock. Whatever the reason, you want him dead. Unfortunately, so do the other players. Since you don't want to go to jail, you need to make your attempt in secret; if anybody can see you, whistle nonchalantly, and let the Doctor live ... until next time.<br/><br/>Players move around the mansion, collecting murder weapons (to make the murder attempt stronger - doubly so if the weapon is used in an appropriate location); failure cards (to thwart opponents' plans); and movement cards (to try to get together with Doctor Lucky in a secluded location for his inevitable demise). Players try to convince others to use up their failure cards first, the better for when their own attempts come.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/HzSvdAtAiktVmdTfDEIayA__original/img/hdvDZLMGdx5EDOQFlKj8GcZkTp8=/0x0/filters:format(jpeg)/pic2923257.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HzSvdAtAiktVmdTfDEIayA__small/img/fIMPwA6ZEVr9bSf7QFrsezXjafg=/fit-in/200x150/filters:strip_icc()/pic2923257.jpg",
+    "publishers": [
+        "Cheapass Games",
+        "cosaic",
+        "Giochi Uniti",
+        "Greater Than Games, LLC",
+        "Paizo Publishing",
+        "Pegasus Spiele",
+        "Titanic Games",
+        "Truant Spiele"
+    ],
+    "designers": [
+        "James Ernest"
+    ],
+    "artists": [
+        "BJ Becker",
+        "James Ernest",
+        "Israel Evans",
+        "James Ryman"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Line of Sight",
+            "Open Drafting",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Humor",
+            "Murder / Mystery"
+        ],
+        "families": [
+            "Digital Implementations: TableTop Simulator Mod (TTS)",
+            "Game: Doctor Lucky",
+            "Misc: Dice Tower Hall of Fame",
+            "Theme: Mystery / Crime"
+        ]
+    }
+}

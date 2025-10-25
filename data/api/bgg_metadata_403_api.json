@@ -1,0 +1,45 @@
+{
+    "id": 403,
+    "name": "Elk Fest",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "8",
+    "description": "Part of the Kosmos two-player series, Elk Fest or Elchfest is a two player dexterity game in which players attempt to navigate their moose across a river along a series of stones. Players take turns flicking 2 stones, represented by disks, and moving their moose along said stones. Care must be taken when moving ones moose as if the front and back hooves of the moose do not rest atop of the stones the players turn immediately ends, the moose is returned to its previous position, and the opposing player may flick 3 stones. The winner is the first person to move their moose to the opposing river bank!<br/><br/>Game description from the publisher:<br/><br/>Two elk (Jule and Ole) stare at each other across a river. Longing for the greener grass where the other elk is, they set out to beat each other to the opposite bank! In Elk Fest, move your elk to the other bank by flicking wooden disks across the table and balancing your elk on them. Can your elk get to the greener grass across the river? Good grazing is just a stone's flick away!<br/><br/>Boazu is a Nordic edition from 2024 featuring reindeer but identical rules.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/f_WxGj2pgIlgCowC-96W0Q__original/img/FKm-vjn-xsfrnfRSYZdgKRoy4Tw=/0x0/filters:format(jpeg)/pic357251.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/f_WxGj2pgIlgCowC-96W0Q__small/img/_8hu3kPhdS9PH-eIee5iAtLAYhQ=/fit-in/200x150/filters:strip_icc()/pic357251.jpg",
+    "publishers": [
+        "KOSMOS",
+        "Martinex",
+        "Mayfair Games",
+        "Peliko Oy",
+        "Tilsit"
+    ],
+    "designers": [
+        "Hermann Huber"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Flicking",
+            "Modular Board",
+            "Race"
+        ],
+        "categories": [
+            "Action / Dexterity",
+            "Animals"
+        ],
+        "families": [
+            "Animals: Deer / Antelope",
+            "Animals: Moose / Elk",
+            "Components: Meeples (Animal) / Animeeples",
+            "Mechanism: Finger Flicking Games",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)"
+        ]
+    }
+}

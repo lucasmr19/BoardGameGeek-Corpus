@@ -1,0 +1,38 @@
+{
+    "id": 497,
+    "name": "Vampire",
+    "yearpublished": "2000",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "The goal of Vampire is to meld sets of vampires from the six different suits. Once either all the cards are drawn or one player has melds in all six suits, the game is over.  The player (or players) with the weakest meld in each of the suits (non-existent zero-melds count here) is discarded. However, all remaining cards contribute their value (either one or two) to each player's total.<br/><br/>Some have described this game as a multi-player version of Lost Cities.<br/><br/>Part of the Goldsieber à la Carte line of games.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ee6qVSZtICdh0BwBUm1F9g__original/img/c3Z7BbwNeGQJfxguR8M5X1WgGX0=/0x0/filters:format(png)/pic5294222.png",
+    "thumbnail": "https://cf.geekdo-images.com/ee6qVSZtICdh0BwBUm1F9g__small/img/dU3c6TYqAz10MUz3oxnuc7z5mDE=/fit-in/200x150/filters:strip_icc()/pic5294222.png",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Group SNE",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game",
+            "Horror"
+        ],
+        "families": [
+            "Creatures: Vampires",
+            "Series: à la Carte (Goldsieber)"
+        ]
+    }
+}

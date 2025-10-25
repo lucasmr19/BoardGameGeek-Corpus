@@ -1,0 +1,33 @@
+{
+    "id": 465,
+    "name": "Zankapfel",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Players take turns moving a token around a matrix that determines the price of each of four different types of apples. However, before adjusting the price, players decide whether they will attempt to sell a particular apple type or buy a new apple. If more than one player decides to sell a given variety, then a bidding war takes place with the reward being the newly adjusted price or a swift kick to the teeth. Once someone has sold enough apples to move his scoring token around the board's scoring track, the game is over and the highest paid player is the winner.<br/><br/>Contents<br/>1 Board<br/>6 Dice<br/>6 Apple Farmers<br/>1 Mayor<br/>1 Big apple<br/>50 Apple cards (10 of each colour plus 10 multi-coloured)<br/>60 Contention cards (10 of each colour)<br/>25 Harvest chips<br/><br/>",
+    "image": "https://cf.geekdo-images.com/e9Sbnu2qTBKgnTgpXmmf6A__original/img/Owsa5HAPhWNTkI_B-_Q4pJiCkBI=/0x0/filters:format(jpeg)/pic248281.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/e9Sbnu2qTBKgnTgpXmmf6A__small/img/qSBTqLP2sxfkfMXdQwdt16K04kU=/fit-in/200x150/filters:strip_icc()/pic248281.jpg",
+    "publishers": [
+        "VSK-Erwachsenenspiele"
+    ],
+    "designers": [
+        "Michael Hageböck",
+        "Ralf zur Linde"
+    ],
+    "artists": [
+        "Axel Gesinn"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing"
+        ],
+        "families": []
+    }
+}

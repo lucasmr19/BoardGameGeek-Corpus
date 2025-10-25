@@ -1,0 +1,44 @@
+{
+    "id": 77,
+    "name": "EastFront: The War in Russia, 1941-45",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "EastFront details the conflict between Germany and the Soviet Union during WWII.  Players have to contend with production, supply, command control and whether to try and break the other side's lines.  Several scenarios cover every major point of the war.  The game comes with a fantastic, detailed map of Eastern Europe and Russia printed on cardstock and many wooden blocks for the units.  This is a stand alone game that can also serve as one element of the complete EuroFront series which covers the entire European conflict of WWII.<br/><br/>This title uses the Columbia Games Block system.  While there are variations in the rule sets, all of the &quot;Front&quot; series of games are based on the block system.  Basically this means that rather than using traditional counters to represent units on the map the game uses wooden blocks that stand upright with unit details only shown on one side.  This accomplishes two things:  First it provides an easy way of producing a &quot;fog of war&quot; because your opponent cannot tell, save through good memory or deduction, what type of unit a specific piece is or its current strength.  Second, having the blocks stand on end allows the possibility of rotating a block so the current strength is the top number.  Although most war games have some type of mechanism that allows units to take losses in steps of their overall strength, counters normally have at most two steps because they only have two sides.  Blocks, however, have four so you can easily keep track of twice the amount of detail that many other war games provide.<br/><br/>With the use of blocks, Columbia has provided a way of adding a good deal of depth to their war games without adding complex layers of bookkeeping, allowing interesting and relatively short sessions of play.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/_xuAtC-J2YWbltf4TH8IkA__original/img/Gu2e-ml6XYmLqXsE1m-xca-si-0=/0x0/filters:format(jpeg)/pic289183.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_xuAtC-J2YWbltf4TH8IkA__small/img/Wlg8_AN7YXHAvgDt8nE1StVAoW0=/fit-in/200x150/filters:strip_icc()/pic289183.jpg",
+    "publishers": [
+        "Columbia Games"
+    ],
+    "designers": [
+        "Craig Besinque",
+        "Tom Dalgliesh"
+    ],
+    "artists": [
+        "Eric Hotz"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Secret Unit Deployment",
+            "Simulation"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: Block Wargames",
+            "Country: Russia",
+            "Country: Soviet Union",
+            "History: World War II (Eastern Front)",
+            "Players: Two-Player Only Games",
+            "Series: Front Series (Columbia)",
+            "War Level of Command: Strategic"
+        ]
+    }
+}

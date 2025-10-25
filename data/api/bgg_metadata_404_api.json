@@ -1,0 +1,47 @@
+{
+    "id": 404,
+    "name": "Worm Up!",
+    "yearpublished": "1994",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "15",
+    "maxplaytime": "20",
+    "age": "7",
+    "description": "In this fun, goofy game, each player controls a worm formed from several lined-up discs.  A turn consists of all players secretly choosing on their dice the amount that they want to move.  When the choices are simultaneously revealed, all players who chose the same number as someone else lose their movement for that turn.  All other players move their worms according to their dice, taking the appropriate number of discs from the back of the worms and adding them to the front, sometimes curving a bit in an attempt to cut off other worms' movement.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/HcMiH4Hr95bP-HnzUjW-9w__original/img/pwvfWXfLIMe7yBIXUwLTAoM6X3Y=/0x0/filters:format(png)/pic8482097.png",
+    "thumbnail": "https://cf.geekdo-images.com/HcMiH4Hr95bP-HnzUjW-9w__small/img/VeWDquv_rZ-6ZipbCqAQWW4TH-8=/fit-in/200x150/filters:strip_icc()/pic8482097.png",
+    "publishers": [
+        "2Tomatoes Games",
+        "999 Games",
+        "ABACUSSPIELE",
+        "Blatz",
+        "Eagle-Gryphon Games",
+        "Gigamic",
+        "Kaissa Chess & Games",
+        "MB Jeux",
+        "MB Spiele",
+        "Milton Bradley",
+        "Venice Connection"
+    ],
+    "designers": [
+        "Alex Randolph"
+    ],
+    "artists": [
+        "David GJ",
+        "Gabriela Silveira"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Animals",
+            "Children's Game",
+            "Racing"
+        ],
+        "families": [
+            "Animals: Camels",
+            "Animals: Worms"
+        ]
+    }
+}

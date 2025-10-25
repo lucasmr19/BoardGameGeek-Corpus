@@ -1,0 +1,59 @@
+{
+    "id": 23,
+    "name": "Divine Right",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "360",
+    "maxplaytime": "360",
+    "age": "12",
+    "description": "Divine Right combines combat, diplomacy, and role-playing into fast-paced action as each player attempts to build and hold together an alliance of kings long enough to defeat the other players and win the game.<br/><br/>The kingdoms of humans, elves, goblins, dwarves and trolls are pawns in the power games that absolute monarchs play. Ambassadors vie for the attention of the kings whose favor they curry. Assassination and backstabbing are popular pastimes, and loyal allies may leave your side in the heat of battle at the drop of a hat &mdash; or a die. The magicians, too, get their arcane fingers into things, and the gods intervene as well. It is a situation that demands skill and luck.<br/><br/>The box contains rule book, full-color mapsheet, over 250 die-cut counters, dice, and cards.<br/><br/>&mdash;description from the publisher<br/><br/>",
+    "image": "https://cf.geekdo-images.com/cirnoWyS9UZfw7BlaCXwfw__original/img/xLFYm8Y-WiuruBLeKl58g6JrPxU=/0x0/filters:format(jpeg)/pic8146427.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/cirnoWyS9UZfw7BlaCXwfw__small/img/IHFfnxfCfRihoTMB1vj5XKEjc2o=/fit-in/200x150/filters:strip_icc()/pic8146427.jpg",
+    "publishers": [
+        "Tactical Studies Rules (TSR)",
+        "Pungo Games",
+        "Right Stuf",
+        "Worthington Games"
+    ],
+    "designers": [
+        "Barry Beadman",
+        "Glenn Rahman",
+        "Kenneth Rahman"
+    ],
+    "artists": [
+        "Kenneth Rahman",
+        "David C. Sutherland, III",
+        "David A. Trampier",
+        "Barry Beadman"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Events",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Movement Points",
+            "Open Drafting",
+            "Player Elimination",
+            "Simulation",
+            "Variable Phase Order",
+            "Variable Player Powers",
+            "Variable Set-up",
+            "Zone of Control"
+        ],
+        "categories": [
+            "Fantasy",
+            "Political",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)",
+            "Creatures: Dragons",
+            "Creatures: Goblins",
+            "Creatures: Monsters",
+            "Digital Implementations: VASSAL",
+            "Theme: Medieval Fantasy"
+        ]
+    }
+}

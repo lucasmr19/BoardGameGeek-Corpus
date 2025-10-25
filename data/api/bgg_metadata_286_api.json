@@ -1,0 +1,54 @@
+{
+    "id": 286,
+    "name": "Machiavelli",
+    "yearpublished": "1977",
+    "minplayers": "4",
+    "maxplayers": "8",
+    "minplaytime": "480",
+    "maxplaytime": "480",
+    "age": "12",
+    "description": "Machiavelli recreates the historical situation of the fast developing and ever shifting balance of power struggle in Renaissance Italy. There are five major powers: The Republics of Florence and Venice, the Duchy of Milan, the Kingdom of Naples and the Papacy (which was a secular power in this era) along with 3 major foreign powers: Valois France, Hapsburg Austria and the Ottoman Turks. All of these states singly or in combination compete for control of the peninsula.<br/><br/>Expanded by:<br/>Alea Magazine nº22 contained seven new scenarios for Machiavelli.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/iDk9oSIMBh6UD1t0ec9OZw__original/img/chOeB6RIQuIdmbECrJJqlb1-6ew=/0x0/filters:format(png)/pic6246873.png",
+    "thumbnail": "https://cf.geekdo-images.com/iDk9oSIMBh6UD1t0ec9OZw__small/img/kPsEMRUQrcxmrDPs5RQkR-VONjc=/fit-in/200x150/filters:strip_icc()/pic6246873.png",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Battleline"
+    ],
+    "designers": [
+        "S. Craig Taylor",
+        "James B. Wood"
+    ],
+    "artists": [
+        "Kaye Catledge",
+        "Cathy Chastain",
+        "Kurt Miller"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling",
+            "Player Elimination",
+            "Simulation",
+            "Simultaneous Action Selection",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Bluffing",
+            "Negotiation",
+            "Political",
+            "Renaissance",
+            "Wargame"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Country: Austria",
+            "Country: France",
+            "Country: Italy",
+            "Country: Ottoman Empire",
+            "Country: Papal States",
+            "Game: Diplomacy",
+            "History: Italian City-States",
+            "History: The Italian Wars"
+        ]
+    }
+}

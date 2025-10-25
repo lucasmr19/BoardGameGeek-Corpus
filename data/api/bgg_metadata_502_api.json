@@ -1,0 +1,29 @@
+{
+    "id": 502,
+    "name": "Bretonenboule",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "8",
+    "description": "A (seemingly) anti-gravity dexterity game, similar to Bocce.  Players toss ping-pong balls partially filled with sand at a slanted board lined with felt.  The goal is to have your balls land closest to the mark placed on the board.  The weight of the sand and the friction of the felt causes the balls to roll, sway, or stay put, seeming to defy gravity.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/9vqNA7xF2QltadohefZqRw__original/img/E4qbOqrqr08yL-JF9mfZQbhYhic=/0x0/filters:format(jpeg)/pic461961.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9vqNA7xF2QltadohefZqRw__small/img/Aba4_Syln32X6isvg9CW9k4Omk4=/fit-in/200x150/filters:strip_icc()/pic461961.jpg",
+    "publishers": [
+        "ABACUSSPIELE"
+    ],
+    "designers": [
+        "Franz Josef Lamminger"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Action / Dexterity"
+        ],
+        "families": []
+    }
+}

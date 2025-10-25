@@ -1,0 +1,40 @@
+{
+    "id": 252,
+    "name": "The Battle of Borodino: Napoleon in Russia 1812",
+    "yearpublished": "1972",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "The game covers Napoleon's move on the way to Moscow but encountered severe resistance at Borodino. His aggression was stopped by the Russian Army and the winter effect.<br/><br/>Strategy &amp; Tactics magazine #32 game published by SPI in 1972. 100 counters<br/><br/><br/><br/>(user comments:)<br/> This game is broadly considered to be one of the early classics of wargaming. Though a crude simulation by today's standards it has many of the hallmarks of what makes a &quot;game&quot; one that is good. It is simple, balanced, replayable and can draw the interest of both new gamers and old salts alike.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/sCxnT6ewFkzhnKIYTF65Iw__original/img/-FM5hJaji8Ko6wnAIN_U5XO3B_g=/0x0/filters:format(jpeg)/pic62576.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sCxnT6ewFkzhnKIYTF65Iw__small/img/1fPYRU4UmZ76gFsk6ZZtUyc7nWI=/fit-in/200x150/filters:strip_icc()/pic62576.jpg",
+    "publishers": [
+        "SPI (Simulations Publications, Inc.)"
+    ],
+    "designers": [
+        "John Young"
+    ],
+    "artists": [
+        "Redmond A. Simonsen"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Zone of Control"
+        ],
+        "categories": [
+            "Napoleonic",
+            "Wargame"
+        ],
+        "families": [
+            "Cities: Borodino (Russia)",
+            "Magazine: Strategy & Tactics",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players",
+            "Series: Napoleon At Waterloo (SPI)"
+        ]
+    }
+}

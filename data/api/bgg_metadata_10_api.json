@@ -1,0 +1,51 @@
+{
+    "id": 10,
+    "name": "Elfenland",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Elfenland is a redesign of the original White Wind game Elfenroads.  The game is set in the mythical world of the elves.  A group of fledgling elves (the players) are charged with visiting as many of the twenty Elfencities as they can over the course of 4 rounds.  To accomplish the task they will use various forms of transportation such as Giant Pigs, Elfcarts, Unicorns, Rafts, Magic Clouds, Trollwagons, and Dragons.<br/><br/>Gameplay:  Players begin in the Elf capitol, draw one face down movement tile, and are dealt eight transport cards and a secret 'home' city card that they must reach at the end of the 4th round or lose points for each city space away from 'home' they are at the end of the game. Markers of each player's color are placed in each city on the board and are collected when the player visits that city (each counts as 1 point).<br/>  <br/>     The round proceeds in 2 stages.  The first part of the round consists of the drawing of Tiles showing the differing types of transport (except rafts) from a combination of face up and face down tiles (if a player doesn't like the 5 tiles that are face up; they can always draw blind from the face down tiles and hope to get one they need).  These transport tiles need to match the Transportation cards in your hand to use them most effectively.  After each player has a total of 4 tiles they take turns placing a tile on any one of the roads that run between the elf cities.  Only one transport tile may be placed on each road; so players may use other players tiles to travel if they have the matching cards in their hand.  This frequently causes a readjustment of planned travel routes as other players tiles can allow you to move farther or shorter than you had first thought.  Players can play their tiles to help themselves or hinder others by playing a slow mode of transport on another players (perceived) path.<br/><br/>Each mode of transport has certain terrain it can travel through quickly or slowly, and those that it cannot. These are listed on the top of each transportation card by the number terrain symbols.  The number of terrain symbols equals how many matching cards you must play to move across a given tile in a given terrain.  For example, a Magic Cloud tile placed in a mountain would take one Magic cloud card to travel across (1 mountain symbol on card means Magic clouds are fast in mountains). If the same tile was placed on a road in forest terrain it would require 2 Magic Cloud cards to travel that route (2 Forest symbols on card means Magic Clouds are slow in Forest).  Magic Clouds cannot travel in desert terrain at all (no desert symbols on card). All modes of transport are different and Rafts can be used on rivers or lakes without needing tiles. Rafts go slow upstream (2 raft cards needed) and fast downstream (1 card needed).  The small lake requires 1 raft card to travel across and the larger lake requires 2 cards to travel across.  Players may keep one unused transport counter and up to 4 Transportation cards from one round to the next.<br/><br/>The second part of the round begins after all players have finished placing their transportation tiles for the round.  Each player plays his cards and moves his elf-boot around the board collecting his tokens from the cities visited.  If there is a Transport tile on a route and a player has no matching Transportation card he may 'Caravan' across it by playing any 3 Transportation cards from his hand.<br/><br/>As a bit of 'take that' each player has a trouble tile which can be placed next to any transportation tile during the first part of the round.  This counter means that in order to travel that path an additional card of the transport type must be played or 4 cards to 'Caravan'.<br/><br/>Victory: if at the end of round 3 a player has visited all 20 cities he is the winner.  If not the game ends after round 4 when 'Home' cities are revealed and each player subtracts points for each city he is away from his 'home' subtracting that from his collected city tokens.  The person with the highest score wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Ea4jN5Ko5bPrXrU_AYhhzg__original/img/DEi0SFU6mAMZYycGTEJAV4ZBRVw=/0x0/filters:format(jpeg)/pic1798136.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ea4jN5Ko5bPrXrU_AYhhzg__small/img/f4FrKXF0HKlPS2jH1AW4_-7Hek8=/fit-in/200x150/filters:strip_icc()/pic1798136.jpg",
+    "publishers": [
+        "AMIGO",
+        "999 Games",
+        "Albi",
+        "Corfix",
+        "Hobby World",
+        "Midgaard Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Doris Matthäus",
+        "Alan R. Moon"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Network and Route Building",
+            "Open Drafting",
+            "Point to Point Movement",
+            "Programmed Movement",
+            "Turn Order: Progressive"
+        ],
+        "categories": [
+            "Fantasy",
+            "Travel"
+        ],
+        "families": [
+            "Creatures: Dragons",
+            "Creatures: Fairies / Elves / Pixies",
+            "Creatures: Trolls",
+            "Creatures: Unicorns",
+            "Digital Implementations: Board Game Arena",
+            "Game: Elfenroads"
+        ]
+    }
+}

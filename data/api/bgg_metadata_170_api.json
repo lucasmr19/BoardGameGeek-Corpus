@@ -1,0 +1,53 @@
+{
+    "id": 170,
+    "name": "Family Business",
+    "yearpublished": "1982",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Family Business takes mob warfare to a new level of backstabbing, revenge, and general bloodthirstiness, which is what makes it such a blast to play.  Every player controls a 'family' and plays various cards to off other players' family members.  In a game with this little structure, it's possible for everyone to gang up on one unlucky soul, or for the damage to be fairly evenly spread.  Either way, the last family standing is victorious.<br/><br/>Each player starts with a gang of nine characters. To try to get rid of other gangsters, contracts are played on them. If these contracts are not blocked by anyone, the targeted gangster is placed on the hitlist. As soon as six gangsters are on the hitlist a mobwar is started. This means that, at the start of every turn, the first character on this list is eliminated. This goes on until the list is empty.<br/><br/>Mobwars can also be triggered by cards being played. When no more than the last six or fewer characters are in play a constant mobwar is going on, until only one player has characters left.<br/><br/>In general players take turns clockwise, however, the turn goes to any player who plays a response card and then clockwise mode is resumed with the player next to him/her. Lots of interaction as players play cards to put gangsters on the list, save them, have them replaced, start a Mob War, or stop it...<br/><br/>",
+    "image": "https://cf.geekdo-images.com/IuaCXGbnBz0n1qAu3RmSxw__original/img/mvqAzU7R5uklCrBIhPlNlIRD2Lk=/0x0/filters:format(jpeg)/pic5945292.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/IuaCXGbnBz0n1qAu3RmSxw__small/img/DVlXGgxNQt_3dmAEQ-SlXT26xLU=/fit-in/200x150/filters:strip_icc()/pic5945292.jpg",
+    "publishers": [
+        "Lookout Games",
+        "Mayfair Games",
+        "ADC Blackfire Entertainment",
+        "asmodee",
+        "Cutting Edge Publishing & Design House GmbH",
+        "Hobby Japan",
+        "Spielfreaks, Ltd.",
+        "Stratelibri",
+        "Truant Spiele",
+        "Zygomatic"
+    ],
+    "designers": [
+        "David B. Bromley"
+    ],
+    "artists": [
+        "Mark Bromley",
+        "David B. Bromley",
+        "Antonio Dessi",
+        "Franck Dion",
+        "Klemens Franz",
+        "Drew Perkett"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Player Elimination",
+            "Take That"
+        ],
+        "categories": [
+            "Card Game",
+            "Mafia"
+        ],
+        "families": [
+            "Cities: Chicago (Illinois, USA)",
+            "Country: USA",
+            "History: Prohibition in the USA",
+            "Theme: Art style – Art Deco"
+        ]
+    }
+}

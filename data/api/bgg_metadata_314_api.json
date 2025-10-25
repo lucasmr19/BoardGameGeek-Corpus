@@ -1,0 +1,34 @@
+{
+    "id": 314,
+    "name": "Highlanders",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Rheingold is basically a Castle Risk-style game without the dice combat. The board depicts, rather fetchingly, eighteen castles on or near the Rhine. These are given point values depending on their size or importance, ranging between 1 and 3. The castles are linked to numerous movement areas by tracks meaning that some of the castles are in powerful positions (especially those providing or guarding a river bridge) and others are stuck out on a limb. At the start of the game, the castles aren't owned by anyone and the winner of the game is the one with the most points of captured castles at the end of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/D3xiUv-zGLKwEU3FuhOo-Q__original/img/g8sHof9jcDgDCx8jJD1LO7Prfgs=/0x0/filters:format(jpeg)/pic3999.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/D3xiUv-zGLKwEU3FuhOo-Q__small/img/M-GDQ6Uqrip58JP-qmDexHaNDeE=/fit-in/200x150/filters:strip_icc()/pic3999.jpg",
+    "publishers": [
+        "Jumbo",
+        "Soppol"
+    ],
+    "designers": [
+        "Reinhard Herbert"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Medieval",
+            "Wargame"
+        ],
+        "families": [
+            "Country: Scotland"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 452,
+    "name": "Mummy Rummy",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "from a session report:<br/><br/>This is a rummy based game where you are trying to form sets of Egyptian artifacts, three cards to a set, from a deck of about 50 cards. The quirk here is some cards have two images on them, so they could belong to one of two sets. You score for sets, and deduct points for cards left in the hand.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/lezKMqApQIVF8x838CICSQ__original/img/6IIpQ8EZ-S5hw-1dARCmjZqgwWM=/0x0/filters:format(png)/pic8520050.png",
+    "thumbnail": "https://cf.geekdo-images.com/lezKMqApQIVF8x838CICSQ__small/img/SJz_EGRp1N_KO8nwx-lrmzGOGM4=/fit-in/200x150/filters:strip_icc()/pic8520050.png",
+    "publishers": [
+        "ASS Altenburger Spielkarten",
+        "Gamewright"
+    ],
+    "designers": [
+        "Monty Stambler",
+        "Ann Stambler"
+    ],
+    "artists": [
+        "Annie Campbell"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Creatures: Mummies",
+            "Traditional Card Games: Rummy"
+        ]
+    }
+}

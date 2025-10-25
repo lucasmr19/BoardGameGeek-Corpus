@@ -1,0 +1,56 @@
+{
+    "id": 32,
+    "name": "Buffalo Chess",
+    "yearpublished": "1975",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "In Buffalo Chess, a.k.a. Bison, one player represents Indians who are trying to keep the village from being overrun by buffalo. This player moves the Indian chief and his dogs while the other player takes charge of the herd of rampaging buffalo, all of which are represented by wooden pieces. Each side has its own style of play as the pieces move differently.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/1FMn5-piF5TwGO1-D_k_ug__original/img/SB9DY87UMPbeEWeFJhT2bqrMDZc=/0x0/filters:format(jpeg)/pic7679110.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1FMn5-piF5TwGO1-D_k_ug__small/img/vDU9vFKnymnCHOwEcVXFYpDzndM=/fit-in/200x150/filters:strip_icc()/pic7679110.jpg",
+    "publishers": [
+        "Action GT",
+        "BHS Games",
+        "GP Games",
+        "Lakeside",
+        "OPEN'N PLAY",
+        "Pelikan",
+        "Piatnik",
+        "Playte",
+        "Popcorn Games",
+        "Schmidt Spiele",
+        "Venice Connection",
+        "Winning Moves France"
+    ],
+    "designers": [
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Wanjin Gill",
+        "Dahee Lee",
+        "Lisa Plangger"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "American West",
+            "Children's Game"
+        ],
+        "families": [
+            "Theme: Native Americans / First Peoples",
+            "Animals: Cattle / Cows",
+            "Animals: Dogs",
+            "Category: Combinatorial",
+            "Components: Wooden pieces & boards",
+            "Players: Two-Player Only Games",
+            "Series: Abstract (Lakeside)",
+            "Series: Buchkassette (Pelikan)",
+            "Series: L.BOARD (Playte)"
+        ]
+    }
+}

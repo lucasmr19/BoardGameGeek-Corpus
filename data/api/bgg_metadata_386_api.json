@@ -1,0 +1,39 @@
+{
+    "id": 386,
+    "name": "Pirateer",
+    "yearpublished": "1978",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "8",
+    "description": "The object of the game is to steal the treasure with one of your ships and get it to your home port or to capture all your opponents 3 ships using movement restricted by dice rolls (two six-sided dice), obstacles, trade winds, and currents.<br/><br/>The theme of the game is for each player to assume the role of a different band of three ships, with their own port and flag.<br/><br/>Nine extra scenarios are included - from &quot;Shipwreck&quot; to &quot;Nuke-A-Teer&quot;(!) - including one for up to 8 players (requires two games).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/izfpPdXomDszj0M623ue7g__original/img/3jE7L4ij9d5bvwi9Lo8QXJgZGQQ=/0x0/filters:format(jpeg)/pic1514978.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/izfpPdXomDszj0M623ue7g__small/img/wTMqPqI8p-4op4TzD_UaVZC_yQ8=/fit-in/200x150/filters:strip_icc()/pic1514978.jpg",
+    "publishers": [
+        "(Self-Published)",
+        "Mendocino Game Company",
+        "Tactic",
+        "Warren Industries, Inc."
+    ],
+    "designers": [
+        "Scott Peterson"
+    ],
+    "artists": [
+        "Carol Baker",
+        "Mark Ferrari"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Pick-up and Deliver",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Nautical",
+            "Pirates"
+        ],
+        "families": [
+            "Misc: Mensa Select"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 278,
+    "name": "Catan Card Game",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "60",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "Catan Card Game bears only a slight resemblance to The Settlers of Catan, the original game in the Catan series.  There are six resources: wool, wood, bricks, grain, ore, and gold. Before beginning the game, the players receive six square cards showing the resources, with a different die number on each card. In addition, the players start the game with two village cards and a road card connecting them. There are card stacks of more roads and villages, as well as cities, to be purchased during the game. With each new village or city comes two new resource cards. Villages and cities give victory points.<br/><br/>When the number die is rolled, instead of collecting more cards, the players rotate the corresponding card 90 degrees to indicate a gain of one more of that resource; i.e., the brick card shows a picture of one brick on one edge of the card, two bricks on the next clockwise edge, three bricks along the third edge, and zero bricks on the fourth edge. There is also an event die, with five possible outcomes:<br/><br/><br/>     a reward for the player with more knight points or more 'windmill' points (a picture of a windmill on some cards),<br/>     a bonus resource,<br/>     an attack if a player has too many resources, and<br/>     one of six special events - civil war, conflict, master builder, plague, productive year, or progress.     <br/><br/><br/>There are 62 expansion cards in six stacks in the center of the table. Before beginning the game, players choose one stack, go through it, and choose three cards to hold in their hands. Forty-two of the expansion cards require spending resources to be put into play, gaining civic improvements or knights. Every civic improvement serves some useful function or adds victory points or both. Twenty of the cards are actions benefiting one of the players or harming the other. After a player pays to put a card down or uses an action card, he blindly draws a replacement. Unwanted or unusable cards can be traded in future turns. Some of the cards have flags on them, indicating victory points.<br/><br/>Whoever first has twelve victory points wins the game!<br/><br/>The Anniversary edition of this game (Jubil&auml;umsausgabe, tin box edition) can be found under a separate game entry due to some differences in content: Die Siedler von Catan: Das Kartenspiel – 10th Anniversary Special Edition Tin Box.<br/><br/>Belongs to the Catan Series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CRCOv0p4FgZaze_3fGuhIA__original/img/OiugGzMENFVOzMTKBFZnEVOPzto=/0x0/filters:format(jpeg)/pic706443.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CRCOv0p4FgZaze_3fGuhIA__small/img/m3u-LAThaaVm0fBYatEMsbrl_bk=/fit-in/200x150/filters:strip_icc()/pic706443.jpg",
+    "publishers": [
+        "KOSMOS",
+        "999 Games",
+        "Albi",
+        "Competo / Marektoy",
+        "Devir",
+        "Filosofia Éditions",
+        "Galakta",
+        "Giochi Uniti",
+        "Kaissa Chess & Games",
+        "Laser plus",
+        "Mayfair Games",
+        "Piatnik",
+        "Smart Ltd",
+        "Tilsit"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Tanja Donner",
+        "Pete Fenlon",
+        "Jason Hawkins",
+        "Michaela Kienle",
+        "Matt Schwabel",
+        "Klaus Teuber",
+        "Franz Vohwinkel",
+        "Stephen Graham Walsh"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hand Management",
+            "Map Addition",
+            "Open Drafting",
+            "Race",
+            "Random Production",
+            "Trading"
+        ],
+        "categories": [
+            "Card Game",
+            "City Building",
+            "Territory Building"
+        ],
+        "families": [
+            "Game: Catan",
+            "Game: Catan Card Game",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)",
+            "Versions & Editions: Card Versions of Non-Card Games",
+            "Versions & Editions: Two-Player Versions of More-Player Games"
+        ]
+    }
+}

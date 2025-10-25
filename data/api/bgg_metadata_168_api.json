@@ -1,0 +1,53 @@
+{
+    "id": 168,
+    "name": "Empire Builder",
+    "yearpublished": "1982",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "Epic Railroad Building in North America<br/><br/>Discover a modern North American classic.  Celebrate one of our most vital and enduring passions: railroads.  Use your initial investment to build track.  Then pick up commodities where they are grown, mined, or manufactured and deliver them to a lucrative place of demand.  Complete a delivery and make the money you need to buy larger, faster trains, and expand your railroad empire.  Win the game by building the most effective railroad empire!<br/><br/>The original and flagship of Mayfair&#039;s crayon-rails line allows players, using washable crayons, to draw their train routes over a map of North America.  Players start with an initial sum of money which they use to build short lengths of track during their first couple of turns.  For the rest of the game, players operate their trains over the track network drawn on the board to pick up and deliver loads to various cities, and then have the opportunity to add to their track network or improve their train.  The game uses demand cards which list three demands, each of a commodity to be delivered to a specified city for a given payoff.  Each player has three demand cards to provide opportunities for income.<br/><br/>Each turn consists of an operations phase and a building phase.  During the operations phase, trains are moved to cities where commodities are picked up at no cost and moved to one of the cities on that player's demand cards.  When the commodity is delivered, the player receives the payoff and trades that demand card for a new one.  Event cards are mixed in the deck with the demand cards.  When an event card is drawn the instructions are followed.  During the building phase a player may pay to build more track or upgrade his train.<br/><br/>A player wins by being the first to connect his track network to six of the seven major cities on the board and acquire $250,000,000 in cash on hand.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/WPfjWkfenHoUkqZByS5pyg__original/img/9QNa3OB2VNOwjTIzwoi-ARwn3Sw=/0x0/filters:format(jpeg)/pic436693.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WPfjWkfenHoUkqZByS5pyg__small/img/Dwio9CMhMBURPvbxPc6wz_vfARQ=/fit-in/200x150/filters:strip_icc()/pic436693.jpg",
+    "publishers": [
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Darwin Bromley",
+        "Bill Fawcett"
+    ],
+    "artists": [
+        "Peter Y. Bromley",
+        "Jim Clouse",
+        "Morgan Dontanville",
+        "Pete Fenlon",
+        "Jim Malik",
+        "Drew Perkett",
+        "Louis Rexing",
+        "Mike Russo",
+        "Stefan Sierhej",
+        "Chris Vande Voort"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Connections",
+            "Crayon Rail System",
+            "Hexagon Grid",
+            "Movement Points",
+            "Network and Route Building",
+            "Pick-up and Deliver"
+        ],
+        "categories": [
+            "Economic",
+            "Trains",
+            "Transportation"
+        ],
+        "families": [
+            "Components: Crayons",
+            "Country: USA",
+            "Misc: Dice Tower Hall of Fame",
+            "Series: Empire Builder Rail Games (Mayfair)"
+        ]
+    }
+}

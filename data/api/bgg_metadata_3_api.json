@@ -1,0 +1,70 @@
+{
+    "id": 3,
+    "name": "Samurai",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Samurai is set in medieval Japan. Players compete to gain the favor of three factions: samurai, peasants, and priests, which are represented by helmet, rice paddy, and Buddha figures scattered about the board, which features the islands of Japan. The competition is waged through the use of hexagonal tiles, each of which help curry favor of one of the three factions &mdash; or all three at once! Players can make lightning-quick strikes with horseback ronin and ships or approach their conquests more methodically. As each figure (helmets, rice paddies, and Buddhas) is surrounded, it is awarded to the player who has gained the most favor with the corresponding group.<br/><br/>Gameplay continues until all the symbols of one type have been removed from the board or four figures have been removed from play due to a tie for influence.<br/><br/>At the end of the game, players compare captured symbols of each type, competing for majorities in each of the three types. Ties are not uncommon and are broken based on the number of other, &quot;non-majority&quot; symbols each player has collected.<br/><br/>The game is part of what is sometimes called the Knizia tile-laying trilogy.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/o9-sNXmFS_TLAb7ZlZ4dRA__original/img/TPKZgpNxB_C73RNbhKyP6UR76X0=/0x0/filters:format(jpeg)/pic3211873.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o9-sNXmFS_TLAb7ZlZ4dRA__small/img/22MSUC0-ZWgwzhi_VKIbENJik1w=/fit-in/200x150/filters:strip_icc()/pic3211873.jpg",
+    "publishers": [
+        "Fantasy Flight Games",
+        "Hans im Glück",
+        "999 Games",
+        "ABACUSSPIELE",
+        "Astrel Games",
+        "Ceilikan Jogos",
+        "Descartes Editeur",
+        "Edge Entertainment",
+        "Galakta",
+        "Hobby Japan",
+        "Korea Boardgames",
+        "Lacerta",
+        "Lanlalen",
+        "Lautapelit.fi",
+        "Lighthouse Games",
+        "Rio Grande Games",
+        "Skandinavisk  Spil Kompagni",
+        "Smart Ltd",
+        "Wargames Club Publishing",
+        "Yaofish Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Miguel Valenzuela Beltrán",
+        "Franz Vohwinkel",
+        "徐昀享 (Xu Yunxiang)",
+        "李小娜 (LI Xiaona)",
+        "杨静雯 (Yang Jingwen)",
+        "谢有鑫 (Xie Youxin)",
+        "郭紫颖 (Guo Ziying)",
+        "陈杰 (Chen Jie)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Hexagon Grid",
+            "Once-Per-Game Abilities",
+            "Set Collection",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Medieval"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)",
+            "Components: Player Screens",
+            "Country: Japan",
+            "Series: Euro Classics (Reiner Knizia)",
+            "Series: Tile-Laying Trilogy (Reiner Knizia)",
+            "Theme: Samurai"
+        ]
+    }
+}

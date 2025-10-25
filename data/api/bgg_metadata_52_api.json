@@ -1,0 +1,46 @@
+{
+    "id": 52,
+    "name": "Mighty Empires",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "3",
+    "minplaytime": "300",
+    "maxplaytime": "300",
+    "age": "14",
+    "description": "Mighty Empires is both a strategic layer to the Warhammer Fantasy Battle (Third Edition) system and a boardgame in its own right.  It allows players of the miniature game to manage a kingdom, explore the world, and attempt to conquer other kingdoms, but it also can be played standalone as a fantasy wargame.  The game board is constructed with hexagonal tiles to create a unique land with mountains, hills, river valleys, lowlands, and coastal areas.  The game comes with some nifty bits representing armies, castles, cities and villages.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/6-LNj8f8DPnH1lRU3DghDA__original/img/fgOY6dvigeZE37LAp-jGL6jXGYg=/0x0/filters:format(jpeg)/pic994386.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6-LNj8f8DPnH1lRU3DghDA__small/img/Cc247IoKXTU6_te8k4pSGliJhIo=/fit-in/200x150/filters:strip_icc()/pic994386.jpg",
+    "publishers": [
+        "Games Workshop Ltd."
+    ],
+    "designers": [
+        "Rick Priestley",
+        "Nigel Stillman"
+    ],
+    "artists": [
+        "Tony Ackland",
+        "Albrecht Altdorfer",
+        "Dave Andrews",
+        "Chris Baker",
+        "Paul Bonner",
+        "Colin Howard",
+        "Martin McKenna",
+        "Russ Nicholson",
+        "John Sibbick",
+        "Stephen Tappin",
+        "Kevin Walker"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hexagon Grid"
+        ],
+        "categories": [
+            "Fantasy",
+            "Territory Building",
+            "Wargame"
+        ],
+        "families": [
+            "Setting: Warhammer Fantasy Wargames"
+        ]
+    }
+}

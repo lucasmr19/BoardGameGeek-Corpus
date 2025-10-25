@@ -1,0 +1,36 @@
+{
+    "id": 275,
+    "name": "Extinction",
+    "yearpublished": "1993",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "&quot;The Last Game They Ever Played&quot;<br/><br/>Extinction is a card game for 2-6 players, Ages 12 and up. The object of the game is to create large herds of dinosaurs while making your opponent's dino herds extinct.<br/><br/>The game is played over 3 rounds, representing the Triassic, Jurassic, and Cretaceous periods. During each round, players can meld herds of herbivorous dinos to earn points at the end of the round, play egg cards in hopes of adding to an established herd later in the game. There are several calamity cards that can be drawn, or played by another player, to throw a wrench into a player's plans. Some of these include meat-eating dinosaurs, egg-eating cards and gene pool disasters.<br/><br/>The larger your herds, and the more herds featuring different types of dinos, the more points you can earn at the end of each period. The player with the most points after the Cretaceous period is the winner!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/-gvLME8iYrV8VXEN8tFTaw__original/img/bQud_a-aB2xcfgqaU7nwTVyN6ws=/0x0/filters:format(jpeg)/pic75826.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-gvLME8iYrV8VXEN8tFTaw__small/img/nadcppYl7xoCg834iWpZZcRJXwo=/fit-in/200x150/filters:strip_icc()/pic75826.jpg",
+    "publishers": [
+        "Incredible Game Company"
+    ],
+    "designers": [
+        "Stephen Hubell"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Contracts",
+            "Events",
+            "Hand Management",
+            "Set Collection",
+            "Tags",
+            "Take That"
+        ],
+        "categories": [
+            "Prehistoric"
+        ],
+        "families": [
+            "Animals: Dinosaurs"
+        ]
+    }
+}

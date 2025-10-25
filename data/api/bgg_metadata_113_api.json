@@ -1,0 +1,36 @@
+{
+    "id": 113,
+    "name": "Plotters, Inc.",
+    "yearpublished": "1999",
+    "minplayers": "4",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Plotters, Inc., first released as Mit List und T&uuml;cke (&quot;With Cunning and Treachery&quot;), is a trick-taking game with quite a few twists. The deck consists of cards in four suits, and the deck is adjusted based on the player count so that everyone receives a hand of 14 cards to begin a round. At the start of a trick, the lead player plays any card, setting trump for that trick. Each other player plays any card that they like &mdash; except that once three colors of cards have been played, the fourth color cannot be played. Whoever plays the highest trump card wins the trick and collects two of the cards played (or three cards in a game with five or six players), placing these cards in front of them. Whoever plays the lowest non-trump card collects the remaining cards; this player leads to the next trick.<br/><br/>Once a player has cards of all four colors in front of them, they must choose two colors and leave cards of this color face up, placing all other cards face down. As they collect more cards, they place them face up or face down based on their colors. The round ends after 14 tricks or when a player would be forced to play a card of the fourth color to a trick; in this latter case, the round ends immediately. Each player then scores the cards they've collected. For their two face-up colors, they multiply these numbers together; they then divide this product by the number of cards that they placed face down, rounding this number down. For example, if you have 6 yellow cards, 4 red cards, and 2 blue cards, then you have (6 &bull; 4)/2 = 12 points. If you collect cards of only one color, then you score 0 points!<br/><br/>Play as many rounds as the number of players. Whoever has the highest total score wins!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/s_iMDLyXrvDyd5R1UU48ww__original/img/mhnypXcmsRANJJgnVcjAEmBI1Ks=/0x0/filters:format(png)/pic6518969.png",
+    "thumbnail": "https://cf.geekdo-images.com/s_iMDLyXrvDyd5R1UU48ww__small/img/eXUWsqw0Db1flm1pxiInJPQ5Hek=/fit-in/200x150/filters:strip_icc()/pic6518969.png",
+    "publishers": [
+        "Berliner Spielkarten",
+        "BoardM Factory",
+        "Playte",
+        "数寄ゲームズ (Suki Games)"
+    ],
+    "designers": [
+        "Klaus Palesch"
+    ],
+    "artists": [
+        "Hailey Ha Jung",
+        "Makiko Kodama",
+        "別府さい (Sai Beppu)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

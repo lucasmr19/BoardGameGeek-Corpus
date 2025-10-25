@@ -1,0 +1,44 @@
+{
+    "id": 60,
+    "name": "Vinci",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "14",
+    "description": "Along the lines of History of the World by The Avalon Hill Game Co, players cycle through a series of European civilizations as they attempt to score the most points using the civilization's special powers.  The game is set in Europe. Each player is provided with a pool of wooden tokens to represent their civilizations.  Each player selects a combination of civilization tiles, which give his civilization special abilities or characteristics.  Players enlarge their empires through territorial expansion, often at the expense of other players.  The key to the game lies in choosing when to allow your active civilization to go into decline in order to select a new one that will generate more points.  Play continues with the cycling of civilizations until a certain score is reached, whereupon final rounds are played and a victor is determined.<br/><br/>Reimplemented by:<br/><br/><br/>     Small World (released in March 2009)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/16rNX4_Zj2nUtfKP7d1Wxw__original/img/tMG5f6Jgt1XKTXbHnFWJrWFpzo8=/0x0/filters:format(jpeg)/pic168171.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/16rNX4_Zj2nUtfKP7d1Wxw__small/img/9LgknaiMCuT4jFlsyPO8j2I1U7E=/fit-in/200x150/filters:strip_icc()/pic168171.jpg",
+    "publishers": [
+        "Descartes Editeur"
+    ],
+    "designers": [
+        "Philippe Keyaerts"
+    ],
+    "artists": [
+        "Cyril Saint Blancat"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Increase Value of Unchosen Resources",
+            "Network and Route Building",
+            "Race",
+            "Static Capture",
+            "Take That",
+            "Variable Player Powers",
+            "Variable Set-up",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Ancient",
+            "Civilization",
+            "Territory Building"
+        ],
+        "families": [
+            "Digital Implementations: Yucata"
+        ]
+    }
+}

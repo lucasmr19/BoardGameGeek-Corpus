@@ -1,0 +1,32 @@
+{
+    "id": 347,
+    "name": "Fishy",
+    "yearpublished": "1991",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Fishy is the second of the set of games published by Alan Moon himself. It is not one game but three games that can be played with the same set of playing pieces.<br/><br/>1. Rotten Fish: The first game is about fish in a barrel. Round by round the fish moves toward the rotten bottom of the barrel. The players play one card from their hand. Depending on how many players have chosen a card, fish can be taken from the barrel. <br/>The game ends when a player has five fish on the bottom of the barrel.<br/><br/>2. Fresh Fish: The card playing mechanism in this variant is similar to the one in Rotten Fish. In this game players try to buy fish from the different &quot;displays&quot; in the barrel.<br/><br/>3. Fish in the Barrel: By playing their cards players try to sell their fish to the market (the barrel). Depending on the cards the other players played a player can place 1 - 4 fish in the barrel.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/L2WqgZRVMUAKKk07AUoMQw__original/img/SWslykep8EdhPJKtLfgjGZQW5tc=/0x0/filters:format(jpeg)/pic452629.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/L2WqgZRVMUAKKk07AUoMQw__small/img/VVLKBK8517GiDVKdvx11Pv3KMAg=/fit-in/200x150/filters:strip_icc()/pic452629.jpg",
+    "publishers": [
+        "White Wind"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Animals",
+            "Bluffing"
+        ],
+        "families": [
+            "Animals: Fish / Fishes"
+        ]
+    }
+}

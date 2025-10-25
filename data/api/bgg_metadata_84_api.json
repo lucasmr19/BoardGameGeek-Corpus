@@ -1,0 +1,54 @@
+{
+    "id": 84,
+    "name": "Rommel in the Desert",
+    "yearpublished": "1982",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "180",
+    "maxplaytime": "480",
+    "age": "12",
+    "description": "Rommel in the Desert is a fast-moving, challenging, tense, and playable wargame based on the North Africa desert campaign of World War II.<br/><br/>This game has been enjoyed by thousands of gamers for 40 years. Experience the wargame many consider the best on the subject.<br/><br/>Rommel in the Desert simulates the experience of command. The real problems of generals have nothing to do with shuffling combat factors to get a perfect 3-1 attack while the enemy waits passively to be overwhelmed. Rommel gained many of his victories by employing speed, daring, and surprise.<br/><br/>In this game, as in the desert campaign, the events of the battlefield are often subordinate to the battle of wits and nerves between opposing commanders. A good grasp of strategy will help, but foresight, nerve, and instinct are the crucial elements of success.<br/><br/>CONTENTS<br/><br/>    100 wooden blocks (20mm)<br/>    Labels<br/>    Mapboard (11 x 34 inches)<br/>    Rules 1.02<br/>    42 Supply Cards<br/>    4 Dice<br/><br/><br/>(adapted from Columbia Games website)<br/><br/><br/>Rommel in the Desert is a pre-&quot;Front&quot; game touching on the conflict between the British and Germans in North Africa during WWII. A game of maneuver, each side has to move with precision and know when to strike, since a cut in supply spells disaster for either side. The supply system is card driven. The game comes with a map of North Africa and 100 wooden blocks to represent the British and Germans.<br/><br/>This title uses Columbia Games Block system. While there are variations in the rule sets for each of their games nonetheless all of their games are based on block system. Basically this means that rather than the traditional use of counters to represent units on the map the game instead uses wooden blocks that stand upright and with unit details only shown on one side of the blocks. This does two things: First it provides an easy way of producing a &quot;fog of war&quot; because your opponent can not tell, save through good memory, what type of unit a specific piece is and its current strength. Second, by having the blocks stand on end it provides a way to keep track of a units strength by rotating the block so the current strength is the top number. Most war games have some type of mechanism that lets units take steps in their overall strength. Counters normally have at most two steps because of they only have two sides, however blocks have four and so now you can easily keep track of twice the amount of detail that many other war games provide. With the use of blocks Columbia has provided a way of adding a good deal of depth to their war games without adding further complex layers of bookkeeping and thus allow for interesting and relatively short sessions of play.<br/><br/>(from BGG user)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/lqvlmyqwEO3aUTBXnzNSsg__original/img/ur1TvAg-lPO8pyeoAj8snMeJssU=/0x0/filters:format(jpeg)/pic6801115.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lqvlmyqwEO3aUTBXnzNSsg__small/img/-8ZGbPbv4HjBaLzjVuwIuHFV8iM=/fit-in/200x150/filters:strip_icc()/pic6801115.jpg",
+    "publishers": [
+        "Columbia Games",
+        "Doit Games",
+        "Game Preserve"
+    ],
+    "designers": [
+        "Craig Besinque"
+    ],
+    "artists": [
+        "Tom Dalgliesh",
+        "Ron Gibson",
+        "Jody Harmon",
+        "Eric Hotz"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Secret Unit Deployment",
+            "Simulation"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: Block Wargames",
+            "Country: Egypt",
+            "Country: Germany",
+            "Country: Libya",
+            "Country: United Kingdom",
+            "Digital Implementations: Rally the Troops",
+            "History: World War II (Africa)",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players",
+            "Region: North Africa",
+            "Theme: Deserts",
+            "War Battlespace: Land warfare",
+            "War Level of Command: Operational"
+        ]
+    }
+}

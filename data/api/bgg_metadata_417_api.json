@@ -1,0 +1,35 @@
+{
+    "id": 417,
+    "name": "Edison & Co.",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Mad professors test their experimental racing machines on the lab roof. Each player has a favorite machine, a set of movement cards for the racers and a secret score card. The score card shows the actual result you want to achieve, each player wanting the 4 cars to finish in a different order. The movement cards have 3 functions, showing number of spaces to move, or direction to move in, or 2 vehicles out of the 4 available that you could move. Start order changes each turn, the first player chooses one card of the three available, the next chooses a different type of card, the 3rd player the last type. The final player decides which car moves of the 2 cars that have been chosen as possible cars to move. The board also has random oil patches and hazards.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/prpr7CSf1PKWg-x0RX4rMw__original/img/PFnu9MuUyoe-dUkilefoUl89G04=/0x0/filters:format(jpeg)/pic55577.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/prpr7CSf1PKWg-x0RX4rMw__small/img/GZS137Qb0hwpALZj3UmcaWAHBeo=/fit-in/200x150/filters:strip_icc()/pic55577.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Günter Burkhardt"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Science Fiction"
+        ],
+        "families": [
+            "Theme: Airships / Blimps / Dirigibles / Zeppelins",
+            "Theme: Steampunk"
+        ]
+    }
+}

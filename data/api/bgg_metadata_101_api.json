@@ -1,0 +1,38 @@
+{
+    "id": 101,
+    "name": "Detroit-Cleveland Grand Prix",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "This game is part of a family which includes Top Race, Daytona 500, and Formel 1.  Players are dealt a hand of cards which have movement numbers for one or more of the cars.  When a card is played, the cars are advanced the number of spaces indicated in order from top to bottom.  However, if the track is blocked, then that movement is lost, so the idea is to use the cards that help your opponents (which you'll likely have to play eventually) only when they won't be able to take advantage of the movement.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/j3M3YejTD-N2p1aHTAcg2A__original/img/0eFvFeA40-uxwNolkBEaoldDn-s=/0x0/filters:format(jpeg)/pic70647.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j3M3YejTD-N2p1aHTAcg2A__small/img/IUhhhMaPEoJ7GyJfsJMzACK1Gps=/fit-in/200x150/filters:strip_icc()/pic70647.jpg",
+    "publishers": [
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Ramon Mascarenas",
+        "Seth Schwartz"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "Card Game",
+            "Racing"
+        ],
+        "families": [
+            "Cities: Cleveland (Ohio, USA)",
+            "Cities: Detroit (Michigan, USA)",
+            "Series: Auto Racing card system (Wolfgang Kramer)",
+            "Sports: Auto Racing"
+        ]
+    }
+}

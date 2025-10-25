@@ -1,0 +1,34 @@
+{
+    "id": 343,
+    "name": "Twins",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Twins has a sixty-card deck, with cards coming in six suits numbered 1-10; some cards have white numerals, while others have black numerals.<br/><br/>In a round, each player receives eight cards from the deck, then can buy more from the pool; each player starts with 12 money. Each round lasts four turns, and on each turn players simultaneously reveal a pair of cards from their hand. Cards with the same numeral and same numeral color (&quot;twins&quot;) outrank cards of the same numeral but different numeral colors (&quot;pairs&quot;), which outrank two cards of the same suit (&quot;colors&quot;), which outrank anything else; sums of values act as a tiebreaker.<br/><br/>On the first turn, some number of players with the lowest-ranked cards pay two money to the kitty in the middle of the table; on the second turn, some number of players with the highest ranks each take three money; on the third turn, some number of players with the lowest-ranked cards pay one money to the kitty and drop from the round; and on the fourth turn, the player with the highest-ranked cards takes the kitty. The number of players who pay or win money varies depending on the number of players. Rounds continue until someone runs out of money, then the player with the most money wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/nywk469Jw1qOzRjHAU-SSA__original/img/-MW8NWMK4UobMnC-IlJgXTFlF3I=/0x0/filters:format(png)/pic3169824.png",
+    "thumbnail": "https://cf.geekdo-images.com/nywk469Jw1qOzRjHAU-SSA__small/img/FhGJamk5eZmxGZSdSMqmJcktmZo=/fit-in/200x150/filters:strip_icc()/pic3169824.png",
+    "publishers": [
+        "AMIGO",
+        "Oink Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Jun Sasaki",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Bluffing",
+            "Card Game"
+        ],
+        "families": []
+    }
+}

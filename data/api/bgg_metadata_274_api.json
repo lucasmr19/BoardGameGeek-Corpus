@@ -1,0 +1,45 @@
+{
+    "id": 274,
+    "name": "Guerilla",
+    "yearpublished": "1994",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "Guerilla is a multi-player simulation card-wargame. Three to six players vie for control of the government as rebels wage a civil war against those in power. As in real guerrilla warfare, the government forces are handicapped by their inability to separate friend from foe. This &quot;fog of war&quot; is accomplished by a clever dichotomy of goals wherein each player simultaneously commands both government and rebel forces. However, each player is secretly backing either the government of rebel cause and is severely penalized if his &quot;side&quot; doesn't win the hand.<br/><br/>Consequently, players are always torn between scoring for their &quot;side&quot;, or for themselves, or even sacrificing their own resources for the sake of an opponent who appears to be on their side. But is he? Even when you think you've figured out who is who, the Revolution card can appear to change loyalties and totally cloud the issue again.<br/><br/>Players score by eliminating opposing forces, manipulating the media and world opinion, or controlling various installations such as the Port or Airfield which grant special abilities to those who hold them. Government air power and armor columns struggle against ambushing guerrilla bands which fade back into the jungle without a trace. If atrocities are committed, the U.N. may intervene and attempt to stop the open warfare. Then the battle is fought by secret police who ferret out traitors while propaganda battles are waged for the hearts and minds of the populace. Assassins abound as influential leaders are targeted in an attempt to paralyze opposing troops in preparation for the day when the U.N. withdraws.<br/><br/>Game length is variable and selected at outset. A game can comprise a single hand or be combined into three or more - resulting in a game from one to four hours in duration.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/pjokK0XvmfJwiAjN7tvMIQ__original/img/6Bkmo5hoq5BvVWjOn4htzgcE7Z8=/0x0/filters:format(jpeg)/pic677802.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pjokK0XvmfJwiAjN7tvMIQ__small/img/XeuX3R_yF-xyQy5mxlfGfk5LkRk=/fit-in/200x150/filters:strip_icc()/pic677802.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Neal Schlaffer"
+    ],
+    "artists": [
+        "Stephen Langmead"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hand Management",
+            "Hidden Roles",
+            "Open Drafting",
+            "Score-and-Reset Game",
+            "Simulation",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Card Game",
+            "Civil War",
+            "Modern Warfare",
+            "Political",
+            "Wargame"
+        ],
+        "families": [
+            "History: Central American crisis",
+            "History: Cold War",
+            "Region: Central America"
+        ]
+    }
+}

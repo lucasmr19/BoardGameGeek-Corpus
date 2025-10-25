@@ -1,0 +1,42 @@
+{
+    "id": 111,
+    "name": "Rheinländer",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "This Reiner Knizia game, produced by Hasbro&#039;s European division, casts players in the roles of dukes who are trying to establish duchies along the banks of the Rhine River.  Players hold a hand of cards that correspond to numbered plots on each bank, and they place knights in open plots for which they hold the corresponding cards.  After establishing duchies, players attempt to expand them to include more plots of land, as well as buildings - such as castles, cathedrals, and cities. These buildings both add to the value of a duchy and provide their owners with advantages during game play.  Combined with a uniquely Knizia-style scoring system, this game has some very interesting dynamics.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/XZOfL2SO5sF1gSu4FFdxSw__original/img/rB4ak30KN5Frambk4SnueaCmXrs=/0x0/filters:format(jpeg)/pic49307.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XZOfL2SO5sF1gSu4FFdxSw__small/img/cKnTQogrdMYDCmnI1XxYnlO7wGc=/fit-in/200x150/filters:strip_icc()/pic49307.jpg",
+    "publishers": [
+        "Face2Face Games",
+        "Hasbro",
+        "Parker Brothers"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "William O'Connor",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Enclosure",
+            "Hand Management"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Medieval",
+            "Territory Building"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Country: Germany",
+            "Rivers: Rhine"
+        ]
+    }
+}

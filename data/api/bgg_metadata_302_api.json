@@ -1,0 +1,39 @@
+{
+    "id": 302,
+    "name": "Forum Romanum",
+    "yearpublished": "1988",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Long out of print, this is a popular placement game by Wolfgang Kramer, published in the Franckh Kosmos long box series. Actually very simple, players take turns to put their colored pieces in different rooms. Whenever a row, column, diagonal or room is full, it is scored, with the majority holder getting the value of the length, and any minority holders losing points. All lines or rooms are marked off when scored and when you run out of pieces to place, you must move a piece, which means you can suddenly lose a potential score you were building.<br/><br/>______________________<br/><br/>The game is part of the Franckh-Kosmos/ &#039;Edition Perlhuhn&#039; (1988) and &#039;Spiele-Galerie&#039;(1994) series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/8nExfzE2_W9uSapNdcWZvg__original/img/tVWmYMW7cet1F6oBVTtry43CN0g=/0x0/filters:format(jpeg)/pic181086.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8nExfzE2_W9uSapNdcWZvg__small/img/67s4r4dejo3oTjLeQ7TIgkotlDc=/fit-in/200x150/filters:strip_icc()/pic181086.jpg",
+    "publishers": [
+        "KOSMOS",
+        "New Games Order, LLC"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "TANSAN Inc.",
+        "Franz Vohwinkel",
+        "Matthias Wittig"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Ancient"
+        ],
+        "families": [
+            "Ancient: Rome",
+            "Components: 7 x 7 Grids",
+            "Series: Edition Perlhuhn / Franckh-Kosmos"
+        ]
+    }
+}

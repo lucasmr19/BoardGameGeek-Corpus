@@ -1,0 +1,29 @@
+{
+    "id": 468,
+    "name": "Dump",
+    "yearpublished": "0",
+    "minplayers": "0",
+    "maxplayers": "0",
+    "minplaytime": "0",
+    "maxplaytime": "0",
+    "age": "0",
+    "description": "This is a prototype design about territorial competition between dogs in a neighborhood.  Each player is a dog that tries to have the most prestigious and extensive territory by going around pooping and peeing on streets, lawns, and yards to mark their area.  The center of neighborhood is occupied by the park, the jewel in the eyes of all dogs to claim as their own.  To achieve top dog status players will come across trash cans (for resupply) and fire hydrants that help in scoring more points.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/zRGmBOOpnk2f6w76CpLEBw__original/img/W7LrVFJpK5LEwKPrfW2iRQe07M8=/0x0/filters:format(jpeg)/pic234.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zRGmBOOpnk2f6w76CpLEBw__small/img/--WOnNYzNtU2v9FwOYFtYaaBF34=/fit-in/200x150/filters:strip_icc()/pic234.jpg",
+    "publishers": [
+        "(Looking for a publisher)"
+    ],
+    "designers": [
+        "Neil Carr"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Animals"
+        ],
+        "families": [
+            "Animals: Dogs"
+        ]
+    }
+}

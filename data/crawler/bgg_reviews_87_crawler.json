@@ -1,0 +1,74 @@
+[
+  {
+    "username": "kathench",
+    "rating": 1.0,
+    "comment": "green and grey",
+    "timestamp": 1541372400
+  },
+  {
+    "username": "blockhead",
+    "rating": 2.0,
+    "comment": "Way too abstract for me. No sense of scale, production happens way too fast relative to combat. Way too heavy on the warGAME side of things. Would actually prefer Memoir 44",
+    "timestamp": 1343253600
+  },
+  {
+    "username": "marcocim",
+    "rating": 3.0,
+    "comment": "not historical",
+    "timestamp": 1646262000
+  },
+  {
+    "username": "rgtft",
+    "rating": 4.0,
+    "comment": "Played it a bit when it first came out, but it hasn't seen the light of day on the gaming table in a few years.",
+    "timestamp": 1587679200
+  },
+  {
+    "username": "Subdeep",
+    "rating": 5.0,
+    "comment": "P; STICKERED",
+    "timestamp": 1504476000
+  },
+  {
+    "username": "PpalP",
+    "rating": 5.0,
+    "comment": "Don't like block games",
+    "timestamp": 1440021600
+  },
+  {
+    "username": "rws2029",
+    "rating": 6.0,
+    "comment": "Lite, block strategy game depicting a hypothetical military conflict using technology roughly equivalent to the mid 20th century (hence the “World War II” in the title).\n• 2nd edition (published c. 2018, I think) improved the combat system. The version info on BGG is lacking details and appears incomplete.",
+    "timestamp": 1746309600
+  },
+  {
+    "username": "wkover",
+    "rating": 6.0,
+    "comment": "A \"philanthropy\" purchase from a game store that deserved some of my money. We'll see how it pans out.\n\nUpdate:\n\nLike everyone else, I'm trying to brainstorm variants that make the base game playable. So far this seems to be a decent combination:\n\n*Use 4 maps for two players; 30 starting units per player.\n\n*Play a fixed number of turns (8-10).\n\n*Both optional building rules are in effect (2PP for the first step of a new unit; only one step can be built the turn a new unit enters play).\n\n*Only VP cities on the opponent's side of the board are counted for victory.\n\n*Once a 2 or 3 VP city has been taken on the opponent's side of the board, it still gives 1 VP at game's end even if recaptured (representing a permanent morale hit).\n\n*The total number of enemy blocks killed on the opponent's side of the board (only) are also worth VP, with 5 blocks = 1 VP (rounded down). Though this conversion rate may need tweaking.",
+    "timestamp": 1743289200
+  },
+  {
+    "username": "edrift101",
+    "rating": 7.0,
+    "comment": "Contributor credit...",
+    "timestamp": 1759096800
+  },
+  {
+    "username": "GaryP",
+    "rating": 8.0,
+    "comment": "Great fun for those of us more interested in gameplay and scenario design than historical reenactment. The maps are fictional, but the units are WW2 technology. This system precedes the A-B-C order of fire seen later in Wizard Kings and Hammer of the Scots. The game has a lot of rough edges, but the basic system does a good job of demonstrating the need for air and naval coordination with the vital ground troops",
+    "timestamp": 1678662000
+  },
+  {
+    "username": "BJOSEPHLYON",
+    "rating": 9.0,
+    "comment": "Dozens of games not registered",
+    "timestamp": 1583708400
+  },
+  {
+    "username": "mothertruckin",
+    "rating": 10.0,
+    "comment": "While I like Wizard Kings better (fantasy nut), this is an excellent kit system, especially with added maps and elite unit expansions. If you like games with a solid amount of replayability - here you go.\n\nThe only thing I found to be missing were markers for \"out of supply\".\n\nAlso please note the sequence of play differs slightly regarding supply check for a 2-player game vs. a multiplayer game (the multiplayer game includes an additional supply check after production as per the SoP on the back of the rulebook).\n\nI have not tried the second edition.",
+    "timestamp": 1747087200
+  }
+]

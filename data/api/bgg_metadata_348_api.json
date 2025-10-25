@@ -1,0 +1,47 @@
+{
+    "id": 348,
+    "name": "Merchants of the Middle Ages",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "A Medieval game of trade and commerce, Die H&auml;ndler is set in Europe, where trade wagons carry wares between six cities on the board. Essentially, players buy goods, load them onto wagons and send them for maximum profit in other cities.<br/><br/>The whole game looks very inviting. The medieval cities depicted on the board, together with the player crests, cardboard coins, money pouches, sticker decorated wagons and wooden commodity pieces, immediately creates the right atmosphere for the players.<br/><br/>There are six cities - Paris, Cologne, Brugge, Gent, Vienna and Genoa - which are interconnected by roads. Three wagons carry goods from one city to another. No-one owns the wagons or controls any of them single-handedly, and in principle a player can put commodities on any transport. There are six different commodities - salt, iron, wine, silk, cloth and food - all of limited supply.<br/><br/>The goal of the game is to make money by delivering goods to the towns, and use the money to buy increases in status.  The game ends after a certain number of deliveries have been made and the winner is the player with the highest level of status.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/VXvoSu90Tga1m4JNuApznQ__original/img/q6x5XmribAn5JTK_KeFIG3Dz1cQ=/0x0/filters:format(jpeg)/pic1305697.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VXvoSu90Tga1m4JNuApznQ__small/img/2SuXA0TJuJ13O8FRV-eYPy2GTYM=/fit-in/200x150/filters:strip_icc()/pic1305697.jpg",
+    "publishers": [
+        "eggertspiele",
+        "Filosofia Éditions",
+        "Queen Games",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Wolfgang Kramer",
+        "Richard Ulrich"
+    ],
+    "artists": [
+        "Jo Hartwig",
+        "Stéphane Poinsot"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Pick-up and Deliver",
+            "Track Movement",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Economic",
+            "Medieval",
+            "Negotiation",
+            "Transportation"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Cities: Bruges (Belgium)",
+            "Occupation: Merchant",
+            "Series: Filosofia Reprints"
+        ]
+    }
+}

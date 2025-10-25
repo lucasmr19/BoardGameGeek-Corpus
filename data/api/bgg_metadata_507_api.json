@@ -1,0 +1,38 @@
+{
+    "id": 507,
+    "name": "Cartel",
+    "yearpublished": "1973",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "A Cartel, as used in this game, is an international collection of companies whose collective value is greater than the individual companies making up the combination. Beginning with a single company valued at 10 million dollars, you can build a cartel whose final value may approach or surpass one billion dollars within ten years (ten rounds of play). You can acquire one or more new companies each year, increasing your profits and the value of your unsold stock, making it possible to buy bigger and bigger companies as the game proceeds. Special bonus profits are gained whenever you buy companies situated adjacent to one another on the board, further increasing your rate of growth. By skillfully buying the right companies (using your cash, selling stock, and borrowing money with bonds), you win by having the cartel of greatest value at the end of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/UneT0s74sPWKG7rPGO9J6w__original/img/a2C3KMEhTuy1phr1ACjs6vyeHkg=/0x0/filters:format(jpeg)/pic424305.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UneT0s74sPWKG7rPGO9J6w__small/img/dh7xu0TDRX-4wXhgvqdwFTkz3k4=/fit-in/200x150/filters:strip_icc()/pic424305.jpg",
+    "publishers": [
+        "Gamut of Games",
+        "Grow Jogos e Brinquedos"
+    ],
+    "designers": [
+        "Phil Orbanes Sr."
+    ],
+    "artists": [
+        "Robert Fisher",
+        "The Design Organization",
+        "Robert Zingmark",
+        "Al Zygier"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Set Collection"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Components: 7 x 8 Grids"
+        ]
+    }
+}

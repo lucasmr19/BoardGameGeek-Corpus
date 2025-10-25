@@ -1,0 +1,55 @@
+{
+    "id": 508,
+    "name": "Blue Max",
+    "yearpublished": "1983",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "13",
+    "description": "In &quot;Blue Max&quot;, each player pilots a World War I airplane in a dogfight. This  wargame can be played as a campaign, with new planes becoming available as time passes, and with surviving pilots getting better at what they do.<br/><br/>Each plane has a maneuver sheet showing which ones it is allowed to do -- some maneuvers can only be executed by ace pilots, and other maneuvers are &quot;restricted&quot; in the sense that they can't be repeated from one turn to the next (the plane would stall).<br/><br/>If you &quot;tail&quot; another plane, its pilot must show you whether he's going right, left or straight ahead. You get to shoot ahead of your plane, unless you have a bomber with an observer/gunner in the back (swivel-mounted guns). Damage is rolled on a table that determines severity in terms of blue and red hits; you then draw the indicated number of coloued chits from a cup. Hits are taken to the wings, tail, engine, etc. There's a chance the pilot is killed, or that the plane catches fire.<br/><br/>Fuel eventually runs out and the pilots fly off to meet another day --if they survived. <br/>This is a lot of fun with massive numbers of players; you can put the 20-odd planes on the map at once, balancing the better airplanes with weaker pilots.<br/><br/>The second edition introduced crude altitude rules, and in 1995 GDW put out full-blown miniatures rules.<br/><br/>The 2014 edition of Blue Max had substantial changes, and can be found with its own game page HERE.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/bpiwU88sDLLYXsnQp-eCnA__original/img/leN2vj2jbC78hUsrFc9uYfuX04U=/0x0/filters:format(jpeg)/pic9636.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bpiwU88sDLLYXsnQp-eCnA__small/img/eiQdnPLHo9WBKwMTRBexpM6pMYc=/fit-in/200x150/filters:strip_icc()/pic9636.jpg",
+    "publishers": [
+        "Diseños Orbitales",
+        "Game Designers' Workshop (GDW Games)",
+        "Oriflam",
+        "Stratelibri"
+    ],
+    "designers": [
+        "Phil Hall",
+        "John Harshman"
+    ],
+    "artists": [
+        "Thierry Monter",
+        "Steve Venters"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Critical Hits and Failures",
+            "Dice Rolling",
+            "Events",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Movement Template",
+            "Paper-and-Pencil",
+            "Role Playing",
+            "Scenario / Mission / Campaign Game",
+            "Simulation",
+            "Simultaneous Action Selection",
+            "Three Dimensional Movement",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Aviation / Flight",
+            "Wargame",
+            "World War I"
+        ],
+        "families": [
+            "Country: France",
+            "Country: Germany",
+            "Digital Implementations: VASSAL",
+            "Occupation: Aviator"
+        ]
+    }
+}

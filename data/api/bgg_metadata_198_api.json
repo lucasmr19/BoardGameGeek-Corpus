@@ -1,0 +1,33 @@
+{
+    "id": 198,
+    "name": "Buried Treasure",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "In Buried Treasure, players compete to compile sets of colored cards by drawing from several common stacks.  Depending on what symbol is on a card, drawing it might let you take another from the stacks or even steal cards of the same color from one of your opponents.  At the end of the round, the majority holders of each color will gain points; the amount of points varies each round.<br/><br/>Was awarded the title &quot;Best Family Card Game&quot; by Games Magazine in 2000.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/tcBLIXs_-4LH6fVFKN7rLg__original/img/ogIQfrDSifHKYQGHWIfz7etZXB8=/0x0/filters:format(jpeg)/pic83699.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tcBLIXs_-4LH6fVFKN7rLg__small/img/r3_1057fOzSejHFqbbgwJtUII3c=/fit-in/200x150/filters:strip_icc()/pic83699.jpg",
+    "publishers": [
+        "F.X. Schmid"
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [
+        "M. Löffler",
+        "Ron Zalme"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game",
+            "Pirates"
+        ],
+        "families": []
+    }
+}

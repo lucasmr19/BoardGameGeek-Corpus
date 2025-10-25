@@ -1,0 +1,38 @@
+{
+    "id": 153,
+    "name": "Take 5!",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Relying heavily on his previous effort, 6 Nimmt!, Wolfgang Kramer has transformed it into a more strategic game.  The deck is numbered from 1 to 98, with some of the cards having green bullheads for positive points and others having red bullheads which are negative.  Here, players play one, two, or three cards from their hand each turn.  As in 6 Nimmt!, players are constructing rows of cards of increasing values.  In this game, the fifth card claims the entire row, reducing the number of rows in play.<br/><br/>Confusingly, some editions of 6 Nimmt! have been titled Take 5.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/zlQWc50FPDG44QagA2mfhw__original/img/pPfU3O54II2jM58xqdF3YxMTYUo=/0x0/filters:format(jpeg)/pic586627.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zlQWc50FPDG44QagA2mfhw__small/img/OJBg5JO5JIrXzJqArvk9CTz5gzk=/fit-in/200x150/filters:strip_icc()/pic586627.jpg",
+    "publishers": [
+        "999 Games",
+        "AMIGO",
+        "G3"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game",
+            "Number"
+        ],
+        "families": [
+            "Animals: Cattle / Cows",
+            "Game: 6 nimmt!",
+            "Misc: Lowest Score Wins"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 166,
+    "name": "Black Death",
+    "yearpublished": "1993",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "0",
+    "description": "In this cheerfully demented offering, participants each play the part of a disease trying to inflict misery on the European populace.  Each disease has mortality (lethalness) and virulence (contagiousness) factors, and the key to causing maximum suffering is striking the right balance between the two.  It's no good being a fast-acting disease if your carriers all die before passing you on to the next city!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/mxbMlJr5GIu4rbOlDlBavw__original/img/mBY-WoFTfU5996RzWyoEYJpFnNI=/0x0/filters:format(jpeg)/pic180585.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mxbMlJr5GIu4rbOlDlBavw__small/img/MPZGWHBJANx1urm7FhyD_koxwNM=/fit-in/200x150/filters:strip_icc()/pic180585.jpg",
+    "publishers": [
+        "Blacksburg Tactical Research Center",
+        "Devir",
+        "Sphinx Spieleverlag"
+    ],
+    "designers": [
+        "Greg Porter"
+    ],
+    "artists": [
+        "Darrell Midgette"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Dice Rolling",
+            "Point to Point Movement",
+            "Simulation",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Medical",
+            "Medieval"
+        ],
+        "families": [
+            "Continents: Europe",
+            "Medical: Diseases",
+            "Theme: Plague Epidemic",
+            "Components: Map (Continental / National scale)",
+            "Digital Implementations: VASSAL"
+        ]
+    }
+}

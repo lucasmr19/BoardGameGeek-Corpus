@@ -1,0 +1,55 @@
+{
+    "id": 51,
+    "name": "Ricochet Robots",
+    "yearpublished": "1999",
+    "minplayers": "1",
+    "maxplayers": "99",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Ricochet Robots is less of a game and more of a puzzle, which explains why there's such an odd number of solutions possible. There's a four-piece modular board that forms a large room with walls spread around the board. There are also color-coded targets on boards. Placed on top of the surface are four robots. The idea for each turn/puzzle is to get the like-colored robot to a randomly selected target. The trick is that once a robot starts moving, it will continue to move until a wall or another robot stops it. Therefore, players are seeking a sequence of moves for the robots that will enable them to move the required robot to the target in the fewest moves.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/3qg1xTP7ZZiu8OolGBYJ1w__original/img/wkfYHdMR_P05Mat4oTHa9cmRNCA=/0x0/filters:format(jpeg)/pic1766273.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3qg1xTP7ZZiu8OolGBYJ1w__small/img/2LGbUy0Hen-8-8bQ-ZfwHjNnCtU=/fit-in/200x150/filters:strip_icc()/pic1766273.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "ABACUSSPIELE",
+        "Devir",
+        "Gém Klub Kft.",
+        "Happy Baobab",
+        "Korea Boardgames",
+        "MS Edizioni",
+        "Oya",
+        "Playgo Hungary",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd.",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Modular Board",
+            "Real-Time",
+            "Square Grid",
+            "Turn Order: Stat-Based",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Maze",
+            "Puzzle",
+            "Real-time"
+        ],
+        "families": [
+            "Components: 16 x 16 Grids",
+            "Components: Sand Timers",
+            "Players: Games with Solitaire Rules",
+            "Theme: Robots"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "id": 481,
+    "name": "Carolus Magnus",
+    "yearpublished": "2000",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "This game uses a collection of smallish hexagon clusters arranged in a circle.  Mercenaries, in the form of small wooden blocks, are placed onto the land pieces.  Players can then use these blocks to attempt to gain control of the corresponding mercenary type, or place the same small blocks onto the board which can help the player who controls that color.<br/><br/>Once a player has majority of control markers on a piece of land, he can build a tower there.  The tower serves as a semi-permanent control marker, as well as a way to win.  If two land pieces are controlled by the same player, the land pieces are combined into one, which makes the position harder to take by the other players.<br/><br/>The first player to place a set number of towers wins the game, but the game can also end when the land masses are reduced to three or fewer, in which case the player with the most towers placed wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/HT2eLqEbib9ptJQrVSzOfg__original/img/is7-nY98d2N5hHKJQb-Y_sTIFAA=/0x0/filters:format(jpeg)/pic130679.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HT2eLqEbib9ptJQrVSzOfg__small/img/4RDj_qLmtFClJUMdos8MKFmv4iM=/fit-in/200x150/filters:strip_icc()/pic130679.jpg",
+    "publishers": [
+        "Rio Grande Games",
+        "Venice Connection",
+        "Winning Moves Germany"
+    ],
+    "designers": [
+        "Leo Colovini"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Dice Rolling",
+            "Hand Management",
+            "Modular Board",
+            "Team-Based Game",
+            "Track Movement",
+            "Turn Order: Auction"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Medieval",
+            "Territory Building"
+        ],
+        "families": [
+            "Components: Wooden pieces & boards",
+            "Country: France",
+            "Digital Implementations: Yucata",
+            "History: Francia"
+        ]
+    }
+}

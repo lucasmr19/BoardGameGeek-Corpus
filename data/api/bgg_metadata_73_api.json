@@ -1,0 +1,38 @@
+{
+    "id": 73,
+    "name": "Show Manager",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "The players put together four shows in any order.  To accomplish this, players draft actor cards from a constantly changing queue of cards.  Each card represents actors of varying skills at roles.  Once a player puts together all the needed roles for a show, the value is judged against all the other productions of that type, with points given relative to the other productions.<br/><br/>This is a Queen Games reprint of the db-Spiele original, Premiere.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/WHjeQ11i9CxHvne1FryFZw__original/img/UnZaUiOTz0qSVB5dAbPLtP10aWM=/0x0/filters:format(png)/pic3717385.png",
+    "thumbnail": "https://cf.geekdo-images.com/WHjeQ11i9CxHvne1FryFZw__small/img/UcNvfiC0soTLE2vbxzD8cOwLia4=/fit-in/200x150/filters:strip_icc()/pic3717385.png",
+    "publishers": [
+        "Queen Games",
+        "db-Spiele"
+    ],
+    "designers": [
+        "Dirk Henn"
+    ],
+    "artists": [
+        "Jo Hartwig",
+        "Reinhard Horst",
+        "Oliver Schlemmer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction: Dutch",
+            "Open Drafting",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Series: Yellow Wave Box (Queen)"
+        ]
+    }
+}

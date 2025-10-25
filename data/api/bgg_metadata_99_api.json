@@ -1,0 +1,39 @@
+{
+    "id": 99,
+    "name": "Fortress America",
+    "yearpublished": "1986",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "Fortress America, originally part of Milton Bradley's Gamemaster series, depicts an alternate near-future in which all of the world attacks and invades the continental United States. From the west arrives hordes of Asian foes; from the south arrives a union of South American countries through Mexico, and from the east lands come legions of Soviets who have taken over all of Europe. America besieged has to rely on the remaining ground and air forces left in the country along with partisan uprisings to defend mom's apple pie.<br/><br/>Up to four players can play Fortress America, one player being the U.S. and up to three others controlling the invading units from a particular direction. Being a near future scenario, the units in the game include conventional infantry, APCs, hovertanks, helicopters, bombers, US partisan units, and special &quot;Star Wars&quot; laser relay systems that fire from space.<br/><br/>The game emphasizes combined arms in that players receive a bonus if infantry, mechanized, and air power are all used in a conflict. For the invading countries, all the units they receive for the game are given at the start so they must manage them wisely. The U.S., however, starts with a skeleton defense and builds up throughout the game through a random deck of cards. Further, the U.S. slowly builds up its Star Wars system, so the longer the invaders are delayed, the more powerful the U.S. becomes both conventionally and through its defense system.<br/><br/>Reimplemented by:<br/><br/><br/>    Fortress America (2012)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/a6SXt0FvxYqo1wbjyMrc-A__original/img/1bcMiQoTifkLEDP4-jNHnvPmL-Q=/0x0/filters:format(jpeg)/pic3884550.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/a6SXt0FvxYqo1wbjyMrc-A__small/img/4kDLHBgGgxzToLj7MEtpq7eUKF4=/fit-in/200x150/filters:strip_icc()/pic3884550.jpg",
+    "publishers": [
+        "Milton Bradley"
+    ],
+    "designers": [
+        "Michael Gray"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling",
+            "Simulation"
+        ],
+        "categories": [
+            "Modern Warfare",
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Polyhedral (not D6) dice",
+            "Country: USA",
+            "Series: Gamemaster (Milton Bradley)",
+            "Theme: Alternate History",
+            "Theme: Helicopters"
+        ]
+    }
+}

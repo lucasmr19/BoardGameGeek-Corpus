@@ -1,0 +1,44 @@
+{
+    "id": 250,
+    "name": "Colonial Diplomacy",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "180",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "This is a different version of the original The Avalon Hill Game Co classic, Diplomacy.<br/><br/>Players represent one of the colonial countries (France, UK, Holland, etc.) sparring over the lands and riches of the Far East.  There are only two kinds of units: sea and land.  On a turn, each of your units has only a few options: hold in place, move into an adjoining territory or help another unit move into or defend an adjoining territory. Movement mechanics are incredibly simple and fused to a significant negotiation element.<br/><br/><br/>Re-implements:<br/><br/>    Diplomacy<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/tPNOqLWECbiNczEqwCUoFQ__original/img/da7pNnNr3rzkruzZVTpA7kL7FF4=/0x0/filters:format(jpeg)/pic55576.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tPNOqLWECbiNczEqwCUoFQ__small/img/kVTSVn4NEJkXlE1kfDqkAi3S2Vs=/fit-in/200x150/filters:strip_icc()/pic55576.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Peter Hawes"
+    ],
+    "artists": [
+        "Kurt Miller"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Player Elimination",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing",
+            "Negotiation",
+            "Political",
+            "Post-Napoleonic",
+            "Territory Building",
+            "Wargame"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Continents: Asia",
+            "Game: Diplomacy",
+            "Theme: Colonial"
+        ]
+    }
+}

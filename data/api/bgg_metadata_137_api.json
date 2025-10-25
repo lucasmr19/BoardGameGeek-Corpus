@@ -1,0 +1,61 @@
+{
+    "id": 137,
+    "name": "Pass the Bomb",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "10",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "12",
+    "description": "This frantic game is a wonderful exercise in word-summoning.  In it, players try to come up with a word that contains a certain sequence of letters before the ticking time-bomb in their hands explodes.  The bomb is an electronic timer with a variable time allotment, and a player is only allowed to pass the bomb to the next person when he comes up with a word that contains the needed letters.  While creative spelling of the words in question can be frowned upon, it's up to the guy next to you to determine your fate.<br/><br/>Awards<br/><br/>1996 Årets Familiespil, Family Game of the Year Denmark<br/><br/>",
+    "image": "https://cf.geekdo-images.com/abIqz_XwoGwcPajExsurTA__original/img/Z_JyWIYIOW78y6E3pzqBXc4hy54=/0x0/filters:format(jpeg)/pic70432.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/abIqz_XwoGwcPajExsurTA__small/img/P50T3xLjAFVPuiWt50s7vROTDeI=/fit-in/200x150/filters:strip_icc()/pic70432.jpg",
+    "publishers": [
+        "Anvol",
+        "AS Company",
+        "asmodee",
+        "danspil",
+        "Gibsons",
+        "Giochi Uniti",
+        "Goliath Games",
+        "Grand V",
+        "Jumbo",
+        "Kod Kod",
+        "Peliko Oy",
+        "Piatnik",
+        "Pressman Toy Corp.",
+        "Ravensburger",
+        "Venice Connection",
+        "Week End Games",
+        "Zygomatic"
+    ],
+    "designers": [
+        "Sylvie Barc",
+        "Roger Heyworth",
+        "Los Rodriguez",
+        "Juan Rodriguez"
+    ],
+    "artists": [
+        "Sylvie Barc",
+        "Patrick Fix",
+        "G. Husner",
+        "Simon Roberts",
+        "Juan Rodriguez"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hot Potato"
+        ],
+        "categories": [
+            "Electronic",
+            "Party Game",
+            "Real-time",
+            "Word Game"
+        ],
+        "families": [
+            "Components: Unique Items",
+            "Game: Pass the Bomb"
+        ]
+    }
+}

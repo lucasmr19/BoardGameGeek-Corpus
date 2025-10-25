@@ -1,0 +1,44 @@
+{
+    "id": 290,
+    "name": "Gold Digger",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "7",
+    "description": "Gold Digger sets anxious prospectors on a quest to find their fortunes in gold. Picking the claims that will yield a cornucopia of riches ... but beware of fool's gold! The player that outwits all of the others, wins!<br/><br/>Originally published as Goldrausch, it was republished in 2002 as Gold Digger by Out of the Box Publishing, with a revised 2nd edition published in 2006.<br/><br/>Reimplemented By:<br/><br/>    Wapi<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/gpg_eAuD_q_GWotN_0CI8A__original/img/LfZ4HoLtljh8djAtn_C4EbcfXxQ=/0x0/filters:format(jpeg)/pic1513330.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gpg_eAuD_q_GWotN_0CI8A__small/img/5XMgE1vfkUv_FsjgH4uS-Tsurj0=/fit-in/200x150/filters:strip_icc()/pic1513330.jpg",
+    "publishers": [
+        "Board Game Walker 桌遊行者",
+        "Hans im Glück",
+        "JJ Board Game",
+        "KAIKU JAPAN",
+        "Mysterious Island Games",
+        "Out of the Box Publishing",
+        "SUNNY BIRD",
+        "Tactic"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Karl Heinz Daxl",
+        "John Kovalic",
+        "別府さい (Sai Beppu)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Stock Holding"
+        ],
+        "categories": [
+            "American West",
+            "Card Game"
+        ],
+        "families": [
+            "Admin: Better Description Needed!"
+        ]
+    }
+}

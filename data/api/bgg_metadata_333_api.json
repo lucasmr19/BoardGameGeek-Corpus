@@ -1,0 +1,45 @@
+{
+    "id": 333,
+    "name": "Waterworks",
+    "yearpublished": "1972",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "The object of the game is to be the first player to build a complete leak-free pipeline, from your valve card to your spout card. The iron/lead pipe cards can 'leak' (via opponent sabotage), and be repaired with a wrench or a replacement pipe segment; the copper pipe cards never leak. The minimum number of pipe cards you need to place in between the valve and spout varies by the number of players.<br/><br/>In versions that support up to 4 players:<br/>2 players = 12 pipe cards<br/>3 players = 10 pipe cards<br/>4 players = 8 pipe cards<br/><br/>In versions that support up to 5 players:<br/>2 players = 15 pipe cards<br/>3 players = 12 pipe cards<br/>4 players = 10 pipe cards<br/>5 players = 8 pipe cards<br/><br/>",
+    "image": "https://cf.geekdo-images.com/1Cd-O1vcj6ibl5SXmhdjBA__original/img/910sBInURyuc1dNSOmtC6IFXA5Q=/0x0/filters:format(jpeg)/pic316166.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1Cd-O1vcj6ibl5SXmhdjBA__small/img/u8yL-fClLqTmo0k6N9SqPfvzp0U=/fit-in/200x150/filters:strip_icc()/pic316166.jpg",
+    "publishers": [
+        "AS Manufacturas",
+        "Borras Plana S.A.",
+        "Carlit",
+        "Clipper",
+        "Cromy Rioja S.A. (Cromy)",
+        "Estrela",
+        "Hasbro",
+        "Miro Company",
+        "Parker Brothers",
+        "Piatnik",
+        "Tomy",
+        "Winning Moves Games (USA)",
+        "Winning Moves Germany",
+        "Winning Moves International Ltd"
+    ],
+    "designers": [
+        "Mattiene Moustakas"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Take That",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Admin: Better Description Needed!"
+        ]
+    }
+}
