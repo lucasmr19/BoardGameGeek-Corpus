@@ -3,7 +3,7 @@ Lexicon Loaders Module
 """
 
 import os
-import nltk
+from ..config import LEXICONS_DIR
 
 # Download required NLTK resources
 #required_nltk = ['vader_lexicon', 'averaged_perceptron_tagger', 'universal_tagset', 'punkt']
@@ -13,8 +13,6 @@ import nltk
 #    except LookupError:
 #        nltk.download(resource)
 
-# BoardGeekGames-Corpus/data/lexicons
-BASE_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "lexicons")
 
 
 # =====================================================
@@ -24,7 +22,7 @@ BASE_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "l
 class SentimentLexicon:
     """Load and manage sentiment lexicons."""
     
-    def __init__(self, base_path: str = BASE_PATH):
+    def __init__(self, base_path: str = LEXICONS_DIR):
         self.base_path = base_path
         self.positive_words = self._load_positive_lexicon()
         self.negative_words = self._load_negative_lexicon()

@@ -38,6 +38,7 @@ class CorpusDocument:
                 "lemmas": processed.get("lemmas", []),
                 "pos_tags": processed.get("pos_tags", []),
                 "dependencies": processed.get("dependencies", []),
+                "entities": processed.get("entities", []),
             })
             
             patterns_dict = processed.get("patterns", {})

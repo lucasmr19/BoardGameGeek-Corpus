@@ -51,15 +51,14 @@ Preprocessing includes:
 
 
 import re
-import os
 import html
-from textblob import TextBlob
-import pandas as pd
 import emoji
 import unidecode
+from textblob import TextBlob
 
 from ..config import RANKS_DF
 from ..resources import LOGGER
+
 
 # ---------------- REGEX ----------------
 EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
@@ -67,69 +66,96 @@ DATE_RE = re.compile(r"\b\d{2}[/-]\d{2}[/-]\d{4}\b")
 PHONE_RE = re.compile(r"\+?\d{1,3}[-.\s]?\(?\d{1,4}\)?[-.\s]?\d{4,10}")
 HASHTAG_RE = re.compile(r"#\w+")
 MENTION_RE = re.compile(r"@\w+")
-URL_RE = re.compile(r"https?://\S+|www\.\S+")
+URL_RE = re.compile(
+    r"""(?xi)
+    (?:
+        (?:https?://|www\d{0,3}[.])                     # http://, https://, or www.
+        (?:[^\s()<>{}\[\]]+|(?:\([^\s()<>]+\)))+       # domain and path
+        (?:\([^\s()<>]+\)|[^\s`!()\[\]{};:'".,<>?«»“”‘’])*
+    )
+    """,
+    re.VERBOSE,
+)
 
 ABBREVIATIONS = {
     "Sr": "Señor", "Sra": "Señora", "Dr": "Doctor", "Dra": "Doctora",
     "EE.UU": "Estados Unidos", "etc": "etcétera", "info": "information",
     "mins": "minutes", "hr": "hour", "yrs": "years"
-}#... Add more as needed
+} # Add more as needed
 
+# ---------------- LOAD RANK MAPPING ----------------
 try:
     id2name = dict(zip(RANKS_DF["id"], RANKS_DF["name"]))
-except FileNotFoundError:
+except Exception:
     id2name = {}
     LOGGER.warning(f"{RANKS_DF} not found. Thing tag replacement disabled.")
 
-def replace_thing_tags(text, id2name):
-    def repl(match):
-        game_id = int(match.group(1))
-        return id2name.get(game_id, "")
-    return re.sub(r"\[thing=(\d+)\]\[\/thing\]", repl, text)
 
+# ---------------- HELPERS ----------------
+def replace_thing_tags(text, id2name):
+    """Replace [thing=id][/thing] tags with game names."""
+    return re.sub(
+        r"\[thing=(\d+)\]\[\/thing\]",
+        lambda m: id2name.get(int(m.group(1)), ""),
+        text
+    )
+
+
+# ---------------- MAIN CLEANING ----------------
 def normalize_text(text, lower=True, correct_spelling=False):
+    """Normalize and clean a review text string."""
     if not text:
         return ""
-    
+
+    # --- HTML & BBCode cleanup ---
     text = html.unescape(text)
     text = replace_thing_tags(text, id2name)
-    text = re.sub(r"<.*?>", " ", text)
-    text = re.sub(r"\[/?[ib]\]", " ", text)
+    text = re.sub(r"<[^>]+>", " ", text)  # remove HTML tags
+    text = re.sub(r"\[/?[a-zA-Z]+\]", " ", text)  # [b], [i], etc.
+
+    # --- Remove URLs early ---
     text = URL_RE.sub(" ", text)
+
+    # --- Normalize whitespace and punctuation ---
     text = text.replace("\r", " ").replace("\n", " ")
-    text = text.replace("&", " and ")
     text = re.sub(r"[\t\v\f]+", " ", text)
-    text = re.sub(r"(.)\1{2,}", r"\1\1", text)
-    text = re.sub(r"([!?])\1{1,}", r"\1\1", text)
-    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"&", " and ", text)
+    text = re.sub(r"(.)\1{2,}", r"\1\1", text)     # limit letter repetition
+    text = re.sub(r"([!?])\1{1,}", r"\1\1", text)  # limit punctuation repetition
     text = re.sub(r"\.{2,}", ".", text)
-    
+    text = re.sub(r"\s+", " ", text).strip()
+
     if lower:
         text = text.lower()
-    
-    text = text.replace("'", "'")
+
+    # --- Normalize text (latin only, emojis -> text placeholders) ---
     text = unidecode.unidecode(text)
     text = emoji.demojize(text, delimiters=(":", ":"))
-    text = re.sub(r':[a-zA-Z0-9_]+:', '', text)
-    text = re.sub(r'[:;=8][-~]?[)(DPpOo]', '', text)
-    
+    text = re.sub(r':[a-zA-Z0-9_]+:', '', text)      # remove :emoji_names:
+    text = re.sub(r'[:;=8][-~]?[)(DPpOo]', '', text) # remove text emoticons
+
+    # --- Optional spell correction ---
     if correct_spelling:
         text = str(TextBlob(text).correct())
-    
-    words = text.split()
-    words = [ABBREVIATIONS.get(w, w) for w in words]
+
+    # --- Expand abbreviations ---
+    words = [ABBREVIATIONS.get(w, w) for w in text.split()]
     text = " ".join(words)
     text = re.sub(r"\s+", " ", text).strip()
-    
+
     return text
 
+
+# ---------------- PATTERN EXTRACTION ----------------
 def extract_special_patterns(text):
+    """Extract emails, dates, phones, hashtags, mentions, URLs, and emojis."""
+    urls = URL_RE.findall(text)
     return {
         "emails": EMAIL_RE.findall(text),
         "dates": DATE_RE.findall(text),
         "phones": PHONE_RE.findall(text),
         "hashtags": HASHTAG_RE.findall(text),
         "mentions": MENTION_RE.findall(text),
-        "urls": URL_RE.findall(text),
-        "emojis": [c for c in text.split() if c.startswith(":") and c.endswith(":")],
+        "urls": urls,
+        "emojis": emoji.emoji_list(text),
     }
