@@ -36,7 +36,8 @@ def build_corpus(
     use_augmentation=False,
     max_augmentations_per_review=2,
     save_report=True,
-    verbose=True
+    verbose=True,
+    preprocess_kwargs=None
 ):
     """
     Build the complete BGG corpus by combining review merging, multi-game balancing,
@@ -85,7 +86,7 @@ def build_corpus(
         2
         >>> print(stats['summary'])
     """
-
+    preprocess_kwargs = preprocess_kwargs or {}
     print("===============================================")
     print("PHASE 1: Review Collection and Balancing per Game")
     print(f"Strategy: {balance_strategy}")
@@ -124,7 +125,7 @@ def build_corpus(
     games = []
 
     # 3. Process each game's reviews (parallel or sequential)
-    for gid, reviews in tqdm(game_groups.items(), desc="Creando GameCorpus"):
+    for gid, reviews in tqdm(game_groups.items(), desc="Creating GameCorpus"):
         meta = build_metadata(gid)
         game_corpus = GameCorpus(game_id=gid, metadata=meta, documents=[])
 
@@ -133,10 +134,10 @@ def build_corpus(
                 futures = {}
                 for r in reviews:
                     rev_dict = ensure_review_obj(r, gid)
-                    futures[executor.submit(process_single_review, rev_dict)] = rev_dict
+                    futures[executor.submit(process_single_review, rev_dict, **preprocess_kwargs)] = rev_dict
 
                 for f in tqdm(as_completed(futures), total=len(futures),
-                              desc=f"Procesando reseñas juego {gid}", leave=False):
+                              desc=f"Processing reviews for game {gid}", leave=False):
                     try:
                         doc = f.result()
                         if doc:
@@ -149,7 +150,7 @@ def build_corpus(
         else:
             for r in tqdm(reviews, desc=f"Processing reviews for game {gid}", leave=False):
                 rev_dict = ensure_review_obj(r, gid)
-                doc = process_single_review(rev_dict)
+                doc = process_single_review(rev_dict, **preprocess_kwargs)
                 if doc:
                     doc.review.game_id = gid
                     doc.review.fileid = gid

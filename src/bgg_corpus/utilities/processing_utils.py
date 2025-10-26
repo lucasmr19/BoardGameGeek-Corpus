@@ -1,8 +1,7 @@
 from ..models import Review, CorpusDocument
 from ..preprocessing import process_review_item
-from ..resources import LOGGER
 
-def process_single_review(review_item):
+def process_single_review(review_item, **preprocess_kwargs):
     """
     Procesa un Review o un dict en un CorpusDocument.
     Acepta:
@@ -26,43 +25,8 @@ def process_single_review(review_item):
                 "timestamp": rev.timestamp,
                 "raw_text": rev.comment
             },
-            lower=True,
-            remove_stopwords=True,
-            lemmatize=True,
-            correct_spelling=False
+            **preprocess_kwargs
         )
         # inyectar label en processed para consistencia
         processed.setdefault("label", getattr(rev, "label", None))
     return CorpusDocument(rev, processed) if processed else None
-
-def process_review_for_parallel(review_dict):
-    """
-    Wrapper para procesamiento paralelo que garantiza serialización correcta.
-    
-    Args:
-        review_dict: Diccionario con los datos del review (debe ser serializable)
-    
-    Returns:
-        Dict con estructura: {"review": dict, "processed": dict}
-        o None si el procesamiento falla completamente
-    """
-    try:
-        # Asegurarse de que review_dict es un diccionario
-        if not isinstance(review_dict, dict):
-            LOGGER.error(f"[process_review_for_parallel] Expected dict, got {type(review_dict)}")
-            return None
-        
-        # Procesar el review
-        result = process_single_review(review_dict, return_dict=True)
-        
-        # Si el review no tiene comentario o falla el procesamiento
-        if result is None:
-            LOGGER.warning(f"[process_review_for_parallel] Review returned None for game_id={review_dict.get('game_id')}")
-            return None
-        
-        return result
-        
-    except Exception as e:
-        LOGGER.error(f"[process_review_for_parallel] Error processing review: {e}")
-        LOGGER.error(f"[process_review_for_parallel] Review data: {review_dict}")
-        return None

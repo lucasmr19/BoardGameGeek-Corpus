@@ -2,6 +2,8 @@
 
 import logging
 from nltk.corpus import stopwords
+import spacy
+
 from ..config import API_DIR, CRAWLER_DIR, BALANCE_REPORTS_DIR
 
 # -----------------------------
@@ -17,16 +19,20 @@ NLTK_LANG_MAP = {
     "nl": "dutch"
 } # Add more as needed
 
-SPACY_MODELS = {}
 SPACY_LANG_MAP = {
-    "en": "en_core_web_sm",
-    "es": "es_core_news_sm",
-    "fr": "fr_core_news_sm",
-    "de": "de_core_news_sm",
-    "it": "it_core_news_sm",
-    "pt": "pt_core_news_sm",
-    "nl": "nl_core_news_sm"
+    "en": ["en_core_web_trf", "en_core_web_md", "en_core_web_sm"],
+    "es": ["es_core_news_md", "es_core_news_sm"],
+    "fr": ["fr_core_news_md", "fr_core_news_sm"],
+    "de": ["de_core_news_md", "de_core_news_sm"],
+    "it": ["it_core_news_md", "it_core_news_sm"],
+    "pt": ["pt_core_news_md", "pt_core_news_sm"],
+    "nl": ["nl_core_news_md", "nl_core_news_sm"]
 } # Add more as needed
+
+# Best performing model for English (as october 2025)
+# https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl
+
+SPACY_MODELS = {}  # Lazy-loaded cache
 
 # -----------------------------
 # Stopwords cache
@@ -41,7 +47,7 @@ for lang_code, nltk_name in NLTK_LANG_MAP.items():
 # -----------------------------
 # Paths (from config.py)
 # -----------------------------
-DATA_API_DIR = API_DIR  # adjust if you have a subfolder for API data
+DATA_API_DIR = API_DIR
 DATA_CRAWLER_DIR = CRAWLER_DIR
 REPORTS_DIR = BALANCE_REPORTS_DIR
 
@@ -50,9 +56,7 @@ REPORTS_DIR = BALANCE_REPORTS_DIR
 # -----------------------------
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s [%(levelname)s] %(message)s',
-    datefmt='%Y-%m-%d %H:%M:%S'
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S"
 )
 LOGGER = logging.getLogger(__name__)
-
-
