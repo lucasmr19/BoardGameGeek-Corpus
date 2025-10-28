@@ -4,106 +4,97 @@ Lexicon Loaders Module
 
 import os
 from ..config import LEXICONS_DIR
-
-# Download required NLTK resources
-#required_nltk = ['vader_lexicon', 'averaged_perceptron_tagger', 'universal_tagset', 'punkt']
-#for resource in required_nltk:
-#    try:
-#        nltk.data.find(f'tokenizers/{resource}')
-#    except LookupError:
-#        nltk.download(resource)
-
+from ..resources import LOGGER
 
 
 # =====================================================
-# ============  LEXICON LOADERS & UTILITIES  =========
+# ============  LEXICON LOADERS & UTILITIES  ==========
 # =====================================================
 
 class SentimentLexicon:
-    """Load and manage sentiment lexicons."""
-    
+    """Load and manage sentiment lexicons for board game reviews."""
+
     def __init__(self, base_path: str = LEXICONS_DIR):
         self.base_path = base_path
-        self.positive_words = self._load_positive_lexicon()
-        self.negative_words = self._load_negative_lexicon()
-        self.intensifiers = self._load_intensifiers()
-        self.mitigators = self._load_mitigators()
-        self.negation_words = self._load_negations()
-        self.domain_terms = self._load_domain_terms()
 
-    def _load_lexicon(self, filename, fallback):
-        """Load a lexicon from file if available, otherwise return fallback."""
+        # === Base lexicons ===
+        self.positive_words = self._load_lexicon("positive-words.txt", set())
+        self.negative_words = self._load_lexicon("negative-words.txt", set())
+        self.intensifiers = self._load_lexicon("boosters.txt", set())
+        self.mitigators = self._load_lexicon("mitigators.txt", set())
+        self.negation_words = self._load_lexicon("negations.txt", set())
+        self.domain_terms = self._load_domain_lexicon("domain_terms.txt", set())
+
+        # === Hedges (subfolder) ===
+        self.hedge_words = self._load_lexicon("hedges/hedge_words.txt", set())
+        self.relational_hedges = self._load_lexicon("hedges/relational_hedges.txt", set())
+        self.discourse_markers = self._load_lexicon("hedges/discourse_markers.txt", set())
+        self.propositional_hedges = self._load_lexicon("hedges/propositional_hedges.txt", set())
+
+        # === Combined hedge set ===
+        self.all_hedges = (
+            self.hedge_words
+            | self.relational_hedges
+            | self.discourse_markers
+            | self.propositional_hedges
+        )
+
+    # -----------------------------------------------------
+    # ---------------- Helper Loaders ---------------------
+    # -----------------------------------------------------
+    def _load_lexicon(self, filename: str, fallback):
+        """Load a flat lexicon (one item per line)."""
+        # Ensure proper path join — supports relative or absolute paths
+        if not os.path.isabs(filename):
+            filepath = os.path.join(self.base_path, filename)
+        else:
+            filepath = filename
+
+        # Normalize slashes for cross-platform consistency
+        filepath = os.path.normpath(filepath)
+
+        if not os.path.exists(filepath):
+            LOGGER.warning(f"Lexicon file not found: {filepath}")
+            return fallback
+
+        with open(filepath, "r", encoding="utf-8") as f:
+            return {
+                line.strip().lower()
+                for line in f
+                if line.strip() and not line.startswith(";") and not line.startswith("[")
+            }
+
+    def _load_domain_lexicon(self, filename, fallback):
+        """
+        Load a hierarchical lexicon with [sections] from file, returning a dict.
+        Format:
+            [section]
+            term1
+            term2
+        """
         filepath = os.path.join(self.base_path, filename)
-        if os.path.exists(filepath):
-            with open(filepath, 'r', encoding='utf-8') as f:
-                return {line.strip().lower() for line in f if line.strip() and not line.startswith(';')}
-        return fallback
-    
-    @staticmethod
-    def _load_positive_lexicon():
-        """Load positive sentiment words."""
-        words = {
-            'amazing', 'awesome', 'excellent', 'fantastic', 'great', 'good', 'wonderful',
-            'love', 'enjoy', 'fun', 'engaging', 'brilliant', 'outstanding', 'superb',
-            'delightful', 'thrilling', 'impressive', 'remarkable', 'beautiful', 'elegant',
-            'clever', 'smart', 'intuitive', 'smooth', 'balanced', 'strategic', 'deep',
-            'rewarding', 'satisfying', 'addictive', 'compelling', 'captivating', 'immersive',
-            'intuitive', 'tight', 'polished', 'refined', 'intricate', 'sophisticated'
-        }
-        return words
-    
-    @staticmethod
-    def _load_negative_lexicon():
-        """Load negative sentiment words."""
-        words = {
-            'bad', 'awful', 'terrible', 'horrible', 'poor', 'weak', 'boring', 'tedious',
-            'hate', 'dislike', 'frustrating', 'frustrate', 'annoying', 'annoyed', 'disappointed',
-            'disappointing', 'dull', 'bland', 'broken', 'buggy', 'confusing', 'complicated',
-            'convoluted', 'messy', 'messy', 'clunky', 'unbalanced', 'unplayable', 'unforgiving',
-            'ugly', 'cheap', 'flimsy', 'slow', 'tedious', 'repetitive', 'shallow', 'forgettable'
-        }
-        return words
-    
-    @staticmethod
-    def _load_intensifiers():
-        """Load intensifying adverbs."""
-        return {
-            'extremely', 'very', 'so', 'really', 'quite', 'incredibly', 'absolutely',
-            'utterly', 'completely', 'totally', 'entirely', 'definitely', 'certainly',
-            'way', 'much', 'far', 'deeply', 'highly', 'awfully', 'incredibly', 'remarkably'
-        }
-    
-    @staticmethod
-    def _load_mitigators():
-        """Load mitigating/softening adverbs."""
-        return {
-            'somewhat', 'kind of', 'sort of', 'rather', 'quite', 'fairly', 'reasonably',
-            'almost', 'barely', 'hardly', 'scarcely', 'slightly', 'pretty', 'partially',
-            'arguably', 'arguably', 'relatively', 'comparatively', 'marginally'
-        }
-    
-    @staticmethod
-    def _load_negations():
-        """Load negation words."""
-        return {
-            'not', 'no', 'never', 'neither', 'nobody', 'nothing', 'nowhere', 'none',
-            'cannot', 'can\'t', 'shouldn\'t', 'wouldn\'t', 'couldn\'t', 'won\'t',
-            'isn\'t', 'aren\'t', 'wasn\'t', 'weren\'t', 'hasn\'t', 'haven\'t',
-            'doesn\'t', 'don\'t', 'didn\'t', 'haven\'t', 'hadn\'t'
-        }
-    
-    @staticmethod
-    def _load_domain_terms():
-        """Load board game domain-specific terms."""
-        return {
-            'mechanics': ['dice', 'roll', 'cards', 'tiles', 'tokens', 'board', 'pieces',
-                         'meeples', 'components', 'setup', 'turn', 'round', 'phase'],
-            'components': ['miniatures', 'quality', 'art', 'design', 'pieces', 'tokens',
-                          'cards', 'board', 'box', 'packaging', 'production'],
-            'rules': ['rulebook', 'rules', 'instructions', 'manual', 'clarity', 'flow',
-                     'teaching', 'explanation', 'learning'],
-            'gameplay': ['gameplay', 'playtime', 'length', 'pacing', 'turns', 'balance',
-                        'replayability', 'variability', 'depth', 'strategy'],
-            'theme': ['theme', 'immersion', 'atmosphere', 'setting', 'flavor', 'narrative',
-                     'story', 'aesthetic']
-        }
+        filepath = os.path.normpath(filepath)
+
+        if not os.path.exists(filepath):
+            LOGGER.warning(f"Domain lexicon file not found: {filepath}")
+            return fallback
+
+        lexicon = {}
+        current_section = None
+
+        with open(filepath, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith(";"):  # comments
+                    continue
+                # Detect section headers [section]
+                if line.startswith("[") and line.endswith("]"):
+                    current_section = line[1:-1].strip().lower()
+                    lexicon[current_section] = []
+                elif current_section:
+                    lexicon[current_section].append(line.lower())
+                else:
+                    # If no section header yet, skip or store under "misc"
+                    lexicon.setdefault("misc", []).append(line.lower())
+
+        return lexicon
