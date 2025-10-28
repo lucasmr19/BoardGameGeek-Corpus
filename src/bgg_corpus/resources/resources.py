@@ -2,7 +2,6 @@
 
 import logging
 from nltk.corpus import stopwords
-import spacy
 
 from ..config import API_DIR, CRAWLER_DIR, BALANCE_REPORTS_DIR
 
