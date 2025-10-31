@@ -1,0 +1,56 @@
+[
+  {
+    "game_id":3,
+    "username":"wkover",
+    "rating":5.0,
+    "timestamp":1756072800,
+    "language":"en",
+    "text":"house rule: loser has to buy a copy of seven card samurai. there is no worse punishment than that.",
+    "category":"neutral"
+  },
+  {
+    "game_id":3,
+    "username":"tbrofromspace",
+    "rating":4.0,
+    "timestamp":1743804000,
+    "language":"en",
+    "text":"eh, this one doesn't tickle me as much as other knizias do, i think because it's like obnoxiously head-scratchy and chin-strokey or something.",
+    "category":"negative"
+  },
+  {
+    "game_id":3,
+    "username":"SCOBYBryant",
+    "rating":2.0,
+    "timestamp":1543186800,
+    "language":"en",
+    "text":"{ p - 2 [3] [4] } reasonably short and engrossing tile-layer with one inexorable problem. people place in good locations while avoiding set-up plays, but sooner or later the game arrives at the point where everything is a set-up play. boats can help negate this, and there is a balance to be discovered between avoiding set-up plays and avoiding inefficiently capturing too many cities by surrounding them yourself, but every game i've played between people of equivalent skill boils down to end-game uncertainty. (or worse, who didn't get screwed over on the draw.) for what it's worth, probably the coolest and most seamless method of player scaling.",
+    "category":"negative"
+  },
+  {
+    "game_id":3,
+    "username":"purplecow55",
+    "rating":5.0,
+    "timestamp":1757887200,
+    "language":"en",
+    "text":"a tactical tile laying game with area control where players take turns placing 1 tile onto the board (maybe more with special tiles). if the token spaces ever surround by user played tiles, for each icon (3 types), the player with the highest sum of like icon on surround tiles gains icon, where samurais and ships are wild. once 4 pieces are out of the game or all of 1 type is off the game board, game ends. winner is determined by the player with the most majorities of the 3 types, tie breaker is the most non majority pieces, followed by sum of most pieces.",
+    "category":"neutral"
+  },
+  {
+    "game_id":3,
+    "username":"nswoll",
+    "rating":7.5,
+    "timestamp":1760652000,
+    "language":"en",
+    "text":"good game, with great scoring. just a little too chaotic for me. i think between expert players it often comes down to the order you draw your tiles. (i've played over 50 games online)",
+    "category":"positive"
+  },
+  {
+    "game_id":3,
+    "username":"themisterbutton",
+    "rating":9.0,
+    "timestamp":1759269600,
+    "language":"en",
+    "text":"top 3 juegos de knizia. maravilloso juego",
+    "category":"positive"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "game_id":3,
+    "username":"mac_s_1",
+    "rating":6.0,
+    "timestamp":1757109600,
+    "language":"en",
+    "text":"i find it hard to explain why i don't like samurai. it's well designed, but it just rubs me the wrong way i guess. it gives me a feeling of frustration: you can only react to one problem at a time, and when it's your turn again your opponents have created two new ones. not being able to do everything is normal (and good) in a game, but here it just happens in a frustrating way.",
+    "category":"neutral"
+  },
+  {
+    "game_id":3,
+    "username":"Simon Mueller",
+    "rating":1.0,
+    "timestamp":1197241200,
+    "language":"en",
+    "text":"very similar to tic-tac-toe, you're trying to \"outthink\" your opponent(s), which results in an utterly boring tile-laying practice.",
+    "category":"negative"
+  },
+  {
+    "game_id":3,
+    "username":"Cancelled",
+    "rating":10.0,
+    "timestamp":1758492000,
+    "language":"en",
+    "text":"recent plays of this have cemented this as perhaps my favourite knizia game. it's just so so good. now i've played it at all player counts, i might even prefer it at 4. fast, with a strong arc, it has a gradually narrowing decision space where the decisions become more important and develop into moments of high drama. the game does so much with so little. it has an interesting focus to it where certain areas will be devastated by a strong play, but those tiles have such limited influence, that you can win fights for other resources nearly. this gives you the feeling of fighting small tight battles distinct from each other but tied together over a larger board. i can't think of other area control games that handle this so well. we can fight near each other, but not be in directly conflict, and there are times when a smart play can devastate an area that one play sees as being in their complete control. i could play this endlessly, and expect that it might begin to see more regular rotation. a bit dry, but still compelling enough that i don't think it will have as much trouble as through the desert getting played. edit sept 2025: still a 10 out of 10. not quite as much rampant enthusiam as when i discovered it and wrote the above comment. it's likely not my actual favorite knizia - i've played el dorado and battle line a lot more but - but for this style of game it's defiitely my favorite. i adore through the desert and tigris and euphrates, and tigris is a better design perhaps? but at the moment this gets played way more often and hits hard for it's light rules.",
+    "category":"positive"
+  }
+]

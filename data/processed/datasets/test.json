@@ -1,0 +1,29 @@
+[
+  {
+    "game_id":3,
+    "username":"JustinRRizzo",
+    "rating":7.0,
+    "timestamp":1760824800,
+    "language":"en",
+    "text":"smushed corner, splitting seams, components excellent.",
+    "category":"positive"
+  },
+  {
+    "game_id":3,
+    "username":"CotB",
+    "rating":6.0,
+    "timestamp":1757109600,
+    "language":"en",
+    "text":"rankings 67th best game 2022 60th best game 2023 61st best game 2024",
+    "category":"neutral"
+  },
+  {
+    "game_id":3,
+    "username":"hiimjosh",
+    "rating":3.0,
+    "timestamp":1760911200,
+    "language":"en",
+    "text":"samurai is a good game, but it's not a fun game. with both babylonia and caesar out now, i see no reason to go back to samurai - although i might just for completion's sake at some point. i have only played at 2p and would like to try it at 3p. at 2p, i would rather play pretty much any no luck abstract over this as the randomness feels arbitrary and swingy. overrated (at least at 2).",
+    "category":"negative"
+  }
+]

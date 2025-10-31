@@ -1,0 +1,23 @@
+Dataset summary
+----------------------------------------
+Total documents: 12
+Train/Val/Test sizes: 6 / 3 / 3
+
+Class distributions:
+Full dataset: {'positive': 4, 'neutral': 4, 'negative': 4}
+Train: {'neutral': 2, 'negative': 2, 'positive': 2}
+Validation: {'neutral': 1, 'negative': 1, 'positive': 1}
+Test: {'positive': 1, 'neutral': 1, 'negative': 1}
+
+Configuration used:
+{
+  "corpus_path": "data/processed/corpora\\bgg_corpus.json",
+  "output_dir": "data/processed\\datasets",
+  "train_ratio": 0.6,
+  "val_ratio": 0.2,
+  "test_ratio": 0.2,
+  "seed": 42,
+  "format": "json",
+  "verbose": false,
+  "save_config": true
+}

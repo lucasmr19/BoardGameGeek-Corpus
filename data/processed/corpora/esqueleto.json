@@ -1,0 +1,1683 @@
+{
+  "": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "game_id": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "metadata": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.name": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.yearpublished": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.minplayers": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.maxplayers": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.minplaytime": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.maxplaytime": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.age": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.description": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.image": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.thumbnail": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.designers": {
+    "types": {
+      "list": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.designers[]": {
+    "types": {
+      "str": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.artists": {
+    "types": {
+      "list": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.artists[]": {
+    "types": {
+      "str": 8
+    },
+    "count": 8
+  },
+  "metadata.game_info.publishers": {
+    "types": {
+      "list": 1
+    },
+    "count": 1
+  },
+  "metadata.game_info.publishers[]": {
+    "types": {
+      "str": 20
+    },
+    "count": 20
+  },
+  "metadata.game_info.is_expansion": {
+    "types": {
+      "bool": 1
+    },
+    "count": 1
+  },
+  "metadata.stats": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.num_reviews": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.num_reviews_commented": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.num_reviews_rated": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.num_reviews_rated_and_commented": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.avg_rating": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.bayes_average": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.avg_weight": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.stats.num_weights": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.overall_rank": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.strategygames_rank": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.thematic_rank": {
+    "types": {
+      "null": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.familygames_rank": {
+    "types": {
+      "null": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.partygames_rank": {
+    "types": {
+      "null": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.cgs_rank": {
+    "types": {
+      "null": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.childrensgames_rank": {
+    "types": {
+      "null": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.abstracts_rank": {
+    "types": {
+      "null": 1
+    },
+    "count": 1
+  },
+  "metadata.rankings.wargames_rank": {
+    "types": {
+      "null": 1
+    },
+    "count": 1
+  },
+  "metadata.classifications": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "metadata.classifications.mechanics": {
+    "types": {
+      "list": 1
+    },
+    "count": 1
+  },
+  "metadata.classifications.mechanics[]": {
+    "types": {
+      "str": 6
+    },
+    "count": 6
+  },
+  "metadata.classifications.categories": {
+    "types": {
+      "list": 1
+    },
+    "count": 1
+  },
+  "metadata.classifications.categories[]": {
+    "types": {
+      "str": 2
+    },
+    "count": 2
+  },
+  "metadata.classifications.families": {
+    "types": {
+      "list": 1
+    },
+    "count": 1
+  },
+  "metadata.classifications.families[]": {
+    "types": {
+      "str": 6
+    },
+    "count": 6
+  },
+  "metadata.polls": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "metadata.polls.complexity_poll": {
+    "types": {
+      "dict": 1
+    },
+    "count": 1
+  },
+  "metadata.polls.complexity_poll.poll_avg": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "metadata.polls.complexity_poll.poll_votes": {
+    "types": {
+      "float": 1
+    },
+    "count": 1
+  },
+  "reviews": {
+    "types": {
+      "list": 1
+    },
+    "count": 1
+  },
+  "reviews[]": {
+    "types": {
+      "dict": 12
+    },
+    "count": 12
+  },
+  "reviews[].username": {
+    "types": {
+      "str": 12
+    },
+    "count": 12
+  },
+  "reviews[].rating": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].timestamp": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].game_id": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].category": {
+    "types": {
+      "str": 12
+    },
+    "count": 12
+  },
+  "reviews[].raw_text": {
+    "types": {
+      "str": 12
+    },
+    "count": 12
+  },
+  "reviews[].clean_text": {
+    "types": {
+      "str": 12
+    },
+    "count": 12
+  },
+  "reviews[].language": {
+    "types": {
+      "str": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed": {
+    "types": {
+      "dict": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.sentences": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.sentences[]": {
+    "types": {
+      "str": 48
+    },
+    "count": 48
+  },
+  "reviews[].processed.tokens": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.tokens[]": {
+    "types": {
+      "str": 806
+    },
+    "count": 806
+  },
+  "reviews[].processed.tokens_no_stopwords": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.tokens_no_stopwords[]": {
+    "types": {
+      "str": 436
+    },
+    "count": 436
+  },
+  "reviews[].processed.stems": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.stems[]": {
+    "types": {
+      "str": 436
+    },
+    "count": 436
+  },
+  "reviews[].processed.lemmas": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.lemmas[]": {
+    "types": {
+      "str": 806
+    },
+    "count": 806
+  },
+  "reviews[].processed.pos_tags": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.pos_tags[]": {
+    "types": {
+      "list": 921
+    },
+    "count": 921
+  },
+  "reviews[].processed.pos_tags[][]": {
+    "types": {
+      "str": 2763
+    },
+    "count": 2763
+  },
+  "reviews[].processed.dependencies": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.dependencies[]": {
+    "types": {
+      "list": 921
+    },
+    "count": 921
+  },
+  "reviews[].processed.dependencies[][]": {
+    "types": {
+      "str": 2763
+    },
+    "count": 2763
+  },
+  "reviews[].processed.entities": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].processed.entities[]": {
+    "types": {
+      "list": 36
+    },
+    "count": 36
+  },
+  "reviews[].processed.entities[][]": {
+    "types": {
+      "str": 72
+    },
+    "count": 72
+  },
+  "reviews[].linguistic_features": {
+    "types": {
+      "dict": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.pos_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.neg_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.total": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.pos_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.vader.compound": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.vader.pos": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.vader.neu": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.vader.neg": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.syntactic.num_tokens_no_stop": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.syntactic.avg_token_no_stop_length": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.syntactic.avg_dep_depth": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.syntactic.num_dependencies": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.lexical.ttr": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.lexical.hapax_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.lexical.entropy": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentence.num_sentences": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentence.avg_sentiment": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentence.sentiment_variance": {
+    "types": {
+      "float": 7,
+      "int": 5
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.readability.fk_grade": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.readability.ease": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.readability.complex_word_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.count_type.hedge_words": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.count_type.propositional": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.count_type.relational": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.count_type.discourse_markers": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.density": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.prop_propositional": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.prop_relational": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.prop_discourse": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.words=think": {
+    "types": {
+      "int": 3
+    },
+    "count": 3
+  },
+  "reviews[].linguistic_features.hedge.propositional=often": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.relational=think": {
+    "types": {
+      "int": 3
+    },
+    "count": 3
+  },
+  "reviews[].linguistic_features.hedge.all=think": {
+    "types": {
+      "int": 3
+    },
+    "count": 3
+  },
+  "reviews[].linguistic_features.hedge.all=often": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=chaotic": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.scoring_and_victory=scoring": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.mitigator=little": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=good": {
+    "types": {
+      "int": 5
+    },
+    "count": 5
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=great": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=chaotic": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.negation.count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.negation.sentiment_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.punct.exclamation_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.punct.repeated_punct_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.first_sentence": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.last_sentence": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.max_sentence": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment.min_sentence": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.sentiment_unigram_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.domain_sentiment_bigram_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.domain_sentiment_trigram_count": {
+    "types": {
+      "int": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.pos.adj_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.pos.adv_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.pos.noun_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.pos.verb_ratio": {
+    "types": {
+      "float": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns": {
+    "types": {
+      "dict": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns.emails": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns.dates": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns.phones": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns.hashtags": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns.mentions": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns.urls": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].patterns.emojis": {
+    "types": {
+      "list": 12
+    },
+    "count": 12
+  },
+  "reviews[].linguistic_features.hedge.words=guess": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.propositional=like": {
+    "types": {
+      "int": 4
+    },
+    "count": 4
+  },
+  "reviews[].linguistic_features.hedge.relational=find": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=guess": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.discourse_marker=well": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.all=find": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=like": {
+    "types": {
+      "int": 4
+    },
+    "count": 4
+  },
+  "reviews[].linguistic_features.hedge.all=well": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.all=guess": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=hard": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=like": {
+    "types": {
+      "int": 4
+    },
+    "count": 4
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=well": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=wrong": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=frustration": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.misc=frustration": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=like": {
+    "types": {
+      "int": 4
+    },
+    "count": 4
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=well": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=hard": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=wrong": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=frustration": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=problem": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=frustrating": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=top": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.misc=boring": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.intensifier=utterly": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=utterly": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=boring": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.propositional=much": {
+    "types": {
+      "int": 3
+    },
+    "count": 3
+  },
+  "reviews[].linguistic_features.hedge.all=much": {
+    "types": {
+      "int": 3
+    },
+    "count": 3
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=tickle": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=obnoxiously": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=scratchy": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=tickle": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=obnoxiously": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=scratchy": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.words=might": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.words=would": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.words=rather": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.propositional=rather": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.propositional=pretty": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=might": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.discourse_marker=although": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.discourse_marker=rather": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.discourse_marker=pretty": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=although": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=might": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.all=would": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=rather": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=pretty": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=pretty": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=luck": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.replayability_variability=randomness": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.genres_and_styles=abstract": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.misc=fun": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.misc=luck": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=fun": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=pretty": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=luck": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=arbitrary": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=overrated": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.words=maybe": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=maybe": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=maybe": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.components=board": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=gains": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=winner": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=wild": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=excellent": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=splitting": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=best": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.words=could": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.words=expect": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.words=likely": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=perhaps": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=could": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=expect": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=likely": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.discourse_marker=perhaps": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=perhaps": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=could": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=expect": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=likely": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=prefer": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=interesting": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=enough": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=trouble": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=desert": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=rampant": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=favorite": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=better": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.complexity_and_difficulty=light": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.intensifier=quite": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=prefer": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=fast": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=strong": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=important": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=interesting": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=win": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=smart": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=enough": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=favorite": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=adore": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=better": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=devastated": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=limited": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=conflict": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=devastate": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=trouble": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=desert": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=rampant": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=loser": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=worse": {
+    "types": {
+      "int": 2
+    },
+    "count": 2
+  },
+  "reviews[].linguistic_features.hedge.words=probably": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.relational=probably": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.all=probably": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=worth": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=coolest": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.hedge.nearby_sentiment_words=seamless": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.gameplay=balance": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.gameplay=scaling": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.player_count_and_modes=scaling": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.domain.misc=skill": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=reasonably": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=engrossing": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=skill": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=worth": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=coolest": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.pos_word=seamless": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=inexorable": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=negate": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=inefficiently": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  },
+  "reviews[].linguistic_features.lexicon.neg_word=screwed": {
+    "types": {
+      "int": 1
+    },
+    "count": 1
+  }
+}
