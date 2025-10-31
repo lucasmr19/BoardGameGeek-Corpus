@@ -28,10 +28,10 @@ def process_review_item(item, lower=True, remove_stopwords=True, correct_spellin
     stop_words_set = STOPWORDS_CACHE.get(nltk_lang, set())
 
     # 3. spaCy analysis: sentences, tokens, lemmas, POS, dependencies, entities
-    sentences, tokens, lemmas, pos_tags, dependencies, entities = analyze_text_spacy(clean, detected_lang)
-
-    # 4. Filter tokens: remove stopwords and punctuation
-    tokens_no_stop = filter_tokens(tokens, stop_words_set, remove_stopwords=remove_stopwords)
+    sentences, tokens, tokens_no_stop, lemmas, pos_tags, dependencies, entities = analyze_text_spacy(clean, 
+                                                                                                    detected_lang,
+                                                                                                    stop_words_set, 
+                                                                                                    remove_stopwords=remove_stopwords)
 
     # 5. Stemming with NLTLK
     stems = apply_stemming(tokens_no_stop, spacy_lang, method=stem_method)
@@ -43,6 +43,7 @@ def process_review_item(item, lower=True, remove_stopwords=True, correct_spellin
         tokens_no_stopwords=tokens_no_stop,
         dependencies=dependencies,
         sentences=sentences,
+        pos_tags=pos_tags,
         raw_text=raw
     )
 

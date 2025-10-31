@@ -61,22 +61,3 @@ class CorpusDocument:
             "linguistic_features": self.linguistic_features,
             "patterns": self.patterns,
         }
-
-    def to_feature_dict(self) -> Dict[str, Any]:
-        """
-        Devuelve solo las características lingüísticas relevantes para vectorización.
-        """
-        feats = self.linguistic_features or {}
-
-        # Si quisieras incluir metadatos numéricos adicionales, se podrían añadir aquí
-        feats_out = {}
-
-        for k, v in feats.items():
-            # En caso de que las features estén anidadas (por ejemplo 'vader_scores', 'domain_specific')
-            if isinstance(v, dict):
-                for sub_k, sub_v in v.items():
-                    feats_out[f"{k}_{sub_k}"] = sub_v
-            else:
-                feats_out[k] = v
-
-        return feats_out
