@@ -1,14 +1,13 @@
 import os
 import pandas as pd
 from .io_utils import load_json
-from ..resources import DATA_API_DIR
-from ..config import RANKS_DF, BGG_STATS_DF
+from ..config import RANKS_DF, BGG_STATS_DF, API_DIR
 
-def load_metadata_from_api(game_id, data_api_dir=DATA_API_DIR):
+def load_metadata_from_api(game_id, data_api_dir=API_DIR):
     meta_file = os.path.join(data_api_dir, f"bgg_metadata_{game_id}_api.json")
     return load_json(meta_file) or {}
 
-def build_metadata(game_id, ranks_df=RANKS_DF, stats_df=BGG_STATS_DF, data_api_dir=DATA_API_DIR):
+def build_metadata(game_id, ranks_df=RANKS_DF, stats_df=BGG_STATS_DF, data_api_dir=API_DIR):
     """Build structured metadata for a game by aggregating data from multiple sources."""
     game_metadata = load_metadata_from_api(game_id, data_api_dir)
     

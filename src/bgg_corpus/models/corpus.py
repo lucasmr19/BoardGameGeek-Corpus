@@ -47,7 +47,7 @@ class Corpus:
                         processed.update(r.get("processed", {}))
                         processed["patterns"] = r.get("patterns", {})
 
-                    doc = CorpusDocument(rev, processed if processed else None)
+                    doc = CorpusDocument(rev, processed)
                     game_corpus.add_document(doc)
 
                 games.append(game_corpus)
@@ -69,7 +69,7 @@ class Corpus:
             json.dump(out, f, ensure_ascii=False, indent=2)
 
     # -------------------------
-    # Helpers: selección (trabaja sobre la vista plana)
+    # Helpers: selection (Work on the flat view)
     # -------------------------
     def _select(self, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None,
                 labels: Optional[List[str]] = None) -> List[CorpusDocument]:
@@ -81,7 +81,7 @@ class Corpus:
         return docs
 
     # -------------------------
-    # NLTK-like / exploración (la mayoría de los métodos se mantienen)
+    # NLTK-like / exploration
     # -------------------------
     def game_ids(self, categories: Optional[List[str]] = None, labels: Optional[List[str]] = None, game_ids: Optional[List[Any]] = None):
         docs = self._select(categories=categories, labels=labels, game_ids=game_ids)
@@ -154,7 +154,7 @@ class Corpus:
         return "No README available"
 
     # -------------------------
-    # Stats/utils (operan sobre la vista plana o sobre metadata por juego)
+    # Stats/utils (operate on the flat view or on metadata by game)
     # -------------------------
     def ratings(self) -> List[Optional[float]]:
         return [doc.review.rating for doc in self.documents]
@@ -172,7 +172,7 @@ class Corpus:
         return [doc for doc in self.documents if doc.review.label in labels]
 
     # -------------------------
-    # NLTK-like helpers (copiados para compatibilidad)
+    # NLTK-like helpers
     # -------------------------
     def contexts(self, word: str, window: int = 5, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None):
         docs = self._select(game_ids=game_ids, categories=categories)
@@ -202,26 +202,42 @@ class Corpus:
                     contexts[context] += 1
         return contexts.most_common()
 
-    def lexical_dispersion_plot(self, words: List[str], game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None):
+    
+    def lexical_dispersion_plot(
+        self, words: List[str], game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None
+    ):
+        """
+        Plot lexical dispersion of the given words.
+
+        Returns
+        -------
+        fig : matplotlib.figure.Figure
+            The Matplotlib figure object.
+        """
         docs = self._select(game_ids=game_ids, categories=categories)
         all_tokens = []
         for doc in docs:
             all_tokens.extend(doc.processed.get("tokens", []))
+
         points = []
         for word in words:
             for i, tok in enumerate(all_tokens):
                 if tok.lower() == word.lower():
                     points.append((i, word))
+
         if not points:
-            print("No se encontraron ocurrencias de las palabras indicadas.")
-            return
+            print("No occurrences of the indicated words were found.")
+            return None
+
         x, y = zip(*[(i, words.index(w)) for i, w in points])
-        plt.figure(figsize=(12, 6))
-        plt.plot(x, y, "b|", scalex=0.1)
-        plt.yticks(range(len(words)), words)
-        plt.xlabel("Posición en el corpus")
-        plt.title("Dispersión léxica")
-        plt.show()
+        fig, ax = plt.subplots(figsize=(12, 6))
+        ax.plot(x, y, "b|", scalex=0.1)
+        ax.set_yticks(range(len(words)))
+        ax.set_yticklabels(words)
+        ax.set_xlabel("Corpus position")
+        ax.set_title("Lexical dispersion")
+        plt.tight_layout()
+        return fig
 
     def frequency_distribution(self, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None) -> Counter:
         docs = self._select(game_ids=game_ids, categories=categories)
@@ -240,14 +256,25 @@ class Corpus:
         lengths = [len(tok) for doc in docs for tok in doc.processed.get("tokens", [])]
         return Counter(lengths)
 
-    def plot_word_length_distribution(self, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None):
+    def plot_word_length_distribution(
+    self, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None
+    ):
+        """
+        Plot distribution of word lengths.
+
+        Returns
+        -------
+        fig : matplotlib.figure.Figure
+            The Matplotlib figure object.
+        """
         dist = self.word_length_distribution(game_ids, categories)
-        plt.figure(figsize=(10, 5))
-        plt.bar(list(dist.keys()), list(dist.values()))
-        plt.xlabel("Longitud de palabra")
-        plt.ylabel("Frecuencia")
-        plt.title("Distribución de longitudes de palabra")
-        plt.show()
+        fig, ax = plt.subplots(figsize=(10, 5))
+        ax.bar(list(dist.keys()), list(dist.values()))
+        ax.set_xlabel("Word length")
+        ax.set_ylabel("Count")
+        ax.set_title("Word lengths Distribution")
+        plt.tight_layout()
+        return fig
 
     def ngrams(self, n: int = 2, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None):
         docs = self._select(game_ids=game_ids, categories=categories)
@@ -299,27 +326,47 @@ class Corpus:
         for cat, n in counts.items():
             print(f"{cat:<15}{n:<10}")
 
-    def plot_frequency_distribution(self, n: int = 30, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None,
-                                    cumulative: bool = False, title: Optional[str] = None):
+    def plot_frequency_distribution(
+        self,
+        n: int = 30,
+        game_ids: Optional[List[Any]] = None,
+        categories: Optional[List[str]] = None,
+        cumulative: bool = False,
+        title: Optional[str] = None,
+    ):
+        """
+        Plot frequency distribution of the most common words.
+
+        Returns
+        -------
+        fig : matplotlib.figure.Figure
+            The Matplotlib figure object.
+        words : tuple
+            The top n words plotted.
+        freqs : tuple
+            Their corresponding frequencies.
+        """
         fdist = self.frequency_distribution(game_ids, categories)
         most_common = fdist.most_common(n)
         if not most_common:
-            print("No hay palabras para plotear.")
-            return
+            print("No words to show.")
+            return None, (), ()
+
         words, freqs = zip(*most_common)
-        plt.figure(figsize=(12, 6))
+        fig, ax = plt.subplots(figsize=(12, 6))
         if cumulative:
-            plt.plot(range(len(freqs)), [sum(freqs[:i+1]) for i in range(len(freqs))], marker="o")
+            ax.plot(range(len(freqs)), [sum(freqs[:i + 1]) for i in range(len(freqs))], marker="o")
         else:
-            plt.bar(words, freqs)
-        plt.title(title or "Frecuencia de palabras")
-        plt.xlabel("Palabras")
-        plt.ylabel("Frecuencia")
-        plt.xticks(rotation=45)
-        plt.show()
+            ax.bar(words, freqs)
+        ax.set_title(title or "Words Frequency")
+        ax.set_xlabel("Words")
+        ax.set_ylabel("Count")
+        ax.set_xticklabels(words, rotation=45)
+        plt.tight_layout()
+        return fig, words, freqs
 
     # -------------------------
-    # Estadísticas agregadas / por juego
+    # Aggregate Stats / Per Game
     # -------------------------
     def _stats_field(self, field: str, game_id: Optional[Any] = None) -> int:
         alt_field = field.replace("reviews", "review") if "reviews" in field else field

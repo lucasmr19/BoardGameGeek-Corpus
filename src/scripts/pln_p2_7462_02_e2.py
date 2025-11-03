@@ -18,6 +18,7 @@ Usage example:
 
 import os
 import argparse
+import json
 from collections import Counter
 from scipy.sparse import save_npz
 import joblib
@@ -25,14 +26,14 @@ import joblib
 from src.bgg_corpus.models import Corpus
 from src.bgg_corpus.features.vectorization import ReviewVectorizer
 from src.bgg_corpus.resources import LOGGER
-from src.bgg_corpus.config import CORPORA_DIR, VECTORS_DIR
+from src.bgg_corpus.config import CORPORA_DIR, VECTORS_DIR, CORPUS_NAME
 
 def main():
     # ----------------------------
     # 0. Parse command-line arguments
     # ----------------------------
     parser = argparse.ArgumentParser(description="Generate TF-IDF + opinion feature vectors for BGG reviews")
-    parser.add_argument("--corpus", type=str, default=os.path.join(CORPORA_DIR, "bgg_corpus.json"),
+    parser.add_argument("--corpus", type=str, default=os.path.join(CORPORA_DIR, f"{CORPUS_NAME}.json"),
                         help="Path to the processed corpus JSON")
     parser.add_argument("--output_dir", type=str, default=VECTORS_DIR,
                         help="Directory to save vectorized matrices and vectorizer")
@@ -54,6 +55,8 @@ def main():
     tokens_per_doc = []
     langs = []
     opinion_features = []
+    categories = []
+    doc_ids = []
     skipped_docs = 0
 
     for i, doc in enumerate(corpus.documents):
@@ -64,7 +67,9 @@ def main():
 
         tokens_per_doc.append(tokens_no_stop)
         langs.append(doc.language)
-        opinion_features.append(doc.linguistic_features)
+        opinion_features.append(doc.processed.get("linguistic_features"))
+        categories.append(doc.category)
+        doc_ids.append(f"{doc.game_id}_{doc.review.username}_{doc.review.timestamp}") # Unique id per review
 
     # ----------------------------
     # 3. Summarize corpus statistics
@@ -79,7 +84,7 @@ def main():
         doc_lengths = [len(t) for t in tokens_per_doc]
         LOGGER.info(f"Language distribution: {dict(lang_counts)}")
         LOGGER.info(
-            "Tokens per document: min=%d, max=%d, mean=%.1f" %
+            "Tokens (no stopwords) per document: min=%d, max=%d, mean=%.1f" %
             (min(doc_lengths), max(doc_lengths), sum(doc_lengths)/len(doc_lengths))
         )
 
@@ -100,6 +105,15 @@ def main():
         os.makedirs(args.output_dir, exist_ok=True)
         save_npz(os.path.join(args.output_dir, "bgg_combined_matrix.npz"), X)
         joblib.dump(vec, os.path.join(args.output_dir, "bgg_vectorizer.pkl"))
+        vectorizer_data = {
+            'doc_ids': doc_ids,
+            'tokens_per_doc': tokens_per_doc,
+            'langs': langs,
+            'opinion_features': opinion_features,
+            'categories': categories,
+        }
+        joblib.dump(vectorizer_data, os.path.join(args.output_dir, 'vectorizer_data.pkl'))
+
 
         LOGGER.info("TF-IDF + linguistic/opinion vectorization complete")
     else:

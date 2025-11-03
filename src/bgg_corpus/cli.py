@@ -4,16 +4,16 @@
 import os
 import argparse
 from collections import Counter
-from bgg_corpus.utilities import build_corpus
+from bgg_corpus.utilities import build_corpus, generate_corpus_statistics
 from bgg_corpus.storage import MongoCorpusStorage
-from bgg_corpus.config import CORPORA_DIR
+from bgg_corpus.config import CORPORA_DIR, CORPUS_NAME, CORPORA_STATISTICS_DIR
 from bgg_corpus.resources import LOGGER
 
 # ----------------------------
 # Default configuration
 # ----------------------------
 DEFAULT_OUTPUT_DIR = CORPORA_DIR
-DEFAULT_OUTPUT_NAME = "bgg_corpus.json"
+DEFAULT_OUTPUT_JSON_NAME = f"{CORPUS_NAME}.json"
 DEFAULT_MAX_WORKERS = 4
 DEFAULT_GAMES = [3]
 
@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     # Output
     parser.add_argument("--output-dir", type=str, default=DEFAULT_OUTPUT_DIR, help=f"Directory to save the JSON output (default: {DEFAULT_OUTPUT_DIR}).")
-    parser.add_argument("--output-name", type=str, default=DEFAULT_OUTPUT_NAME, help=f"Output JSON filename (default: {DEFAULT_OUTPUT_NAME}).")
+    parser.add_argument("--output-name", type=str, default=DEFAULT_OUTPUT_JSON_NAME, help=f"Output JSON filename (default: {DEFAULT_OUTPUT_JSON_NAME}).")
     parser.add_argument("--save-json", action="store_true", help="Save corpus as JSON file.")
     parser.add_argument("--save-mongo", action="store_true", help="Save corpus to MongoDB.")
 
@@ -102,75 +102,4 @@ if __name__ == "__main__":
     # General statistics
     # ----------------------------
     if args.generate_stats:
-        print("\n📊 General statistics")
-        print("- Total reviews:", corpus.num_reviews())
-        print("- Rated reviews:", corpus.num_reviews_rated())
-        print("- Reviews with text:", corpus.num_reviews_commented())
-        print("- Reviews with rating & text:", corpus.num_reviews_rated_and_commented())
-        print("- Unique users:", corpus.num_unique_users())
-        print("- Non-unique users:", corpus.num_no_unique_users())
-        print("- 10 non-unique users:", corpus.no_unique_users()[:10])
-
-        # Ratings distribution
-        print("\n⭐ Ratings distribution (top 10)")
-        rating_dist = corpus.rating_distribution()
-        for rating, count in sorted(rating_dist.items(), key=lambda x: -x[1])[:10]:
-            print(f"  {rating:>4}: {count}")
-
-        # Sample raw text
-        print("\n📝 Sample raw text:")
-        print(corpus.raw()[:5], "...\n")
-
-        # Word contexts
-        print("🔍 Contexts for 'a' (window=3, first 5):")
-        for ctx in corpus.contexts("a", window=3)[:5]:
-            print(" ", ctx)
-
-        print("\n⚖️ Top 5 common contexts for ['good', 'bad'] (window=2):")
-        print(corpus.common_contexts(["good", "bad"], window=2)[:5])
-
-        # Word frequency
-        print("\n📌 Most frequent words (top 15):")
-        for word, freq in corpus.most_common(15):
-            print(f"  {word}: {freq}")
-
-        # Lexical dispersion
-        print("\n📈 Lexical dispersion: plotting graph...")
-        corpus.lexical_dispersion_plot(["good", "game", "player"])
-
-        # Hapax legomena
-        print("\n🟢 Hapax legomena (first 20):")
-        print(corpus.hapaxes()[:20])
-
-        # Word length distribution
-        print("\n📏 Word length distribution (top 10):")
-        length_dist = corpus.word_length_distribution()
-        for length, count in sorted(length_dist.items())[:10]:
-            print(f"  Length {length}: {count} occurrences")
-
-        print("\n📊 Plotting word length distribution...")
-        corpus.plot_word_length_distribution()
-
-        # N-grams and collocations
-        print("\n🔗 Top 10 bigrams:")
-        for bg, freq in Counter(corpus.bigrams()).most_common(10):
-            print(f"  {bg}: {freq}")
-
-        print("\n🔗 Top 5 trigrams:")
-        for tg, freq in Counter(corpus.trigrams()).most_common(5):
-            print(f"  {tg}: {freq}")
-
-        print("\n📎 Top 10 collocations:")
-        for coll, freq in corpus.collocations(10):
-            print(f"  {coll}: {freq}")
-
-        # Category comparison
-        print("\n📂 Token counts by category:")
-        corpus.print_category_stats()
-
-        print("\n📂 Review counts by category:")
-        corpus.print_review_counts()
-
-        # Word frequency visualization
-        print("\n📊 Word frequency visualization (top 30):")
-        corpus.plot_frequency_distribution(30, title="Corpus Word Frequency")
+        generate_corpus_statistics(corpus, base_path=CORPORA_STATISTICS_DIR)

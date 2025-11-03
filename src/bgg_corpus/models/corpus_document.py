@@ -10,13 +10,13 @@ class CorpusDocument:
         self.clean_text = None
         self.language = None
 
-        # Estructura de texto / tokens
+        # Processed dictionary
         self.processed = {
             "sentences": [], "tokens": [], "tokens_no_stopwords": [], "stems": [], "lemmas": [],
-            "pos_tags": [], "dependencies": []
-        }
+            "pos_tags": [], "dependencies": [], "entities": [], "linguistic_features": [],
+        } # Add more as needed...
 
-        # Patrones extraídos
+        # Patterns
         self.patterns = {
             "emails": [], "dates": [], "phones": [], "hashtags": [], "mentions": [],
             "urls": [], "emojis": []
@@ -24,7 +24,6 @@ class CorpusDocument:
 
         self.game_id = review.game_id
         self.category = review.category
-        self.linguistic_features = {}
 
         if processed:
             self.clean_text = processed.get("clean_text")
@@ -39,13 +38,12 @@ class CorpusDocument:
                 "pos_tags": processed.get("pos_tags", []),
                 "dependencies": processed.get("dependencies", []),
                 "entities": processed.get("entities", []),
+                "linguistic_features": processed.get("linguistic_features", []),
             })
             
             patterns_dict = processed.get("patterns", {})
             for k in self.patterns:
                 self.patterns[k] = patterns_dict.get(k, [])
-            
-            self.linguistic_features = processed.get("linguistic_features", {})
 
     def to_dict(self) -> Dict[str, Any]:
         return {
@@ -58,6 +56,5 @@ class CorpusDocument:
             "clean_text": self.clean_text,
             "language": self.language,
             "processed": self.processed,
-            "linguistic_features": self.linguistic_features,
             "patterns": self.patterns,
         }

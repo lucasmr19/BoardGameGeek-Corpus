@@ -44,13 +44,6 @@ for lang_code, nltk_name in NLTK_LANG_MAP.items():
         STOPWORDS_CACHE[nltk_name] = set()
 
 # -----------------------------
-# Paths (from config.py)
-# -----------------------------
-DATA_API_DIR = API_DIR
-DATA_CRAWLER_DIR = CRAWLER_DIR
-REPORTS_DIR = BALANCE_REPORTS_DIR
-
-# -----------------------------
 # Logger setup
 # -----------------------------
 logging.basicConfig(
