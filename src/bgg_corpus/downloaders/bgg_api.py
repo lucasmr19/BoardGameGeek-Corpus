@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+BGG API downloader from BoardGameGeek web page.
+Change IDS = [...] to test different games.
+Change OUTPUT_DIR to save data to a different directory.
+"""
+
 import requests
 import os
 import pandas as pd
@@ -10,13 +16,12 @@ import time
 import argparse
 
 from ..resources import LOGGER
+from config import API_DIR
 
 # ----------------------------
 # Configuration
 # ----------------------------
-
-OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "api") # BoardGeekGames-Corpus/data/api
-IDS = [i for i in range(1,510)]
+IDS = range(1,510)
 RETRY_WAIT = 2
 RETRIES = 5
 
@@ -205,8 +210,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--output-dir",
         type=str,
-        default=OUTPUT_DIR,
-        help=f"Output directory for data (default: {OUTPUT_DIR})"
+        default=API_DIR, # BoardGeekGames-Corpus/data/api
+        help=f"Output directory for data (default: {API_DIR})"
     )
     parser.add_argument(
         "--max-pages",

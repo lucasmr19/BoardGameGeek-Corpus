@@ -2,10 +2,10 @@ import os
 from ..models import Review
 from ..preprocessing import normalize_text
 from .io_utils import load_json
-from ..resources import DATA_API_DIR, DATA_CRAWLER_DIR
+from ..config import API_DIR, CRAWLER_DIR
 
 
-def merge_reviews(game_id, source="combined", data_api_dir=DATA_API_DIR, data_crawler_dir=DATA_CRAWLER_DIR):
+def merge_reviews(game_id, source="combined", data_api_dir=API_DIR, data_crawler_dir=CRAWLER_DIR):
     """
     Load and merge user reviews for a given game from both API and crawler sources.
 

@@ -1,0 +1,10 @@
+model,features,val_accuracy,val_precision,val_recall,val_f1,test_accuracy,test_precision,test_recall,test_f1,tuned
+MultinomialNB,ngrams,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+MultinomialNB,opinion,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+MultinomialNB,combined,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+LinearSVM,ngrams,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+LinearSVM,opinion,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+LinearSVM,combined,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+RandomForest,ngrams,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+RandomForest,opinion,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False
+RandomForest,combined,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,False

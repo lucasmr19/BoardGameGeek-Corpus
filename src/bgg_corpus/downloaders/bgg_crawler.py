@@ -22,9 +22,9 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 from resources import LOGGER
+from config import CRAWLER_DIR
 
 # ---------- CONFIG ----------
-OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "crawler")
 PAGE_SLEEP = 1
 RETRY_WAIT = 2
 RETRIES = 3
@@ -142,10 +142,10 @@ def get_total_reviews_count(base_ratings_url: str, driver: webdriver.Chrome,
             return total
 
         # Fallback: save HTML for debugging
-        html_path = os.path.join(OUTPUT_DIR, "debug_total_page.html")
-        with open(html_path, "w", encoding="utf-8") as fh:
-            fh.write(html)
-        LOGGER.warning(f"[get_total_reviews_count] Could not detect total. HTML saved at {html_path}")
+        #html_path = os.path.join(CRAWLER_DIR, "debug_total_page.html")
+        #with open(html_path, "w", encoding="utf-8") as fh:
+        #    fh.write(html)
+        #LOGGER.warning(f"[get_total_reviews_count] Could not detect total. HTML saved at {html_path}")
 
     except Exception as e:
         LOGGER.error(f"[get_total_reviews_count] Error extracting total: {e}")
@@ -175,18 +175,66 @@ def get_weight_stats(game_id: int) -> dict:
         LOGGER.warning(f"Could not extract weight stats from {url}: {e}")
         return {}
 
-def save_bgg_stats(stats: dict, output_dir: str, csv_name: str = "bgg_stats.csv"):
+def collect_and_save_game_stats(game_id: int, driver: webdriver.Chrome, 
+                                output_dir: str, csv_name: str = "bgg_stats.csv"):
+    """
+    Collects all statistics for a game and appends/updates them in a CSV file.
+    
+    Args:
+        game_id: BGG game ID
+        driver: Selenium WebDriver instance
+        output_dir: Directory to save the CSV
+        csv_name: Name of the CSV file
+    """
+    LOGGER.info(f"Collecting statistics for game {game_id}...")
+    
+    # Get canonical game URL
+    game_url = f"https://boardgamegeek.com/boardgame/{game_id}"
+    driver.get(game_url)
+    try:
+        canonical = WebDriverWait(driver, 5).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "link[rel='canonical']"))
+        )
+        game_url = canonical.get_attribute("href")
+    except: 
+        pass
+    
+    ratings_url = f"{game_url}/ratings"
+
+    # Collect review counts
+    total_all = get_total_reviews_count(ratings_url, driver, comment=None, rated=None)
+    total_commented = get_total_reviews_count(ratings_url, driver, comment=1, rated=None)
+    total_rated = get_total_reviews_count(ratings_url, driver, comment=None, rated=1)
+    total_rated_and_commented = get_total_reviews_count(ratings_url, driver, comment=1, rated=1)
+
+    LOGGER.info(f"Totals -> all: {total_all}, commented: {total_commented}, "
+                f"rated: {total_rated}, rated+commented: {total_rated_and_commented}")
+
+    # Build stats dictionary
+    stats = {
+        "game_id": game_id,
+        "total_all": total_all,
+        "total_commented": total_commented,
+        "total_rated": total_rated,
+        "total_rated_and_commented": total_rated_and_commented,
+    }
+
+    # Add weight/complexity stats
+    stats.update(get_weight_stats(game_id))
+    
+    # Save to CSV
     out_csv = os.path.join(output_dir, csv_name)
     if os.path.exists(out_csv):
         existing_df = pd.read_csv(out_csv)
     else:
         existing_df = pd.DataFrame()
+    
     new_df = pd.DataFrame([stats])
     combined_df = pd.concat([existing_df, new_df], ignore_index=True)
     combined_df.drop_duplicates(subset=["game_id"], keep="last", inplace=True)
     combined_df.to_csv(out_csv, index=False)
-    LOGGER.info(f"Saved statistics to {out_csv}")
-
+    
+    LOGGER.info(f"Saved statistics for game {game_id} to {out_csv}")
 
 def download_reviews(base_ratings_url: str, driver: webdriver.Chrome,
                      comment: Any = None, rated: Any = None,
@@ -206,7 +254,6 @@ def download_reviews(base_ratings_url: str, driver: webdriver.Chrome,
     # Initialize limit
     if limit is None:
         limit = float("inf")
-
 
     while True:
         if max_pages is not None and page > max_pages:
@@ -284,7 +331,6 @@ def download_reviews(base_ratings_url: str, driver: webdriver.Chrome,
 
     return reviews
 
-
 def process_game_balanced(game_id: int, driver: webdriver.Chrome, output_dir: str, max_pages: Optional[int] = None):
     """
     Balanced download: equal number of reviews per rating (1–10),
@@ -324,7 +370,7 @@ def process_game_balanced(game_id: int, driver: webdriver.Chrome, output_dir: st
     for rating in range(1, 11):
         limit = min_count * 2 if rating in [5,6] else min_count
         LOGGER.info(f"Downloading rating={rating} (limit={limit})")
-        reviews = download_reviews(ratings_url, driver, comment=1, rating=rating, limit=limit)
+        reviews = download_reviews(ratings_url, driver, comment=1, rating=rating, limit=limit, max_pages=max_pages)
         balanced_reviews.extend(reviews)
 
     # --- Step 3: Save results ---
@@ -363,7 +409,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="BGG Crawler - Downloads reviews and statistics")
     parser.add_argument("--ids", type=int, nargs="+", default=IDS, help="List of game IDs")
     parser.add_argument("--mode", type=str, choices=["all", "balanced"], default="all", help="Download mode")
-    parser.add_argument("--output-dir", type=str, default=OUTPUT_DIR, help="Output directory")
+    parser.add_argument("--save", type=str, choices=["reviews", "stats", "both"], default="both", 
+                       help="What to save: reviews only, stats only, or both")
+    parser.add_argument("--output-dir", type=str, default=CRAWLER_DIR, help="Output directory")
     parser.add_argument("--stats-csv", type=str, default="bgg_stats.csv", help="CSV file for statistics")
     parser.add_argument("--max-pages", type=int, default=None, help="Max pages to download")
     parser.add_argument("--headless", action="store_true", default=True, help="Headless mode")
@@ -375,41 +423,16 @@ if __name__ == "__main__":
 
     try:
         for game_id in args.ids:
-            #if args.mode == "balanced":
-            #    process_game_balanced(game_id, driver, args.output_dir, args.max_pages)
-            #else:
-            #    process_game(game_id, driver, args.output_dir, args.max_pages)
-
-            # Save CSV statistics after processing
-            game_url = f"https://boardgamegeek.com/boardgame/{game_id}"
-            driver.get(game_url)
-            try:
-                canonical = WebDriverWait(driver, 5).until(
-                    EC.presence_of_element_located((By.CSS_SELECTOR, "link[rel='canonical']"))
-                )
-                game_url = canonical.get_attribute("href")
-            except: 
-                pass
-               
-            ratings_url = f"{game_url}/ratings"
-
-            total_all = get_total_reviews_count(ratings_url, driver, comment=None, rated=None)
-            total_commented = get_total_reviews_count(ratings_url, driver, comment=1, rated=None)
-            total_rated = get_total_reviews_count(ratings_url, driver, comment=None, rated=1)
-            total_rated_and_commented = get_total_reviews_count(ratings_url, driver, comment=1, rated=1)
-
-            LOGGER.info(f"Totals -> all: {total_all}, commented: {total_commented}, "
-                        f"rated: {total_rated}, rated+commented: {total_rated_and_commented}")
-
-            stats = {
-                "game_id": game_id,
-                "total_all": total_all,
-                "total_commented": total_commented,
-                "total_rated": total_rated,
-                "total_rated_and_commented": total_rated_and_commented,
-            }
-
-            stats.update(get_weight_stats(game_id))
-            save_bgg_stats(stats, args.output_dir, args.stats_csv)
+            # Save reviews if requested
+            if args.save in ["reviews", "both"]:
+                if args.mode == "balanced":
+                    process_game_balanced(game_id, driver, args.output_dir, args.max_pages)
+                else:
+                    process_game(game_id, driver, args.output_dir, args.max_pages)
+            
+            # Save stats if requested
+            if args.save in ["stats", "both"]:
+                collect_and_save_game_stats(game_id, driver, args.output_dir, args.stats_csv)
+                
     finally:
         driver.quit()

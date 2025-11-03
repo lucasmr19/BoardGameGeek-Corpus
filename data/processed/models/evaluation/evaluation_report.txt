@@ -1,0 +1,66 @@
+======================================================================
+EXERCISE 5: MODEL EVALUATION TECHNICAL REPORT
+======================================================================
+
+Generated: 2025-10-31 16:25:04
+
+DATASET INFORMATION
+----------------------------------------------------------------------
+Total documents: 12
+Class distribution: {'neutral': 4, 'positive': 4, 'negative': 4}
+
+EVALUATION RESULTS (sorted by Test F1-Score)
+----------------------------------------------------------------------
+
+1. MultinomialNB (ngrams features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+2. MultinomialNB (opinion features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+3. MultinomialNB (combined features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+4. LinearSVM (ngrams features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+5. LinearSVM (opinion features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+6. LinearSVM (combined features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+7. RandomForest (ngrams features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+8. RandomForest (opinion features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+9. RandomForest (combined features)
+   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
+   Hyperparameters tuned: False
+
+
+BEST MODEL
+----------------------------------------------------------------------
+Model: MultinomialNB
+Features: ngrams
+Test F1-Score: 1.0000
+Test Accuracy: 1.0000

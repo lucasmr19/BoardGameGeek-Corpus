@@ -70,9 +70,9 @@ def extract_documents(corpus: Corpus) -> list[dict]:
         text = doc.clean_text
         records.append({
             "game_id": doc.game_id,
-            "username": getattr(doc.review, "username", None),
-            "rating": getattr(doc.review, "rating", None),
-            "timestamp": getattr(doc.review, "timestamp", None),
+            "username": getattr(doc.review, "username"),
+            "rating": getattr(doc.review, "rating"),
+            "timestamp": getattr(doc.review, "timestamp"),
             "language": doc.language,
             "text": text,
             "category": doc.category
@@ -100,6 +100,9 @@ def main():
     if args.verbose:
         LOGGER.info(f"Extracted {len(df)} labeled reviews")
         LOGGER.info(f"Class distribution in full dataset: {Counter(df['category'])}")
+    
+    # Unique id per review
+    df['doc_id'] = [f"{doc['game_id']}_{doc['username']}_{doc['timestamp']}" for doc in reviews]
 
     # 3. Split dataset (stratified)
     train_val_df, test_df = train_test_split(

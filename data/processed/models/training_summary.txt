@@ -1,0 +1,26 @@
+======================================================================
+EXERCISE 4: MODEL TRAINING SUMMARY
+======================================================================
+
+Total documents: 12
+Class distribution: {'neutral': 4, 'positive': 4, 'negative': 4}
+Total features: 900
+  - TF-IDF features: 710
+  - Opinion features: 190
+
+Models trained: 9/9
+Output directory: data/processed/models
+
+Trained model files:
+  - LinearSVM_combined.pkl
+  - LinearSVM_ngrams.pkl
+  - LinearSVM_opinion.pkl
+  - MultinomialNB_combined.pkl
+  - MultinomialNB_combined_scaler.pkl
+  - MultinomialNB_ngrams.pkl
+  - MultinomialNB_ngrams_scaler.pkl
+  - MultinomialNB_opinion.pkl
+  - MultinomialNB_opinion_scaler.pkl
+  - RandomForest_combined.pkl
+  - RandomForest_ngrams.pkl
+  - RandomForest_opinion.pkl

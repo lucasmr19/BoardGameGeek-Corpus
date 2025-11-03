@@ -4,7 +4,7 @@ Total documents: 12
 Train/Val/Test sizes: 6 / 3 / 3
 
 Class distributions:
-Full dataset: {'positive': 4, 'neutral': 4, 'negative': 4}
+Full dataset: {'neutral': 4, 'positive': 4, 'negative': 4}
 Train: {'neutral': 2, 'negative': 2, 'positive': 2}
 Validation: {'neutral': 1, 'negative': 1, 'positive': 1}
 Test: {'positive': 1, 'neutral': 1, 'negative': 1}

@@ -3,6 +3,7 @@ from pymongo import MongoClient, ASCENDING, DESCENDING
 from pymongo.errors import BulkWriteError
 from tqdm import tqdm
 
+from ..config import CORPUS_NAME
 
 class MongoCorpusStorage:
     """
@@ -11,7 +12,7 @@ class MongoCorpusStorage:
     
     def __init__(
         self,
-        db_name: str = "bgg_corpus",
+        db_name: str = CORPUS_NAME,
         host: str = "localhost",
         port: int = 27017,
         username: Optional[str] = None,

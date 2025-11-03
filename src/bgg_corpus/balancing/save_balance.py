@@ -2,9 +2,10 @@ from datetime import datetime
 import json
 import os
 
-from ..resources import REPORTS_DIR, LOGGER
+from ..resources import LOGGER
+from ..config import BALANCE_REPORTS_DIR
 
-def save_balance_report(stats, base_dir=REPORTS_DIR):
+def save_balance_report(stats, base_dir=BALANCE_REPORTS_DIR):
     os.makedirs(base_dir, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
     report_path = os.path.join(base_dir, f"balance_report_{timestamp}.json")
