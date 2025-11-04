@@ -142,8 +142,6 @@ def build_corpus(
                         doc = f.result()
                         if doc:
                             doc.review.game_id = gid
-                            doc.review.fileid = gid
-                            doc.fileid = gid
                             game_corpus.add_document(doc)
                     except Exception as e:
                         print(f"Error processing review in game {gid}: {e}")
@@ -153,8 +151,6 @@ def build_corpus(
                 doc = process_single_review(rev_dict, **preprocess_kwargs)
                 if doc:
                     doc.review.game_id = gid
-                    doc.review.fileid = gid
-                    doc.fileid = gid
                     game_corpus.add_document(doc)
 
         games.append(game_corpus)

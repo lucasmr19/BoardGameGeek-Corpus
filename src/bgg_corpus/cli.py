@@ -15,7 +15,7 @@ from bgg_corpus.resources import LOGGER
 DEFAULT_OUTPUT_DIR = CORPORA_DIR
 DEFAULT_OUTPUT_JSON_NAME = f"{CORPUS_NAME}.json"
 DEFAULT_MAX_WORKERS = 4
-DEFAULT_GAMES = [3]
+DEFAULT_GAMES = range(1, 510)
 
 
 # ----------------------------

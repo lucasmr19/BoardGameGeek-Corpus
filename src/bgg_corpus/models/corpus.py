@@ -104,7 +104,7 @@ class Corpus:
     def words(self, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None,
               labels: Optional[List[str]] = None) -> List[str]:
         docs = self._select(game_ids=game_ids, categories=categories, labels=labels)
-        return [tok for d in docs for tok in d.processed.get("tokens", [])]
+        return [tok for d in docs for tok in d.processed.get("tokens_no_stopwords", [])]
 
     def sents(self, i: Optional[int] = None):
         if i is None:
@@ -178,7 +178,7 @@ class Corpus:
         docs = self._select(game_ids=game_ids, categories=categories)
         contexts = []
         for doc in docs:
-            tokens = doc.processed.get("tokens", [])
+            tokens = doc.processed.get("tokens_no_stopwords", [])
             for i, tok in enumerate(tokens):
                 if tok.lower() == word.lower():
                     left = tokens[max(0, i - window):i]
@@ -193,7 +193,7 @@ class Corpus:
         contexts = Counter()
         lower_words = [w.lower() for w in words]
         for doc in docs:
-            tokens = doc.processed.get("tokens", [])
+            tokens = doc.processed.get("tokens_no_stopwords", [])
             for i, tok in enumerate(tokens):
                 if tok.lower() in lower_words:
                     left = tokens[max(0, i-window):i]
@@ -217,7 +217,7 @@ class Corpus:
         docs = self._select(game_ids=game_ids, categories=categories)
         all_tokens = []
         for doc in docs:
-            all_tokens.extend(doc.processed.get("tokens", []))
+            all_tokens.extend(doc.processed.get("tokens_no_stopwords", []))
 
         points = []
         for word in words:
@@ -241,7 +241,7 @@ class Corpus:
 
     def frequency_distribution(self, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None) -> Counter:
         docs = self._select(game_ids=game_ids, categories=categories)
-        all_tokens = [tok.lower() for doc in docs for tok in doc.processed.get("tokens", [])]
+        all_tokens = [tok.lower() for doc in docs for tok in doc.processed.get("tokens_no_stopwords", [])]
         return Counter(all_tokens)
 
     def most_common(self, n: int = 20, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None):
@@ -253,7 +253,7 @@ class Corpus:
 
     def word_length_distribution(self, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None):
         docs = self._select(game_ids=game_ids, categories=categories)
-        lengths = [len(tok) for doc in docs for tok in doc.processed.get("tokens", [])]
+        lengths = [len(tok) for doc in docs for tok in doc.processed.get("tokens_no_stopwords", [])]
         return Counter(lengths)
 
     def plot_word_length_distribution(
@@ -278,7 +278,7 @@ class Corpus:
 
     def ngrams(self, n: int = 2, game_ids: Optional[List[Any]] = None, categories: Optional[List[str]] = None):
         docs = self._select(game_ids=game_ids, categories=categories)
-        tokens = [tok.lower() for doc in docs for tok in doc.processed.get("tokens", [])]
+        tokens = [tok.lower() for doc in docs for tok in doc.processed.get("tokens_no_stopwords", [])]
         if not tokens or n <= 0:
             return []
         return list(zip(*[tokens[i:] for i in range(n)]))
@@ -357,11 +357,13 @@ class Corpus:
         if cumulative:
             ax.plot(range(len(freqs)), [sum(freqs[:i + 1]) for i in range(len(freqs))], marker="o")
         else:
-            ax.bar(words, freqs)
+            ax.bar(range(len(freqs)), freqs)
+        ax.set_xticks(range(len(words)))
+        ax.set_xticklabels(words, rotation=45, ha="right")
+
         ax.set_title(title or "Words Frequency")
         ax.set_xlabel("Words")
         ax.set_ylabel("Count")
-        ax.set_xticklabels(words, rotation=45)
         plt.tight_layout()
         return fig, words, freqs
 

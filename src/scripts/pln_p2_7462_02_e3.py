@@ -67,14 +67,14 @@ def extract_documents(corpus: Corpus) -> list[dict]:
     """Flatten all CorpusDocuments into a list of review records."""
     records = []
     for doc in corpus.documents:
-        text = doc.clean_text
+        clean_text = doc.clean_text
         records.append({
             "game_id": doc.game_id,
             "username": getattr(doc.review, "username"),
             "rating": getattr(doc.review, "rating"),
             "timestamp": getattr(doc.review, "timestamp"),
             "language": doc.language,
-            "text": text,
+            "clean_text": clean_text,
             "category": doc.category
         })
     return records

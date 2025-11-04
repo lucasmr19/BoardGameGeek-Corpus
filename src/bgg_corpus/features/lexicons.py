@@ -59,10 +59,11 @@ class SentimentLexicon:
 
         with open(filepath, "r", encoding="utf-8") as f:
             return {
-                line.strip().lower()
-                for line in f
-                if line.strip() and not line.startswith(";") and not line.startswith("[")
-            }
+            line.strip().lower()
+            for line in f
+            if line.strip()
+            and not line.lstrip().startswith(("#", ";", "["))
+        }
 
     def _load_domain_lexicon(self, filename, fallback):
         """
