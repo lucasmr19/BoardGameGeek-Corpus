@@ -22,7 +22,7 @@ def process_review_item(item, lower=True, remove_stopwords=True, correct_spellin
     clean = normalize_text(raw, lower=lower, correct_spelling=correct_spelling)
 
     # 2. Language detection
-    detected_lang = detect_language(clean if clean else raw)
+    detected_lang = detect_language(clean)
     spacy_lang = get_spacy_lang_code(detected_lang)
     nltk_lang = get_nltk_language(spacy_lang)
     stop_words_set = STOPWORDS_CACHE.get(nltk_lang, set())
@@ -50,16 +50,16 @@ def process_review_item(item, lower=True, remove_stopwords=True, correct_spellin
     # 7. Assemble output
     return {
         **_base_result(item, raw, clean, detected_lang, spacy_lang),
-        "sentences": sentences,
-        "tokens": tokens,
+        #"sentences": sentences,
+        #"tokens": tokens,
         "tokens_no_stopwords": tokens_no_stop,
-        "stems": stems,
-        "lemmas": lemmas,
-        "pos_tags": pos_tags,
-        "dependencies": dependencies,
-        "entities": entities,
+        #"stems": stems,
+        #"lemmas": lemmas,
+        #"pos_tags": pos_tags,
+        #"dependencies": dependencies,
+        #"entities": entities,
         "linguistic_features": linguistic_features,
-        "patterns": special_patterns
+        #"patterns": special_patterns
     }
 
 
