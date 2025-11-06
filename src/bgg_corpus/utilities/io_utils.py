@@ -78,8 +78,8 @@ def generate_corpus_statistics(corpus, base_path=CORPORA_STATISTICS_DIR):
     print(corpus.raw()[:5], "...\n")
 
     # Word contexts
-    print("🔍 Contexts for 'a' (window=3, first 5):")
-    for ctx in corpus.contexts("a", window=3)[:5]:
+    print("🔍 Contexts for 'game' (window=3, first 5):")
+    for ctx in corpus.contexts("game", window=3)[:5]:
         print(" ", ctx)
 
     # Common contexts

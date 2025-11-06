@@ -1,3 +1,4 @@
+import os
 import spacy
 from ...resources import NLTK_LANG_MAP, SPACY_MODELS, SPACY_LANG_MAP, LOGGER
 
@@ -12,6 +13,19 @@ def get_spacy_lang_code(code):
         return "en"
     base = code.split("-")[0].lower()
     return base if base in SPACY_LANG_MAP else "en"
+
+def init_spacy_models():
+    """Initializer for multiprocessing — preload spaCy models once per worker."""
+    for code, candidates in SPACY_LANG_MAP.items():
+        if code not in SPACY_MODELS or SPACY_MODELS[code] is None:
+            for model_name in candidates:
+                try:
+                    SPACY_MODELS[code] = spacy.load(model_name)
+                    LOGGER.info(f"[Worker {os.getpid()}] Loaded spaCy model: {model_name}")
+                    break
+                except Exception:
+                    continue
+
 
 def load_spacy_model_for(code):
     """

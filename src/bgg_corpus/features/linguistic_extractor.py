@@ -33,6 +33,7 @@ class LinguisticFeaturesExtractor:
     8. **Readability Features**: Flesch-Kincaid grade, reading ease, complexity
     9. **Domain Features**: Domain-specific term occurrences
     10. **POS Features**: Part-of-speech distribution ratios
+    11. **Named Entity Recognition**: capture references to specific entities.
     
     Features are returned as:
     - Numeric features (floats/ints) for direct use
@@ -55,9 +56,10 @@ class LinguisticFeaturesExtractor:
         self,
         lemmas: List[str],
         tokens_no_stopwords: List[str],
-        dependencies: List[str],
+        dependencies: List[Tuple[str, str, str]],
         sentences: List[str],
-        pos_tags: List[tuple],
+        pos_tags: List[Tuple[str, str, str]],
+        entities: List[Tuple[str, str]],
         raw_text: str = ""
     ) -> Dict[str, Any]:
         """
@@ -69,6 +71,7 @@ class LinguisticFeaturesExtractor:
             dependencies: List of dependency parse strings
             sentences: List of sentence strings
             pos_tags: List of (token, pos, tag) tuples
+            entities: List of (text, label) tuples
             raw_text: Original raw text string
             
         Returns:
@@ -270,8 +273,37 @@ class LinguisticFeaturesExtractor:
         out["pos.adv_ratio"] = pos_counts.get("ADV", 0) / max(total_pos, 1)
         out["pos.noun_ratio"] = pos_counts.get("NOUN", 0) / max(total_pos, 1)
         out["pos.verb_ratio"] = pos_counts.get("VERB", 0) / max(total_pos, 1)
+        
+        # ========== 15. ENTITY FEATURES ==========
+        """
+        Named Entity Recognition (NER) features capture references to specific entities:
+        people, organizations, locations, dates, etc.
+        These are useful for domain and sentiment context analysis.
+        """
+        entity_texts = [text.lower() for text, label in entities]
+        entity_labels = [label for text, label in entities]
 
-        # ========== 15. SEQUENCE FEATURES (for DictVectorizer) ==========
+        # Counts and density
+        entity_counts = Counter(entity_labels)
+        for label, count in entity_counts.items():
+            out[f"entity.count.{label.lower()}"] = count
+        out["entity.total"] = sum(entity_counts.values())
+        out["entity.unique_labels"] = len(entity_counts)
+        out["entity.density"] = out["entity.total"] / max(len(tokens_no_stopwords), 1)
+
+        # Text and label-based sequence features
+        self._add_counts("entity.text", out, entity_texts)
+        self._add_counts("entity.label", out, entity_labels)
+
+        # Average sentiment near entities
+        entity_sentiments = []
+        for text, label in entities:
+            for sent in sentences:
+                entity_sentiments.append(self.sia.polarity_scores(sent)["compound"])
+        out["entity.avg_sentiment_near"] = np.mean(entity_sentiments) if entity_sentiments else 0
+
+
+        # ========== 16. SEQUENCE FEATURES (for DictVectorizer) ==========
         """
         These list-based features allow DictVectorizer to count specific words/patterns.
         Each occurrence is preserved to capture frequency information.

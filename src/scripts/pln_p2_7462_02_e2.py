@@ -18,7 +18,6 @@ Usage example:
 
 import os
 import argparse
-import json
 from collections import Counter
 from scipy.sparse import save_npz
 import joblib
@@ -56,7 +55,6 @@ def main():
     langs = []
     opinion_features = []
     categories = []
-    doc_ids = []
     skipped_docs = 0
 
     for i, doc in enumerate(corpus.documents):
@@ -69,7 +67,6 @@ def main():
         langs.append(doc.language)
         opinion_features.append(doc.processed.get("linguistic_features"))
         categories.append(doc.category)
-        doc_ids.append(f"{doc.game_id}_{doc.review.username}_{doc.review.timestamp}") # Unique id per review
 
     # ----------------------------
     # 3. Summarize corpus statistics
@@ -79,14 +76,13 @@ def main():
     LOGGER.info(f"Total documents: {total_docs}")
     LOGGER.info(f"Documents processed: {processed_docs}, skipped: {skipped_docs}")
 
-    if tokens_per_doc:
-        lang_counts = Counter(langs)
-        doc_lengths = [len(t) for t in tokens_per_doc]
-        LOGGER.info(f"Language distribution: {dict(lang_counts)}")
-        LOGGER.info(
-            "Tokens (no stopwords) per document: min=%d, max=%d, mean=%.1f" %
-            (min(doc_lengths), max(doc_lengths), sum(doc_lengths)/len(doc_lengths))
-        )
+    lang_counts = Counter(langs)
+    doc_lengths = [len(t) for t in tokens_per_doc]
+    LOGGER.info(f"Language distribution: {dict(lang_counts)}")
+    LOGGER.info(
+        "Tokens (no stopwords) per document: min=%d, max=%d, mean=%.1f" %
+        (min(doc_lengths), max(doc_lengths), sum(doc_lengths)/len(doc_lengths))
+    )
 
     # ----------------------------
     # 4. Initialize vectorizer
@@ -98,26 +94,22 @@ def main():
     # ----------------------------
     # 5. Fit-transform and save
     # ----------------------------
-    if tokens_per_doc:
-        LOGGER.info("Vectorizing reviews...")
-        X = vec.fit_transform(tokens_per_doc, langs, opinion_features)
+    LOGGER.info("Vectorizing reviews...")
+    X = vec.fit_transform(tokens_per_doc, langs, opinion_features)
 
-        os.makedirs(args.output_dir, exist_ok=True)
-        save_npz(os.path.join(args.output_dir, "bgg_combined_matrix.npz"), X)
-        joblib.dump(vec, os.path.join(args.output_dir, "bgg_vectorizer.pkl"))
-        vectorizer_data = {
-            'doc_ids': doc_ids,
-            'tokens_per_doc': tokens_per_doc,
-            'langs': langs,
-            'opinion_features': opinion_features,
-            'categories': categories,
-        }
-        joblib.dump(vectorizer_data, os.path.join(args.output_dir, 'vectorizer_data.pkl'))
+    os.makedirs(args.output_dir, exist_ok=True)
+    save_npz(os.path.join(args.output_dir, "bgg_combined_matrix.npz"), X)
+    joblib.dump(vec, os.path.join(args.output_dir, "bgg_vectorizer.pkl"))
+    vectorizer_data = {
+        'tokens_per_doc': tokens_per_doc,
+        'langs': langs,
+        'opinion_features': opinion_features,
+        'categories': categories,
+    }
+    joblib.dump(vectorizer_data, os.path.join(args.output_dir, 'vectorizer_data.pkl'))
 
 
-        LOGGER.info("TF-IDF + linguistic/opinion vectorization complete")
-    else:
-        LOGGER.error("No documents with tokens found, vectorization skipped")
+    LOGGER.info("TF-IDF + linguistic/opinion vectorization complete")
 
 
 if __name__ == "__main__":

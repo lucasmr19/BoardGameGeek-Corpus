@@ -87,38 +87,35 @@ python cli.py --games 50 51 52 --source api --no-parallel
 | `--balance-strategy`           | `"oversample"`, `"undersample"`, `"hybrid"`           |
 | `--use-augmentation`           | Enable text augmentation for underrepresented ratings |
 | `--save-json` / `--save-mongo` | Save corpus as JSON or MongoDB                        |
-| `--generate-stats`             | Print corpus and balancing statistics (post_creation) |
+| `--generate-stats`             | Save balancing statistics (post_creation)             |
 
-## 4. Corpus Building Workflow
+### ## 4. Corpus Building Workflow
 
-The `build_corpus()` function constructs the complete BGG review corpus in **four main phases**:
+The `build_corpus()` function constructs the complete BGG review corpus in **three main phases**:
 
 ### **Phase 1 — Review Collection & Balancing**
 
-- Merge API and crawler reviews with `merge_reviews()`.
-- Apply `collect_balanced_reviews_multi_game()` to handle rating imbalances (oversample / undersample / hybrid).
-- Optionally perform text augmentation.
-- Save balancing reports via `save_balance_report()`.
+- Merge reviews from API and/or crawler sources via `merge_reviews()`.
+- Perform global multi-game balancing using `collect_balanced_reviews_multi_game()`.
+  Supports three strategies: **oversample**, **undersample**, or **hybrid**.
+- Optionally perform text augmentation for underrepresented classes.
+- Save detailed balancing statistics through `save_balance_report()`.
 
-### **Phase 2 — Grouping & Preparation**
+### **Phase 2 — Parallel Preprocessing & Document Conversion**
 
 - Standardize each review object with `ensure_review_obj()`.
-- Group reviews by `game_id` into a structured dictionary for processing.
+- Preload spaCy language models in worker processes via `init_spacy_models()`.
+- Use a single `ProcessPoolExecutor` to parallelize the conversion of raw reviews into `CorpusDocument` objects using `process_single_review()`.
 
-### **Phase 3 — Per-Game Processing**
+### **Phase 3 — Corpus Assembly & Output**
 
-- For each game:
+- Group processed documents by `game_id` into `GameCorpus` containers.
+- Aggregate all game corpora into a top-level `Corpus` instance.
+- Print and/or log summary statistics (total documents, games processed, balance ratios).
+- Return a tuple `(Corpus, stats)` where:
 
-  - Build metadata with `build_metadata()`.
-  - Create a `GameCorpus` instance.
-  - Convert reviews into `CorpusDocument` objects using `process_single_review()`.
-  - Optionally parallelize processing with `ProcessPoolExecutor`.
-
-### **Phase 4 — Assembly & Return**
-
-- Aggregate all `GameCorpus` objects into a top-level `Corpus`.
-- Compute total processed documents.
-- Return the tuple `(Corpus, stats)`.
+  - `Corpus` contains all processed documents.
+  - `stats` provides aggregated balancing metrics.
 
 **Final Output Structure:**
 
@@ -153,113 +150,59 @@ flowchart TD
     %% ═══════════════════════════════════════════════════════════
     %% PHASE 1: Collection & Balancing
     %% ═══════════════════════════════════════════════════════════
-    subgraph PHASE1[" 📥 PHASE 1: Collection & Balancing "]
+    subgraph PHASE1[" 📥 PHASE 1: Review Collection & Global Balancing "]
         direction TB
 
-        M1["🔄 merge_reviews(game_ids, source)<br/><i>Merge API + Crawler data</i>"]:::util
+        M1["🔄 merge_reviews(source)<br/><i>Combine API + crawler reviews</i>"]:::util
+        CB1["⚖️ collect_balanced_reviews_multi_game()<br/>• Global balance across all games<br/>• Oversample / undersample / hybrid<br/>• Optional augmentation"]:::action
+        SR1["📊 save_balance_report(stats)<br/><i>Auto-save balancing summary</i>"]:::action
 
-        CB1["⚖️ collect_balanced_reviews_multi_game()<br/>• Apply balance_strategy (over/under/hybrid)<br/>• min_samples per rating<br/>• Optional augmentation"]:::action
-
-        SR1["📊 save_balance_report(stats)<br/><i>Store balancing statistics</i>"]:::action
-
-        DATA1[("📦 collected_reviews<br/>(list of standardized review dicts)")]:::data
+        DATA1[("📦 collected_reviews<br/>+ global stats")]:::data
 
         M1 --> CB1
-        CB1 -->|"reviews + stats"| DATA1
-        CB1 -->|"stats"| SR1
+        CB1 -->|"balanced reviews + stats"| DATA1
+        CB1 --> SR1
         SR1 -.->|"report saved"| DATA1
     end
 
+    DATA1 --> PHASE2
+
     %% ═══════════════════════════════════════════════════════════
-    %% PHASE 2: Grouping & Preparation
+    %% PHASE 2: Parallel Preprocessing & Document Conversion
     %% ═══════════════════════════════════════════════════════════
-    subgraph PHASE2[" 🗂️ PHASE 2: Group & Prepare "]
+    subgraph PHASE2[" ⚡ PHASE 2: Parallel Preprocessing & Document Conversion "]
         direction TB
 
-        EO2["🔧 ensure_review_obj(r, gid)<br/><i>Standardize review format</i>"]:::util
+        INIT2["🧠 init_spacy_models()<br/><i>Preload models in each worker</i>"]:::util
+        POOL2["🔀 ProcessPoolExecutor(max_workers)<br/><i>Global worker pool</i>"]:::parallel
 
-        GB2["📋 Group by game_id<br/><i>defaultdict(list)</i>"]:::action
+        STD2["🔧 ensure_review_obj(r, gid)<br/><i>Standardize review dict</i>"]:::util
+        SUB2["📤 Submit: process_single_review(review)<br/><i>for each review</i>"]:::parallel
+        AC2["📥 Collect futures (as_completed)<br/><i>Get CorpusDocument</i>"]:::parallel
+        ADD2["➕ Add to corresponding GameCorpus"]:::parallel
 
-        DATA2[("🎲 game_groups<br/>{game_id: [reviews]}")]:::data
+        DATA2[("🎲 Partial GameCorpus objects")]:::data
 
-        EO2 --> GB2
-        GB2 --> DATA2
+        INIT2 --> POOL2
+        POOL2 --> STD2 --> SUB2 --> AC2 --> ADD2 --> DATA2
     end
 
-    DATA1 --> EO2
+    DATA2 --> PHASE3
 
     %% ═══════════════════════════════════════════════════════════
-    %% PHASE 3: Per-Game Processing
+    %% PHASE 3: Assembly & Return
     %% ═══════════════════════════════════════════════════════════
-    subgraph PHASE3[" 🔄 PHASE 3: Per-Game Processing (loop over game_ids) "]
+    subgraph PHASE3[" 📚 PHASE 3: Corpus Assembly & Return "]
         direction TB
 
-        LOOP3["🔁 For each (game_id, reviews)"]:::phaseBox
+        TOTAL3["🧮 Compute totals<br/><i>Games processed, documents count</i>"]:::action
+        CORPUS3["🗄️ Corpus(games=games)"]:::action
+        SUMMARY3["📋 Print summary<br/>• Total docs<br/>• Games processed"]:::action
 
-        BM3["📊 build_metadata(game_id)<br/><i>Fetch game metadata</i>"]:::util
+        RETURN(["✅ Return (Corpus, stats)"]):::endpoint
 
-        IGC3["🎮 GameCorpus(game_id, metadata, documents=[])"]:::action
-
-        DEC3{"🤔 Use parallel processing?<br/>(parallel=True & reviews>0)"}:::decision
-
-        %% Parallel Branch
-        subgraph PARALLEL[" ⚡ Parallel Processing "]
-            direction TB
-            PP3["🔀 ProcessPoolExecutor(max_workers)"]:::parallel
-            SUB3["📤 Submit: process_single_review(review)<br/><i>for each review</i>"]:::parallel
-            AC3["📥 as_completed(futures)<br/><i>Collect results</i>"]:::parallel
-            ADD3P["➕ Add CorpusDocument to GameCorpus<br/><i>Set fileid, game_id</i>"]:::parallel
-
-            PP3 --> SUB3 --> AC3 --> ADD3P
-        end
-
-        %% Sequential Branch
-        subgraph SEQUENTIAL[" 🔄 Sequential Processing "]
-            direction TB
-            SEQ3["🔁 for review in reviews:<br/>process_single_review(review)"]:::action
-            ADD3S["➕ Add CorpusDocument to GameCorpus<br/><i>Set fileid, game_id</i>"]:::action
-
-            SEQ3 --> ADD3S
-        end
-
-        APPEND3["📝 games.append(game_corpus)"]:::action
-
-        LOOP3 --> BM3 --> IGC3 --> DEC3
-        DEC3 -->|"Yes"| PARALLEL
-        DEC3 -->|"No"| SEQUENTIAL
-        ADD3P --> APPEND3
-        ADD3S --> APPEND3
+        TOTAL3 --> CORPUS3 --> SUMMARY3 --> RETURN
     end
-
-    DATA2 --> LOOP3
-
-    %% ═══════════════════════════════════════════════════════════
-    %% PHASE 4: Assembly & Return
-    %% ═══════════════════════════════════════════════════════════
-    subgraph PHASE4[" 📚 PHASE 4: Corpus Assembly & Return "]
-        direction TB
-
-        TOTAL4["🧮 Compute totals<br/><i>Games processed, documents count</i>"]:::action
-
-        DATA4A[("🎲 games<br/>[GameCorpus objects]")]:::data
-
-        FC4["🗄️ Corpus(games=games)"]:::action
-
-        DATA4B[("📊 stats<br/>(balancing statistics)")]:::data
-
-        SUM4["📋 Print summary<br/>• Games processed<br/>• Total documents"]:::action
-
-        TOTAL4 --> DATA4A
-        DATA4A --> FC4
-        FC4 --> SUM4
-        DATA4B -.-> SUM4
-    end
-
-    APPEND3 -.->|"after loop"| TOTAL4
-
-    %% FINAL RETURN
-    RETURN(["✅ Return (Corpus, stats)"]):::endpoint
-    SUM4 --> RETURN
 
     %% ═══════════════════════════════════════════════════════════
     %% Legend
@@ -268,18 +211,15 @@ flowchart TD
         direction LR
         L1["⚙️ Action/Process"]:::action
         L2["📦 Data/Object"]:::data
-        L3["❓ Decision Point"]:::decision
-        L4["⚡ Parallel Pool"]:::parallel
-        L5["🔧 Utility Function"]:::util
+        L3["⚡ Parallel Pool"]:::parallel
+        L4["🔧 Utility Function"]:::util
+        L5["📚 Phase Block"]:::phaseBox
     end
 
     %% Global Styles
     style PHASE1 fill:#e3f2fd,stroke:#1976d2,stroke-width:2.5px,rx:10,ry:10
-    style PHASE2 fill:#fff3e0,stroke:#e65100,stroke-width:2.5px,rx:10,ry:10
-    style PHASE3 fill:#e8f5e9,stroke:#2e7d32,stroke-width:2.5px,rx:10,ry:10
-    style PHASE4 fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2.5px,rx:10,ry:10
-    style PARALLEL fill:#c8e6c9,stroke:#1b5e20,stroke-width:2px,stroke-dasharray:5,rx:8,ry:8
-    style SEQUENTIAL fill:#ffecb3,stroke:#e65100,stroke-width:2px,stroke-dasharray:5,rx:8,ry:8
+    style PHASE2 fill:#e8f5e9,stroke:#2e7d32,stroke-width:2.5px,rx:10,ry:10
+    style PHASE3 fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2.5px,rx:10,ry:10
     style LEGEND fill:#fafafa,stroke:#666,stroke-width:1px,rx:5,ry:5
 ```
 
