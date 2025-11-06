@@ -2,65 +2,71 @@
 EXERCISE 5: MODEL EVALUATION TECHNICAL REPORT
 ======================================================================
 
-Generated: 2025-10-31 16:25:04
+Generated: 2025-11-06 12:49:30
 
 DATASET INFORMATION
 ----------------------------------------------------------------------
-Total documents: 12
-Class distribution: {'neutral': 4, 'positive': 4, 'negative': 4}
+Train: 10371 | Val: 2223 | Test: 2223
+
+MODEL CONFIGURATIONS (from Exercise 4)
+----------------------------------------------------------------------
+  - MultinomialNB: Pipeline with ShiftToPositive + MaxAbsScaler
+  - SGDClassifier: Pipeline with StandardScaler
+  - RandomForest: No scaling (tree-based)
+  - XGBoost: No scaling (tree-based)
 
 EVALUATION RESULTS (sorted by Test F1-Score)
 ----------------------------------------------------------------------
 
-1. MultinomialNB (ngrams features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+1. RandomForest (combined features)
+   Validation - Acc: 0.5299, P: 0.5217, R: 0.5299, F1: 0.5214
+   Test       - Acc: 0.5434, P: 0.5373, R: 0.5434, F1: 0.5373
+   Hyperparameters tuned: True
 
-2. MultinomialNB (opinion features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+2. RandomForest (ngrams features)
+   Validation - Acc: 0.4971, P: 0.5003, R: 0.4971, F1: 0.4981
+   Test       - Acc: 0.5236, P: 0.5260, R: 0.5236, F1: 0.5243
+   Hyperparameters tuned: True
 
-3. MultinomialNB (combined features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+3. MultinomialNB (ngrams features)
+   Validation - Acc: 0.5277, P: 0.5223, R: 0.5277, F1: 0.5236
+   Test       - Acc: 0.5187, P: 0.5148, R: 0.5187, F1: 0.5156
+   Hyperparameters tuned: True
 
-4. LinearSVM (ngrams features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+4. RandomForest (opinion features)
+   Validation - Acc: 0.5016, P: 0.4941, R: 0.5016, F1: 0.4951
+   Test       - Acc: 0.5200, P: 0.5142, R: 0.5200, F1: 0.5156
+   Hyperparameters tuned: True
 
-5. LinearSVM (opinion features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+5. SGDClassifier (opinion features)
+   Validation - Acc: 0.4642, P: 0.4594, R: 0.4642, F1: 0.4541
+   Test       - Acc: 0.4768, P: 0.4754, R: 0.4768, F1: 0.4698
+   Hyperparameters tuned: True
 
-6. LinearSVM (combined features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+6. SGDClassifier (combined features)
+   Validation - Acc: 0.4678, P: 0.4696, R: 0.4678, F1: 0.4684
+   Test       - Acc: 0.4683, P: 0.4687, R: 0.4683, F1: 0.4685
+   Hyperparameters tuned: True
 
-7. RandomForest (ngrams features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+7. SGDClassifier (ngrams features)
+   Validation - Acc: 0.4759, P: 0.4768, R: 0.4759, F1: 0.4762
+   Test       - Acc: 0.4566, P: 0.4579, R: 0.4566, F1: 0.4572
+   Hyperparameters tuned: True
 
-8. RandomForest (opinion features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+8. MultinomialNB (opinion features)
+   Validation - Acc: 0.3743, P: 0.3974, R: 0.3743, F1: 0.3542
+   Test       - Acc: 0.3698, P: 0.3931, R: 0.3698, F1: 0.3503
+   Hyperparameters tuned: True
 
-9. RandomForest (combined features)
-   Validation - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Test       - Acc: 1.0000, P: 1.0000, R: 1.0000, F1: 1.0000
-   Hyperparameters tuned: False
+9. MultinomialNB (combined features)
+   Validation - Acc: 0.3743, P: 0.3974, R: 0.3743, F1: 0.3542
+   Test       - Acc: 0.3698, P: 0.3931, R: 0.3698, F1: 0.3503
+   Hyperparameters tuned: True
 
 
 BEST MODEL
 ----------------------------------------------------------------------
-Model: MultinomialNB
-Features: ngrams
-Test F1-Score: 1.0000
-Test Accuracy: 1.0000
+Model: RandomForest
+Features: combined
+Test F1-Score: 0.5373
+Test Accuracy: 0.5434

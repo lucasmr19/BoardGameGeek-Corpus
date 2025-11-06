@@ -1,0 +1,53 @@
+{
+  "counts_before": {
+    "negative": 4,
+    "neutral": 4,
+    "positive": 4
+  },
+  "counts_after": {
+    "neutral": 4,
+    "positive": 4,
+    "negative": 4
+  },
+  "total_before": 12,
+  "total_after": 12,
+  "total_augmented": 0,
+  "total_subsampled": 0,
+  "balance_ratio_max_min": 1.0,
+  "balance_strategy": "undersample",
+  "game_stats": {
+    "3": {
+      "counts_before": {
+        "negative": 4,
+        "neutral": 4,
+        "positive": 4
+      },
+      "counts_after": {
+        "positive": 4,
+        "neutral": 4,
+        "negative": 4
+      },
+      "total_before": 12,
+      "total_after": 12,
+      "augmented_count": 0,
+      "subsampled_count": 0,
+      "balance_stats": {
+        "before": {
+          "positive": 4,
+          "neutral": 4,
+          "negative": 4
+        },
+        "after": {
+          "positive": 4,
+          "neutral": 4,
+          "negative": 4
+        },
+        "strategy": "undersample",
+        "balanced": true,
+        "augmented_count": 0,
+        "subsampled_count": 0,
+        "augmentation_used": false
+      }
+    }
+  }
+}

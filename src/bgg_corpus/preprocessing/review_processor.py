@@ -6,23 +6,24 @@ from .language import detect_language, get_spacy_lang_code, get_nltk_language
 from .spacy_analysis import analyze_text_spacy
 from .tokenization import apply_stemming
 from ..features import LinguisticFeaturesExtractor
-from ..resources import STOPWORDS_CACHE
+from ..resources import STOPWORDS_CACHE, LOGGER
 
-def process_review_item(item, lower=True, remove_stopwords=True, correct_spelling=False, stem_method="porter"):
+def process_review_item(item: dict, lower=True, remove_stopwords=True, correct_spelling=False, stem_method="porter"):
     """
     High-level preprocessing function for review items.
     Includes text normalization, language detection, tokenization, stemming, lemmatization and feature extraction.
     """
     raw = item.get("raw_text")
     if not raw or not raw.strip():
+        LOGGER.warning(f"[process_review item] not raw text detected in the review:\n {item}")
         return _empty_result(item, raw)
-
+    
     # 1. Extract special patterns and normalize text
     special_patterns = extract_special_patterns(raw)
-    clean = normalize_text(raw, lower=lower, correct_spelling=correct_spelling)
+    clean = normalize_text(raw)
 
     # 2. Language detection
-    detected_lang = detect_language(clean)
+    detected_lang = detect_language(clean, context=item)
     spacy_lang = get_spacy_lang_code(detected_lang)
     nltk_lang = get_nltk_language(spacy_lang)
     stop_words_set = STOPWORDS_CACHE.get(nltk_lang, set())
@@ -30,7 +31,7 @@ def process_review_item(item, lower=True, remove_stopwords=True, correct_spellin
     # 3. spaCy analysis: sentences, tokens, lemmas, POS, dependencies, entities
     sentences, tokens, tokens_no_stop, lemmas, pos_tags, dependencies, entities = analyze_text_spacy(clean, 
                                                                                                     detected_lang,
-                                                                                                    stop_words_set, 
+                                                                                                    stop_words_set=stop_words_set, 
                                                                                                     remove_stopwords=remove_stopwords)
 
     # 5. Stemming with NLTLK
@@ -44,6 +45,7 @@ def process_review_item(item, lower=True, remove_stopwords=True, correct_spellin
         dependencies=dependencies,
         sentences=sentences,
         pos_tags=pos_tags,
+        entities=entities,
         raw_text=raw
     )
 

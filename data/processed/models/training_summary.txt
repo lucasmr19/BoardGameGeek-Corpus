@@ -2,14 +2,20 @@
 EXERCISE 4: MODEL TRAINING SUMMARY
 ======================================================================
 
-Total documents: 12
-Class distribution: {'neutral': 4, 'positive': 4, 'negative': 4}
-Total features: 900
-  - TF-IDF features: 710
-  - Opinion features: 190
+Total documents: 14817
+Class distribution: {'neutral': 4939, 'negative': 4939, 'positive': 4939}
+Total features: 23300
+  - TF-IDF features: 8000
+  - Opinion features: 15300
 
-Models trained: 9/9
+Models trained: 12/12
 Output directory: data/processed/models
+
+Model configurations:
+  - MultinomialNB: Pipeline with ShiftToPositive + MaxAbsScaler
+  - SGDClassifier: Pipeline with StandardScaler
+  - RandomForest: No scaling (tree-based)
+  - XGBoost: No scaling (tree-based)
 
 Trained model files:
   - LinearSVM_combined.pkl
@@ -24,3 +30,12 @@ Trained model files:
   - RandomForest_combined.pkl
   - RandomForest_ngrams.pkl
   - RandomForest_opinion.pkl
+  - SGDClassifier_combined.pkl
+  - SGDClassifier_ngrams.pkl
+  - SGDClassifier_opinion.pkl
+  - XGBoost_combined.pkl
+  - XGBoost_combined_label_encoder.pkl
+  - XGBoost_ngrams.pkl
+  - XGBoost_ngrams_label_encoder.pkl
+  - XGBoost_opinion.pkl
+  - XGBoost_opinion_label_encoder.pkl

@@ -55,7 +55,9 @@ import html
 import emoji
 import unidecode
 from textblob import TextBlob
+from typing import List
 
+from ..models import GameCorpus
 from ..config import RANKS_DF
 from ..resources import LOGGER
 
@@ -103,46 +105,49 @@ def replace_thing_tags(text, id2name):
 
 # ---------------- MAIN CLEANING ----------------
 def normalize_text(text, lower=True, correct_spelling=False):
-    """Normalize and clean a review text string."""
-    if not text:
+    """
+    Normalize review text.
+    """
+    if not text or not text.strip():
         return ""
 
     # --- HTML & BBCode cleanup ---
     text = html.unescape(text)
     text = replace_thing_tags(text, id2name)
-    text = re.sub(r"<[^>]+>", " ", text)  # remove HTML tags
-    text = re.sub(r"\[/?[a-zA-Z]+\]", " ", text)  # [b], [i], etc.
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"\[/?[a-zA-Z]+\]", " ", text)
 
     # --- Remove URLs early ---
-    text = URL_RE.sub(" ", text)
+    text = URL_RE.sub("URL", text)
 
-    # --- Normalize whitespace and punctuation ---
+    # --- Normalize whitespace and repeated chars/punctuation ---
     text = text.replace("\r", " ").replace("\n", " ")
     text = re.sub(r"[\t\v\f]+", " ", text)
-    text = re.sub(r"&", " and ", text)
-    text = re.sub(r"(.)\1{2,}", r"\1\1", text)     # limit letter repetition
-    text = re.sub(r"([!?])\1{1,}", r"\1\1", text)  # limit punctuation repetition
+    text = re.sub(r"(.)\1{2,}", r"\1\1", text)
+    text = re.sub(r"([!?])\1{1,}", r"\1\1", text)
     text = re.sub(r"\.{2,}", ".", text)
     text = re.sub(r"\s+", " ", text).strip()
 
     if lower:
         text = text.lower()
 
-    # --- Normalize text (latin only, emojis -> text placeholders) ---
+    # --- Convert accented chars and emojis to text ---
     text = unidecode.unidecode(text)
     text = emoji.demojize(text, delimiters=(":", ":"))
-    text = re.sub(r':[a-zA-Z0-9_]+:', '', text)      # remove :emoji_names:
-    text = re.sub(r'[:;=8][-~]?[)(DPpOo]', '', text) # remove text emoticons
 
-    # --- Optional spell correction ---
+    # --- Optional spelling correction ---
     if correct_spelling:
         text = str(TextBlob(text).correct())
 
     # --- Expand abbreviations ---
     words = [ABBREVIATIONS.get(w, w) for w in text.split()]
-    text = " ".join(words)
-    text = re.sub(r"\s+", " ", text).strip()
+    text = " ".join(words).strip()
 
+    # --- Preserve symbols/emojis even if no letters remain ---
+    if not text:
+        # Remove only spaces/tabs, preserve everything else
+        text = re.sub(r"\s+", "", text)
+    
     return text
 
 
@@ -159,3 +164,37 @@ def extract_special_patterns(text):
         "urls": urls,
         "emojis": emoji.emoji_list(text),
     }
+
+
+def filter_valid_reviews(
+    games: List[GameCorpus],
+    min_tokens: int = 2
+) -> List[GameCorpus]:
+    """
+    Filter CorpusDocument objects inside each GameCorpus based on meaningful content.
+    A document is valid if it has `clean_text` and at least `min_tokens` in `tokens_no_stopwords`.
+
+    Args:
+        games: List of GameCorpus objects.
+        min_tokens: Minimum number of meaningful tokens to keep a document.
+
+    Returns:
+        List of GameCorpus objects with filtered documents.
+    """
+    total_discarded = 0
+    for game in games:
+        valid_docs = []
+        discarded = 0
+        for doc in game.documents:
+            clean = getattr(doc, "clean_text", "")
+            tokens_ns = getattr(doc.processed, "get", lambda k, default: [])("tokens_no_stopwords", [])
+            if clean and len(tokens_ns) >= min_tokens:
+                valid_docs.append(doc)
+            else:
+                discarded += 1
+        total_discarded += discarded
+        game.documents = valid_docs
+        LOGGER.info(f"[Game {game.game_id}] Filtered {discarded} invalid documents, kept {len(valid_docs)}")
+
+    LOGGER.info(f"Total discarded documents across all games: {total_discarded}")
+    return games

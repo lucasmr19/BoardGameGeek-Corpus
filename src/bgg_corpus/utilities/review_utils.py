@@ -5,7 +5,7 @@ from .io_utils import load_json
 from ..config import API_DIR, CRAWLER_DIR
 
 
-def merge_reviews(game_id, source="combined", data_api_dir=API_DIR, data_crawler_dir=CRAWLER_DIR):
+def merge_reviews(game_id, source="combined", data_api_dir=API_DIR, data_crawler_dir=CRAWLER_DIR) -> list[Review]:
     """
     Load and merge user reviews for a given game from both API and crawler sources.
 

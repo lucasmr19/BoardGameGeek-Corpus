@@ -7,8 +7,8 @@ class CorpusDocument:
     def __init__(self, review: Review, processed: Optional[Dict[str, Any]] = None):
         self.review = review
         self.raw_text = review.comment
-        self.clean_text = None
-        self.language = None
+        self.clean_text = ""
+        self.language = ""
 
         # Processed dictionary
         self.processed = {

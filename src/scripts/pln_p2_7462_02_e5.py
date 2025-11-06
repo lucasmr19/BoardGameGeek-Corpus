@@ -16,7 +16,7 @@ Evaluation includes:
 Usage:
     python scripts/pln_p2_7462_02_e5.py \
         --vector_dir path/to/vectors \
-        --dataset_dir path/to/datasets \
+        --splits_dir path/to/datasets \
         --models_dir path/to/models \
         --output_dir path/to/results
 """
@@ -24,18 +24,19 @@ Usage:
 import os
 import argparse
 import joblib
-import json
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from collections import Counter
 from datetime import datetime
-
+from scipy.sparse import load_npz
+from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.svm import LinearSVC
+from sklearn.linear_model import SGDClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import StandardScaler, MaxAbsScaler, LabelEncoder
+from sklearn.pipeline import Pipeline
 from sklearn.metrics import (
     accuracy_score,
     precision_recall_fscore_support,
@@ -43,7 +44,7 @@ from sklearn.metrics import (
     confusion_matrix
 )
 
-from src.bgg_corpus.config import VECTORS_DIR, DATASETS_DIR, MODELS_DIR
+from src.bgg_corpus.config import VECTORS_DIR, SPLITS_DIR, MODELS_DIR
 from src.bgg_corpus.resources import LOGGER
 
 try:
@@ -54,15 +55,33 @@ except ImportError:
     LOGGER.warning("XGBoost not available.")
 
 
+class ShiftToPositive(BaseEstimator, TransformerMixin):
+    """Shift all features so that the minimum value becomes zero."""
+    def fit(self, X, y=None):
+        if hasattr(X, "min"):  # works for sparse or dense
+            self.min_ = X.min()
+        else:
+            self.min_ = np.min(X)
+        return self
+
+    def transform(self, X):
+        if self.min_ < 0:
+            if hasattr(X, "toarray"):  # handle sparse matrices
+                X = X.toarray()
+            return X - self.min_
+        return X
+
+
 class ModelEvaluator:
     """Evaluates trained models on test datasets with hyperparameter tuning."""
 
-    def __init__(self, vector_dir: str, dataset_dir: str, models_dir: str, 
-                 output_dir: str, seed: int = 42):
+    def __init__(self, vector_dir: str, splits_dir: str, models_dir: str, 
+                 output_dir: str, split_format: str, seed: int = 42):
         self.vector_dir = vector_dir
-        self.dataset_dir = dataset_dir
+        self.splits_dir = splits_dir
         self.models_dir = models_dir
         self.output_dir = output_dir
+        self.split_format = split_format
         self.seed = seed
         self.results = []
         
@@ -72,57 +91,75 @@ class ModelEvaluator:
         # Load vectorizer and data
         LOGGER.info(f"Loading vectorizer from: {vector_dir}")
         self.vectorizer = joblib.load(os.path.join(vector_dir, "bgg_vectorizer.pkl"))
-        
-        vectorizer_data = joblib.load(os.path.join(vector_dir, 'vectorizer_data.pkl'))
-        self.tokens_per_doc = vectorizer_data['tokens_per_doc']
-        self.langs = vectorizer_data['langs']
-        self.opinion_features = vectorizer_data['opinion_features']
-        self.categories = vectorizer_data['categories']
-        self.doc_ids = vectorizer_data['doc_ids']
 
-    def load_split(self, split_name: str):
-        """Load a dataset split and extract corresponding vectors."""
-        split_path = os.path.join(self.dataset_dir, f"{split_name}.json")
-        
-        if not os.path.exists(split_path):
-            raise FileNotFoundError(f"Split file not found: {split_path}")
-        
-        with open(split_path, 'r', encoding='utf-8') as f:
-            split_data = json.load(f)
+    def load_splits(self, splits_dir: str):
+        """Load pre-split datasets (train/val/test) saved in npz, json, or csv formats."""
+        LOGGER.info(f"Loading pre-split datasets from: {splits_dir}")
+        fmt = self.split_format.lower()
 
-        # Extract doc_ids in this split
-        split_doc_ids = [d['doc_id'] for d in split_data]
+        def load_npz_split(name):
+            """Load a split when stored as NPZ."""
+            X = load_npz(os.path.join(splits_dir, f"X_{name}.npz"))
+            y = joblib.load(os.path.join(splits_dir, f"y_{name}.npz"))
+            return X, np.array(y)
 
-        # Find indices in the global list
-        id_to_index = {doc_id: i for i, doc_id in enumerate(self.doc_ids)}
-        split_indices = [id_to_index[doc_id] for doc_id in split_doc_ids]
+        def load_json_split(name):
+            """Load a split when stored as JSON."""
+            import json
+            with open(os.path.join(splits_dir, f"{name}.json"), "r", encoding="utf-8") as f:
+                data = json.load(f)
+            X = np.array(data["X"])
+            y = np.array(data["y"])
+            return X, y
 
-        # Subset the features
-        tokens_split = [self.tokens_per_doc[i] for i in split_indices]
-        langs_split = [self.langs[i] for i in split_indices]
-        opinion_split = [self.opinion_features[i] for i in split_indices]
-        y_split = [self.categories[i] for i in split_indices]
+        def load_csv_split(name):
+            """Load a split when stored as CSV."""
+            import pandas as pd
+            df = pd.read_csv(os.path.join(splits_dir, f"{name}.csv"))
+            X = df.drop(columns=["label"]).to_numpy()
+            y = df["label"].to_numpy()
+            return X, y
 
-        # Transform
-        X_split = self.vectorizer.transform(tokens_split, langs_split, opinion_split)
+        loaders = {
+            "npz": load_npz_split,
+            "json": load_json_split,
+            "csv": load_csv_split,
+        }
 
-        LOGGER.info(f"{split_name.upper()}: {X_split.shape[0]} samples, "
-                   f"distribution: {Counter(y_split)}")
-        
-        return X_split, np.array(y_split)
+        if fmt not in loaders:
+            raise ValueError(f"Unsupported format: {fmt}. Expected one of: npz, json, csv")
 
-    def determine_feature_slices(self, X_sample):
-        """Determine feature boundaries."""
-        n_tfidf = self.vectorizer.tfidf.transform(
-            self.vectorizer._prefix_tokens_with_language([['sample']], ['en'])
-        ).shape[1]
-        n_total = X_sample.shape[1]
-        
+        load_fn = loaders[fmt]
+        X_train, y_train = load_fn("train")
+        X_val, y_val = load_fn("val")
+        X_test, y_test = load_fn("test")
+
+        LOGGER.info(f"Train: {X_train.shape}, Val: {X_val.shape}, Test: {X_test.shape}")
+        LOGGER.info(f"Train class distribution: {Counter(y_train)}")
+
+        return X_train, X_val, X_test, y_train, y_val, y_test
+
+    def determine_feature_slices(self, X_splits: dict):
+        """
+        Determine indices for TF-IDF and opinion features
+        across all splits and ensure consistency.
+        """
+        n_tfidf = len(self.vectorizer.tfidf.vocabulary_)
+
+        n_totals = {name: X.shape[1] for name, X in X_splits.items()}
+        unique_dims = set(n_totals.values())
+
+        if len(unique_dims) > 1:
+            LOGGER.warning(f"Inconsistent feature dimensions across splits: {n_totals}")
+        n_total = max(unique_dims)
+
         self.n_tfidf_features = n_tfidf
         self.n_opinion_features = n_total - n_tfidf
-        
-        LOGGER.info(f"Features: TF-IDF={self.n_tfidf_features}, "
-                   f"Opinion={self.n_opinion_features}, Total={n_total}")
+
+        LOGGER.info("Feature distribution (verified across splits):")
+        LOGGER.info(f"  - TF-IDF (n-grams): {self.n_tfidf_features}")
+        LOGGER.info(f"  - Opinion features: {self.n_opinion_features}")
+        LOGGER.info(f"  - Total features: {n_total}")
 
     def get_feature_subset(self, X, subset_type: str):
         """Extract feature subset."""
@@ -135,53 +172,89 @@ class ModelEvaluator:
         else:
             raise ValueError(f"Unknown subset: {subset_type}")
 
+    def create_pipeline(self, model_name: str, base_model):
+        """
+        Create a pipeline matching Exercise 4 configuration.
+        
+        Scaling strategies:
+        - MultinomialNB: ShiftToPositive + MaxAbsScaler
+        - SGDClassifier: StandardScaler (with_mean=False for sparse)
+        - RandomForest: No scaling
+        - XGBoost: No scaling
+        """
+        if model_name == "MultinomialNB":
+            return Pipeline([
+                ('shift', ShiftToPositive()),
+                ('scaler', MaxAbsScaler()),
+                ('classifier', base_model)
+            ])
+        
+        elif model_name == "SGDClassifier":
+            return Pipeline([
+                ('scaler', StandardScaler(with_mean=False)),
+                ('classifier', base_model)
+            ])
+        
+        elif model_name in ["RandomForest", "XGBoost"]:
+            return Pipeline([
+                ('classifier', base_model)
+            ])
+        
+        else:
+            return Pipeline([
+                ('classifier', base_model)
+            ])
+
     def tune_hyperparameters(self, model_name: str, X_train, y_train, 
                             feature_subset: str, search_type: str = 'grid'):
-        """Perform hyperparameter tuning."""
+        """Perform hyperparameter tuning with pipelines."""
         LOGGER.info(f"\nTuning hyperparameters for {model_name} ({feature_subset})...")
         
-        # Define parameter grids
+        # Define parameter grids (with pipeline prefix 'classifier')
         param_grids = {
             'MultinomialNB': {
-                'alpha': [0.1, 0.5, 1.0, 2.0]
+                'classifier__alpha': [0.1, 0.5, 1.0, 2.0]
             },
-            'LinearSVM': {
-                'C': [0.1, 1.0, 10.0],
-                'max_iter': [2000]
+            'SGDClassifier': {
+                'classifier__alpha': [0.0001, 0.001, 0.01],
+                'classifier__max_iter': [1000, 2000],
+                'classifier__loss': ['hinge', 'log_loss']
             },
             'RandomForest': {
-                'n_estimators': [50, 100, 200],
-                'max_depth': [10, 20, None],
-                'min_samples_split': [2, 5]
+                'classifier__n_estimators': [50, 100, 200],
+                'classifier__max_depth': [10, 20, None],
+                'classifier__min_samples_split': [2, 5]
             },
             'XGBoost': {
-                'n_estimators': [50, 100],
-                'max_depth': [3, 6, 9],
-                'learning_rate': [0.01, 0.1, 0.3]
+                'classifier__n_estimators': [50, 100],
+                'classifier__max_depth': [3, 6, 9],
+                'classifier__learning_rate': [0.01, 0.1, 0.3]
             }
         }
         
         # Initialize base model
         if model_name == 'MultinomialNB':
             base_model = MultinomialNB()
-        elif model_name == 'LinearSVM':
-            base_model = LinearSVC(random_state=self.seed)
+        elif model_name == 'SGDClassifier':
+            base_model = SGDClassifier(random_state=self.seed, n_jobs=-1)
         elif model_name == 'RandomForest':
             base_model = RandomForestClassifier(random_state=self.seed, n_jobs=-1)
         elif model_name == 'XGBoost' and XGBOOST_AVAILABLE:
             base_model = xgb.XGBClassifier(
                 random_state=self.seed,
-                use_label_encoder=False,
                 eval_metric='logloss'
             )
         else:
             LOGGER.warning(f"Model {model_name} not available for tuning")
             return None
         
+        # Create pipeline
+        pipeline = self.create_pipeline(model_name, base_model)
+        
         # Choose search strategy
         if search_type == 'grid':
             search = GridSearchCV(
-                base_model,
+                pipeline,
                 param_grids.get(model_name, {}),
                 cv=3,
                 scoring='f1_weighted',
@@ -190,7 +263,7 @@ class ModelEvaluator:
             )
         elif search_type == 'random':
             search = RandomizedSearchCV(
-                base_model,
+                pipeline,
                 param_grids.get(model_name, {}),
                 n_iter=10,
                 cv=3,
@@ -200,7 +273,7 @@ class ModelEvaluator:
                 verbose=1
             )
         else:
-            raise Exception(f"search_type must be 'random' or 'grid'")
+            raise ValueError(f"search_type must be 'random' or 'grid'")
         
         search.fit(X_train, y_train)
         
@@ -213,64 +286,70 @@ class ModelEvaluator:
                       X_train, y_train, X_test, y_test, X_val, y_val,
                       tune_hyperparams: bool = True):
         """Evaluate a single model configuration."""
-        LOGGER.info(f"\n{'='*70}")
+        print(f"\n{'='*70}")
         LOGGER.info(f"Evaluating: {model_name} | Features: {feature_subset}")
-        LOGGER.info(f"{'='*70}")
+        print(f"{'='*70}")
         
         # Extract feature subsets
         X_train_subset = self.get_feature_subset(X_train, feature_subset)
         X_test_subset = self.get_feature_subset(X_test, feature_subset)
         X_val_subset = self.get_feature_subset(X_val, feature_subset)
         
-        # Apply scaling if needed
-        scaler = None
-        if model_name == 'MultinomialNB':
-            LOGGER.info("Applying MinMax scaling...")
-            scaler = MinMaxScaler(feature_range=(0, 1))
-            X_train_subset = scaler.fit_transform(
-                X_train_subset.toarray() if hasattr(X_train_subset, "toarray") 
-                else X_train_subset
-            )
-            X_test_subset = scaler.transform(
-                X_test_subset.toarray() if hasattr(X_test_subset, "toarray") 
-                else X_test_subset
-            )
-            X_val_subset = scaler.transform(
-                X_val_subset.toarray() if hasattr(X_val_subset, "toarray") 
-                else X_val_subset
-            )
-        
-        # Tune hyperparameters if requested
+        # Load or tune model
         if tune_hyperparams:
-            model = self.tune_hyperparameters(
+            pipeline = self.tune_hyperparameters(
                 model_name, X_train_subset, y_train, feature_subset
             )
-            if model is None:
+            if pipeline is None:
                 return
         else:
-            # Load pre-trained model from Exercise 4
+            # Load pre-trained pipeline from Exercise 4
             model_path = os.path.join(self.models_dir, 
                                      f"{model_name}_{feature_subset}.pkl")
             if os.path.exists(model_path):
-                model = joblib.load(model_path)
-                LOGGER.info(f"Loaded pre-trained model from: {model_path}")
+                pipeline = joblib.load(model_path)
+                LOGGER.info(f"✓ Loaded pre-trained pipeline from: {model_path}")
             else:
-                LOGGER.warning(f"Pre-trained model not found: {model_path}")
+                LOGGER.warning(f"✗ Pre-trained pipeline not found: {model_path}")
                 return
         
-        # Predictions
-        y_val_pred = model.predict(X_val_subset)
-        y_test_pred = model.predict(X_test_subset)
+        # Handle XGBoost label encoding
+        label_encoder = None
+        y_train_encoded = y_train
+        y_val_encoded = y_val
+        y_test_encoded = y_test
+        
+        if model_name == "XGBoost":
+            label_path = os.path.join(self.models_dir, 
+                                     f"{model_name}_{feature_subset}_label_encoder.pkl")
+            if os.path.exists(label_path):
+                label_encoder = joblib.load(label_path)
+                LOGGER.info(f"✓ Loaded label encoder for XGBoost")
+                y_train_encoded = label_encoder.transform(y_train)
+                y_val_encoded = label_encoder.transform(y_val)
+                y_test_encoded = label_encoder.transform(y_test)
+        
+        # Predictions (pipeline handles scaling internally)
+        y_val_pred = pipeline.predict(X_val_subset)
+        y_test_pred = pipeline.predict(X_test_subset)
+        
+        # Decode XGBoost predictions
+        if label_encoder is not None:
+            y_val_pred = label_encoder.inverse_transform(y_val_pred)
+            y_test_pred = label_encoder.inverse_transform(y_test_pred)
+            # Use original labels for metrics
+            y_val_encoded = y_val
+            y_test_encoded = y_test
         
         # Calculate metrics
-        val_acc = accuracy_score(y_val, y_val_pred)
+        val_acc = accuracy_score(y_val_encoded, y_val_pred)
         val_p, val_r, val_f1, _ = precision_recall_fscore_support(
-            y_val, y_val_pred, average='weighted', zero_division=0
+            y_val_encoded, y_val_pred, average='weighted', zero_division=0
         )
         
-        test_acc = accuracy_score(y_test, y_test_pred)
+        test_acc = accuracy_score(y_test_encoded, y_test_pred)
         test_p, test_r, test_f1, _ = precision_recall_fscore_support(
-            y_test, y_test_pred, average='weighted', zero_division=0
+            y_test_encoded, y_test_pred, average='weighted', zero_division=0
         )
         
         # Store results
@@ -303,15 +382,15 @@ class ModelEvaluator:
         LOGGER.info(f"  F1-Score:  {test_f1:.4f}")
         
         # Classification report
-        labels = sorted(list(set(y_test)))
-        target_names = [label.capitalize() for label in labels]
+        labels = sorted(list(set(y_test_encoded)))
+        target_names = [str(label).capitalize() for label in labels]
         LOGGER.info("\nClassification Report:")
         LOGGER.info("\n" + classification_report(
-            y_test, y_test_pred, target_names=target_names, zero_division=0
+            y_test_encoded, y_test_pred, target_names=target_names, zero_division=0
         ))
         
         # Confusion matrix
-        cm = confusion_matrix(y_test, y_test_pred)
+        cm = confusion_matrix(y_test_encoded, y_test_pred, labels=labels)
         LOGGER.info(f"\nConfusion Matrix:\n{cm}")
         
         # Save confusion matrix plot
@@ -338,17 +417,25 @@ class ModelEvaluator:
         
         LOGGER.info(f"✓ Confusion matrix saved: {filepath}")
 
-    def run_evaluation(self, tune_hyperparams: bool = True):
+    def run_evaluation(self, tune_hyperparams: bool = False):
         """Main evaluation pipeline."""
         # Load splits
-        X_train, y_train = self.load_split('train')
-        X_test, y_test = self.load_split('test')
-        X_val, y_val = self.load_split('val')
+        X_train, X_val, X_test, y_train, y_val, y_test = self.load_splits(self.splits_dir)
         
-        self.determine_feature_slices(X_train)
+        self.dataset_sizes = {
+            "train": len(y_train),
+            "val": len(y_val),
+            "test": len(y_test)
+        }
+   
+        self.determine_feature_slices({
+            "train": X_train,
+            "val": X_val,
+            "test": X_test
+        })
         
-        # Define models and feature subsets
-        model_names = ['MultinomialNB', 'LinearSVM', 'RandomForest']
+        # Define models and feature subsets (matching Exercise 4)
+        model_names = ['MultinomialNB', 'SGDClassifier', 'RandomForest']
         if XGBOOST_AVAILABLE:
             model_names.append('XGBoost')
         
@@ -359,7 +446,7 @@ class ModelEvaluator:
         
         LOGGER.info(f"\nStarting evaluation: {len(model_names)} models × "
                    f"{len(feature_subsets)} subsets = {total} configurations")
-        LOGGER.info("="*70)
+        print("="*70)
         
         # Evaluate all combinations
         for model_name in model_names:
@@ -375,15 +462,17 @@ class ModelEvaluator:
                     evaluated += 1
                     LOGGER.info(f"Progress: {evaluated}/{total}")
                 except Exception as e:
-                    LOGGER.error(f"Error evaluating {model_name}/{subset}: {e}")
+                    LOGGER.error(f"✗ Error evaluating {model_name}/{subset}: {e}")
+                    import traceback
+                    LOGGER.error(traceback.format_exc())
         
         # Generate reports
         self.generate_technical_report()
         
-        LOGGER.info(f"\n{'='*70}")
+        print(f"\n{'='*70}")
         LOGGER.info(f"EVALUATION COMPLETED: {evaluated}/{total} configurations")
         LOGGER.info(f"Results saved to: {self.output_dir}")
-        LOGGER.info(f"{'='*70}")
+        print(f"{'='*70}")
 
     def generate_technical_report(self):
         """Generate comprehensive technical report."""
@@ -407,8 +496,16 @@ class ModelEvaluator:
             
             f.write("DATASET INFORMATION\n")
             f.write("-"*70 + "\n")
-            f.write(f"Total documents: {len(self.categories)}\n")
-            f.write(f"Class distribution: {dict(Counter(self.categories))}\n\n")
+            f.write(f"Train: {self.dataset_sizes['train']} | "
+                    f"Val: {self.dataset_sizes['val']} | "
+                    f"Test: {self.dataset_sizes['test']}\n\n")
+            
+            f.write("MODEL CONFIGURATIONS (from Exercise 4)\n")
+            f.write("-"*70 + "\n")
+            f.write("  - MultinomialNB: Pipeline with ShiftToPositive + MaxAbsScaler\n")
+            f.write("  - SGDClassifier: Pipeline with StandardScaler\n")
+            f.write("  - RandomForest: No scaling (tree-based)\n")
+            f.write("  - XGBoost: No scaling (tree-based)\n\n")
             
             f.write("EVALUATION RESULTS (sorted by Test F1-Score)\n")
             f.write("-"*70 + "\n\n")
@@ -455,10 +552,16 @@ def main():
         help="Directory with vectors from Ex2"
     )
     parser.add_argument(
-        "--dataset_dir",
+        "--splits_dir",
         type=str,
-        default=DATASETS_DIR,
-        help="Directory with train/test splits from Ex3"
+        default=SPLITS_DIR,
+        help="Directory with train/test/valid splits from Ex3"
+    )
+    parser.add_argument(
+        "--format",
+        choices=["json", "csv", "npz"],
+        default="npz",
+        help="Output format saved for splits in Ex3"
     )
     parser.add_argument(
         "--models_dir",
@@ -481,16 +584,17 @@ def main():
     parser.add_argument(
         "--tune",
         action="store_true",
-        help="Perform hyperparameter tuning"
+        help="Perform hyperparameter tuning (default: use pre-trained models)"
     )
     
     args = parser.parse_args()
     
     evaluator = ModelEvaluator(
         vector_dir=args.vector_dir,
-        dataset_dir=args.dataset_dir,
+        splits_dir=args.splits_dir,
         models_dir=args.models_dir,
         output_dir=args.output_dir,
+        split_format=args.format,
         seed=args.seed
     )
     

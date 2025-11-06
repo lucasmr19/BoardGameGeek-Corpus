@@ -1,104 +1,109 @@
 
 📊 General statistics
-- Total reviews: 18758
-- Rated reviews: 16906
-- Reviews with text: 4142
-- Reviews with rating & text: 3552
-- Unique users: 12
-- Non-unique users: 0
-- 10 non-unique users: []
+- Total reviews: 1635840
+- Rated reviews: 1465957
+- Reviews with text: 377622
+- Reviews with rating & text: 296650
+- Unique users: 8868
+- Non-unique users: 2476
+- 10 non-unique users: ['ultimoratio', 'ajie426', 'quietcorn', 'Aevin', 'krit1789', 'HerbertML', 'Nye27', 'b0ardgamer', 'CortexBomb', 'mOCHU035']
 
 ⭐ Ratings distribution (top 10)
-   6.0: 2
-   5.0: 2
-   1.0: 1
-   7.0: 1
-   4.0: 1
-   3.0: 1
-   7.5: 1
-   9.0: 1
-   2.0: 1
-  10.0: 1
+   5.0: 2284
+   6.0: 2155
+   1.0: 1175
+  10.0: 1167
+   2.0: 1164
+   3.0: 1146
+   4.0: 1136
+   9.0: 1018
+   8.0: 1002
+   7.0: 992
 
 📝 Sample raw text:
-['Very similar to Tic-Tac-Toe, you\'re trying to "outthink" your opponent(s), which results in an utterly boring tile-laying practice.', 'Smushed corner, splitting seams, components excellent.', "Eh, this one doesn't tickle me as much as other Knizias do, I think because it's like obnoxiously head-scratchy and chin-strokey or something.", "Samurai is a good game, but it's not a fun game. With both Babylonia and Caesar out now, I see no reason to go back to Samurai - although I might just for completion's sake at some point. I have only played at 2p and would like to try it at 3p. At 2p, I would rather play pretty much any no luck abstract over this as the randomness feels arbitrary and swingy. Overrated (at least at 2).", 'Rankings\n67th Best Game 2022\n60th Best Game 2023\n61st Best Game 2024'] ...
+['I enjoyed my fist game but found it too random sometimes.', 'Nice heavy area control. Long term and short terms goals are fun.', 'First impressions:\n\n- An area control game at it\'s heart. Winning an "area" involves gaining the most rally cubes (and trend) and also maximizing the number of matching cards for that region.\n\n- The main phases of the game are very procedural to the point of being tedious to run through every round.\n\n- Turn order is hugely important in most phases. Since the first player is dictated by a blind bid, it make no sense why the turn order isn\'t in order of who spent the most money. This could potentially result in the second place bid being last in turn order which could completely deny the ability to take actions in the round like play a media marker or play a cabinet card. This feels like a huge flaw in the game and feels unsatisfying to play.\n\n- The opinion poll cards also feel very out of place because it directly punishes two random players. The main reason you buy a poll card is to increase your own trend, but that action also drags two random players down. Since trend is a hard resource to get, it feels like a bad design choice again.\n\n- For such a long and procedural game, there are one too many random elements making it not that fun to play. I do love the setting and the thematic integration of most mechanisms.', '超主观点评（5人局）：\n1、代入感拉满了，党派方针要与公众舆论保持一致，但是控制媒体又可以直接影响公众舆论，好的幕僚更是可以直接让党派起飞，但是要请好的幕僚又很贵真的太真实了哈哈哈，公众教育、数字化、交通、社会福利等内容和生活也息息相关，很容易找到感觉。\n2、玩法挺简单的，对着玩家提示板说一遍就可以开始，但是资源有限，各种行动又互相影响，思考量巨大，爽歪歪。虽然结算耗时蛮久，但是大家都很有参与感，不会无聊到找别的事情做。\n3、输了就自己翻规则逆天改命的感觉真爽！纠出一个村点，第1名摆了2个媒体指示物到媒体板块，然后险胜2分哈哈哈！\n4、2019年12月16日初玩印象非常糟糕，2025年2月9日再玩感觉非常上头，大家决定下周末再开两局，不知道是规则改进了（怀疑当时没有轮抽）还是当年没玩懂或者是纯属运气太差？当时玩的是旧版，感受还是留一下：一个非常看运气的游戏，起始手牌不好的话建议直接掀桌！玩一局要三至四个小时，第二把我们玩的时候有三家手牌高度一致，结果就变成二打三，无论如何都没办法翻盘，简直浪费时间！（6分）\n小心得：\n1、抢先手很重要，顺位靠前可以确保幕僚卡的感叹号可以用出来，几乎每个感叹号都很逆天。\n2、钱没有那么重要，我们终局最高的159分，钱最多的才有6分太少了，而且钱是不公开的，再怎么省，自己的钱也不一定是最多的。', 'It is a grandparent of Modern Euros...but it does not mean that I have to like it!'] ...
 
-🔍 Contexts for 'a' (window=3, first 5):
+🔍 Contexts for 'game' (window=3, first 5):
+  ('enjoyed fist', 'game', 'found random sometimes')
+  ('impressions area control', 'game', "'s heart winning")
+  ('region main phases', 'game', 'procedural point tedious')
+  ('like huge flaw', 'game', 'feels unsatisfying play')
+  ('choice long procedural', 'game', 'one many random')
 
 ⚖️ Top 5 common contexts for ['good', 'bad'] (window=2):
-[("samurai _ game 's", 1), ('_ game great', 1), ('people place _ locations avoiding', 1), ('everything normal _ game happens', 1), ("game 's _ 've played", 1)]
+[('_ party game', 17), ("_ game 's", 4), ('_ fun game', 3), ('_ game', 3), ('_ game would', 3)]
 
 📌 Most frequent words (top 15):
-  game: 17
-  's: 10
-  played: 8
-  play: 6
-  n't: 5
-  much: 5
-  good: 5
-  tiles: 5
-  tile: 4
-  one: 4
-  think: 4
-  like: 4
-  samurai: 4
-  've: 4
-  3: 4
+  game: 13736
+  's: 4937
+  play: 4480
+  n't: 3769
+  games: 3007
+  fun: 2580
+  one: 2555
+  like: 2549
+  played: 2184
+  players: 2165
+  time: 2051
+  cards: 1813
+  much: 1726
+  good: 1688
+  get: 1531
 
 🟢 Hapax legomena (first 20):
-['similar', 'tic', 'tac', 'toe', "'re", 'trying', 'outthink', 'opponent(s', 'results', 'utterly', 'boring', 'practice', 'smushed', 'corner', 'splitting', 'seams', 'components', 'excellent', 'eh', 'tickle']
+['1ming', '2ge', '2fen', '2019nian', '12yue', '16ri', '2025nian', '2yue', '9ri', '159fen', 'euros.but', 'groom', 'backfiring', '/*#v4*//*stay*/', 'socks', 'softest', 'atrocity', 'excise', 'yoka', 'plagiarism']
 
 📏 Word length distribution (top 10):
-  Length 1: 12 occurrences
-  Length 2: 21 occurrences
-  Length 3: 42 occurrences
-  Length 4: 97 occurrences
-  Length 5: 78 occurrences
-  Length 6: 66 occurrences
-  Length 7: 45 occurrences
-  Length 8: 29 occurrences
-  Length 9: 21 occurrences
-  Length 10: 17 occurrences
+  Length 1: 6100 occurrences
+  Length 2: 17994 occurrences
+  Length 3: 39733 occurrences
+  Length 4: 79970 occurrences
+  Length 5: 59233 occurrences
+  Length 6: 46916 occurrences
+  Length 7: 35217 occurrences
+  Length 8: 23319 occurrences
+  Length 9: 15859 occurrences
+  Length 10: 10953 occurrences
 
 🔗 Top 10 bigrams:
-  ("'ve", 'played'): 4
-  ('good', 'game'): 3
-  ('game', "'s"): 3
-  ('best', 'game'): 3
-  ('tile', 'laying'): 2
-  ('2p', 'would'): 2
-  ('avoiding', 'set'): 2
-  ('set', 'plays'): 2
-  ('area', 'control'): 2
-  ('3', 'types'): 2
+  ('ca', "n't"): 462
+  ('game', "'s"): 368
+  ('card', 'game'): 340
+  ('party', 'game'): 301
+  ('play', 'game'): 285
+  ('board', 'game'): 274
+  ('good', 'game'): 249
+  ('great', 'game'): 248
+  ("n't", 'like'): 246
+  ('fun', 'game'): 239
 
 🔗 Top 5 trigrams:
-  ('avoiding', 'set', 'plays'): 2
-  ('similar', 'tic', 'tac'): 1
-  ('tic', 'tac', 'toe'): 1
-  ('tac', 'toe', "'re"): 1
-  ('toe', "'re", 'trying'): 1
+  ("'d", 'rather', 'play'): 66
+  ('area', 'control', 'game'): 46
+  ('game', "'ve", 'played'): 37
+  ("'ve", 'ever', 'played'): 36
+  ('trick', 'taking', 'game'): 36
 
 📎 Top 10 collocations:
-  ("'ve", 'played'): 4
-  ('good', 'game'): 3
-  ('game', "'s"): 3
-  ('best', 'game'): 3
-  ('tile', 'laying'): 2
-  ('2p', 'would'): 2
-  ('avoiding', 'set'): 2
-  ('set', 'plays'): 2
-  ('area', 'control'): 2
-  ('3', 'types'): 2
+  ('ca', "n't"): 462
+  ('game', "'s"): 368
+  ('card', 'game'): 340
+  ('party', 'game'): 301
+  ('play', 'game'): 285
+  ('board', 'game'): 274
+  ('good', 'game'): 249
+  ('great', 'game'): 248
+  ("n't", 'like'): 246
+  ('fun', 'game'): 239
 
 📂 Token counts by category:
 Category       Tokens    Types     LexDiv    
-negative       134       108       0.806
-neutral        120       93        0.775
-positive       182       145       0.797
+negative       118255    14683     0.124
+neutral        105115    14605     0.139
+positive       123212    17365     0.141
 
 📂 Review counts by category:
 Category       Num Reviews
-negative       4         
-positive       4         
-neutral        4         
+neutral        4939      
+negative       4939      
+positive       4939      
