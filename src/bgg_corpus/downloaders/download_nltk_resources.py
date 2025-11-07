@@ -8,7 +8,6 @@ Run this script once to ensure all corpora, lexicons, and tokenizers are availab
 
 import nltk
 
-# List of all resources your project may need
 nltk_resources = [
     # Tokenizers
     "punkt",

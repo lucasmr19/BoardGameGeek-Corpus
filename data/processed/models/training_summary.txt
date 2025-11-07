@@ -8,6 +8,7 @@ Total features: 23300
   - TF-IDF features: 8000
   - Opinion features: 15300
 
+Available models: MultinomialNB, SGDClassifier, RandomForest, XGBoost
 Models trained: 12/12
 Output directory: data/processed/models
 
@@ -39,3 +40,4 @@ Trained model files:
   - XGBoost_ngrams_label_encoder.pkl
   - XGBoost_opinion.pkl
   - XGBoost_opinion_label_encoder.pkl
+  - shared_label_encoder.pkl
