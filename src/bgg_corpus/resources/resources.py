@@ -3,8 +3,6 @@
 import logging
 from nltk.corpus import stopwords
 
-from ..config import API_DIR, CRAWLER_DIR, BALANCE_REPORTS_DIR
-
 # -----------------------------
 # Language mappings
 # -----------------------------
