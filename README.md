@@ -1,5 +1,7 @@
 # 🧩 BoardGameGeek Corpus
 
+![BoardGameGeek Corpus](./docs/boardgamegeek-corpus.jpg)
+
 **BoardGameGeek Corpus** is a Python project for building and analyzing an annotated textual corpus of **board game reviews**.  
 It focuses on sentiment analysis, linguistic annotation, and lexicon-based modeling from user-generated content gathered from [BoardGameGeek](https://boardgamegeek.com).
 

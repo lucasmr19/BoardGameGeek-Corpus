@@ -46,27 +46,27 @@ class HyperparameterTuner:
         
         'SGDClassifier': {
             # α (regularización), loss (SVM lineal o regresión logística)
-            #'classifier__alpha': [1e-5, 1e-4, 1e-3],
-            #'classifier__loss': ['hinge', 'log_loss'],  # SVM vs Logistic Regression
-            #'classifier__penalty': ['l2', 'elasticnet'],
-            #'classifier__max_iter': [10000],
+            'classifier__alpha': [1e-5, 1e-4, 1e-3],
+            'classifier__loss': ['hinge', 'log_loss'],  # SVM vs Logistic Regression
+            'classifier__penalty': ['l2', 'elasticnet'],
+            'classifier__max_iter': [10000],
             'classifier__tol': [1e-3]  # evita convergencia muy laxa
         },
         
         'RandomForest': {
             # Menos combinaciones pero con impacto real
             #'classifier__n_estimators': [100, 200],
-            #'classifier__max_depth': [10, 20, None],
-            #'classifier__min_samples_split': [2, 5],
-            #'classifier__min_samples_leaf': [1, 2],
+            'classifier__max_depth': [10, 20, None],
+            'classifier__min_samples_split': [2, 5],
+            'classifier__min_samples_leaf': [1, 2],
             'classifier__max_features': ['sqrt', 'log2']  # controla la aleatoriedad en splits
         },
         
         'XGBoost': {
             # Los más influyentes en boosting
-            #'classifier__n_estimators': [100, 200],
-            #'classifier__max_depth': [3, 6],
-            #'classifier__subsample': [0.8, 1.0],  # control del bagging interno
+            'classifier__n_estimators': [100, 200],
+            'classifier__max_depth': [3, 6],
+            'classifier__subsample': [0.8, 1.0],  # control del bagging interno
             'classifier__colsample_bytree': [0.8, 1.0]  # número de features por árbol
         }
     }
