@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Dataset Creation Script
+Datasets Creation Script
 Description:
     This script loads a preprocessed and labeled corpus of board game reviews
     and generates training, validation, and test datasets for sentiment
@@ -30,7 +30,6 @@ from scipy.sparse import load_npz, save_npz
 from sklearn.model_selection import train_test_split
 from collections import Counter
 
-from src.bgg_corpus.models import Corpus
 from src.bgg_corpus.resources import LOGGER
 from src.bgg_corpus.config import VECTORS_DIR, SPLITS_DIR
 

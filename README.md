@@ -53,6 +53,7 @@ BoardGameGeek-Corpus/
 │       ├── balancing/        # Oversampling/undersampling/augmentation
 │       ├── storage/          # MongoDB storage
 │       └── downloaders/      # Crawler/API downloaders
+|   └── modeling/             # Reusable configurations for the scripts experiments
 │   └── scripts/              # Executable scripts post-corpus creation
 └── tests/
 ```
@@ -103,6 +104,15 @@ All executable scripts are supposed to run post-corpus creation, see here [scrip
 2. **Scripts are independent** but rely on the preprocessed corpus JSON in `data/processed/corpora/bgg_corpus.json`.
 3. Each script can accept optional parameters (paths, feature selection, splits, etc.). See individual examples in the [scripts README](./src/scripts/README.md).
 4. Generated outputs (features, vectors, models, evaluation reports) are stored in the corresponding `data/processed/` subdirectories.
+
+Different components of the code like [process_game_balanced](./src/bgg_corpus/downloaders/README.md), the
+[review class](./src/bgg_corpus/models/README.md), or the [balancing module](./src/bgg_corpus/balancing/README.md) assume the following class distribution, which is important for the predictive models:
+
+| **Rating**  | **Class** | **% Total**        |
+| ----------- | --------- | ------------------ |
+| 1, 2, 3, 4  | Negative  | 8.33 × 4 = 33.3 %  |
+| 5, 6        | Neutral   | 16.67 × 2 = 33.3 % |
+| 7, 8, 9, 10 | Positive  | 8.33 × 4 = 33.3 %  |
 
 ## License
 

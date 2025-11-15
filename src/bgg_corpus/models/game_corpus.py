@@ -46,10 +46,10 @@ class GameCorpus:
         for r in d.get("reviews", []) or []:
             rev = Review.from_dict({**r, "game_id": gid})
             processed = {}
-            if "text" in r or "patterns" in r or "clean_text" in r:
+            if "processed" in r or "patterns" in r or "clean_text" in r:
                 processed["clean_text"] = r.get("clean_text")
                 processed["language"] = r.get("language")
-                processed.update(r.get("text", {}))
+                processed.update(r.get("processed", {}))
                 processed["patterns"] = r.get("patterns", {})
             docs.append(CorpusDocument(rev, processed if processed else None))
         return cls(game_id=gid, metadata=meta, documents=docs)

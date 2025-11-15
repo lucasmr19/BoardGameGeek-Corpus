@@ -36,11 +36,18 @@ def main():
                         help="Path to the processed corpus JSON")
     parser.add_argument("--output_dir", type=str, default=VECTORS_DIR,
                         help="Directory to save vectorized matrices and vectorizer")
-    parser.add_argument("--max_features", type=int, default=8000,
+    parser.add_argument("--max_features", type=int, default=20000,
                         help="Maximum number of TF-IDF features")
     parser.add_argument("--ngram_range", type=int, nargs=2, default=[1, 2],
                         help="n-gram min/max value range for TF-IDF, e.g., 1 2 for unigrams + bigrams")
     args = parser.parse_args()
+    
+    print(f"{'='*70}")
+    print("CONFIGURATION FOR VECTORIZATION")
+    print(f"{'='*70}")
+    LOGGER.info(f"Using 'max_features'={args.max_features} in sklearn.feature_extraction.text.TfidfVectorizer")
+    LOGGER.info(f"Using 'ngram_range'={args.ngram_range} in sklearn.feature_extraction.text.TfidfVectorizer")
+    
 
     # ----------------------------
     # 1. Load processed corpus
@@ -57,7 +64,7 @@ def main():
     categories = []
     skipped_docs = 0
 
-    for i, doc in enumerate(corpus.documents):
+    for _, doc in enumerate(corpus.documents):
         tokens_no_stop = doc.processed.get("tokens_no_stopwords")
         if not tokens_no_stop:
             skipped_docs += 1
@@ -110,6 +117,9 @@ def main():
 
 
     LOGGER.info("TF-IDF + linguistic/opinion vectorization complete")
+    LOGGER.info("X matrix with TF-IDF + + linguistic/opinion vectorization saved at bgg_combined_matrix.npz")
+    LOGGER.info("ReviewVectorizer object saved at bgg_combined_matrix.npz")
+    LOGGER.info("Vectorizer data with tokens/doc, langs, opinion features and categories saved at vectorizer_data.pkl")
 
 
 if __name__ == "__main__":

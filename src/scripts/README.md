@@ -84,7 +84,7 @@ Trains supervised classification models to predict review polarity using vector 
 **Models Implemented:**
 
 - Multinomial Naive Bayes
-- Support Vector Machines (LinearSVC)
+- Support Vector Machines (SGDClassifier)
 - Random Forest
 - XGBoost (if available)
 

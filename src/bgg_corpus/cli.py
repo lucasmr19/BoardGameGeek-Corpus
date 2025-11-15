@@ -6,7 +6,7 @@ import argparse
 from collections import Counter
 from bgg_corpus.utilities import build_corpus, generate_corpus_statistics
 from bgg_corpus.storage import MongoCorpusStorage
-from bgg_corpus.config import CORPORA_DIR, CORPUS_NAME, CORPORA_STATISTICS_DIR
+from bgg_corpus.config import CORPORA_DIR, CORPUS_NAME, CORPORA_STATISTICS_DIR, RANKS_DF
 from bgg_corpus.resources import LOGGER
 
 # ----------------------------
@@ -15,7 +15,8 @@ from bgg_corpus.resources import LOGGER
 DEFAULT_OUTPUT_DIR = CORPORA_DIR
 DEFAULT_OUTPUT_JSON_NAME = f"{CORPUS_NAME}.json"
 DEFAULT_MAX_WORKERS = 4
-DEFAULT_GAMES = range(1, 510)
+all_ids = RANKS_DF['id'].tolist()
+DEFAULT_GAMES = list(range(1, 510)) + all_ids[:100] # All the reviews downloaded in crawler/API
 
 
 # ----------------------------

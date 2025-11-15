@@ -16,12 +16,13 @@ import time
 import argparse
 
 from ..resources import LOGGER
-from config import API_DIR
+from ..config import API_DIR, RANKS_DF
 
 # ----------------------------
 # Configuration
 # ----------------------------
-IDS = range(1,510)
+all_ids = RANKS_DF['id'].tolist()
+IDS = all_ids[:100]
 RETRY_WAIT = 2
 RETRIES = 5
 
@@ -223,7 +224,7 @@ if __name__ == "__main__":
         "--mode",
         type=str,
         choices=["all", "metadata", "reviews"],
-        default="all",
+        default="metadata",
         help="Processing mode: 'all' (metadata + reviews), 'metadata' only, or 'reviews' only (default: all)"
     )
     

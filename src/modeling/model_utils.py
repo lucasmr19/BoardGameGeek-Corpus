@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Shared utilities for model training and evaluation (Exercises 4 & 5).
+Shared utilities for model training and evaluation.
 
 This module contains reusable components:
 - Custom transformers (ShiftToPositive)
@@ -23,6 +23,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.preprocessing import StandardScaler, MaxAbsScaler, LabelEncoder
 from sklearn.pipeline import Pipeline
 
+from src.bgg_corpus.features import ReviewVectorizer
 from src.bgg_corpus.resources import LOGGER
 
 
@@ -171,7 +172,7 @@ class DataLoader:
 class FeatureManager:
     """Manages feature subset extraction and slicing."""
     
-    def __init__(self, vectorizer):
+    def __init__(self, vectorizer: ReviewVectorizer):
         self.vectorizer = vectorizer
         self.n_tfidf_features: Optional[int] = None
         self.n_opinion_features: Optional[int] = None
@@ -294,13 +295,8 @@ def get_model_instance(model_name: str, seed: int = 42):
     from sklearn.naive_bayes import MultinomialNB
     from sklearn.linear_model import SGDClassifier
     from sklearn.ensemble import RandomForestClassifier
-    
-    try:
-        import xgboost as xgb
-        XGBOOST_AVAILABLE = True
-    except ImportError:
-        XGBOOST_AVAILABLE = False
-    
+    import xgboost as xgb
+
     models = {
         'MultinomialNB': lambda: MultinomialNB(alpha=1.0),
         'SGDClassifier': lambda: SGDClassifier(
@@ -324,7 +320,7 @@ def get_model_instance(model_name: str, seed: int = 42):
             learning_rate=0.1,
             random_state=seed,
             eval_metric='logloss'
-        ) if XGBOOST_AVAILABLE else None
+        ),
     }
     
     if model_name not in models:

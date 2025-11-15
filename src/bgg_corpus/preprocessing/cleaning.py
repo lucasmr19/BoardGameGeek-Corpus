@@ -168,7 +168,7 @@ def extract_special_patterns(text):
 
 def filter_valid_reviews(
     games: List[GameCorpus],
-    min_tokens: int = 2
+    min_tokens: int = 3
 ) -> List[GameCorpus]:
     """
     Filter CorpusDocument objects inside each GameCorpus based on meaningful content.

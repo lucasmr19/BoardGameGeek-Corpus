@@ -106,8 +106,9 @@ def build_corpus(
 
             games.append(game_corpus)
 
+    # Clean reviews without "clean" text and without a minimum of 3 tokens
     print("PHASE 2: Filter Reviews")
-    games: List[GameCorpus] = filter_valid_reviews(games, min_tokens=2)
+    games: List[GameCorpus] = filter_valid_reviews(games, min_tokens=3)
 
     print("PHASE 3: Balance Reviews Across Games")
 
