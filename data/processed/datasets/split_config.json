@@ -4,26 +4,26 @@
   "test_ratio": 0.15,
   "seed": 42,
   "format": "npz",
-  "total_samples": 14817,
-  "n_features": 23300,
-  "train_size": 10371,
-  "val_size": 2223,
-  "test_size": 2223,
+  "total_samples": 31878,
+  "n_features": 48760,
+  "train_size": 22314,
+  "val_size": 4782,
+  "test_size": 4782,
   "class_distribution": {
     "train": {
-      "negative": 3457,
-      "neutral": 3457,
-      "positive": 3457
+      "negative": 7438,
+      "positive": 7438,
+      "neutral": 7438
     },
     "val": {
-      "neutral": 741,
-      "positive": 741,
-      "negative": 741
+      "neutral": 1594,
+      "negative": 1594,
+      "positive": 1594
     },
     "test": {
-      "negative": 741,
-      "neutral": 741,
-      "positive": 741
+      "negative": 1594,
+      "positive": 1594,
+      "neutral": 1594
     }
   },
   "save_config": true

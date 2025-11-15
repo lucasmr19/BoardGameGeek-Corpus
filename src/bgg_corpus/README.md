@@ -78,6 +78,8 @@ python cli.py --games 50 51 52 --balance-strategy hybrid --use-augmentation
 python cli.py --games 50 51 52 --source api --no-parallel
 ```
 
+Or changing the GAMES variable inside the cli.py script if you plan to download thousands.
+
 **Key Options:**
 
 | Option                         | Description                                           |
@@ -242,8 +244,8 @@ print(f"Total reviews processed: {sum(len(g.documents) for g in corpus.games)}")
 
 ## 7. Notes
 
-- **Crawler** → Preferred for fine-grained review filtering (rated/commented/neutral).
-- **API** → Best for fast large-scale metadata & review extraction.
+- **Crawler** → Preferred for fine-grained review filtering (rated/commented).
+- **API** → Best for fast large-scale metadata & review extraction if we don't care about balance.
 - **Utilities** → Centralized helpers for merging, metadata, and preprocessing.
 - **Preprocessing** → Ensures consistent, clean review text for analysis.
 - **Balancing** → Addresses skewed rating distributions (e.g., few 1s or 10s, many 6s–7s).

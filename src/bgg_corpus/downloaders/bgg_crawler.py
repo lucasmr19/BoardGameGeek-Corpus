@@ -21,14 +21,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-from resources import LOGGER
-from config import CRAWLER_DIR
+from ..resources import LOGGER
+from ..config import CRAWLER_DIR, RANKS_DF
 
 # ---------- CONFIG ----------
 PAGE_SLEEP = 1
 RETRY_WAIT = 2
 RETRIES = 3
-IDS = [i for i in range(50, 510)]  # Test with first 20 game IDs
+all_ids = RANKS_DF['id'].tolist()
+IDS = all_ids[:100]  # Test with first 20 game IDs
 
 # ---------- HELPERS ----------
 def normalize_timestamp(ts: Optional[str]) -> Optional[int]:
@@ -136,7 +137,7 @@ def get_total_reviews_count(base_ratings_url: str, driver: webdriver.Chrome,
             # ignore obvious placeholders
             if total >= 999_000:
                 LOGGER.warning(f"[get_total_reviews_count] Placeholder detected ({total}), retrying...")
-                time.sleep(2)  # wait a bit and try again
+                time.sleep(RETRY_WAIT)  # wait a bit and try again
                 return get_total_reviews_count(base_ratings_url, driver, comment, rated, rating, page, timeout)
             LOGGER.info(f"[get_total_reviews_count] Total detected: {total}")
             return total
@@ -408,7 +409,7 @@ def process_game(game_id: int, driver: webdriver.Chrome, output_dir: str, max_pa
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="BGG Crawler - Downloads reviews and statistics")
     parser.add_argument("--ids", type=int, nargs="+", default=IDS, help="List of game IDs")
-    parser.add_argument("--mode", type=str, choices=["all", "balanced"], default="all", help="Download mode")
+    parser.add_argument("--mode", type=str, choices=["all", "balanced"], default="balanced", help="Download mode")
     parser.add_argument("--save", type=str, choices=["reviews", "stats", "both"], default="both", 
                        help="What to save: reviews only, stats only, or both")
     parser.add_argument("--output-dir", type=str, default=CRAWLER_DIR, help="Output directory")

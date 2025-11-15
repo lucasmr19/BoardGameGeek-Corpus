@@ -1,109 +1,109 @@
 
 📊 General statistics
-- Total reviews: 1635840
-- Rated reviews: 1465957
-- Reviews with text: 377622
-- Reviews with rating & text: 296650
-- Unique users: 8868
-- Non-unique users: 2476
-- 10 non-unique users: ['ultimoratio', 'ajie426', 'quietcorn', 'Aevin', 'krit1789', 'HerbertML', 'Nye27', 'b0ardgamer', 'CortexBomb', 'mOCHU035']
+- Total reviews: 5123075
+- Rated reviews: 4828370
+- Reviews with text: 881341
+- Reviews with rating & text: 681696
+- Unique users: 15352
+- Non-unique users: 5298
+- 10 non-unique users: ['Ranior', 'HerbertML', 'Carnage994', 'dacoutts', 'Nye27', 'tomgazpacho', 'Chrisrob', 'Aroquesada', 'Forgeforgeforge', 'Zondag']
 
 ⭐ Ratings distribution (top 10)
-   5.0: 2284
-   6.0: 2155
-   1.0: 1175
-  10.0: 1167
-   2.0: 1164
-   3.0: 1146
-   4.0: 1136
-   9.0: 1018
-   8.0: 1002
-   7.0: 992
+   5.0: 4946
+   6.0: 4770
+   2.0: 2574
+   1.0: 2517
+   3.0: 2482
+   4.0: 2440
+  10.0: 2286
+   7.0: 2229
+   8.0: 2057
+   9.0: 2044
 
 📝 Sample raw text:
-['I enjoyed my fist game but found it too random sometimes.', 'Nice heavy area control. Long term and short terms goals are fun.', 'First impressions:\n\n- An area control game at it\'s heart. Winning an "area" involves gaining the most rally cubes (and trend) and also maximizing the number of matching cards for that region.\n\n- The main phases of the game are very procedural to the point of being tedious to run through every round.\n\n- Turn order is hugely important in most phases. Since the first player is dictated by a blind bid, it make no sense why the turn order isn\'t in order of who spent the most money. This could potentially result in the second place bid being last in turn order which could completely deny the ability to take actions in the round like play a media marker or play a cabinet card. This feels like a huge flaw in the game and feels unsatisfying to play.\n\n- The opinion poll cards also feel very out of place because it directly punishes two random players. The main reason you buy a poll card is to increase your own trend, but that action also drags two random players down. Since trend is a hard resource to get, it feels like a bad design choice again.\n\n- For such a long and procedural game, there are one too many random elements making it not that fun to play. I do love the setting and the thematic integration of most mechanisms.', '超主观点评（5人局）：\n1、代入感拉满了，党派方针要与公众舆论保持一致，但是控制媒体又可以直接影响公众舆论，好的幕僚更是可以直接让党派起飞，但是要请好的幕僚又很贵真的太真实了哈哈哈，公众教育、数字化、交通、社会福利等内容和生活也息息相关，很容易找到感觉。\n2、玩法挺简单的，对着玩家提示板说一遍就可以开始，但是资源有限，各种行动又互相影响，思考量巨大，爽歪歪。虽然结算耗时蛮久，但是大家都很有参与感，不会无聊到找别的事情做。\n3、输了就自己翻规则逆天改命的感觉真爽！纠出一个村点，第1名摆了2个媒体指示物到媒体板块，然后险胜2分哈哈哈！\n4、2019年12月16日初玩印象非常糟糕，2025年2月9日再玩感觉非常上头，大家决定下周末再开两局，不知道是规则改进了（怀疑当时没有轮抽）还是当年没玩懂或者是纯属运气太差？当时玩的是旧版，感受还是留一下：一个非常看运气的游戏，起始手牌不好的话建议直接掀桌！玩一局要三至四个小时，第二把我们玩的时候有三家手牌高度一致，结果就变成二打三，无论如何都没办法翻盘，简直浪费时间！（6分）\n小心得：\n1、抢先手很重要，顺位靠前可以确保幕僚卡的感叹号可以用出来，几乎每个感叹号都很逆天。\n2、钱没有那么重要，我们终局最高的159分，钱最多的才有6分太少了，而且钱是不公开的，再怎么省，自己的钱也不一定是最多的。', 'It is a grandparent of Modern Euros...but it does not mean that I have to like it!'] ...
+['My rating is probably too low; I partly feel like I should hold off rating until I play another game of it. But this feels like a "like it, don\'t love it" situation. It is very Euro-y for sure. Very long, and a lot of balls to keep in the air. Closest comp for me would be Dominant Species, which is more complicated, but which I liked more; both have a very no-frills approach to visual design, which I\'m not crazy about. Die Macher is very, very fluid, almost abstract, more so than I expected. I would have liked to see a little more stability, a little more cross-over from one election to another. Given the time commitment and the need for at least 4 players, I can\'t see myself playing it very often; if I\'m going to play one game for 4 hours, it\'ll probably be Arkham Horror. But playing another game where I know what I\'m doing from the get-go would be helpful. Consider the rating provisional.', "There's a lot of cool elements to like in this game, but it also shows its heritage of one of the first proto-Euro style games.\n\nNamely, there is a lot of randomness going on still, in an otherwise strategic and lengthy game. Your goal is to gain votes, but getting votes has to do with aligning your party platform to a region, gaining popularity in that region, and getting members in that region. The issue is your party platform is partially determined by random card draws, so you can't match if you don't draw the right cards, and your popularity track is partially determined by random poll results that may be what you need or not.\n\nWhich means doing well and winning comes down a little to player decisions, and a lot to the luck of being able to position yourself in the right way. This may be (and is) an excellent commentary on politics, but it doesn't make for fun game mechanics.\n\nI've heard that various editions and house rules mitigate a lot of this as over the years the designer and others take ideas from more modern designs that have learned some things, and I think Die Macher likely would benefit from ways to further reduce and mitigate the randomness of these and other elements.\n\nIf those succeed, I think the rest of the game is pretty fun and the theme comes through pretty strong. The gameplay is interesting as everyone is rationing their resources in order to fight all these various elections and make sure you can afford the various things you need to.\n\nThe game I played though that's the final issue--because you get money also from winning seats, if you get poor early alignment on issues and poll results, you get far less cash too, and so it feels far too swingy to be a proper great strategy game, and why am I spending 3ish hours playing a game asking me to do all this resource management and planning if the main thing picking the winner isn't our decision making, but instead the luck of the draws?", 'This game is far too random for the amount of time and effort it takes to play it.', 'Thematic game - I enjoyed it\n/*#V4*//*stay*/', 'Who knew the german election process could make for an intriguing game? This is an amazing game considering when it was designed, but it does suffer a bit from design elements that show its age. Super crunchy and unforgiving!'] ...
 
 🔍 Contexts for 'game' (window=3, first 5):
-  ('enjoyed fist', 'game', 'found random sometimes')
-  ('impressions area control', 'game', "'s heart winning")
-  ('region main phases', 'game', 'procedural point tedious')
-  ('like huge flaw', 'game', 'feels unsatisfying play')
-  ('choice long procedural', 'game', 'one many random')
+  ('rating play another', 'game', 'feels like like')
+  ('going play one', 'game', "4 hours 'll")
+  ('horror playing another', 'game', "know 'm get")
+  ('cool elements like', 'game', 'also shows heritage')
+  ('otherwise strategic lengthy', 'game', 'goal gain votes')
 
 ⚖️ Top 5 common contexts for ['good', 'bad'] (window=2):
-[('_ party game', 17), ("_ game 's", 4), ('_ fun game', 3), ('_ game', 3), ('_ game would', 3)]
+[('_ party game', 15), ("play 5 _ 's cup", 11), ("_ game 's", 8), ("_ game n't", 6), ('_ game would', 6)]
 
 📌 Most frequent words (top 15):
-  game: 13736
-  's: 4937
-  play: 4480
-  n't: 3769
-  games: 3007
-  fun: 2580
-  one: 2555
-  like: 2549
-  played: 2184
-  players: 2165
-  time: 2051
-  cards: 1813
-  much: 1726
-  good: 1688
-  get: 1531
+  game: 37066
+  's: 13219
+  n't: 11869
+  play: 11521
+  like: 8678
+  games: 7242
+  one: 6549
+  fun: 5448
+  cards: 5444
+  played: 5317
+  players: 5262
+  time: 5237
+  really: 5050
+  much: 5041
+  good: 4538
 
 🟢 Hapax legomena (first 20):
-['1ming', '2ge', '2fen', '2019nian', '12yue', '16ri', '2025nian', '2yue', '9ri', '159fen', 'euros.but', 'groom', 'backfiring', '/*#v4*//*stay*/', 'socks', 'softest', 'atrocity', 'excise', 'yoka', 'plagiarism']
+['stability', 'persevere', 'diffently', 'conceptualmente', 'antiguo', 'carencias', 'laarga', 'acortarla', 'tijeretazo', 'acorta', 'intuitiva', 'francamente', 'mejorable', 'conteo', 'votos', 'aleman', 'conocimiento', 'incomprensibles', 'inicios', 'comparandolo']
 
 📏 Word length distribution (top 10):
-  Length 1: 6100 occurrences
-  Length 2: 17994 occurrences
-  Length 3: 39733 occurrences
-  Length 4: 79970 occurrences
-  Length 5: 59233 occurrences
-  Length 6: 46916 occurrences
-  Length 7: 35217 occurrences
-  Length 8: 23319 occurrences
-  Length 9: 15859 occurrences
-  Length 10: 10953 occurrences
+  Length 1: 17109 occurrences
+  Length 2: 49724 occurrences
+  Length 3: 110743 occurrences
+  Length 4: 225632 occurrences
+  Length 5: 165944 occurrences
+  Length 6: 134012 occurrences
+  Length 7: 100723 occurrences
+  Length 8: 71068 occurrences
+  Length 9: 50164 occurrences
+  Length 10: 36910 occurrences
 
 🔗 Top 10 bigrams:
-  ('ca', "n't"): 462
-  ('game', "'s"): 368
-  ('card', 'game'): 340
-  ('party', 'game'): 301
-  ('play', 'game'): 285
-  ('board', 'game'): 274
-  ('good', 'game'): 249
-  ('great', 'game'): 248
-  ("n't", 'like'): 246
-  ('fun', 'game'): 239
+  ('ca', "n't"): 1244
+  ('game', "'s"): 1025
+  ('board', 'game'): 783
+  ('game', "n't"): 769
+  ('feels', 'like'): 750
+  ("n't", 'like'): 722
+  ('feel', 'like'): 718
+  ('good', 'game'): 717
+  ('play', 'game'): 707
+  ("'ve", 'played'): 635
 
 🔗 Top 5 trigrams:
-  ("'d", 'rather', 'play'): 66
-  ('area', 'control', 'game'): 46
-  ('game', "'ve", 'played'): 37
-  ("'ve", 'ever', 'played'): 36
-  ('trick', 'taking', 'game'): 36
+  ("'d", 'rather', 'play'): 183
+  ('worker', 'placement', 'game'): 137
+  ("n't", 'feel', 'like'): 120
+  ("'ve", 'ever', 'played'): 105
+  ('would', 'rather', 'play'): 103
 
 📎 Top 10 collocations:
-  ('ca', "n't"): 462
-  ('game', "'s"): 368
-  ('card', 'game'): 340
-  ('party', 'game'): 301
-  ('play', 'game'): 285
-  ('board', 'game'): 274
-  ('good', 'game'): 249
-  ('great', 'game'): 248
-  ("n't", 'like'): 246
-  ('fun', 'game'): 239
+  ('ca', "n't"): 1244
+  ('game', "'s"): 1025
+  ('board', 'game'): 783
+  ('game', "n't"): 769
+  ('feels', 'like'): 750
+  ("n't", 'like'): 722
+  ('feel', 'like'): 718
+  ('good', 'game'): 717
+  ('play', 'game'): 707
+  ("'ve", 'played'): 635
 
 📂 Token counts by category:
 Category       Tokens    Types     LexDiv    
-negative       118255    14683     0.124
-neutral        105115    14605     0.139
-positive       123212    17365     0.141
+negative       353060    27270     0.077
+neutral        323154    26660     0.082
+positive       322361    32264     0.100
 
 📂 Review counts by category:
 Category       Num Reviews
-neutral        4939      
-negative       4939      
-positive       4939      
+neutral        10626     
+negative       10626     
+positive       10626     

@@ -562,16 +562,68 @@ class LinguisticFeaturesExtractor:
             'neg': scores['neg']
         }
 
-    def _syntactic_features(self, tokens: List[str], dependencies: List[str]) -> Dict[str, Any]:
-        """Extract syntactic complexity features."""
+    def _syntactic_features(self, tokens: List[str], dependencies: List[Tuple[str, str, str]]) -> Dict[str, Any]:
+        """
+        Extract syntactic complexity features.
+        
+        Args:
+            tokens: List of tokens (no stopwords)
+            dependencies: List of (token, dep_relation, head) tuples from spaCy
+            
+        Returns:
+            Dictionary with syntactic complexity metrics:
+            - num_tokens_no_stop: Total token count
+            - avg_token_no_stop_length: Average character length of tokens
+            - avg_dep_depth: Average dependency tree depth
+            - num_dependencies: Total number of dependencies
+            - max_dep_depth: Maximum dependency depth found
+        """
+        # Average token length
         avg_token_length = np.mean([len(t) for t in tokens]) if tokens else 0
-        dep_depths = [len(dep.split("/")) for dep in dependencies if isinstance(dep, str)]
-        avg_dep = sum(dep_depths) / len(dep_depths) if dep_depths else 0
+        
+        # Build dependency tree to calculate depths
+        dep_depths = []
+        
+        if dependencies:
+            # Create a mapping of token -> head for traversal
+            token_to_head = {}
+            for token, dep_rel, head in dependencies:
+                token_to_head[token] = head
+            
+            # Calculate depth for each token (distance to root)
+            for token, dep_rel, head in dependencies:
+                depth = 0
+                current = token
+                visited = set()
+                
+                # Traverse up the tree until we hit root or a cycle
+                while current in token_to_head and current not in visited:
+                    visited.add(current)
+                    parent = token_to_head[current]
+                    
+                    # Root node points to itself in spaCy
+                    if parent == current:
+                        break
+                        
+                    depth += 1
+                    current = parent
+                    
+                    # Safety check to prevent infinite loops
+                    if depth > 100:
+                        break
+                
+                dep_depths.append(depth)
+        
+        # Calculate statistics
+        avg_dep = np.mean(dep_depths) if dep_depths else 0
+        max_dep = max(dep_depths) if dep_depths else 0
+        
         return {
             "num_tokens_no_stop": len(tokens),
             "avg_token_no_stop_length": avg_token_length,
             "avg_dep_depth": avg_dep,
-            "num_dependencies": len(dep_depths)
+            "num_dependencies": len(dependencies),
+            "max_dep_depth": max_dep
         }
 
     def _extract_sentence_level_features(self, sentences: List[str]) -> Dict[str, Any]:

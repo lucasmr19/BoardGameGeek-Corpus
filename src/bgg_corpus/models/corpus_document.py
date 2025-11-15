@@ -12,15 +12,17 @@ class CorpusDocument:
 
         # Processed dictionary
         self.processed = {
-            "sentences": [], "tokens": [], "tokens_no_stopwords": [], "stems": [], "lemmas": [],
-            "pos_tags": [], "dependencies": [], "entities": [], "linguistic_features": [],
+            #"sentences": [], "tokens": [],
+            "tokens_no_stopwords": [],
+            #"stems": [], "lemmas": [], "pos_tags": [], "dependencies": [], "entities": [], 
+            "linguistic_features": [],
         } # Add more as needed...
 
         # Patterns
-        self.patterns = {
-            "emails": [], "dates": [], "phones": [], "hashtags": [], "mentions": [],
-            "urls": [], "emojis": []
-        }
+        #self.patterns = {
+        #    "emails": [], "dates": [], "phones": [], "hashtags": [], "mentions": [],
+        #    "urls": [], "emojis": []
+        #}
 
         self.game_id = review.game_id
         self.category = review.category
@@ -30,20 +32,20 @@ class CorpusDocument:
             self.language = processed.get("language")
             
             self.processed.update({
-                "sentences": processed.get("sentences", []),
-                "tokens": processed.get("tokens", []),
+                #"sentences": processed.get("sentences", []),
+                #"tokens": processed.get("tokens", []),
                 "tokens_no_stopwords": processed.get("tokens_no_stopwords", []),
-                "stems": processed.get("stems", []),
-                "lemmas": processed.get("lemmas", []),
-                "pos_tags": processed.get("pos_tags", []),
-                "dependencies": processed.get("dependencies", []),
-                "entities": processed.get("entities", []),
+                #"stems": processed.get("stems", []),
+                #"lemmas": processed.get("lemmas", []),
+                #"pos_tags": processed.get("pos_tags", []),
+                #"dependencies": processed.get("dependencies", []),
+                #"entities": processed.get("entities", []),
                 "linguistic_features": processed.get("linguistic_features", []),
             })
             
-            patterns_dict = processed.get("patterns", {})
-            for k in self.patterns:
-                self.patterns[k] = patterns_dict.get(k, [])
+            #patterns_dict = processed.get("patterns", {})
+            #for k in self.patterns:
+            #    self.patterns[k] = patterns_dict.get(k, [])
 
     def to_dict(self) -> Dict[str, Any]:
         return {
@@ -56,5 +58,5 @@ class CorpusDocument:
             "clean_text": self.clean_text,
             "language": self.language,
             "processed": self.processed,
-            "patterns": self.patterns,
+            #"patterns": self.patterns,
         }

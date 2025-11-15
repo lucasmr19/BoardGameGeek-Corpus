@@ -2,11 +2,11 @@
 EXERCISE 4: MODEL TRAINING SUMMARY
 ======================================================================
 
-Total documents: 14817
-Class distribution: {'neutral': 4939, 'negative': 4939, 'positive': 4939}
-Total features: 23300
-  - TF-IDF features: 8000
-  - Opinion features: 15300
+Total documents: 31878
+Class distribution: {'neutral': 10626, 'negative': 10626, 'positive': 10626}
+Total features: 48760
+  - TF-IDF features: 20000
+  - Opinion features: 28760
 
 Available models: MultinomialNB, SGDClassifier, RandomForest, XGBoost
 Models trained: 12/12
@@ -19,15 +19,9 @@ Model configurations:
   - XGBoost: No scaling (tree-based)
 
 Trained model files:
-  - LinearSVM_combined.pkl
-  - LinearSVM_ngrams.pkl
-  - LinearSVM_opinion.pkl
   - MultinomialNB_combined.pkl
-  - MultinomialNB_combined_scaler.pkl
   - MultinomialNB_ngrams.pkl
-  - MultinomialNB_ngrams_scaler.pkl
   - MultinomialNB_opinion.pkl
-  - MultinomialNB_opinion_scaler.pkl
   - RandomForest_combined.pkl
   - RandomForest_ngrams.pkl
   - RandomForest_opinion.pkl
@@ -35,9 +29,6 @@ Trained model files:
   - SGDClassifier_ngrams.pkl
   - SGDClassifier_opinion.pkl
   - XGBoost_combined.pkl
-  - XGBoost_combined_label_encoder.pkl
   - XGBoost_ngrams.pkl
-  - XGBoost_ngrams_label_encoder.pkl
   - XGBoost_opinion.pkl
-  - XGBoost_opinion_label_encoder.pkl
   - shared_label_encoder.pkl

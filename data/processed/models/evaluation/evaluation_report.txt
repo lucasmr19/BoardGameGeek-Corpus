@@ -2,11 +2,11 @@
 MODEL EVALUATION TECHNICAL REPORT
 ======================================================================
 
-Generated: 2025-11-07 12:52:10
+Generated: 2025-11-11 17:59:29
 
 DATASET INFORMATION
 ----------------------------------------------------------------------
-Train: 10371 | Val: 2223 | Test: 2223
+Train: 22314 | Val: 4782 | Test: 4782
 
 MODEL CONFIGURATIONS
 ----------------------------------------------------------------------
@@ -40,106 +40,106 @@ Parameter grids per model:
      classifier__max_features: ['sqrt', 'log2']
 
   ▸ XGBoost:
-     classifier__n_estimators: [100, 200]
+     classifier__n_estimators: [200, 300]
      classifier__max_depth: [3, 6]
      classifier__subsample: [0.8, 1.0]
      classifier__colsample_bytree: [0.8, 1.0]
 
-EVALUATION RESULTS (sorted by Test F1-Score)
+EVALUATION RESULTS (sorted by Test Avg 0.25xAcc + 0.25xPrec + 0.25xRec + 0.25xF1)
 ----------------------------------------------------------------------
 
 1. XGBoost (combined features)
-   Validation - Acc: 0.5349, P: 0.5331, R: 0.5349, F1: 0.5330, Avg: 0.5340
-   Test       - Acc: 0.5529, P: 0.5514, R: 0.5529, F1: 0.5516, Avg: 0.5522
+   Validation - Acc: 0.5588, P: 0.5525, R: 0.5588, F1: 0.5539, Avg: 0.5560
+   Test       - Acc: 0.5638, P: 0.5586, R: 0.5638, F1: 0.5602, Avg: 0.5616
    Tuned: Yes
-   Best hyperparameters: {'classifier__colsample_bytree': 1.0, 'classifier__max_depth': 6, 'classifier__n_estimators': 200, 'classifier__subsample': 0.8}
-   CV Score: 0.5338
+   Best hyperparameters: {'classifier__colsample_bytree': 0.8, 'classifier__max_depth': 6, 'classifier__n_estimators': 300, 'classifier__subsample': 0.8}
+   CV Score: 0.5649
 
-2. RandomForest (combined features)
-   Validation - Acc: 0.5263, P: 0.5173, R: 0.5263, F1: 0.5180, Avg: 0.5220
-   Test       - Acc: 0.5443, P: 0.5385, R: 0.5443, F1: 0.5391, Avg: 0.5416
+2. XGBoost (ngrams features)
+   Validation - Acc: 0.5489, P: 0.5456, R: 0.5489, F1: 0.5453, Avg: 0.5472
+   Test       - Acc: 0.5554, P: 0.5524, R: 0.5554, F1: 0.5523, Avg: 0.5539
    Tuned: Yes
-   Best hyperparameters: {'classifier__max_depth': None, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 5}
-   CV Score: 0.5236
+   Best hyperparameters: {'classifier__colsample_bytree': 1.0, 'classifier__max_depth': 6, 'classifier__n_estimators': 300, 'classifier__subsample': 0.8}
+   CV Score: 0.5525
 
 3. RandomForest (ngrams features)
-   Validation - Acc: 0.5344, P: 0.5261, R: 0.5344, F1: 0.5248, Avg: 0.5299
-   Test       - Acc: 0.5322, P: 0.5263, R: 0.5322, F1: 0.5271, Avg: 0.5294
+   Validation - Acc: 0.5533, P: 0.5425, R: 0.5533, F1: 0.5425, Avg: 0.5479
+   Test       - Acc: 0.5506, P: 0.5408, R: 0.5506, F1: 0.5408, Avg: 0.5457
    Tuned: Yes
-   Best hyperparameters: {'classifier__max_depth': None, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 2}
-   CV Score: 0.5236
+   Best hyperparameters: {'classifier__max_depth': None, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 5}
+   CV Score: 0.5499
 
-4. XGBoost (ngrams features)
-   Validation - Acc: 0.5124, P: 0.5188, R: 0.5124, F1: 0.5143, Avg: 0.5145
-   Test       - Acc: 0.5133, P: 0.5181, R: 0.5133, F1: 0.5148, Avg: 0.5148
-   Tuned: Yes
-   Best hyperparameters: {'classifier__colsample_bytree': 0.8, 'classifier__max_depth': 6, 'classifier__n_estimators': 200, 'classifier__subsample': 0.8}
-   CV Score: 0.5174
-
-5. XGBoost (opinion features)
-   Validation - Acc: 0.5173, P: 0.5179, R: 0.5173, F1: 0.5175, Avg: 0.5175
-   Test       - Acc: 0.5416, P: 0.5430, R: 0.5416, F1: 0.5422, Avg: 0.5421
-   Tuned: Yes
-   Best hyperparameters: {'classifier__colsample_bytree': 0.8, 'classifier__max_depth': 6, 'classifier__n_estimators': 200, 'classifier__subsample': 0.8}
-   CV Score: 0.5164
-
-6. RandomForest (opinion features)
-   Validation - Acc: 0.5119, P: 0.5054, R: 0.5119, F1: 0.5063, Avg: 0.5089
-   Test       - Acc: 0.5205, P: 0.5150, R: 0.5205, F1: 0.5154, Avg: 0.5178
+4. RandomForest (combined features)
+   Validation - Acc: 0.5514, P: 0.5439, R: 0.5514, F1: 0.5452, Avg: 0.5480
+   Test       - Acc: 0.5613, P: 0.5554, R: 0.5613, F1: 0.5563, Avg: 0.5586
    Tuned: Yes
    Best hyperparameters: {'classifier__max_depth': None, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 5}
-   CV Score: 0.5065
+   CV Score: 0.5463
 
-7. MultinomialNB (ngrams features)
-   Validation - Acc: 0.5254, P: 0.5206, R: 0.5254, F1: 0.5219, Avg: 0.5233
-   Test       - Acc: 0.5065, P: 0.5037, R: 0.5065, F1: 0.5047, Avg: 0.5053
+5. XGBoost (opinion features)
+   Validation - Acc: 0.5425, P: 0.5366, R: 0.5425, F1: 0.5383, Avg: 0.5400
+   Test       - Acc: 0.5473, P: 0.5425, R: 0.5473, F1: 0.5441, Avg: 0.5453
+   Tuned: Yes
+   Best hyperparameters: {'classifier__colsample_bytree': 1.0, 'classifier__max_depth': 6, 'classifier__n_estimators': 300, 'classifier__subsample': 0.8}
+   CV Score: 0.5421
+
+6. MultinomialNB (ngrams features)
+   Validation - Acc: 0.5535, P: 0.5502, R: 0.5535, F1: 0.5510, Avg: 0.5521
+   Test       - Acc: 0.5613, P: 0.5602, R: 0.5613, F1: 0.5603, Avg: 0.5608
    Tuned: Yes
    Best hyperparameters: {'classifier__alpha': 1.0}
-   CV Score: 0.5023
+   CV Score: 0.5418
 
-8. MultinomialNB (combined features)
-   Validation - Acc: 0.4782, P: 0.5385, R: 0.4782, F1: 0.4782, Avg: 0.4933
-   Test       - Acc: 0.4885, P: 0.5436, R: 0.4885, F1: 0.4869, Avg: 0.5019
+7. RandomForest (opinion features)
+   Validation - Acc: 0.5326, P: 0.5268, R: 0.5326, F1: 0.5283, Avg: 0.5301
+   Test       - Acc: 0.5299, P: 0.5242, R: 0.5299, F1: 0.5256, Avg: 0.5274
    Tuned: Yes
-   Best hyperparameters: {'classifier__alpha': 0.1}
-   CV Score: 0.4983
+   Best hyperparameters: {'classifier__max_depth': None, 'classifier__max_features': 'log2', 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 5}
+   CV Score: 0.5261
 
-9. SGDClassifier (combined features)
-   Validation - Acc: 0.4750, P: 0.4773, R: 0.4750, F1: 0.4760, Avg: 0.4758
-   Test       - Acc: 0.4696, P: 0.4712, R: 0.4696, F1: 0.4703, Avg: 0.4702
+8. SGDClassifier (combined features)
+   Validation - Acc: 0.4994, P: 0.4971, R: 0.4994, F1: 0.4981, Avg: 0.4985
+   Test       - Acc: 0.5050, P: 0.5041, R: 0.5050, F1: 0.5045, Avg: 0.5047
+   Tuned: Yes
+   Best hyperparameters: {'classifier__alpha': 0.001, 'classifier__loss': 'log_loss', 'classifier__max_iter': 10000, 'classifier__penalty': 'elasticnet', 'classifier__tol': 0.001}
+   CV Score: 0.4916
+
+9. SGDClassifier (opinion features)
+   Validation - Acc: 0.5038, P: 0.5082, R: 0.5038, F1: 0.5055, Avg: 0.5053
+   Test       - Acc: 0.5090, P: 0.5121, R: 0.5090, F1: 0.5103, Avg: 0.5101
+   Tuned: Yes
+   Best hyperparameters: {'classifier__alpha': 0.001, 'classifier__loss': 'log_loss', 'classifier__max_iter': 10000, 'classifier__penalty': 'elasticnet', 'classifier__tol': 0.001}
+   CV Score: 0.4901
+
+10. MultinomialNB (combined features)
+   Validation - Acc: 0.4933, P: 0.5339, R: 0.4933, F1: 0.4709, Avg: 0.4979
+   Test       - Acc: 0.4956, P: 0.5348, R: 0.4956, F1: 0.4759, Avg: 0.5005
+   Tuned: Yes
+   Best hyperparameters: {'classifier__alpha': 1.0}
+   CV Score: 0.4895
+
+11. SGDClassifier (ngrams features)
+   Validation - Acc: 0.4818, P: 0.4826, R: 0.4818, F1: 0.4821, Avg: 0.4821
+   Test       - Acc: 0.4994, P: 0.4987, R: 0.4994, F1: 0.4990, Avg: 0.4991
    Tuned: Yes
    Best hyperparameters: {'classifier__alpha': 0.001, 'classifier__loss': 'hinge', 'classifier__max_iter': 10000, 'classifier__penalty': 'elasticnet', 'classifier__tol': 0.001}
-   CV Score: 0.4701
+   CV Score: 0.4773
 
-10. MultinomialNB (opinion features)
-   Validation - Acc: 0.4399, P: 0.4933, R: 0.4399, F1: 0.4322, Avg: 0.4514
-   Test       - Acc: 0.4552, P: 0.5108, R: 0.4552, F1: 0.4468, Avg: 0.4670
+12. MultinomialNB (opinion features)
+   Validation - Acc: 0.4458, P: 0.4993, R: 0.4458, F1: 0.4098, Avg: 0.4502
+   Test       - Acc: 0.4517, P: 0.5011, R: 0.4517, F1: 0.4186, Avg: 0.4558
    Tuned: Yes
-   Best hyperparameters: {'classifier__alpha': 0.5}
-   CV Score: 0.4681
-
-11. SGDClassifier (opinion features)
-   Validation - Acc: 0.4588, P: 0.4621, R: 0.4588, F1: 0.4601, Avg: 0.4600
-   Test       - Acc: 0.4629, P: 0.4674, R: 0.4629, F1: 0.4642, Avg: 0.4643
-   Tuned: Yes
-   Best hyperparameters: {'classifier__alpha': 0.001, 'classifier__loss': 'log_loss', 'classifier__max_iter': 10000, 'classifier__penalty': 'elasticnet', 'classifier__tol': 0.001}
-   CV Score: 0.4658
-
-12. SGDClassifier (ngrams features)
-   Validation - Acc: 0.4615, P: 0.4628, R: 0.4615, F1: 0.4620, Avg: 0.4620
-   Test       - Acc: 0.4494, P: 0.4502, R: 0.4494, F1: 0.4498, Avg: 0.4497
-   Tuned: Yes
-   Best hyperparameters: {'classifier__alpha': 0.001, 'classifier__loss': 'log_loss', 'classifier__max_iter': 10000, 'classifier__penalty': 'elasticnet', 'classifier__tol': 0.001}
-   CV Score: 0.4553
+   Best hyperparameters: {'classifier__alpha': 1.0}
+   CV Score: 0.4452
 
 
 BEST MODEL
 ----------------------------------------------------------------------
 Model: XGBoost
 Features: combined
-Test Accuracy: 0.5529
-Test F1-Score: 0.5516
-Test Composite (Avg Acc+Prec+Rec+F1): 0.5522
+Test Accuracy: 0.5638
+Test F1-Score: 0.5602
+Test Composite (Avg Acc+Prec+Rec+F1): 0.5616
 Tuned: Yes
-Optimal hyperparameters: {'classifier__colsample_bytree': 1.0, 'classifier__max_depth': 6, 'classifier__n_estimators': 200, 'classifier__subsample': 0.8}
-Cross-validated composite score: 0.5338
+Optimal hyperparameters: {'classifier__colsample_bytree': 0.8, 'classifier__max_depth': 6, 'classifier__n_estimators': 300, 'classifier__subsample': 0.8}
+Cross-validated composite score: 0.5649
