@@ -9,7 +9,7 @@ Generates and saves:
 - Combined sparse representation
 
 Usage example:
-    python scripts/pln_p2_7462_02_e2.py \
+    python scripts/create_sparse_matrices.py \
         --corpus path/to/bgg_corpus.json \
         --output_dir path/to/save/vectors \
         --max_features 8000 \
@@ -25,7 +25,7 @@ import joblib
 from src.bgg_corpus.models import Corpus
 from src.bgg_corpus.features.vectorization import ReviewVectorizer
 from src.bgg_corpus.resources import LOGGER
-from src.bgg_corpus.config import CORPORA_DIR, VECTORS_DIR, CORPUS_NAME
+from src.bgg_corpus.config import CORPORA_DIR, VECTORS_DIR_BOW, CORPUS_NAME
 
 def main():
     # ----------------------------
@@ -34,7 +34,7 @@ def main():
     parser = argparse.ArgumentParser(description="Generate TF-IDF + opinion feature vectors for BGG reviews")
     parser.add_argument("--corpus", type=str, default=os.path.join(CORPORA_DIR, f"{CORPUS_NAME}.json"),
                         help="Path to the processed corpus JSON")
-    parser.add_argument("--output_dir", type=str, default=VECTORS_DIR,
+    parser.add_argument("--output_dir", type=str, default=VECTORS_DIR_BOW,
                         help="Directory to save vectorized matrices and vectorizer")
     parser.add_argument("--max_features", type=int, default=20000,
                         help="Maximum number of TF-IDF features")

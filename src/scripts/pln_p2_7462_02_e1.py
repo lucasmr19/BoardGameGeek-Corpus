@@ -65,19 +65,19 @@ def main():
             # Skip if already processed
             if getattr(doc, "linguistic_features", {}):
                 continue
-
+            
             clean_text = getattr(doc, "clean_text", None)
             if not clean_text.strip():
                 doc.linguistic_features = {}
                 continue
 
-            # Use language already detected in the corpus
+            # Use language detected in the corpus
             spacy_lang = doc.language
             nltk_lang = get_nltk_language(spacy_lang)
             stop_words = STOPWORDS_CACHE.get(nltk_lang, set())
 
             # Recompute the necessary linguistic info like point 3 in review_processor.py
-            sentences, _, tokens_no_stop, lemmas, pos_tags, dependencies, _ = analyze_text_spacy(
+            sentences, _, tokens_no_stop, lemmas, pos_tags, dependencies, entities = analyze_text_spacy(
                 clean_text,
                 spacy_lang,
                 stop_words,
@@ -91,6 +91,7 @@ def main():
                 dependencies=dependencies,
                 sentences=sentences,
                 pos_tags=pos_tags,
+                entities=entities,
                 raw_text=doc.raw_text
             )
             
