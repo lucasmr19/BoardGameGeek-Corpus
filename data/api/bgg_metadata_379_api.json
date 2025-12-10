@@ -1,0 +1,37 @@
+{
+    "id": 379,
+    "name": "Express",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "Building trains is an integral part of America's history. Now the tradition continues with Express, a unique card game for the 90's. Reminiscent of classic card games but including new play twists, Express is as easy to learn as rummy. Players start with one or two car trains and build on their meld to maximize points and bonuses. But players must be wary of train wrecks and derailments. Unique play allows partners to pass key cards to each other during the game.<br/><br/>The cards represent various train cars, freight, passenger and way, diesel locomotives and disasters.<br/><br/>Cards are shuffled and dealt to each player, and remaining cards form a draw pile.  Turns consist of drawing either two cards from the face down draw pile or one face up card from the discard pile, melding cards from one's hand and discarding a card.  Players must end their turns with no more than five cards in their hands.  Players meld cards to form freight trains or passenger trains, or they meld individual way cars.  Freight trains are melded so that all the cars are of the same type, such as box car, tank car or auto carrier.  However, a wild card car can be used to have two types of cars in the same freight train.  Passenger trains may contain any or all of the different types of passenger cars.  Each train needs a locomotive which can be any card placed face down.  There is a locomotive pictured on the back of each card.  During the melding phase of their turn, players may exchange face down locomotive cards with any card in their hand.  This feature allows partners to share cards when the game is played by four or six.<br/><br/>Disaster cards may be played as discards.  They can change the direction of play, allow theft of an opponent's car or wreck an entire train.  Way car cards either absorb the damage of corresponding disasters or remedy them in a fashion similar to the Coup Fourre' of Mille Bornes.<br/><br/>Hands end when a player or partnership &quot;goes out.&quot;  To do this the player's melds must consist of at least one five car train, one four car train and all other trains must be at least three cars long.  The player then melds all but one card which he discards.  Trains and way cars are scored.  Cards left in players hands count against them.<br/><br/>The game is played in hands until one player or partnership accumulates the points needed to win.  The player or partnership with the most points at the end of that hand wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CnpJ3_6rkc4JNhbgDSsevg__original/img/JVQKf9cK6MCJTMCSQTrY7L_L2WA=/0x0/filters:format(jpeg)/pic8304810.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/CnpJ3_6rkc4JNhbgDSsevg__small/img/THUUZMfUWP3C0ZRd6FaKvX4XAMo=/fit-in/200x150/filters:strip_icc()/pic8304810.jpg",
+    "publishers": [
+        "Mayfair Games",
+        "Steve Jackson Games"
+    ],
+    "designers": [
+        "Darwin Bromley"
+    ],
+    "artists": [
+        "David B. Bromley",
+        "Ike Scott"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection",
+            "Take That"
+        ],
+        "categories": [
+            "Card Game",
+            "Trains"
+        ],
+        "families": [
+            "Traditional Card Games: Rummy"
+        ]
+    }
+}

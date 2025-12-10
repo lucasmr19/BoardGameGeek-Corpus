@@ -1,0 +1,50 @@
+{
+    "id": 110,
+    "name": "Auf Achse",
+    "yearpublished": "1987",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "Auf Achse translates roughly to &quot;On the Road,&quot; an appropriate title for this 1987 Spiel des Jahres winner which has players delivering loads of commodities to various German and other European cities. Supply cities and demand cities are determined through card play, and players attempt to get delivery contracts by bidding against one another. Movement is accomplished by rolling a die and then moving little rubberized trucks around an abstracted map which depicts lots of interconnected roads and cities in Germany and surrounding countries.<br/><br/>Re-released in 2007 with new artwork and several rule changes designed to reduce randomness.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/LhkDed_3m7mRa_mx7ntEnA__original/img/HoA5iSG3d7I_2-amd91GUX8u7GA=/0x0/filters:format(jpeg)/pic348799.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LhkDed_3m7mRa_mx7ntEnA__small/img/-2aIz_8189UcINs2qGHRjXSi268=/fit-in/200x150/filters:strip_icc()/pic348799.jpg",
+    "publishers": [
+        "Dino Toys s. r. o.",
+        "Disk Říčany",
+        "F.X. Schmid",
+        "Grow Jogos e Brinquedos",
+        "Ravensburger",
+        "REGIO Játék",
+        "Rhenania Gruppe",
+        "Schmidt Spiele",
+        "Vini-Spil"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Jochen Frick",
+        "Harald Lieske"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Pick-up and Deliver",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Economic",
+            "Movies / TV / Radio theme",
+            "Transportation"
+        ],
+        "families": [
+            "Country: Germany",
+            "Digital Implementations: BrettspielWelt",
+            "Promotional: Board Games",
+            "Theme: Trucks",
+            "TV Shows: Auf Achse"
+        ]
+    }
+}

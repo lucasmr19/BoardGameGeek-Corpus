@@ -1,0 +1,47 @@
+{
+    "id": 264,
+    "name": "Enemy in Sight",
+    "yearpublished": "1988",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "Enemy in Sight, originally called Cutthroats and Cannons, was two years in the making.<br/><br/>It is a fast paced card wargame with a good mix of strategy and luck of the draw.<br/><br/>Each player starts with a fleet of six ships and six cards. As your ships are destroyed your hand size diminishes as well.<br/><br/>One of the most unique characteristics of the game is the walking disasters. The red cards in EIS move around the table from player to player until resolved.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Z9gOil2eWTN2miqm-Y8W2A__original/img/qvSLhe57zUUKIWMCaNhPgUXssFs=/0x0/filters:format(jpeg)/pic287652.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Z9gOil2eWTN2miqm-Y8W2A__small/img/zBuTtSfdqlr99iKJ68MnsaYYDHE=/fit-in/200x150/filters:strip_icc()/pic287652.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Lost Battalion Games"
+    ],
+    "designers": [
+        "Neal Schlaffer"
+    ],
+    "artists": [
+        "Charles Kibler",
+        "George I. Parrish, Jr."
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hand Management",
+            "Take That"
+        ],
+        "categories": [
+            "Age of Reason",
+            "American Revolutionary War",
+            "Card Game",
+            "Napoleonic",
+            "Nautical",
+            "Wargame"
+        ],
+        "families": [
+            "Country: France",
+            "Country: Great Britain",
+            "Country: Spain",
+            "Country: United Kingdom",
+            "Country: USA",
+            "History: Age of Kings"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "id": 361,
+    "name": "Hare & Tortoise",
+    "yearpublished": "1973",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "8",
+    "description": "As the first winner of the Spiel des Jahres award in 1979, Hare and Tortoise or the German Hase und Igel (for Hare and Hedgehog) will always be regarded as a classic game.  It is a cunningly designed race to the finish in which your fuel (carrots) must practically run out (all but 10 carrots or fewer) at the moment you hit the finish line.  You also have three lettuce cards you must spend during the course of the race.  The farther you move, the more carrots you spend, and there are a variety of ways to gain or lose carrots as you go around the track.  It's a very clever exercise in arithmetic which David Parlett has fashioned into an entertaining and unique perennial favorite.<br/><br/>There have several variations between the multiple prints of Hare &amp; Tortoise by different publishers.  Most variations come from methods of adding randomness that favor lagging player via cards, dice, or dice charts when landing on a Hare square.<br/><br/><br/>      Parlett Strategic Variant -- The designer's preferred way of playing the Hare square is that &quot;... you can land on them [Hare square], but must miss a turn. This would be the equivalent of the hare taking a nap, as in Aesop's fable. This is the rule I most favour and would prefer it to simply not landing on them at all...&quot;<br/><br/><br/><br/>      Tournament Jugging the Hare rule -- When you land on a hare square do nothing immediately. If nobody goes past you, draw 10 carrots when you next move. If they do, pay 10 carrots into the carrot patch for each player who goes past you, in either direction. (source: <a target='_blank' href=\"http://www.parlettgames.uk/haretort/htjughare.html#new\" rel=\"nofollow noreferrer noopener\">http://www.parlettgames.uk/haretort/htjughare.html#new</a>)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/rX7uZ5UCbVV61tNCTnZTmg__original/img/p_Anw8ONur9oiVEQRORAffwP0Po=/0x0/filters:format(jpeg)/pic275126.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rX7uZ5UCbVV61tNCTnZTmg__small/img/l5wm0q-MD2LRxcFuIhr34yBoo4M=/fit-in/200x150/filters:strip_icc()/pic275126.jpg",
+    "publishers": [
+        "999 Games",
+        "ABACUSSPIELE",
+        "Alga",
+        "Broadway Toys LTD",
+        "danspil",
+        "Devir",
+        "Educa Sallent SA",
+        "Gibsons",
+        "Hobby Base",
+        "Intellect Games",
+        "John Sands Pty Ltd",
+        "K.E.Leg",
+        "Kipo's",
+        "Novoplast",
+        "Otto Maier Verlag",
+        "Ravensburger",
+        "Rio Grande Games",
+        "Waddingtons"
+    ],
+    "designers": [
+        "David Parlett"
+    ],
+    "artists": [
+        "Pedro A. Alberto",
+        "Büttner und Plümacher",
+        "Ritva Hussain-Shahid",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Resource to Move"
+        ],
+        "categories": [
+            "Animals",
+            "Racing"
+        ],
+        "families": [
+            "Animals: Hedgehogs / Porcupines",
+            "Animals: Rabbits / Hares",
+            "Animals: Turtles",
+            "Authors: Jean de La Fontaine",
+            "Folk Tales & Fairy Tales: The Tortoise and the Hare",
+            "Misc: Dice Tower Hall of Fame",
+            "Promotional: Board Games"
+        ]
+    }
+}

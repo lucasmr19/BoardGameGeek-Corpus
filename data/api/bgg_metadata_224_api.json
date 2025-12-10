@@ -1,0 +1,56 @@
+{
+    "id": 224,
+    "name": "History of the World",
+    "yearpublished": "1991",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "135",
+    "maxplaytime": "270",
+    "age": "12",
+    "description": "History of the World works under the assumptions that all empires eventually fade and that the only things differentiating great empires from lesser ones is how much territory they conquer and how long it takes for their civilizations to disappear.  The game is played out over 7 epochs or rounds, from the ancient 3000 B.C. Sumerians to the pre-WW1 Germany, with every player controlling a new rising empire from history.  Some empires are stronger than others (like the Romans), but the game's clever mechanisms can help balance that out.  At the end of each epoch, players score points for all units of their color (from both the current and any previous empires) remaining on the board.<br/><br/>Before the start of their turn a player may play up to two Event cards from their hand.  The Events played are resolved before the player starts his Empire's actions.  If the player's active Empire has navigation a ship token is placed in each sea or ocean listed (if an ocean is listed all adjacent seas to the ocean have ship markers put into them).  A Reallocation Greater Event allows an Empire with Navigation to exchange Fleets in seas and oceans for Coins that can be used to buy back defeated troops (1 coin per troop).  If the active Empire has a capitol it is taken and placed in the Empire's starting land with one unit of the Empire's available troops.  Since each land space may only contain one troop the player begins expanding from their starting land by placing troops in any adjacent land space that they wish to occupy or conquer.  To conquer a land the attacker moves one unit into the land space either from adjacent land or through a sea with a ship in it.  Then dice are rolled, the attacker gets 2 dice and the defender only one, unless the attacker traveled across a strait or the defender's land has either a forest, the great wall of China, or mountains on the border of the land that the attacker came from.  In this case the defender receives 2 dice as well.  If the attack comes from the sea the defender gets 3 dice for defense.  Highest score wins with ties killing off both the defender and attacker.  In this case the attacker can merely place the next troop, if he has any left, in the now-empty land space.<br/><br/>At any time the active Empire player may exchange an unplaced troop for a fort.  On later turns, a fort gives the player a +1 to defensive rolls in that land.  Also, if the defender in a fort loses or ties with an attacker only the fort is removed and the battle continues.  Whenever an army conquers a land with a capitol the capitol mini is flipped reducing it to a city (if it was a city to begin with it is removed from board when conquered).  After the active player's Empire is finished with it's actions check to see if it conquered to land spaces with resource symbols, if so it can build a monument.<br/><br/>Then scoring takes place.  Each area (Middle-East, Northern Europe, Eurasia, etc...) has a tile with 3 values for the current Epoch.  One value is for having a presence in the area (at least one land).  Another value is for having Dominance in the area (at least 2 lands and more than any other player in area). The last value is for having Control of an area (at least 3 lands and no other player has any in area).  These values vary from Epoch to Epoch and Area to Area (Middle-East is more valuable in early Epochs and fades in later Epochs, for example).  Total the scores from each area for all pieces of the player's color from all Empires controlled that remain on board.  Then add 2 points for each capitol controlled, 1 point per city and one point for each monument controlled. After all areas are scored the next Empire called takes its turn.<br/><br/>After all players have taken their turns and scored, for the first Epoch, the player with the highest score gets to take a pre-eminence marker and places it in front of him.  These are secret bonus points (worth somewhere from 3 to 6) for the end of the game and may not be examined till then.  This bonus to leader helps balance the Empire-draw mechanic and makes it valuable to score maximal points even early in the game, rather than tanking to get a better draw later. Then drawing begins for the next Epoch with the player having the lowest score drawing first on up to the person with the highest score drawing last (and likely being given a less than optimal Empire by another player).<br/><br/>After the last player has scored for Epoch 7 and the leader has drawn a pre-eminence marker, all players reveal their pre-eminence markers and add them to their scores.  The player with the highest score wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/2pr-83ghWQUlwXSLuSTCtw__original/img/_MRG_pnmZQwScJWus84gwaXNflE=/0x0/filters:format(jpeg)/pic287451.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/2pr-83ghWQUlwXSLuSTCtw__small/img/4XPSkcdNf6CXGWsDGSRXrP7VUBc=/fit-in/200x150/filters:strip_icc()/pic287451.jpg",
+    "publishers": [
+        "Avalon Hill",
+        "Ragnar Brothers",
+        "The Avalon Hill Game Co",
+        "Compendium Games",
+        "Gibsons",
+        "Welt der Spiele",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Gary Dicken",
+        "Steve Kendall",
+        "Phil Kendall"
+    ],
+    "artists": [
+        "Charles S. Jarboe, Jr.",
+        "Steve Kendall",
+        "Jason Spiller",
+        "David Walker"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Dice Rolling",
+            "Hand Management"
+        ],
+        "categories": [
+            "Civilization",
+            "Ancient",
+            "Medieval",
+            "Napoleonic",
+            "Post-Napoleonic",
+            "Renaissance",
+            "Wargame",
+            "World War I"
+        ],
+        "families": [
+            "Ancient: Rome",
+            "Components: Map (Global Scale)",
+            "Components: Miniatures",
+            "Theme: Colonial"
+        ]
+    }
+}

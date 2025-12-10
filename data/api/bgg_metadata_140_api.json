@@ -1,0 +1,77 @@
+{
+    "id": 140,
+    "name": "Pit",
+    "yearpublished": "1903",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "90",
+    "age": "7",
+    "description": "Pit is an open-outcry commodity trading game. The first edition in 1903 had a deck of 63 cards, 9 each of 7 commodities, each with a value (ranging from 40 for Flax to 100 for Wheat). Players offer trades by crying out the number of cards they want to swap (&ldquo;One! One! One!&rdquo;, or &ldquo;Three! Three! Three!&rdquo;) but not their identity. The winner of the hand is the first to collect all of one commodity, declaring &ldquo;Corner on Wheat!&rdquo; or whatever commodity has been collected. The winner of the hand scores points equal to the value of the commodity, and the winner of the game is the first to 500 points.<br/><br/>The 1904 Edition of Pit added much fancier artwork and the famous Bull and Bear cards, which provide wild-card and penalty features. The early editions allowed a maximum of 7 players, but later versions supported 8 and in at least one case up to 10.<br/><br/>Pit&rsquo;s designer, noted psychic Edgar Cayce, is often accused of having stolen the idea from the game Gavitt&rsquo;s Stock Exchange (G-S-E) invented by Harry Gavitt. While G-S-E claimed patents dating as early as 1896, it involved trading railway shares, and was only copyrighted and published in 1903, the same year as Pit.  In addition, the only related patent assigned to Gavitt is US746492 A, filed October 7, 1903, and granted December 8, 1903.  Also hitting the market in 1903 was Bourse', a remarkably similar open-outcry commodity trading game from Flinch Card Co., using an 80-card deck with 10 each of 8 commodities, and Panic, using a 65 card deck with 8 each of 8 commodities and a Panic card, roughly equivalent to the Bull.  Pit, however, seems to have cornered the market on open-outcry games, as neither of its competitors were seen again after 1904.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/LkEPNu7bPTS1rVRU_Ba-Dg__original/img/rLq4S5WQ8ns2Ez3n3RIwe1_ZI8Y=/0x0/filters:format(jpeg)/pic423644.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LkEPNu7bPTS1rVRU_Ba-Dg__small/img/TTYL285XHOkpIzFtonMnuunPZS8=/fit-in/200x150/filters:strip_icc()/pic423644.jpg",
+    "publishers": [
+        "(Self-Published)",
+        "Arclight Games",
+        "Clipper",
+        "Copp Clark Publishing Company",
+        "Crown & Andrews Ltd.",
+        "Editorial Dos Pasos",
+        "Editrice Giochi",
+        "Fractal Juegos",
+        "Fundex",
+        "Grimaud",
+        "Hasbro",
+        "Holdson",
+        "John Waddington Ltd.",
+        "Kaissa Chess & Games",
+        "Korea Boardgames",
+        "Lighthouse Games",
+        "Nordic Games ehf",
+        "Parker Brothers",
+        "Repos Production",
+        "Russimco Games",
+        "Schmidt Spiele",
+        "Spear's Games",
+        "Top Cards",
+        "Waddingtons",
+        "Winning Moves Games (USA)",
+        "Yetem S.A."
+    ],
+    "designers": [
+        "Edgar Cayce",
+        "Harry Gavitt",
+        "George S. Parker"
+    ],
+    "artists": [
+        "Randy Asher",
+        "Paul Couture",
+        "Olivier Fagnère",
+        "Nick the Rat",
+        "Peekasso",
+        "Paul T.",
+        "Thoren",
+        "Andrea Trewhela"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Negotiation",
+            "Real-Time",
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Card Game",
+            "Economic",
+            "Party Game"
+        ],
+        "families": [
+            "Containers: Tin/Metal Box",
+            "Mechanism: Turnless Trading",
+            "Misc: Dice Tower Hall of Fame",
+            "Series: 31 Minutos (Fractal Juegos)",
+            "TV Shows: The Simpsons"
+        ]
+    }
+}

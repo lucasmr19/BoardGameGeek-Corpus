@@ -1,0 +1,31 @@
+{
+    "id": 298,
+    "name": "Lang lebe der König!",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "The theme is the struggle for kingship in England. Players struggle to control the territories in England, each worth a number of votes (from 2 - 4) during the election phases. With 4 players, 20 votes are necessary to be elected king.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/W_4rRv20hdJ7h3DaVaVJfw__original/img/3ZEHH_AGXuy4X1xB8tVx21F7uMw=/0x0/filters:format(jpeg)/pic153283.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/W_4rRv20hdJ7h3DaVaVJfw__small/img/9kXBi0zamn8KwBpyP77XuRZlsGY=/fit-in/200x150/filters:strip_icc()/pic153283.jpg",
+    "publishers": [
+        "F.X. Schmid"
+    ],
+    "designers": [
+        "Günter Burkhardt"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Voting"
+        ],
+        "categories": [
+            "Wargame"
+        ],
+        "families": []
+    }
+}

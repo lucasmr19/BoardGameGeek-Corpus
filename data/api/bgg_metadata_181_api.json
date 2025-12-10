@@ -1,0 +1,76 @@
+{
+    "id": 181,
+    "name": "Risk",
+    "yearpublished": "1959",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "Possibly the most popular, mass market war game.  The goal is conquest of the world.<br/><br/>Each player's turn consists of:<br/>- gaining reinforcements through number of territories held, control of every territory on each continent, and turning sets of bonus cards.<br/>-  Attacking other players using a simple combat rule of comparing the highest dice rolled for each side.  Players may attack as often as desired.  If one enemy territory is successfully taken, the player is awarded with a  bonus card.<br/>-  Moving a group of armies to another adjacent territory.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__original/img/Nu3eXPyOkhtnR3hhpUrtgqRMAfs=/0x0/filters:format(jpeg)/pic4916782.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Oem1TTtSgxOghRFCoyWRPw__small/img/5cltSV60oVvjL3Ag_KTJbmTdU6w=/fit-in/200x150/filters:strip_icc()/pic4916782.jpg",
+    "publishers": [
+        "Parker Brothers",
+        "(Unknown)",
+        "Alga",
+        "Avalon Hill",
+        "Barnes & Noble",
+        "Borras Plana S.A.",
+        "Carlit",
+        "Clipper",
+        "Editrice Giochi",
+        "El Greco",
+        "Grow Jogos e Brinquedos",
+        "Guau",
+        "Hasbro",
+        "Juegos Crone",
+        "Majora",
+        "Manhattan Agencies",
+        "MEGAPLAST",
+        "Miro Company",
+        "Nilco S.A.",
+        "Palitoy Ltd.",
+        "PanGraf",
+        "Schmidt Spiele",
+        "Smeets & Schippers",
+        "Tomy",
+        "Waddingtons",
+        "Winning Moves Games (USA)",
+        "Winning Solutions (WS Game Company)"
+    ],
+    "designers": [
+        "Albert Lamorisse",
+        "Michael I. Levin"
+    ],
+    "artists": [
+        "(Uncredited)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Dice Rolling",
+            "Hand Management",
+            "Income",
+            "Player Elimination",
+            "Point to Point Movement",
+            "Set Collection",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Territory Building",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Map (Global Scale)",
+            "Components: Miniatures",
+            "Game: Risk (Official)",
+            "Misc: Dice Tower Hall of Fame",
+            "Misc: Watch It Played How To Videos",
+            "Region: The World",
+            "Series: Nostalgia (Hasbro)",
+            "War Battlespace: Land warfare"
+        ]
+    }
+}

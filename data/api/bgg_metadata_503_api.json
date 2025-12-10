@@ -1,0 +1,65 @@
+{
+    "id": 503,
+    "name": "Through the Desert",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Each player attempts to score the most points by snaking caravan routes through the desert, trying to reach oases and blocking off sections of the desert. Many people feel that it is reminiscent of Go.<br/><br/>Publisher's Description<br/>From the award-winning game designer Reiner Knizia comes a game of strategy, patience, and cool plastic camels! The desert is still treacherous, mysterious, and without mercy. But for those willing to risk the dangers of the shifting, sun-baked sands, the desert holds riches beyond compare.<br/> In Through the Desert, two to five players each control a tribe of nomads vying for control of the desert. By establishing caravans and taking over oases, the players gain points as their tribes increase in power.<br/> Strategy is essential in deciding how and where to build your tribe's caravans. There are multiple ways to gain points and several ways to win. Should you try to build the longest caravan? Or should you dominate the desert's oases? Don't forget to keep an eye on your opponents' caravans, or you may find your own tribe cut off from valuable water holes.<br/><br/>Through the Desert is part of the so called Knizia tile-laying trilogy.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Rq_hJIAO7jDgIpAW943hJA__original/img/9lIQGNwBYmAlsgXOI6Iw2Q2CIkA=/0x0/filters:format(jpeg)/pic7697747.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Rq_hJIAO7jDgIpAW943hJA__small/img/blKEV5US-j7v3VDceGF1CIUb-lE=/fit-in/200x150/filters:strip_icc()/pic7697747.jpg",
+    "publishers": [
+        "KOSMOS",
+        "Allplay",
+        "Delta Vision Publishing",
+        "Edge Entertainment",
+        "Fantasy Flight Games",
+        "Galakta",
+        "Hobby Japan",
+        "Lautapelit.fi",
+        "PS-Games",
+        "Silver Stars Publishing",
+        "Wargames Club Publishing",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "John Gravato",
+        "Atha Kanaani",
+        "Damien Mammoliti",
+        "Scott Nicely",
+        "Brian Schomburg",
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Chaining",
+            "Connections",
+            "Enclosure",
+            "Hexagon Grid",
+            "Network and Route Building"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Animals",
+            "Arabian"
+        ],
+        "families": [
+            "Animals: Camels",
+            "Category: Combinatorial",
+            "Components: Meeples (Animal) / Animeeples",
+            "Mechanism: Connection",
+            "Misc: Dice Tower Hall of Fame",
+            "Region: Middle East",
+            "Region: North Africa",
+            "Series: Euro Classics (Reiner Knizia)",
+            "Series: Fantasy Flight Silver Line",
+            "Series: Tile-Laying Trilogy (Reiner Knizia)",
+            "Theme: Deserts"
+        ]
+    }
+}

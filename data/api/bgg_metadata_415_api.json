@@ -1,0 +1,30 @@
+{
+    "id": 415,
+    "name": "Espresso",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "60",
+    "age": "6",
+    "description": "Espresso is essentially a multiplayer version of a standard solitaire or patience game played in real time, something like the traditional card game Racing Demons, although it has significant differences from that game.<br/><br/>It is also more or less a clone of the well known game Ligretto.<br/><br/>Each player has an identical set of 36 cards (9 each in 4 colors) from which a stack of 9 is randomly dealt as the &quot;espresso&quot; stack - this must be gotten rid of by playing to common stacks in the center of the table. These stacks must each be built up from 0 to 8 in a single color. Players have 3 other face-up cards to help them, and can turn over cards from the rest of their deck to provide further alternatives.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/AWfaDTIwdA63N44_HS7QYA__original/img/1tRTGxFPFInjhPJfWEexWwDZrZk=/0x0/filters:format(jpeg)/pic8552423.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AWfaDTIwdA63N44_HS7QYA__small/img/uJRJg7nt9TQkLsOHOQp2RZFNIQA=/fit-in/200x150/filters:strip_icc()/pic8552423.jpg",
+    "publishers": [
+        "AMIGO"
+    ],
+    "designers": [
+        "Michael Michaels"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Card Game",
+            "Real-time"
+        ],
+        "families": []
+    }
+}

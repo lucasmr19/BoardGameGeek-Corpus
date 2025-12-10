@@ -1,0 +1,34 @@
+{
+    "id": 449,
+    "name": "The Great Balloon Race",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "7",
+    "description": "This is a light game -- lighter than air, one might even say -- in which each player starts the game with a card assigning a secret interest in three different balloons.  The balloon markers are lovely little brightly colored plastic gadgets, and on your turn you roll a die and choose which of the eight you want to move.  Some spots you land on give you a free roll; from some you can only go backwards.  With much shucking and jiving the balloons gradually float and bump up toward the finish line whilst players feign disinterest in their own colors in hopes they'll be promoted by others.  When all three of your balloons reach the finish, you can claim victory.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/dBkE6eGIjvAo7rEQP9aGFA__original/img/vaQRTQTYTZ1KZYw0j9G5ATQKbwo=/0x0/filters:format(jpeg)/pic200928.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dBkE6eGIjvAo7rEQP9aGFA__small/img/lV0zdVw6lu3JwD4RcZJ7DT8A60Y=/fit-in/200x150/filters:strip_icc()/pic200928.jpg",
+    "publishers": [
+        "Parker Brothers",
+        "Tactic"
+    ],
+    "designers": [
+        "Nik Sewell"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Aviation / Flight",
+            "Racing"
+        ],
+        "families": [
+            "Sports: Aerial Racing",
+            "Theme: Hot Air Balloons"
+        ]
+    }
+}

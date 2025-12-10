@@ -1,0 +1,40 @@
+{
+    "id": 146,
+    "name": "Trading Titans",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Another of Reiner Knizia&#039;s fleet of games, this one is about making profits by buying and selling business stock. Players use cards to manipulate the price of three types of stocks (oil, technology, and retail), and the buying and selling of the stocks is pretty severely limited. Short and sweet, this game is both elegant and abstract.  In a change from the original version, the three stocks have different levels of volatility.  Technology is the most volatile, oil is the least volatile but with higher dividends, and retail falls in the middle.<br/><br/>The original version of this game, Palmyra, was based around three trade routes which were represented by wooden amphoras.<br/><br/>Note to reviewer: There is no difference, except for colour, between the 3 different commodities in the original 1996 Palmyra.  Because the 3 stocks are very different in game play in the newer Buy Low Sell High game, the newer game should have a separate listing from Palmyra.  It is effectively a different edition 2 game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Hyar9A-mZGeHseNqWcUCUg__original/img/_w3KjNBXPjPSd-clb7pNtEOosvs=/0x0/filters:format(jpeg)/pic8586265.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Hyar9A-mZGeHseNqWcUCUg__small/img/5FfBXs2I1FDVKeonx6s7NOMiJcs=/fit-in/200x150/filters:strip_icc()/pic8586265.jpg",
+    "publishers": [
+        "Editrice Giochi",
+        "Group SNE",
+        "Kids Logic",
+        "Überplay",
+        "Wargames Club Publishing"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Miles Germer",
+        "Alvin Madden",
+        "U-i (U井)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Cities: Palmyra (Syria)",
+            "Theme: Stock Market"
+        ]
+    }
+}

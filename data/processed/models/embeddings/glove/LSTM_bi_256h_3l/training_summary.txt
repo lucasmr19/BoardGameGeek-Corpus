@@ -1,0 +1,115 @@
+================================================================================
+TRAINING SUMMARY
+================================================================================
+
+Training Date: 2025-12-09 10:39:56
+Embedding Type: GLOVE
+Model Type: LSTM
+
+--------------------------------------------------------------------------------
+CONFIGURATION
+--------------------------------------------------------------------------------
+embedding_type: glove
+model_type: lstm
+hidden_dims: [256, 128]
+hidden_dim: 256
+num_layers: 3
+bidirectional: True
+dropout: 0.4
+batch_size: 32
+epochs: 50
+lr: 0.001
+patience: 10
+tune_hyperparams: True
+tuning_epochs: 30
+max_trials: 5
+seed: 42
+
+--------------------------------------------------------------------------------
+DATASET SPLITS
+--------------------------------------------------------------------------------
+Training samples: 22230
+Validation samples: 4764
+Test samples: 4764
+Total samples: 31758
+Number of classes: 3
+Class labels: ['negative', 'neutral', 'positive']
+Input dimension: 300
+
+--------------------------------------------------------------------------------
+HYPERPARAMETER TUNING RESULTS
+--------------------------------------------------------------------------------
+Total configurations tested: 5
+
+
+Configuration #1:
+  Parameters: {'hidden_dim': 256, 'num_layers': 3, 'bidirectional': True, 'dropout': 0.4, 'lr': 0.001, 'batch_size': 32}
+  Validation Loss: 0.9364
+  Validation Accuracy: 0.5495
+
+Configuration #2:
+  Parameters: {'hidden_dim': 256, 'num_layers': 1, 'bidirectional': False, 'dropout': 0.4, 'lr': 0.0001, 'batch_size': 32}
+  Validation Loss: 0.9373
+  Validation Accuracy: 0.5458
+
+Configuration #3:
+  Parameters: {'hidden_dim': 256, 'num_layers': 1, 'bidirectional': False, 'dropout': 0.5, 'lr': 0.001, 'batch_size': 128}
+  Validation Loss: 0.9329
+  Validation Accuracy: 0.5441
+
+Configuration #4:
+  Parameters: {'hidden_dim': 128, 'num_layers': 1, 'bidirectional': True, 'dropout': 0.5, 'lr': 0.001, 'batch_size': 32}
+  Validation Loss: 0.9380
+  Validation Accuracy: 0.5372
+
+Configuration #5:
+  Parameters: {'hidden_dim': 256, 'num_layers': 1, 'bidirectional': True, 'dropout': 0.4, 'lr': 0.001, 'batch_size': 32}
+  Validation Loss: 0.9435
+  Validation Accuracy: 0.5248
+
+
+Best Configuration:
+  Parameters: {'hidden_dim': 256, 'num_layers': 3, 'bidirectional': True, 'dropout': 0.4, 'lr': 0.001, 'batch_size': 32}
+  Validation Accuracy: 0.5495
+
+--------------------------------------------------------------------------------
+FINAL MODEL EVALUATION
+--------------------------------------------------------------------------------
+Test Loss: 0.9379
+Test Accuracy: 0.5439
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.61      0.52      0.56      1588
+     neutral       0.45      0.41      0.43      1588
+    positive       0.56      0.70      0.62      1588
+
+    accuracy                           0.54      4764
+   macro avg       0.54      0.54      0.54      4764
+weighted avg       0.54      0.54      0.54      4764
+
+
+--------------------------------------------------------------------------------
+TRAINING HISTORY
+--------------------------------------------------------------------------------
+Total epochs: 12
+
+Epoch    Train Loss   Train Acc    Val Loss     Val Acc     
+------------------------------------------------------------
+1        0.9760       0.5153       0.9571       0.5285      
+2        0.9192       0.5540       0.9447       0.5388      
+3        0.8721       0.5815       0.9547       0.5386      
+4        0.8106       0.6207       0.9739       0.5386      
+5        0.7547       0.6547       0.9982       0.5435      
+6        0.6908       0.6863       1.0426       0.5351      
+7        0.6299       0.7187       1.1233       0.5336      
+8        0.5760       0.7484       1.1798       0.5187      
+9        0.4718       0.7978       1.3343       0.5212      
+10       0.4179       0.8241       1.4269       0.5296      
+11       0.3904       0.8366       1.4623       0.5227      
+12       0.3610       0.8497       1.5214       0.5208      
+
+================================================================================
+END OF SUMMARY
+================================================================================

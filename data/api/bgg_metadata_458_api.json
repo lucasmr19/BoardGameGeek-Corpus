@@ -1,0 +1,38 @@
+{
+    "id": 458,
+    "name": "Sherlock Holmes: The Card Game",
+    "yearpublished": "1991",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "With illustrations from the original novels, this card game goes some way to evoke the feeling of the chase through Victorian London to unmask Moriarty and other villains. Players draw and lay cards in sequence, Movement, Location, Info, Action, Detectives and Villains. So I might take a train to the Country, find a clue and use a Disguise. I can use an Inspector, Arrest or Alibi card on my opponents and so on. Play ends either when an Arrest successfully reveals a Villain, or when a player discards their last card, a Villain, who Escapes. Scoring is based on cards remaining in your hand, and if you are the arresting or guilty player, caught with a Villain in your hand.<br/><br/> Re-implemented by:<br/><br/>    I Say, Holmes!<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/pNRBdy7XrBnvnMXYD8TJ7Q__original/img/8KxvwH24s1dC00NJKStXmfKEjSw=/0x0/filters:format(jpeg)/pic2653765.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/pNRBdy7XrBnvnMXYD8TJ7Q__small/img/TmVFfI7hrQH9o2oB-QRIH-0BW0c=/fit-in/200x150/filters:strip_icc()/pic2653765.jpg",
+    "publishers": [
+        "Excalibre Games, Inc.",
+        "Gibsons",
+        "Habourdin International",
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Roger Heyworth"
+    ],
+    "artists": [
+        "Sidney Paget"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game",
+            "Murder / Mystery",
+            "Novel-based"
+        ],
+        "families": [
+            "Books: Mystery Novels",
+            "Books: Sherlock Holmes",
+            "Country: England"
+        ]
+    }
+}

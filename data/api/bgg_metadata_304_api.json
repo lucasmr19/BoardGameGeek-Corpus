@@ -1,0 +1,36 @@
+{
+    "id": 304,
+    "name": "Evergreen",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "20",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Combination of card play and timing from Wolfgang Kramer &amp; Michael Kiesling. There are some recording artists who are famous for singing certain standards. Players are putting on concerts and use numbered cards for each performer to take control of that singer. The singers are represented by old fashioned 45s, with a disc in the center showing values from 5 to 12. Each time a singer is transferred from control of one player to another, the disc is rotated, so the value can rise to 12, but next move, it drops to 5 again. You try to gain control of an artist at high value, or pass artists from one player to another to make them devalue. Scoring occurs when players choose to put on concerts at the end of their turn, including a gala show which doubles the value. The game rules state that the designers produced this game by phone and fax, without ever meeting. Perhaps that shows, as it has interest, but the game uses a sand-timer to apply pressure to your decisions.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/c2YSJMFla14odVrI7SGSig__original/img/z4BuXRTGEpqRCWUdouHPQYHDcVs=/0x0/filters:format(jpeg)/pic46308.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/c2YSJMFla14odVrI7SGSig__small/img/K7PPOzOmQ3UXjOy6n3SWyaCLyt0=/fit-in/200x150/filters:strip_icc()/pic46308.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Michael Kiesling",
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation"
+        ],
+        "categories": [
+            "Card Game",
+            "Music"
+        ],
+        "families": [
+            "Components: Sand Timers"
+        ]
+    }
+}

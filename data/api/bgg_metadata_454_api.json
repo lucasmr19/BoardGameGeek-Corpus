@@ -1,0 +1,36 @@
+{
+    "id": 454,
+    "name": "Tante Tarantel",
+    "yearpublished": "1991",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Tante Tarantel (Auntie Tarantula) scoots round her web, gobbling up your insects as they try to escape. The web is a spiral.  You roll the die to move Auntie, and then take turns to move one of your bugs towards the exit space. Initially, Auntie is in a good mood; if she runs into bugs, they go back to her larder. However, as soon as someone escapes, she loses her temper and kills anything she catches! The game has a scoring track.  Each time a bug is caught or escapes, a marker moves up the track, adding to the die roll and making Auntie run around the web faster and faster. Players can share some spaces, but often bump each other back and forth. Naturally, nasty bugs can push others into Auntie's path to certain death!<br/><br/>The original set had wooden pawns for the bugs, but D&amp;F issued a series of neat rubber bugs, which add to the game's style.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/VVaFslZfUetB-E2GgfM3-Q__original/img/0yGB0Quv3gw5aHauxi5sid6EAyo=/0x0/filters:format(jpeg)/pic1265993.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VVaFslZfUetB-E2GgfM3-Q__small/img/WzUvdNwkh5UmN-VZ5FMxfoGLpyQ=/fit-in/200x150/filters:strip_icc()/pic1265993.jpg",
+    "publishers": [
+        "Doris & Frank"
+    ],
+    "designers": [
+        "Doris Matthäus",
+        "Frank Nestel"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Point to Point Movement",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Animals",
+            "Children's Game"
+        ],
+        "families": [
+            "Animals: Spiders"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 457,
+    "name": "Jumbo Grand Prix",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "The goal of Jumbo Grand Prix is to create strong race cars that score the most racing points.<br/><br/>Every player starts with 4 cards. In the next 4 rounds they try to build a competitive race car by changing their cards. A race car consists of a coach-work card, a tire card, an engine card, and a driver card. After 4 rounds, all the players show their race car for that race. The strength is the sum of the 4 played cards. The stronger the combination, the higher your finish place. In case of a tie, the value of the driver decides. Whenever you cannot make a complete car, you cannot take part in that race. When your coach-work, tires, and engine have the same value, the combination is worth 21 points, in spite of their original value. Then you add the value of the driver. When your driver is also of the same value, the total combination is worth 28 points.<br/><br/>When it's your turn, you can choose one of the following actions:<br/><br/>     1. Discard 1 of your cards (face up) and draw 2 new ones. The new cards can be drawn from the visible cards or from the closed pile. The 4 open piles are sorted by type. <br/>     2. Keep all your cards and draw 1 new card (from an open or the closed pile). <br/><br/><br/>So every turn you get 1 extra card. After 4 turns you have 8 cards, from which you must build your race car. The other 4 cards are used in the next round. Whenever you draw a card from one of the open piles, it is always the top one. From the type you just handed in, you cannot draw a new one from that type's open pile. At the start of each round, as many scoring cards are revealed as there are players. The winner gets the highest card and so on. Every player receives points, unless you cannot take part in the race. As soon as all scoring cards are used, the racing season is over. The player with the highest total of scoring cards wins the season (and the game).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/UM1OR0l-r9V-yX2YE8pRXA__original/img/VxTjeUN5jCrnS06enAKja9lefxs=/0x0/filters:format(png)/pic5238171.png",
+    "thumbnail": "https://cf.geekdo-images.com/UM1OR0l-r9V-yX2YE8pRXA__small/img/eMyNq1SBK7YSnv9qqwl34vsDmyw=/fit-in/200x150/filters:strip_icc()/pic5238171.png",
+    "publishers": [
+        "Jumbo"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Sports: Auto Racing"
+        ]
+    }
+}

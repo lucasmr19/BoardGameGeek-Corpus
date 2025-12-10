@@ -1,0 +1,39 @@
+{
+    "id": 461,
+    "name": "Freibeuter",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "45",
+    "age": "9",
+    "description": "Freibeuter is a game of playing your boats in spaces allowed  by the cards you've drawn in hopes of being part of a capturing team of surrounding boats.   Sometimes you play the &quot;Flying Dutchman&quot; which can go more places but disappears as soon as the capture is made.  You also have the option of positioning to be the main deal-maker on a capture, which leaves you paying off all the surrounding boats but getting more money yourself on the deal at the end of the game.  Timing, of course, turns out to be a nice matter for judgment.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/VgIWSSnw87kHdHVzPlHzhQ__original/img/Va56TkjwujI6tsOKsQXlXZRmXP0=/0x0/filters:format(jpeg)/pic284697.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VgIWSSnw87kHdHVzPlHzhQ__small/img/2ADZ5hj9ugTxxQkuCYideI_Dmew=/fit-in/200x150/filters:strip_icc()/pic284697.jpg",
+    "publishers": [
+        "Hans im Glück"
+    ],
+    "designers": [
+        "Reiner Stockhausen"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Investment",
+            "Loans",
+            "Ownership",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Economic",
+            "Nautical",
+            "Pirates"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: 7 x 7 Grids"
+        ]
+    }
+}

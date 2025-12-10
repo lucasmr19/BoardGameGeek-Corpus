@@ -1,0 +1,42 @@
+{
+    "id": 108,
+    "name": "TAMSK",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "The hexagonal board has several holes in it for the unique playing pieces.  Each player uses sand timers as his pieces, and a turn is simply to move to an adjacent space, flipping the timer in the process.  The number of times that each space on the board can be occupied is limited, but the more central spaces can have more traffic.  The object of the game is simply to have any of your pieces movable when your opponent's pieces are either locked in place, or out of sand.<br/><br/>This game was originally part of project GIPF.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/_yr3yRZyjdViaUiGCcBgnA__original/img/fLMpO0MgpbC7An3qQPf0joFtUB0=/0x0/filters:format(jpeg)/pic54775.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_yr3yRZyjdViaUiGCcBgnA__small/img/Bdd69cx7KU2Ymmb3Q_7ej7rBTno=/fit-in/200x150/filters:strip_icc()/pic54775.jpg",
+    "publishers": [
+        "Don & Co.",
+        "Rio Grande Games",
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Kris Burm"
+    ],
+    "artists": [
+        "lu'cifer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Timer",
+            "Enclosure",
+            "Grid Movement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Real-time"
+        ],
+        "families": [
+            "Components: HexHex4 Grids",
+            "Components: Sand Timers",
+            "Digital Implementations: BoardSpace",
+            "Players: Two-Player Only Games",
+            "Series: GIPF Project"
+        ]
+    }
+}

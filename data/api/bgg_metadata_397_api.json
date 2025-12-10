@@ -1,0 +1,56 @@
+{
+    "id": 397,
+    "name": "Diskwars",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "<br/><br/><br/>    <br/>        GAME SYSTEM<br/><br/>    <br/>    <br/>         This entry is to allow for discussion/rating of the game system as a whole. It is not for a specific product or release. Versions will appear on the individual item pages.<br/><br/>    <br/><br/><br/>A Fantasy themed miniatures wargame without the miniatures.  Will you play as the ubiquitous Elves, the barbaric Uthuk Yllan, the stalwart Dwarves, the vile Undead, the medieval Knights, the desert dwelling Acolytes, the mighty Dragon kin, or the vicious Orcs?  Players choose a faction from the eight available in the base game and an army point value for the battle. Each must then build an army using the double-sided cardboard disks and battle it out.  At least half of the army points must be from one faction and the remaining points are made up of like aligned or neutral disks and spells.<br/><br/>Each double-sided disk represents either a faction homeland (your starting area), a terrain (ruins, forest, swamp etc... with effects on combat and line of sight), a spell(levels 1-3), a missile or one unit with its alignment (Good, Neutral, or Evil) with values for its Attack, Defense, Toughness, Movement and the army point cost of the disk. The disks have varying sizes (Giants and Dragons tend to be larger) and most units have a wide variety special abilities such as flying, the spell-casting ability or the missile ability to launch boulders, bolts, arrows or fireballs for example.  Players take it in turn activating 3 units(disks) and resolving battles, casting spells, and firing missiles.<br/><br/>Activated Unit disks are moved around the table by flipping them end over end a number of times up to their movement value.  If the disk lands on top of an opposing army disk a battle ensues with the top disk (the attacker) doing its attack damage value to the lower disk (the defender) who applies its defense value to the attacker if the damage is equal or greater to either unit's toughness it is either wounded or killed. Combats can involve numerous disks upon top of each other and are resolved top down. Missiles can be fired by missile capable units at disks within range by dropping them upon the target from a foot above the table. Those which land upon the target do damage otherwise they miss or can hit other disks they land on.  This can result in 'friendly fire' damage on your own troops and adds an element of luck/dexterity to the game.<br/><br/>The game rules come with multiple scenarios that accommodate 2 to 8 players.  The  victory goal of each scenario can vary from king of the hill, to enemy elimination, to just about any combat scenario victory condition one could imagine.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/rtKI7tyfQtzv1OzogfDG0Q__original/img/TCXlxvug5AMFqJEaA1f1qLr6NxY=/0x0/filters:format(jpeg)/pic391542.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rtKI7tyfQtzv1OzogfDG0Q__small/img/eI0nTjUBGuvESkmG-Pr7NBB7ppw=/fit-in/200x150/filters:strip_icc()/pic391542.jpg",
+    "publishers": [
+        "AMIGO",
+        "Fantasy Flight Games",
+        "Tilsit"
+    ],
+    "designers": [
+        "Tod Gelle",
+        "Darrell Hardy",
+        "Tom Jolly",
+        "Christian T. Petersen"
+    ],
+    "artists": [
+        "Brian Ewing",
+        "Louis Frank",
+        "Earl Geier",
+        "Fredd Gorham",
+        "Chad Jasper",
+        "Eric Kemphfer",
+        "Yeng Khang",
+        "Zach Lohse",
+        "Bradley McDevitt",
+        "Ben Prenevost",
+        "Hian Rodriguez",
+        "Brian Schomburg",
+        "Scott Schomburg",
+        "Tyler Walpole"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Collectible Components",
+            "Fantasy",
+            "Wargame"
+        ],
+        "families": [
+            "Admin: Game System Entries",
+            "Collectible: Collectible Token Games",
+            "Setting: The Realms of Terrinoth"
+        ]
+    }
+}

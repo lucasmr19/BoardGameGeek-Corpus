@@ -1,0 +1,75 @@
+{
+    "id": 215,
+    "name": "Tichu",
+    "yearpublished": "1991",
+    "minplayers": "4",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Tichu took much of its rules and mechanics from Zheng Fen. It is a partnership climbing card game, and the object of play is to rid yourself of your hand, preferably while scoring points in the process.<br/><br/>The game uses either one or two standard 52-card decks with four special cards added: dog, phoenix, dragon and Mah Jong (1). When it's your turn, you may either beat the current top card combination &mdash; single card, pair of cards, sequence of pairs, full house, etc. &mdash; or pass. If play passes all the way back to the player who laid the top cards, they win the trick, clears the cards, and can lead the next one. The card led determines the only combination of cards that can be played on that trick, so if a single card is led, then only single cards are played; if a straight of seven cards is led, then only straights of seven cards can be played, etc.<br/><br/>The last player out in a round gives all the cards they won to the player who exited first, and the last player's unplayed cards are handed to the opposite team. Fives, tens and Kings are worth 5, 10 and 10 points, with each hand worth one hundred points without bonuses &mdash; but the bonuses are what drive the game. At the start of a round, each player can call &quot;Tichu&quot; prior to playing any card. This indicates that the player thinks they can empty their hand first this round; if they do so, their team scores 100 points, and if not, their team instead loses 100 points. Cards are dealt at the start of a round in a group of eight and a group of six; a player can call &quot;Grand Tichu&quot; after looking at only their first eight cards for a &plusmn;200 point bonus. If both players on a team exit a round prior to either player on the opposite team, then no points are scored for cards and the winning team earns 200 points (with Tichu/Grand Tichu bonuses and penalties being applied as normal).<br/><br/>The first team to 1,000 points wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/gz8_8iYP2SSGVAxpp7CwLg__original/img/9ULfNvkyu0k1m0d63-Mk0k5e0MA=/0x0/filters:format(png)/pic5854968.png",
+    "thumbnail": "https://cf.geekdo-images.com/gz8_8iYP2SSGVAxpp7CwLg__small/img/5jkPnPGk5LWNzuW5GANPDLa4ZRA=/fit-in/200x150/filters:strip_icc()/pic5854968.png",
+    "publishers": [
+        "Fata Morgana Spiele",
+        "(Unknown)",
+        "999 Games",
+        "ABACUSSPIELE",
+        "Filosofia Éditions",
+        "G3",
+        "GP Games",
+        "Hobby World",
+        "HomoLudicus",
+        "Jelly Monster",
+        "Jogo na Mesa",
+        "Korea Boardgames",
+        "Maldito Games",
+        "Playhouse Ltd",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd.",
+        "TIKI Editions",
+        "uplay.it edizioni",
+        "Vennerød Forlag AS"
+    ],
+    "designers": [
+        "Urs Hostettler"
+    ],
+    "artists": [
+        "Kerri Aitken",
+        "Christine Alcouffe",
+        "Res Brandenberger",
+        "François Bruel",
+        "Philippe Guérin",
+        "Urs Hostettler",
+        "Chris Quilliams",
+        "Eduardo M. Dos Reis",
+        "Valerie Vekemans",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Ladder Climbing",
+            "Predictive Bid",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Card Games: Climbing",
+            "Card Games: Outplay",
+            "Card Games: Shedding / Stops",
+            "Components: Traditional Playing Cards",
+            "Containers: Tin/Metal Box",
+            "Creatures: Dragons",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: Boardible (Mobile)",
+            "Digital Implementations: BrettspielWelt",
+            "Digital Implementations: Steam",
+            "Digital Implementations: Tabletopia",
+            "Misc: Dice Tower Hall of Fame",
+            "Series: Deluxe card game (Z-Man / Filosofia)"
+        ]
+    }
+}

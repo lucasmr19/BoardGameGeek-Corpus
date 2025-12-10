@@ -1,0 +1,38 @@
+{
+    "id": 345,
+    "name": "Prairie Railroads",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "America is opening the Great Plains and America&rsquo;s railroads are forging ahead, across the Mississippi and going West as fast as they can. Hardy pioneers are building towns &amp; cities as they raise cattle and grow wheat &amp; other crops. The railroads are needed to carry this bounty to the hungry East. Six major railroads are funded by aggressive investors looking to get rich in this venture. The railroads vie for dominance in this expanding market, driving west.<br/><br/>Players are investors and railroad Presidents in this struggle to capitalize this explosive market to the greatest extent possible. Balancing time vs money is critical in this game. The ability to react to organically growing markets increasing constantly adds a level of decision making where recognizing savvy opportunities<br/>is a key to success.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/TsANvTIYVbWAoG_kKHygLw__original/img/7Zna_wszSNj3kbXtdSZZtKSOwNk=/0x0/filters:format(jpeg)/pic8320074.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TsANvTIYVbWAoG_kKHygLw__small/img/wgAIznwoOq4hg8dAAPCIMU41Aoc=/fit-in/200x150/filters:strip_icc()/pic8320074.jpg",
+    "publishers": [
+        "Rio Grande Games",
+        "Winsome Games"
+    ],
+    "designers": [
+        "John Bohrer"
+    ],
+    "artists": [
+        "Todd Sanders"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Network and Route Building",
+            "Stock Holding"
+        ],
+        "categories": [
+            "Economic",
+            "Trains"
+        ],
+        "families": [
+            "Series: Cube Rails",
+            "Series: Prairie Railroads (Winsome)",
+            "Series: Winsome Train Games (Rio Grande Games)"
+        ]
+    }
+}

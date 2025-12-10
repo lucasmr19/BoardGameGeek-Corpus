@@ -1,0 +1,49 @@
+{
+    "id": 239,
+    "name": "Wagram: The Peace of Vienna, 5-6 July 1809",
+    "yearpublished": "1975",
+    "minplayers": "1",
+    "maxplayers": "2",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Wagram is a simulation of the battle which took place between the armies of the Hapsburg Empire under Archduke Charles and the French-Allied armies under Napoleon on July 5th and 6th, 1809.<br/><br/>One on four games included in the Napoleon At War QuadriGame.  The games in this set are based on the Napoleon At Waterloo system which is a basic movement-combat system with hard zones of control.<br/><br/>CRT has unique EE (Equal Elimination) feature.  A die roll of 6 will result in an attacker with unit strength of 12 and a defender with unit strength of 2 both being simultaneously eliminated.<br/><br/>This game was republished on Tactics #47 by Hobby Japan in 1987.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/4cKO_ZPFxYBmuk5zXPJxjQ__original/img/VPTcoUiHRarXQbWIbZe64Hdqu8E=/0x0/filters:format(jpeg)/pic55779.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4cKO_ZPFxYBmuk5zXPJxjQ__small/img/XZNtgTWrWGOKo5VxxKs5GkGEfMk=/fit-in/200x150/filters:strip_icc()/pic55779.jpg",
+    "publishers": [
+        "Hobby Japan",
+        "Kokusai-Tsushin Co., Ltd. (国際通信社)",
+        "SPI (Simulations Publications, Inc.)"
+    ],
+    "designers": [
+        "Irad B. Hardy"
+    ],
+    "artists": [
+        "Redmond A. Simonsen",
+        "Horace Vernet"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Movement Points",
+            "Ratio / Combat Results Table",
+            "Simulation",
+            "Zone of Control"
+        ],
+        "categories": [
+            "Napoleonic",
+            "Wargame"
+        ],
+        "families": [
+            "Cities: Deutsch-Wagram (Austria)",
+            "Country: Austria",
+            "Country: France",
+            "History: Napoleonic Wars",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players",
+            "Series: Napoleon At Waterloo (SPI)"
+        ]
+    }
+}

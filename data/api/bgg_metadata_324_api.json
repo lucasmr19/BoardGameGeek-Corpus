@@ -1,0 +1,33 @@
+{
+    "id": 324,
+    "name": "Ponte Vecchio",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "The &quot;rich gentleman&quot; has money burning a hole in his purse. He also likes to spend the day ambling back and forth along the Old Bridge (Ponte Vecchio), spending wherever he stops.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/r7IHN9dwpa-mkf4oCrnK7A__original/img/H2N02FiwJ-CGXUY_-olqEa71fy0=/0x0/filters:format(jpeg)/pic453851.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r7IHN9dwpa-mkf4oCrnK7A__small/img/_qwfCP-H0CLjfYRX5PhQRIu4V10=/fit-in/200x150/filters:strip_icc()/pic453851.jpg",
+    "publishers": [
+        "Editrice Giochi"
+    ],
+    "designers": [
+        "Spartaco Albertarelli"
+    ],
+    "artists": [
+        "Giorgia Ponticelli"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)"
+        ]
+    }
+}

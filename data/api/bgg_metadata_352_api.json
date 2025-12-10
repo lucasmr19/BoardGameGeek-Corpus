@@ -1,0 +1,35 @@
+{
+    "id": 352,
+    "name": "Trumpet",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "9",
+    "description": "In this light, short trick-taking game, there are six suits with cards numbered one through eleven, plus 3 wild cards. If you take a trick, you advance your scoring token, however each scoring space can only be occupied by one person, jumping the piece<samp> immediately ahead of you. In addition, there are certain spaces which allow that player to set one of the suits as trump. Eventually all the suits are established as some form of trump, however each of them is ranked top to bottom. Once one of the players enters the home stretch of the scoring track, players can chose to move the leaders back a space instead of moving themselves up, but the winner is the player who crosses the finish line first.<br/><br/>Won Games Magazine Game of the Year award in 1991.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/8mhr2TRO2JpKAKDO2uaDYQ__original/img/Ch54pLHbHdP1ihkiBWlmv_7Mxtg=/0x0/filters:format(jpeg)/pic3501076.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8mhr2TRO2JpKAKDO2uaDYQ__small/img/2vkyWeZZmsjdu1odo9IJV9bbnv8=/fit-in/200x150/filters:strip_icc()/pic3501076.jpg",
+    "publishers": [
+        "International Games",
+        "Alga",
+        "AMIGO",
+        "Mattel, Inc."
+    ],
+    "designers": [
+        "Phil Orbanes Sr."
+    ],
+    "artists": [
+        "López de Zubiria",
+        "Per Sjöholm"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

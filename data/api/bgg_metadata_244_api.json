@@ -1,0 +1,54 @@
+{
+    "id": 244,
+    "name": "Circus Maximus",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "10",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "From Battleline, the original publisher:<br/><br/>&quot;The grandeur and decadence of ancient Rome in your living room! Thrill to the dust of chariot races, or the skillful bloodshed of gladiatorial combat. Circus Maximus is really TWO games in one. In the Chariot Race game you pick your team of horses, driver, and chariot car, each of which have special characteristics . . . In Gladiator, you pick up your weapons and step onto the bloodstained sands, simultaneously maneuvering, striking, and waiting for that fatal step that puts you inside your opponent's guard.&quot;<br/><br/>Battleline&#039;s Circus Maximus would later be developed by Don Greenwood and published in 1980 by The Avalon Hill Game Co as separate titles: Circus Maximus and Gladiator.<br/><br/>Violent and bloody, Circus Maximus details the chariot races that occurred in ancient Rome.  Eight teams race around the track three times to determine victory.  Players prepare for the race by selecting the composition of their team of horses, their rider's skills, and the type of chariot that will be driven.  Once the race begins the players are free to do as they wish to hamper the other racers including whipping the rider, ramming chariots with scythed wheels, smashing into horses, and running over crashed opponents.  A campaign game of multiple races, in which players have to manage their teams and can increase their income by betting on races, is also possible.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/oiHnUy0bF7jSIRLOfvClXw__original/img/arqC2AhugPBlB7BuHXdbVel8r4A=/0x0/filters:format(jpeg)/pic290698.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oiHnUy0bF7jSIRLOfvClXw__small/img/XAsIadumFj2Xl3F9aaadV35qc6Y=/fit-in/200x150/filters:strip_icc()/pic290698.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Battleline"
+    ],
+    "designers": [
+        "Don Greenwood",
+        "Michael J. Matheny"
+    ],
+    "artists": [
+        "Michael Carroll",
+        "Cathy Chastain",
+        "Chris White (I)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Action Queue",
+            "Betting and Bluffing",
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Paper-and-Pencil",
+            "Player Elimination",
+            "Push Your Luck",
+            "Scenario / Mission / Campaign Game",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Ancient",
+            "Fighting",
+            "Racing"
+        ],
+        "families": [
+            "Ancient: Rome",
+            "Animals: Horses",
+            "Digital Implementations: VASSAL",
+            "Sports: Chariot Racing",
+            "Sports: Horse Racing",
+            "Theme: Gladiators"
+        ]
+    }
+}

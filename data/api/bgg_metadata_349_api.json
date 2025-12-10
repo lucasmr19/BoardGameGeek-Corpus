@@ -1,0 +1,32 @@
+{
+    "id": 349,
+    "name": "Halunken und Spelunken",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Light game in which players try to collect a suitable crew for their vessel. A deck of scoundrels of different values is shuffled and dealt face-down onto a circle of inns. The top scoundrels are turned up and players use movement cards to send their captain around the pubs, collecting the face-up scoundrel of choice. Players select their movement card in secret, and when selections are tied, neither moves. Highest number of scoundrels of the same color are worth double for each player. There is a harder variant using Black Jack. Players bid to control Black Jack and he helps you steal scoundrels.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/VkWBOD-o9FjQNCrEzDdkGw__original/img/UZYKpX6GptlMIHNa4WnJBNaj7wY=/0x0/filters:format(jpeg)/pic72037.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/VkWBOD-o9FjQNCrEzDdkGw__small/img/mGupzl0Qf_vwKQQ4Ih0AdJXU6CQ=/fit-in/200x150/filters:strip_icc()/pic72037.jpg",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

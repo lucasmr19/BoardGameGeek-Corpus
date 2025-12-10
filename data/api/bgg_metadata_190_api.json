@@ -1,0 +1,31 @@
+{
+    "id": 190,
+    "name": "Dolce Vita",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Players are socialites who are trying to take as many high-value luxuries as they can manage.  A number of luxuries (boats, mansions, watches, boats, etc.) of values varying from one million to seven million are laid out in a matrix.  Players take turn placing power cards in the columns, and after five of the six cards have been played, the highest bid takes the first luxury in the column, the second highest gets the next one up, and so on.  However, if you collect a second luxury item you already own, then the newest one replaces the older one, which could mean exchanging a lavish seven million dollar car for a paltry one million dollar one!  After the specified number of rounds, the highest valued collection is deemed the best.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/uUBW5UvsLiIusz-hBPovWQ__original/img/Vq5ThQ5jLBCJ2rPeNJBbwgGDLZ0=/0x0/filters:format(jpeg)/pic290421.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uUBW5UvsLiIusz-hBPovWQ__small/img/K81I2BXd8E4VVtTlrvXAp5CDY-E=/fit-in/200x150/filters:strip_icc()/pic290421.jpg",
+    "publishers": [
+        "Hans im Glück"
+    ],
+    "designers": [
+        "Reiner Stockhausen"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "id": 376,
+    "name": "DruidenWalzer",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "In this brain-burner from the Kosmos two-player series, players try to protect their own trees and steal their opponents'. Each player has four trees, all of which are inhabited by tree spirits (cards). Playing spirits (cards) from their hands causes the 'Druid's Dance', and the cards move around the circle of trees, possibly hurting or helping each side in the following contest of strength between matching druids. The game is won when either player has captured two of his opponents trees either through successful druid contests or because a tree has lost all of its tree spirits.<br/><br/>Druidenwalzer is part of the Kosmos two-player series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/X7-G4OnxXljN-VRt5pC2xw__original/img/QNshw5gyt-5mrVXCp7uEsa8Fm64=/0x0/filters:format(jpeg)/pic9054632.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/X7-G4OnxXljN-VRt5pC2xw__small/img/Yp1_FkqflmHSblsofFAxd2A87uw=/fit-in/200x150/filters:strip_icc()/pic9054632.jpg",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Michael Rieneck"
+    ],
+    "artists": [
+        "Andreas Steiner"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Mancala",
+            "Pattern Building",
+            "Point to Point Movement",
+            "Race",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Creatures: Fairies / Elves / Pixies",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)",
+            "Theme: Druids"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 373,
+    "name": "Wrott & Swindlers",
+    "yearpublished": "1995",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "0",
+    "description": "From the review: The game is a two part auction and bluff card game. The components are simply two packs of cards, a gavel, and the rules. One pack of cards comprises twelve sets of four categories of antique properties. There are four antique clocks, four items of antique furniture, etc. Each set has a points value ranging fairly evenly from Furniture at 1000 to Miscellanea at 50. The points decide the winner but otherwise have no direct relationship to monetary value.<br/><br/>This game is very close to Kuhhandel.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/EKERpALv35Zp4HfmRKysdw__original/img/9Hre_Gg_aWXE-Cw6mHj6Q5hPmHQ=/0x0/filters:format(jpeg)/pic18044.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EKERpALv35Zp4HfmRKysdw__small/img/Czfizb-3iNkjjPy_9oDWNqTtXrI=/fit-in/200x150/filters:strip_icc()/pic18044.jpg",
+    "publishers": [
+        "Ludis"
+    ],
+    "designers": [
+        "Steve Doherty"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "Bluffing",
+            "Card Game"
+        ],
+        "families": []
+    }
+}

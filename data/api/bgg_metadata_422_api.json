@@ -1,0 +1,39 @@
+{
+    "id": 422,
+    "name": "1835",
+    "yearpublished": "1990",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "minplaytime": "360",
+    "maxplaytime": "360",
+    "age": "16",
+    "description": "This 18xx game takes the basic mechanics from Tresham's 1829 and adds several new elements.  Players seek to make the most money by buying and selling stock in various rail companies located on a German map. The board itself is actually a fairly abstract hexagonal system, with track tiles placed on top of the hexes.  Players buy and sell stock in various share companies, whose actions are controlled by the majority stockholder.  The stock manipulation aspect of the game is not as brutal as in 1830.  Plus each 18xx title adds new and different elements to the game.<br/><br/>This game features minor rail companies, layered stock offerings, and the formation of the Prussian railroad from the minor companies. A game is finished when the bank runs out of money, and the player with the greatest personal holdings wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/7UvvhAg807X1ITyIRALfag__original/img/1Vu52eKoaONv177opE7uJzwmqE8=/0x0/filters:format(jpeg)/pic202312.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7UvvhAg807X1ITyIRALfag__small/img/NTZKgBt3dziZXfygZoktzwmISII=/fit-in/200x150/filters:strip_icc()/pic202312.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Michael Meier-Bachl",
+        "Francis Tresham"
+    ],
+    "artists": [
+        "Bernd Brunnhofer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Network and Route Building",
+            "Stock Holding"
+        ],
+        "categories": [
+            "Economic",
+            "Trains"
+        ],
+        "families": [
+            "Country: Germany",
+            "Series: 18xx"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 330,
+    "name": "Block Mania",
+    "yearpublished": "1987",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "120",
+    "maxplaytime": "180",
+    "age": "14",
+    "description": "A game of tactical combat set in the Judge Dredd universe.  Players take on the role of rival neighboring blocks.  The residents of each block would like to destroy as much of their rival block as possible.  Players control these residents as they use whatever they can to vandalize and destroy: spray paint, guns, flamethrowers and heavy lasers.<br/><br/>Expanded by:<br/><br/>    Mega Mania<br/>    Happy Hour -Additional tiles and rules for Block Mania appeared in White Dwarf 94.<br/><br/><br/>Happy Hour was included in the 2020 edition of the Mega Mania expansion.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Zd4ZdgTWxPjM2vDydGVBQA__original/img/DsKmSBP8gIzcG2oJg-vStL4uK8s=/0x0/filters:format(jpeg)/pic5951189.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Zd4ZdgTWxPjM2vDydGVBQA__small/img/pTwcSJzu-IoT70FcROi1eRua9Uo=/fit-in/200x150/filters:strip_icc()/pic5951189.jpg",
+    "publishers": [
+        "Games Workshop Ltd.",
+        "Rebellion Unplugged"
+    ],
+    "designers": [
+        "Richard Halliwell"
+    ],
+    "artists": [
+        "Dave Andrews",
+        "Chris Baker",
+        "Colin Dixon",
+        "Brett Ewins"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Comic Book / Strip",
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": [
+            "Comic Books: Judge Dredd",
+            "Players: Games with expansions that change player count",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 271,
+    "name": "It's Mine!",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "7",
+    "description": "It's this simple - watch the cards the dealer lays down. When you like what you see, hit the &quot;It's Mine!&quot; board and grab them all. The catch? Somebody else may want the same cards you do. The first one to slam the board claims the cards. Most cards are good, but some aren't. &quot;Double or Nothing&quot; cards only count if you claim a pair of them. &quot;Toast or Most&quot; cards only score if you have the most of them, and &quot;Jackpot&quot; cards score jackpot points depending on how many you get. IT'S MINE! is great fun for Ages 7 and up. Kids are quick - so adults be on your toes!<br/><br/>&mdash;description from the publisher<br/><br/>",
+    "image": "https://cf.geekdo-images.com/A3fpOaxuSYPPwRypP1-irw__original/img/qma9TW4Ir9GU2UriQ_XcBPzJy2U=/0x0/filters:format(jpeg)/pic324995.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/A3fpOaxuSYPPwRypP1-irw__small/img/Zfp6VB2c3ybZgWlVujWDMYKUim4=/fit-in/200x150/filters:strip_icc()/pic324995.jpg",
+    "publishers": [
+        "Cocktail Games",
+        "Egmont Polska",
+        "Popular de Juguetes",
+        "Top Cards",
+        "Winning Moves Games (USA)",
+        "Winning Moves International Ltd"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Charlie Bink",
+        "Matt Groening",
+        "Maureen Wingrove"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Memory",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game",
+            "Real-time"
+        ],
+        "families": [
+            "TV Shows: The Simpsons"
+        ]
+    }
+}

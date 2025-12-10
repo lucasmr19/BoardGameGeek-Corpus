@@ -1,0 +1,41 @@
+{
+    "id": 354,
+    "name": "Stick 'Em",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "In the trick-taking card game Stick 'Em, first released as Sticheln, players seek to gather points each hand by taking as many cards as possible of all but one color, while trying to avoid cards of one color of their choosing.<br/><br/>In more detail, at the beginning of each hand, each player simultaneously selects and reveals one card from their hand, with the color of this card representing their &quot;pain&quot; color. At the end of the hand, each card of this color that they've collected (including their initial choice from their hand) is worth negative points equal to the card's face value. Each card of another color that this player has collected is worth 1 point.<br/><br/>To play out the hand, the active player leads a card, then each other player in clockwise order plays one card. If all cards are of the same color, then whoever played the highest card collects these cards, then leads the next trick; if all cards are not of the same color, then whoever played the highest card of a color not initially led collects these cards, then leads the next trick. (One exception: A zero card can never win a trick.) In effect, each color played in a particular trick that doesn't match the color of the card led is considered a trump card, and the highest trump wins. In the event of a tie, the earlier played card breaks the tie.<br/><br/>Play as many hands as the number of players in the game, summing each player's points over those hands to determine a winner.<br/><br/>Some versions of Sticheln allow for play with up to six players, while the third and fourth German editions of the game include enough cards to allow for play with up to eight players. (These versions also allow players to play the game Hattrick by the same designer, with rules for this game included as a variant.)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/y9n_OHYdYjAZ4dEPadZ60w__original/img/zaPFle6nXVIoDXcDf2JXw4pwZ-E=/0x0/filters:format(png)/pic5282281.png",
+    "thumbnail": "https://cf.geekdo-images.com/y9n_OHYdYjAZ4dEPadZ60w__small/img/kxpD8JpCSzFVLr4SbWIXu-lW3Ls=/fit-in/200x150/filters:strip_icc()/pic5282281.png",
+    "publishers": [
+        "AMIGO",
+        "Nürnberger-Spielkarten-Verlag",
+        "Capstone Games",
+        "Popcorn Games",
+        "数寄ゲームズ (Suki Games)"
+    ],
+    "designers": [
+        "Klaus Palesch"
+    ],
+    "artists": [
+        "Oliver Freudenreich",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Take That",
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Digital Implementations: BrettspielWelt",
+            "Series: NSV Middys (Nürnberger Spielkartenverlag)"
+        ]
+    }
+}

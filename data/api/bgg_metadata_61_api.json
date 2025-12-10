@@ -1,0 +1,36 @@
+{
+    "id": 61,
+    "name": "Fossil",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "40",
+    "maxplaytime": "40",
+    "age": "10",
+    "description": "On the hunt for petrified treasures, players are competing paleontologists trying to make as complete a set as possible of several fossils.  The board is laid out with a random bunch of fossil pieces and players have to take turns moving a stone about the field to a location where they want to pick up a fossil piece.  However, every movement costs them prestige points so they have to weigh carefully if the fossil is worth the effort.<br/><br/>Won Games Magazine Game of the Year award in 1999.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/0OjVu2DcVVRzYhWb92E_pg__original/img/UaxU1VbaTya9ZLetUXRQWs-nSHY=/0x0/filters:format(jpeg)/pic147519.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0OjVu2DcVVRzYhWb92E_pg__small/img/bW1oxk6GBl7S6Wp2gl8Vu_ReLyQ=/fit-in/200x150/filters:strip_icc()/pic147519.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Klaus Palesch"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Ancient"
+        ],
+        "families": [
+            "Components: 9 x 9 Grids",
+            "Theme: Seashells"
+        ]
+    }
+}

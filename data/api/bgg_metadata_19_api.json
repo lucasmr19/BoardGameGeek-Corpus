@@ -1,0 +1,36 @@
+{
+    "id": 19,
+    "name": "Wacky Wacky West",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "45",
+    "age": "9",
+    "description": "A long time ago, in a village far, far away, some disturbed townsfolk decided to destroy their entire town in order to rid themselves of an evil menace (it's technically a dog-mouse, but I think it's an idiomatic thing).  Anyway, so the villagers rebuilt all the buildings in the town (including their precious outhouses), but forgot to include city walls, a river, or roads.  To rectify this, players lay tiles with one of these three things onto the board, and any building caught underneath them is automatically eliminated, except for outhouses.  When an outhouse would be destroyed, players take a vote on whether to place that particular section.  Each player is trying to retain the most of one type of building, and once all the pieces have been placed the winner is the person with the highest valued buildings still standing.<br/><br/>Wacky, Wacky West re-make description:<br/><br/>Fans of Klaus Teuber will be interested in this remake/redesign of Drunter&amp;Dr&uuml;ber, a 1991 Spiel des Jahres winner.<br/><br/><br/>Just south of nowhere, there's the junction of the Mayfair &amp; Rossdorf RR and the Turvy Trunk Line. Springing up from the desert like a tumbleweed lies the eccentric little town of Rossdorf. Like most western towns, Rossdorf has a Land Agent: Guy Dough, the brother of that wicked varmint Black Benny. A shrewd opportunist, Guy's done sold all the town land ('ceptin' the outhouses) four times over! Every acre in town that ain't got an outhouse on it is owned by the miners, the railroads, AND the fort captain. Just about a year ago, miners digging in the shadow of Fort Rossdorf struck the mother lode! But it wasn't gold, and it wasn't silver. No, my friend, it was just a little spring. Not any ordinary spring, though! It was a torrent of that mind-marbling drink the locals call &quot;Wacky Water!&quot; <br/><br/><br/>Now that water's done what the sun and the wind couldn't do: it's made those landholders brave enough to take matters into their own hands. Now they'll use whatever means they can to bowl over the competition and lay claim to the only fertile spots left in town! Now the only thing stoppin' 'em is the Town Charter Amendment #5, which states: &quot;no landholder may move, remove, or detonate any outhouse without a majority vote of the Town Citizens...&quot; Now one thing's for sure: something's gonna stink in Rossdorf, purty darn soon.....<br/><br/><br/>In Wacky Wacky West you and your fellow townfolk place track tiles, street tiles, and river tiles hoping to destroy your rivals' buildings. Every time someone tries to build over a precious outhouse, the town votes! You try to enlist your supporters (represented by cards) to vote with you to stop or encourage the play of certain tiles-perhaps saving some of your buildings or taking out those of your dastardly opponents.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Jc9Is7OyYz0NdWN_CDBi5g__original/img/XmlNNTdyuc3L-TIV2xbSda54ldw=/0x0/filters:format(jpeg)/pic786075.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Jc9Is7OyYz0NdWN_CDBi5g__small/img/SY3pxFgAkFbx2o7okAWQdNIpfEY=/fit-in/200x150/filters:strip_icc()/pic786075.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Chris McGloughlin",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Tile Placement",
+            "Voting"
+        ],
+        "categories": [
+            "American West",
+            "Bluffing",
+            "City Building"
+        ],
+        "families": []
+    }
+}

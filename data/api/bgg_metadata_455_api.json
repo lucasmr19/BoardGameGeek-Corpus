@@ -1,0 +1,37 @@
+{
+    "id": 455,
+    "name": "Am Fuß des Kilimandscharo",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "7",
+    "description": "Simple Knizia game for children. Progress up the trail to the foot of Kilimanjaro by playing numbered cards. You can play cards in front of yourself to make 3 piles, or onto your opponents to slow them down if they're ahead of you on the trail. The cards are in different types (colors), canoe, mule, jeep or by foot. If your 3 cards are the same type, you can move the total. If 2 cards match, you can move that total. If the 3 cards don't match, you can move the highest number.<br/><br/>In addition, there are chance tokens laid on the trail face-down. These are revealed as you reach them; the banana is a meal-break (take another move), a lion is danger (fall back to the last village), or a swap tile lets you switch places on the trail with another player.<br/><br/>The player that reaches the mountain first wins, but if the players exhaust their decks, then the furthest along the trail is the winner.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/O5x8BWslmhbGjWv4xNJ7Mw__original/img/S1XuoiqS09fZsJTX1z-Csiba19Q=/0x0/filters:format(png)/pic5494764.png",
+    "thumbnail": "https://cf.geekdo-images.com/O5x8BWslmhbGjWv4xNJ7Mw__small/img/cVImhZwW3pM0z3ILg-ziEhFLa-w=/fit-in/200x150/filters:strip_icc()/pic5494764.png",
+    "publishers": [
+        "Hans im Glück"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Race",
+            "Take That"
+        ],
+        "categories": [
+            "Children's Game"
+        ],
+        "families": [
+            "Country: Kenya",
+            "Country: Tanzania",
+            "Mountains: Mount Kilimanjaro"
+        ]
+    }
+}

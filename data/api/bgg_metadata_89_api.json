@@ -1,0 +1,44 @@
+{
+    "id": 89,
+    "name": "Blue vs. Gray",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "Blue vs. Gray is an interesting card-wargame that covers the whole span of the Civil War at the strategic level.  Each side has its own deck of cards which includes leaders, units and special actions and events.  Through the use of cards a map of the entire South slowly is revealed as the war progresses.  Players have to manage their forces through an elaborate command structure while watching the expenditure of their supply.  The entire game can be played in an evening and carried away in a player's pockets.<br/><br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>From GMT website :<br/><br/>&quot;How many times have you said &ldquo;I would have done it differently?&rdquo; With Blue vs Gray: The Civil War Card Game now&rsquo;s your chance. Sack Beauregard and replace him with A.S. Johnston. Dump Hooker for Thomas. And never, ever let Stuart go joyriding.<br/><br/>A CARD GAME THAT PLAYS LIKE A WARGAME<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>Corps, insignia, Divisions, flags, important events, civilians &amp; commanders - they're all here! Fight on an accurate map of America, made of cards, built up as you play. The people and events that made a difference in the War Between the States are on your front lines, making a difference in whether you win or lose. <br/>    <br/>NON-COLLECTIBLE AND PROUD OF IT<br/>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br/>You get every card needed to play your side. (100 cards in the Northern deck and 100 cards in the Southern deck.) No elusive &ldquo;rare&rdquo; cards to ruin games, or drive up prices. How can you recreate the War without Jackson or Sherman ?&quot;<br/><br/>",
+    "image": "https://cf.geekdo-images.com/25K0ry11APabQ05qWrfRNQ__original/img/Hg-BlFgDme3DSRoHVdbM5ay64Gg=/0x0/filters:format(png)/pic2083742.png",
+    "thumbnail": "https://cf.geekdo-images.com/25K0ry11APabQ05qWrfRNQ__small/img/JQXdjkZ1tgVfqbprmzSgKQS6qSA=/fit-in/200x150/filters:strip_icc()/pic2083742.png",
+    "publishers": [
+        "GMT Games",
+        "QED Games"
+    ],
+    "designers": [
+        "Evan Jones"
+    ],
+    "artists": [
+        "Rodger B. MacGowan",
+        "Mark Simonitch",
+        "Stacey Simons"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Events",
+            "Force Commitment",
+            "Hand Management",
+            "Map Addition"
+        ],
+        "categories": [
+            "American Civil War",
+            "Card Game",
+            "Dice",
+            "Wargame"
+        ],
+        "families": [
+            "Country: USA",
+            "Digital Implementations: VASSAL"
+        ]
+    }
+}

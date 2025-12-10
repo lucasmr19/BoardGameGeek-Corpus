@@ -1,0 +1,40 @@
+{
+    "id": 176,
+    "name": "Give Me the Brain!",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "10",
+    "description": "Working in fast-food is hell.  All the employees are zombies, and you can't find a single brain amongst them.  Except for the brain part - there is, in fact, one brain - that's the premise of Give Me the Brain!, a card game in which players take on the roles of zombies in a fast-food restaurant in hell.  They all have to complete a number of tasks before leaving work, and the work keeps piling on.  Even worse, some of the tasks require basic intelligence and there's only one brain to go around.<br/><br/>Note: Give Me the Brain: Superdeluxe Edition has 100 cards, instead of 112 with a few cards adjusted from previous versions.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/OlPw-qCHEgl-83A8rWf9IA__original/img/4ulSIYQhzgyhzzxlg6tKjis70kY=/0x0/filters:format(jpeg)/pic984692.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/OlPw-qCHEgl-83A8rWf9IA__small/img/uQwxOsY1lZ2D5T2OTQ0Q5t52MZo=/fit-in/200x150/filters:strip_icc()/pic984692.jpg",
+    "publishers": [
+        "Cheapass Games",
+        "James Ernest Games",
+        "Steve Jackson Games",
+        "Truant Spiele"
+    ],
+    "designers": [
+        "James Ernest"
+    ],
+    "artists": [
+        "Brian Snoddy"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Auction / Bidding",
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game",
+            "Zombies"
+        ],
+        "families": [
+            "Creatures: Zombies",
+            "Series: Cheapass Zombie"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 31,
+    "name": "Dark World",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Along the lines of HeroQuest comes a much more heavily produced game called Dark World. One player is the evil lord who controls the dungeon in which the rest of the players move their characters from room to room, fighting monsters and gaining treasure. Real working treasure chests with magic weapons inside and the figures even get to put their new weapons in their character's hands.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/xLMe3TMPeekyO5CpELErBA__original/img/KZ0AhYyLh8-kBtgs8ecZun82ToE=/0x0/filters:format(jpeg)/pic525738.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xLMe3TMPeekyO5CpELErBA__small/img/bXIHPciILAH2PQkyjY8cqScQpk8=/fit-in/200x150/filters:strip_icc()/pic525738.jpg",
+    "publishers": [
+        "AS Company",
+        "Canada Games Company Lmt.",
+        "Crown & Andrews Ltd.",
+        "Diset S. A.",
+        "Kod Kod",
+        "Mattel, Inc.",
+        "Schmidt France",
+        "Schmidt Spiele",
+        "Selecta Spel en Hobby",
+        "Waddingtons"
+    ],
+    "designers": [
+        "Eàmon Bloomfield"
+    ],
+    "artists": [
+        "Chris Baker"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Grid Movement"
+        ],
+        "categories": [
+            "Adventure",
+            "Exploration",
+            "Fantasy",
+            "Fighting",
+            "Miniatures"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Category: Dungeon Crawler",
+            "Components: 3-Dimensional (3D)",
+            "Setting: Das Schwarze Auge"
+        ]
+    }
+}

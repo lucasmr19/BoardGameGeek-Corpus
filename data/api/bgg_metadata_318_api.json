@@ -1,0 +1,32 @@
+{
+    "id": 318,
+    "name": "Looney Leo",
+    "yearpublished": "0",
+    "minplayers": "0",
+    "maxplayers": "0",
+    "minplaytime": "0",
+    "maxplaytime": "0",
+    "age": "0",
+    "description": "A home- made game by Eric Alleman. Read the Schloesser session report for a description. Sounds wonderful!<br/><br/>",
+    "image": "N/A",
+    "thumbnail": "N/A",
+    "publishers": [
+        "(Self-Published)"
+    ],
+    "designers": [
+        "Eric Alleman"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Trading"
+        ],
+        "categories": [
+            "Humor"
+        ],
+        "families": [
+            "Admin: Better Description Needed!"
+        ]
+    }
+}

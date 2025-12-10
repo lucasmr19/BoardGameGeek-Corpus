@@ -1,0 +1,41 @@
+{
+    "id": 202,
+    "name": "Targui",
+    "yearpublished": "1988",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "Conquer and occupy the valuable desert grounds. And also keep your home village! By tactically moving groups of camels through the different desert grounds and by using its specialties you can rule the desert. -- from the rulebook<br/><br/>Targui has a board made of large square tiles representing the different types of desert ground. These provide varying economic and strategic value, from 0-5, and with a salt mine in the center, random distribution (with a little tinkering) makes a varied map each game. Players have a village tile which they place on the outer edge, and start with some camels and money. Your turn simply consists of moving and buying camels, expanding your control of the land.<br/><br/>Targui has very simple mechanisms, and is in effect a simple rolling war game with obvious tactics. But the random turn order creates a wonderful world of rapidly shifting alliances, with players making and breaking promises within moments. The winner is not the one with most money or camels, but with the most economic value under their control.<br/><br/>The game plays nicely with 3 or 4 players. However, Targui is a long game. Eight rounds takes about three hours, so using the whole deck of 20 fortune cards makes for an over-long game. If you enjoy Risk or light wargaming, then you'll get a lot from Targui.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/M-VxCY-A19tuJBYPskqUXg__original/img/dUzAoytfQL2k4ggnmRh0AKdYmqI=/0x0/filters:format(jpeg)/pic1787067.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/M-VxCY-A19tuJBYPskqUXg__small/img/GvFIFUlvlduJnKTHsKMmd8YaiP8=/fit-in/200x150/filters:strip_icc()/pic1787067.jpg",
+    "publishers": [
+        "Jumbo"
+    ],
+    "designers": [
+        "Wil Dijkstra",
+        "Ben van Dijk"
+    ],
+    "artists": [
+        "Wil Dijkstra",
+        "Ben van Dijk"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Modular Board",
+            "Player Elimination",
+            "Tile Placement",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Arabian",
+            "Wargame"
+        ],
+        "families": [
+            "Animals: Camels",
+            "Components: 7 x 7 Grids",
+            "Theme: Deserts"
+        ]
+    }
+}

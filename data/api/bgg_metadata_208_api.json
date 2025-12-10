@@ -1,0 +1,30 @@
+{
+    "id": 208,
+    "name": "Ex & Hopp",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "A quick and simple card game for 2-6 milk-drinking players. Each player places a color card down as their marker and the matching sets of cards numbered 1-12 in those colors make up the deck. The deck is shuffled and players get 4 cards, the remainder goes down as a draw deck. There is a set of small tiles in red and black for negative or positive points (red are 4,4,5,5,6,6, black are 2,3,3,4,4,4,5,5,5,6,6,6). These are shuffled face down and 4 turned up to start 4 rows.<br/><br/>On your turn, you can place a card against a row or try to swap a card with another player. If you want to swap, you simply offer a color for another color, mentioning no numbers. Swap with the player of your choice, but if nobody wants to swap, you've wasted your turn.<br/><br/>When you play a card to a row, you draw back so you have 4 cards. When the row is full, determined by the number on the tile, the player with the highest total in the cards has to take the tile, be it positive or negative. Usually your choices are obvious, but sometimes it is worth assisting another player to take a row, rather than waste a good card for you on a low or negative tile. If a row is tied between players, the cards are discarded and the tile stays for more cards.<br/><br/>The discard deck is shuffled over, taken tiles refreshed by new ones. The game ends when the tiles are all taken, deduct the negative from the positive to get your score.<br/><br/>This game was re-themed and expanded on with Relikt.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/HXgMBa5EPFGn3xGfC7D00g__original/img/0JgWdO-Fv8Y9ObDtI9TTYTrHvac=/0x0/filters:format(jpeg)/pic452085.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HXgMBa5EPFGn3xGfC7D00g__small/img/wIYqC45QECkTkiiHkzbKNoQ-g_Q=/fit-in/200x150/filters:strip_icc()/pic452085.jpg",
+    "publishers": [
+        "F.X. Schmid",
+        "Ravensburger"
+    ],
+    "designers": [
+        "Rüdiger Dorn"
+    ],
+    "artists": [
+        "Klaus Wilinski"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 130,
+    "name": "Iron Dragon",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "Description from the publisher:<br/><br/>Iron Dragon takes railroading games where they have never gone before &mdash; to a land filled with elves, cat-people, trolls and magic. Genetically engineered dragons pull trains across dangerous and unexplored territory. Connect cities, fight off forest creatures, and explore the underground to build a railroad empire.<br/><br/>Based on the Empire Builder system, this fantasy game puts classic building strategy and money management tools in a new venue. Players use erasable crayons on a special board and operate a rail empire. Perfect for an evening of fun and adventure with family and friends.<br/><br/>In Iron Dragon, probably the most elaborate of the crayon rail games from Mayfair Games, players are set within a fantasy world attempting to create an extensive and profitable rail network.  Players use crayons to draw their rail lines on the game board itself and use their existing rail lines to pick up and deliver commodities for payouts dictated by cards.<br/><br/>In addition to the standard mechanisms of Empire Builder, Iron Dragon introduces Foremen, which reduce terrain building/river crossing costs depending on their race (elves get a discount in the forest, dwarves get a discount in the mountains, etc.) and Ships, which allow trains to cross the sea between continents, avoid bottlenecks on land, or jump between two unconnected rail networks. Resources are much more segregated by region, with each region specializing in a few resources based on their back story (which is written in the manual).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/G4f3E6R7nrcpgtvAsYmazA__original/img/mX3kj1aYoRUx2rpjzcqTQ5xeCdM=/0x0/filters:format(jpeg)/pic3464926.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/G4f3E6R7nrcpgtvAsYmazA__small/img/FSj9wLfqaHZUmndbf1RBw0M7dDs=/fit-in/200x150/filters:strip_icc()/pic3464926.jpg",
+    "publishers": [
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Darwin Bromley",
+        "Tom Wham"
+    ],
+    "artists": [
+        "Javier González Cava",
+        "Larry Elmore",
+        "Chris Vande Voort"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Crayon Rail System",
+            "Hexagon Grid",
+            "Multiple Maps",
+            "Network and Route Building",
+            "Pick-up and Deliver"
+        ],
+        "categories": [
+            "Fantasy",
+            "Trains",
+            "Transportation"
+        ],
+        "families": [
+            "Components: Crayons",
+            "Series: Empire Builder Rail Games (Mayfair)"
+        ]
+    }
+}

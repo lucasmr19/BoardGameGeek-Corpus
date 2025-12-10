@@ -1,0 +1,46 @@
+{
+    "id": 474,
+    "name": "Cold War",
+    "yearpublished": "1984",
+    "minplayers": "4",
+    "maxplayers": "4",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "A game for four players, Cold War gives you command of the economic, military, and intelligence forces of one of the contemporary world's major powers, and dares you to seize political, military, and economic control of as much of the world as possible.  The only obstacles in your way are your three opponents, each of whom has a bag of dirty tricks to play and an equal stake in the world regions you claim for your own.  Cold War is designed to be easy to learn, fun to play, and hard to win.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/QO-N-U4pirODOl0aBJXh7A__original/img/R80HL0ftCU1QpR_1X30r3dJJ2Ig=/0x0/filters:format(jpeg)/pic655442.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QO-N-U4pirODOl0aBJXh7A__small/img/XV6I7BnsofxNjGoNXJsnLWSzabU=/fit-in/200x150/filters:strip_icc()/pic655442.jpg",
+    "publishers": [
+        "Hobby Japan",
+        "Victory Games (I)"
+    ],
+    "designers": [
+        "Lenny Glynn",
+        "John Prados"
+    ],
+    "artists": [
+        "Ted Koller",
+        "James Talbot"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement"
+        ],
+        "categories": [
+            "Economic",
+            "Modern Warfare",
+            "Negotiation",
+            "Political",
+            "Wargame"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Country: Soviet Union",
+            "Country: USA",
+            "Digital Implementations: TableTop Simulator Mod (TTS)",
+            "History: Cold War",
+            "War Level of Command: Grand Strategy"
+        ]
+    }
+}

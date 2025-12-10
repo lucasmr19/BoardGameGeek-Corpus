@@ -1,0 +1,38 @@
+{
+    "id": 55,
+    "name": "Sophie's World",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Loosely based on the book by Jostein Gaarder, Sophie's World can best be described as a specialized game of Trivial Pursuit: Genus Edition aimed at the Philosophical and Hellenistic crowd.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/sdZdPwtdxr8QMdGe1y5EeQ__original/img/vmkI9eoM6A2UjWLWJe-i5h4QYt4=/0x0/filters:format(jpeg)/pic575231.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sdZdPwtdxr8QMdGe1y5EeQ__small/img/Vg8IOQJhdVNfBrkCzy8bcPcGvIA=/fit-in/200x150/filters:strip_icc()/pic575231.jpg",
+    "publishers": [
+        "KOSMOS",
+        "Orion",
+        "Pontaccio",
+        "Sophisticated Games"
+    ],
+    "designers": [
+        "Ken Howard",
+        "Robert Hyde"
+    ],
+    "artists": [
+        "Sarah Perkins"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Novel-based",
+            "Trivia"
+        ],
+        "families": [
+            "Admin: Better Description Needed!"
+        ]
+    }
+}

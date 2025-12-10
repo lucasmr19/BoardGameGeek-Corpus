@@ -1,0 +1,31 @@
+{
+    "id": 412,
+    "name": "Yukon Company",
+    "yearpublished": "1999",
+    "minplayers": "4",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "In Yukon Company, you play a trader in Alaska who is buying goods at Dawson City and then taking them out to the prospectors at various creeks, and trying to make as much money as possible before the inevitable end of the gold rush.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/syfw00p72bFn2lsmVv4whQ__original/img/RJewu45dnkFGK1XxLIsuuhT3UZE=/0x0/filters:format(jpeg)/pic1882905.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/syfw00p72bFn2lsmVv4whQ__small/img/Uvw_cDycU2SRIkvfSd1rGkc7YxE=/fit-in/200x150/filters:strip_icc()/pic1882905.jpg",
+    "publishers": [
+        "db-Spiele"
+    ],
+    "designers": [
+        "Dirk Henn"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game",
+            "Economic"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": 377,
+    "name": "Neighbors",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "40",
+    "maxplaytime": "40",
+    "age": "0",
+    "description": "extrapolated from sessions report:<br/><br/>The game comes in the long, flat Monopoly-style box. The 3-fold map depicts a circular &quot;street&quot; with 6 colored houses numbered 1 to 6 distributed evenly around the street. These are the player houses, assigned at game start by a die-roll. In between the player houses are other spaces such as &quot;S&quot; (Slob), &quot;C&quot; (Clean), Mischief Night, Recycle, Lose A Turn, Pot Luck, Wild, Sue Neighbour! and Start. There are 6 coloured heads (to match the player's houses), money in 10/20/50/100 bill denominations, 10 Slumrunner cards and 50 Slob cards. Slob cards have values from 10 to 70 on them and say things like &quot;Overgrown grass and weeds&quot;, or &quot;Junk Vehicles In Yard&quot;. Starred (*) cards don't count against you when a round ends. The rules are brief and are printed on the game-box insert.<br/><br/>The idea of the game is to be a clean/good neighbor and hence become the wealthiest neighbor on the block.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/mHmZmesvbMlR7-Q4rg__DA__original/img/Fr-veaKK96J_0pTQMPFaeY5NAeM=/0x0/filters:format(jpeg)/pic1563913.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mHmZmesvbMlR7-Q4rg__DA__small/img/BpRy7rZzkdW-mlWl-pNX8u07Pa8=/fit-in/200x150/filters:strip_icc()/pic1563913.jpg",
+    "publishers": [
+        "M&P Distibutors"
+    ],
+    "designers": [
+        "Mark J. Bronkowski"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Open Drafting",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 29,
+    "name": "Terrain Vague",
+    "yearpublished": "1993",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "Having many system similarities to Full Metal Planète, Terrain Vague is a war game-ish game based on young gangs of kids fighting over turf in a junk yard. Imagine an R-rated Little Rascals movie with weapons and you get the idea.<br/><br/>A winner of the 1992 Concours International de Créateurs de Jeux de Société.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/QG52YF6TnB5QJ9uXgtkqPA__original/img/6XL8ZbELnCL481qb-TktbQQMIYw=/0x0/filters:format(jpeg)/pic237984.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QG52YF6TnB5QJ9uXgtkqPA__small/img/D8mvyydnYcHNfsobNzfUTTpHC7A=/fit-in/200x150/filters:strip_icc()/pic237984.jpg",
+    "publishers": [
+        "Ludodélire"
+    ],
+    "designers": [
+        "Franck Parcabe",
+        "Roland Scaron"
+    ],
+    "artists": [
+        "Jacques Tardi"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Modular Board"
+        ],
+        "categories": [
+            "Fighting",
+            "Humor"
+        ],
+        "families": [
+            "Admin: Better Description Needed!"
+        ]
+    }
+}

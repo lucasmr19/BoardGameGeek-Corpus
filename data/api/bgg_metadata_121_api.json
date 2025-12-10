@@ -1,0 +1,63 @@
+{
+    "id": 121,
+    "name": "Dune",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "Set thousands of years in the future, Dune the board game is based on the Frank Herbert novels about an arid planet at the heart of the human space empire's political machinations.<br/><br/>Designed by the creators at Eon of Cosmic Encounter fame, some contend that the game can best be described as Cosmic Encounter set within the Dune universe, but the two games bear little in common in the actual mechanisms or goals; they're just both set in space. Like Cosmic Encounter, it is a game that generates player interaction through negotiation and bluffing.<br/><br/>Players each take the role of one of the factions attempting to control Dune. Each faction has special powers that overlook certain rules in the game. Each turn players move about the map attempting to pick up valuable spice while dealing with giant sandworms, deadly storms, and other players' military forces. A delicate political balance is formed amongst the factions to prevent any one side from becoming too strong. When a challenge is made in a territory, combat takes the form of hidden bids with additional treachery cards to further the uncertainty.<br/><br/>The game concludes when one faction (or two allied factions) is able to control a certain number of strongholds on the planet.<br/><br/>Note that the Descartes edition of Dune includes the Duel Expansion and Spice Harvest Expansion, the Landsraad variant from Avalon Hill's General magazine, and additional character disks not provided by AH.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/BU8s0uY97Hle4mqUOj8f1g__original/img/GJp5GfzIdwzPgQDXxpBjCPRP_K8=/0x0/filters:format(jpeg)/pic279251.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/BU8s0uY97Hle4mqUOj8f1g__small/img/xo_y6l4KldOtdTYUyXWO1yn4c0M=/fit-in/200x150/filters:strip_icc()/pic279251.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Descartes Editeur",
+        "Hobby Japan"
+    ],
+    "designers": [
+        "Bill Eberle",
+        "Jack Kittredge",
+        "Peter Olotka"
+    ],
+    "artists": [
+        "Jean Baer",
+        "Linda Bound",
+        "Fabrice Lamy",
+        "Christophe Peulvast",
+        "Mick Uhl",
+        "Olivier Vatine",
+        "Chris White (I)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Alliances",
+            "Area Majority / Influence",
+            "Area Movement",
+            "Auction / Bidding",
+            "Force Commitment",
+            "Hand Management",
+            "Map Deformation",
+            "Team-Based Game",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Bluffing",
+            "Fighting",
+            "Negotiation",
+            "Novel-based",
+            "Political",
+            "Science Fiction"
+        ],
+        "families": [
+            "Animals: Worms",
+            "Books: Dune",
+            "Components: Player Screens",
+            "Creatures: Aliens / Extraterrestrials",
+            "Creatures: Monsters",
+            "Digital Implementations: VASSAL",
+            "Misc: Dice Tower Hall of Fame",
+            "Theme: Deserts"
+        ]
+    }
+}

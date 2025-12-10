@@ -1,0 +1,44 @@
+{
+    "id": 36,
+    "name": "Federation & Empire",
+    "yearpublished": "1986",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "300",
+    "maxplaytime": "300",
+    "age": "12",
+    "description": "This sprawling empire game is set in the  Star Fleet Universe. Players command one or more races in a variety of scenarios as they replay the &quot;historical&quot; situations in the galactic politics of the future.<br/><br/>It is the base set for the Federation and Empire series of products.<br/><br/>The Star Fleet Universe series is based on the game Star Fleet Battles, and Federation &amp; Empire is a strategic game based in that background.  Federation &amp; Empire is a stand alone game, and Star Fleet Battles is not required or needed to play this game.<br/><br/>The two games are closely related, and Star Fleet Battles can be used to resolve some or all of the tactical battles of Federation &amp; Empire, and Federation &amp; Empire can be used as a campaign system for Star Fleet Battles.<br/><br/>The original version came out in 1986, and was published by Task Force Games.  This was followed in 1990 with the &quot;Deluxe&quot; version, which replaced the original release.  &quot;Deluxe&quot; was indicated on the front of the box to indicate it was the new version.  The Deluxe version included a revised rule book, more counter sheets, and other player aids such as the battle board and player folio.<br/><br/>The &quot;Deluxe&quot; version had three expansions:<br/><br/>    Federation & Empire: Carrier War<br/>    Federation & Empire: F & E Module 1 – Special Operations<br/>    Federation & Empire: F & E Module 2 – Marine Assault<br/><br/><br/>In 2000, another revision of the rules was completed, and the F&amp;E 2K (as it is called) version stood for a decade.<br/><br/>In 2010 the countersheets were entirely redone (with a larger number of counters per sheet) and the rulebook was once again revised to incorporate the last 10 years of errata and rulings, allowing a better integration with the expansions that were released during this period.<br/><br/>Expanded by:<br/><br/><br/>    Federation & Empire: Advanced Operations<br/>    Federation & Empire: Combined Operations (combined and replaced Federation & Empire: F & E Module 1 – Special Operations and Federation & Empire: F & E Module 2 – Marine Assault)<br/>    Federation & Empire: Fighter Operations (replaced Federation & Empire: Carrier War)<br/>    Federation & Empire: Planetary Operations<br/>    Federation & Empire: Strategic Operations<br/>    Federation & Empire: ISC War<br/>    Federation & Empire: Minor Empires<br/><br/><br/>Since 2010 ADB has created, in both print and pdf form, Compendium I, II and III. The first two covered the F&amp;E sections in Captains Log&rsquo;s 21-40. All material for the base game from these is in the 2010 rule book however material for the expansions Advanced, Combined, Planetary and Strategic Operations are in the first two Compendiums&rsquo;. Compendium III has Captains Log&rsquo;s 41-50 which were all printed post 2010 rules.<br/><br/>Fighter Operations is now updated to the 2010 standard. All relevant items from the first two Compendiums' is included.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ZlZQnkIDefuLQMJGXXDzXA__original/img/xTYyjkb0OEqvWvdWDC2iMbkPQ6k=/0x0/filters:format(jpeg)/pic387448.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ZlZQnkIDefuLQMJGXXDzXA__small/img/P9TCanN3TVa3WuXTwvwZtzszDXk=/fit-in/200x150/filters:strip_icc()/pic387448.jpg",
+    "publishers": [
+        "Amarillo Design Bureau, Inc.",
+        "Task Force Games"
+    ],
+    "designers": [
+        "Stephen V. Cole"
+    ],
+    "artists": [
+        "William H. Keith, Jr.",
+        "David Martin (II)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Movement Points",
+            "Simulation"
+        ],
+        "categories": [
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Map (Interplanetary or Interstellar scale)",
+            "Game: Federation & Empire",
+            "Setting: Star Fleet Universe",
+            "TV Shows: Star Trek (various)",
+            "War Level of Command: Strategic"
+        ]
+    }
+}

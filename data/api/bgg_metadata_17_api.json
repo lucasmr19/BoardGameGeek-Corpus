@@ -1,0 +1,61 @@
+{
+    "id": 17,
+    "name": "Button Men",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "5",
+    "maxplaytime": "5",
+    "age": "10",
+    "description": "This game gained a quick following after one of the major gaming conventions of 1999.  It features several characters, represented on actual stickpin buttons, that each have a unique allowance of polyhedral dice.  These dice endow each  character with fairly unique combat abilities.  Players roll the dice against each other and take their opponents' dice as casualties.  The object of the game is take out the most die 'sides' during the combat.  It's quite simple, quite inventive, and deeper than it would seem at first.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/RHhz745U6a5ZSsfXHuyqFw__original/img/7szsaVrkei4B2CCBekJT3aShtNY=/0x0/filters:format(jpeg)/pic59279.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RHhz745U6a5ZSsfXHuyqFw__small/img/y_he4CwD2iEZN-6SpqTRW47tTuU=/fit-in/200x150/filters:strip_icc()/pic59279.jpg",
+    "publishers": [
+        "Cheapass Games",
+        "(Unknown)",
+        "Atlas Games",
+        "Five Rings Publishing Group",
+        "Guardians of Order",
+        "Looney Labs",
+        "Slag-Bla entertainment (now XXXenophile Books)",
+        "Studio Foglio",
+        "Truant Spiele"
+    ],
+    "designers": [
+        "James Ernest"
+    ],
+    "artists": [
+        "Pete Abrams",
+        "Gerald Brom",
+        "Larry Elmore",
+        "Phil Foglio",
+        "Adam Hughes",
+        "Ryan Kinnaird",
+        "John Kovalic",
+        "John Nephew",
+        "Michelle Nephew",
+        "Brian Snoddy",
+        "Cheyenne Wright",
+        "Andrew Yates"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Push Your Luck"
+        ],
+        "categories": [
+            "Collectible Components",
+            "Dice",
+            "Fighting",
+            "Print & Play"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Category: Two-Player Fighting Games",
+            "Components: Polyhedral (not D6) dice",
+            "Creatures: Vampires",
+            "Digital Implementations: TableTop Simulator Mod (TTS)",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

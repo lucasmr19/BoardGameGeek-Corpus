@@ -1,0 +1,44 @@
+{
+    "id": 313,
+    "name": "Big Boss",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Big Boss is a game of founding companies, expanding existing companies, taking over smaller companies and share buying. The game is explicitly based on the Sid Sackson classic Acquire and shares many similarities to that game though mergers are not as prevalent or crucial in Big Boss. The main differences between the two games include the three dimensional aspect of Big Boss, and the existence of a strong monetary incentive to expand companies that you do not control.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/88O6qyRRVOvWL9f7dh2_Pw__original/img/Q8Zw7o-B8JqikHEdYe1yUuHZOPI=/0x0/filters:format(png)/pic7468155.png",
+    "thumbnail": "https://cf.geekdo-images.com/88O6qyRRVOvWL9f7dh2_Pw__small/img/CT9oXELT2sVntXBR22HwA0Csr1w=/fit-in/200x150/filters:strip_icc()/pic7468155.png",
+    "publishers": [
+        "KOSMOS",
+        "Funko Games"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Migy Blanco",
+        "Wolfgang Kramer",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Hand Management",
+            "Investment",
+            "Market",
+            "Stock Holding",
+            "Tile Placement",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Economic",
+            "Industry / Manufacturing",
+            "Territory Building"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)"
+        ]
+    }
+}

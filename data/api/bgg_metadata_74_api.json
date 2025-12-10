@@ -1,0 +1,50 @@
+{
+    "id": 74,
+    "name": "Apples to Apples",
+    "yearpublished": "1999",
+    "minplayers": "4",
+    "maxplayers": "10",
+    "minplaytime": "20",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "The party game Apples to Apples consists of two decks of cards: Things and Descriptions. Each round, the active player draws a Description card (which features an adjective like &quot;Hairy&quot; or &quot;Smarmy&quot;) from the deck, then the other players each secretly choose the Thing card in hand that best matches that description and plays it face-down on the table. The active player then reveals these cards and chooses the Thing card that, in his opinion, best matches the Description card, which he awards to whoever played that Thing card. This player becomes the new active player for the next round.<br/><br/>Once a player has won a pre-determined number of Description cards, that player wins.<br/><br/>Note: &quot;Party Box&quot; editions include all cards from Apples to Apples: Expansion Set #1 and Apples to Apples: Expansion Set #2<br/><br/>",
+    "image": "https://cf.geekdo-images.com/S5GzB_f2Re3kEDoSxqG5Ew__original/img/K49MN0Ij_tZOgDK4znCUJGu6aU4=/0x0/filters:format(jpeg)/pic213515.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/S5GzB_f2Re3kEDoSxqG5Ew__small/img/kJ1JQ_d9xEZ00sJ1dLvwyQYiQUA=/fit-in/200x150/filters:strip_icc()/pic213515.jpg",
+    "publishers": [
+        "64 Ounce Games",
+        "Beverly Enterprises, Inc.",
+        "Excalibur Electronics",
+        "Holiday Games",
+        "Mattel, Inc.",
+        "Out of the Box Publishing",
+        "Pegasus Spiele",
+        "Tactic"
+    ],
+    "designers": [
+        "Matthew Kirby",
+        "Mark Alan Osterhaus"
+    ],
+    "artists": [
+        "John Kovalic"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Player Judge",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Card Game",
+            "Humor",
+            "Party Game",
+            "Word Game"
+        ],
+        "families": [
+            "Digital Implementations: VASSAL",
+            "Game: Apples to Apples",
+            "Mechanism: Judging Games",
+            "Misc: Dice Tower Hall of Fame",
+            "Misc: Mensa Select"
+        ]
+    }
+}

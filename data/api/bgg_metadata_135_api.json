@@ -1,0 +1,45 @@
+{
+    "id": 135,
+    "name": "Kontor",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Kontor is a two-player tile-laying game which can also be played by two teams of two players. The name means 'Trading House' and the players act as merchants vying for supremacy in late 17th century Amsterdam. By building trading houses at the canals you aim to control three major commodities (Spices, Tea and Wine) in each harbor area. During the game you expand by playing Land and Water cards in the large area of the harbor. By the end of the game points are awarded according to ownership of the largest commodity majorities in each harbor area.<br/><br/>This game has many optional rules, scenarios, expansions and variations.  The game is intended to be played by the advanced rules.<br/><br/> Expanded by: <br/><br/><br/>     Kontor: 3 & 4 player expansion<br/>     Kontor: Die Ereigniskarten<br/>     Kontor: Die Aktionstafeln<br/>     Kontor: Das Exportlager<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/JyI-t2UXLqHwWZHMAtqNkw__original/img/LhzJcdZrE7bswH43ZtN52w2-7LI=/0x0/filters:format(jpeg)/pic239457.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JyI-t2UXLqHwWZHMAtqNkw__small/img/y3pa1wct8SUFrHm2H9rYe2PO7oY=/fit-in/200x150/filters:strip_icc()/pic239457.jpg",
+    "publishers": [
+        "999 Games",
+        "Goldsieber Spiele",
+        "Tilsit"
+    ],
+    "designers": [
+        "Michael Schacht"
+    ],
+    "artists": [
+        "Olivier Frot",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Commodity Speculation",
+            "Map Addition",
+            "Square Grid",
+            "Take That",
+            "Tile Placement",
+            "Turn Order: Stat-Based"
+        ],
+        "categories": [
+            "City Building",
+            "Nautical",
+            "Renaissance"
+        ],
+        "families": [
+            "Cities: Amsterdam (The Netherlands)",
+            "Country: Netherlands"
+        ]
+    }
+}

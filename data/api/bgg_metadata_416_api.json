@@ -1,0 +1,46 @@
+{
+    "id": 416,
+    "name": "A to Z",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "9",
+    "description": "Each player receives a plastic board with 25 spaces on it labeled A to Z (with X and Y sharing a space). The playing board has spaces marked 15, 30, hand and 2. Each player takes a turn moving the single pawn around the board. Once you land on a space, another player draws a card (each with 6 categories on them), looks up your die roll on that card and reads the corresponding category. If you landed on a 15 or 30 you have that many seconds to think of as many words in that category as you can and for each word you can come up with, you cover the appropriate space on your plastic board with a chip. The aim is to be first to fill all 25.<br/><br/>If you land on a hand, you get 15 seconds and choose another player. For every word you think of you can pull a chip off of their board that starts with the appropriate letter. If you land on the 2 space you can cover 2 spaces on your board for free (handy for Q and X, Y, Z).<br/><br/>The timer is obnoxiously loud by intent (very distracting) and flips over very suddenly, scaring people who aren't used to it, to mark the end of the time limit.<br/><br/>Basically, this is a very simple word enumerating party style game that's quick and easy to learn and frustrating for people with poor vocabularies or stalled minds.<br/><br/>Many years ago, while still known as Nelospelit, Tactic already used the title Ord Mani for an earlier word game; these are different games, although some similarities do exist.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/WEozFnlyFQw_zPncm_ELOw__original/img/3PDyLSjJDgwGNF8BXO43azhwUk4=/0x0/filters:format(jpeg)/pic127151.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WEozFnlyFQw_zPncm_ELOw__small/img/M-2p8rhJkWBNO8qyvxp2nmjXgQU=/fit-in/200x150/filters:strip_icc()/pic127151.jpg",
+    "publishers": [
+        "F.X. Schmid",
+        "Fundex",
+        "Habourdin International",
+        "Murfett Regency",
+        "Noris Spiele",
+        "Spear's Games",
+        "Tactic"
+    ],
+    "designers": [
+        "Gordon A. Barlow"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Race",
+            "Roll / Spin and Move",
+            "Set Collection"
+        ],
+        "categories": [
+            "Party Game",
+            "Trivia",
+            "Word Game"
+        ],
+        "families": [
+            "Animals: Frogs / Toads",
+            "Components: 5 x 5 Grids",
+            "Series: A to Z (Tactic)",
+            "Traditional Games: Categories / Guggenheim",
+            "Word Games: First Letter Given"
+        ]
+    }
+}

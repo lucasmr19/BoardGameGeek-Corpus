@@ -1,0 +1,69 @@
+{
+    "id": 240,
+    "name": "Britannia",
+    "yearpublished": "1986",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "180",
+    "maxplaytime": "300",
+    "age": "12",
+    "description": "&quot;Britannia&quot; is a historical Strategic board-wargame that broadly depicts the millennia-long struggle for control of England, Scotland, and Wales. The game begins with the Roman invasion of 43 A.D., continues through the many struggles between Angles, Saxons, Picts, Norsemen, Scots, Irish, and other tribes, and ends with the Norman invasion of 1066.<br/><br/>Britannia allows players to re-create this epic history, re-enacting important battles in some cases, altering the course of history in others. The game rules discourage players from making historically unrealistic moves, but also give players the freedom to alter Great Britain&rsquo;s history in important ways, creating countless interesting &ldquo;what if?&rdquo; scenarios. What if Boudicca&rsquo;s Revolt against the Romans had been more successful? What if the Romans and the Romano-British had repelled the Saxon invasions of the 5th and 6th centuries? What if William the Conqueror had died during the Norman invasion of 1066?<br/><br/>In Britannia, the players will determine the destiny of a kingdom.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/-M-1zs8oMttiUS2xd8qK4A__original/img/Hil6BWCATeo_bcRqRMHGhAsx_mw=/0x0/filters:format(jpeg)/pic106711.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-M-1zs8oMttiUS2xd8qK4A__small/img/qjfnfPFYpTCgmvV9Yon2BDdy88Q=/fit-in/200x150/filters:strip_icc()/pic106711.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Fantasy Flight Games",
+        "Gibsons",
+        "Delta Vision Publishing",
+        "Devir",
+        "Edge Entertainment",
+        "Esdevium",
+        "Heidelberger Spieleverlag",
+        "Welt der Spiele"
+    ],
+    "designers": [
+        "Lewis Pulsipher"
+    ],
+    "artists": [
+        "Alex Anders",
+        "Mark Bromley",
+        "Guy Gentry",
+        "Norbert Gräf",
+        "Tomasz Jedruszek",
+        "Patrick McEvoy",
+        "Kurt Miller",
+        "George I. Parrish, Jr.",
+        "Ted Pendergraft",
+        "Lewis Pulsipher",
+        "Günter Vojtek"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling",
+            "Simulation",
+            "Stat Check Resolution",
+            "Voting"
+        ],
+        "categories": [
+            "Ancient",
+            "Civilization",
+            "Medieval",
+            "Wargame"
+        ],
+        "families": [
+            "Ancient: Rome",
+            "Components: Map (Continental / National scale)",
+            "Country: England",
+            "Country: Scotland",
+            "Country: Wales",
+            "Digital Implementations: VASSAL",
+            "History: Roman Britain",
+            "History: Viking Expansion",
+            "Series: Britannia Game System",
+            "Theme: King Arthur / The Knights of the Round Table / Camelot",
+            "Theme: Vikings",
+            "War Battlespace: Land warfare"
+        ]
+    }
+}

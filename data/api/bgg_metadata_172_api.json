@@ -1,0 +1,86 @@
+{
+    "id": 172,
+    "name": "For Sale",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "For Sale is a quick, fun game nominally about buying and selling real estate. During the game's two distinct phases, players first bid for several buildings then, after all buildings have been bought, sell the buildings for the greatest profit possible.<br/><br/>The original Ravensburger/FX Schmid edition (1997/98) has slightly different rules than later English editions, and only 20 buildings instead of 30.<br/> The Überplay 2005 Edition has new art, rules and card distribution changes, and it accommodates 3-6 players.<br/><br/>The Gryphon 2009 Edition uses the &Uuml;berplay art for the faces of the property cards, while replacing most other art.  The rules are the same as the &Uuml;berplay edition, with the exception of the rounding rule (which was stated in different ways in different printings of the &Uuml;berplay edition).<br/><br/>Rounding rule<br/><br/>The rounding rule preferred by the designer Stefan Dorra is that players get back half of their bid rounded DOWN (not UP), as confirmed in correspondence with him here and here.  A history of how the rounding rule has changed in different editions is documented here.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__original/img/6ib2NLakSlsf69WYwCOe9NNLcsc=/0x0/filters:format(jpeg)/pic1513085.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__small/img/3cgW5aP-JJeKSpZMjA0NFheMnfY=/fit-in/200x150/filters:strip_icc()/pic1513085.jpg",
+    "publishers": [
+        "Eagle-Gryphon Games",
+        "IELLO",
+        "Ravensburger",
+        "2 Pionki",
+        "Albi",
+        "AURUM, Inc.",
+        "Baborka Games",
+        "Brain Games",
+        "Compaya.hu: Gamer Café Kft.",
+        "Competo / Marektoy",
+        "F.X. Schmid",
+        "Gabinete Lúdico",
+        "Geekach LLC",
+        "HaKubia",
+        "Heidelberger Spieleverlag",
+        "Jolly Thinkers",
+        "Kaissa Chess & Games",
+        "MEBO Games",
+        "Meeple Virus",
+        "NeoTroy Games",
+        "New Games Order, LLC",
+        "PaperGames (III)",
+        "Portal Games",
+        "Primigenio",
+        "Siam Board Games",
+        "SPIEL DAS! Verlag",
+        "TLAMA games",
+        "Top Toys",
+        "Überplay",
+        "uplay.it edizioni",
+        "Wargames Club Publishing",
+        "Zito! Ώρα για παιχνίδι",
+        "Взрослые дети",
+        "Нескучные игры",
+        "פרש משחקים: Game Knight"
+    ],
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "artists": [
+        "Óscar Aguado",
+        "Abbas Amirabadi",
+        "Mohammad Amir Garoosian",
+        "Alvin Madden",
+        "Gil Martimiano",
+        "Mahmoud Arasteh Nasab",
+        "Emilien Rotival",
+        "Catell Ruz",
+        "Dossom Studio",
+        "Chema Vicente",
+        "Uros Vuckovic",
+        "Klaus Wilinski"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Sealed Bid",
+            "Auction: Turn Order Until Pass",
+            "Hand Management",
+            "Selection Order Bid"
+        ],
+        "categories": [
+            "Card Game",
+            "Economic"
+        ],
+        "families": [
+            "Digital Implementations: Board Game Arena",
+            "Misc: Dice Tower Hall of Fame",
+            "Series: Bookshelf (Gryphon Games)",
+            "Series: Mini Games (IELLO)"
+        ]
+    }
+}

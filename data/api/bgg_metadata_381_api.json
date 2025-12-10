@@ -1,0 +1,30 @@
+{
+    "id": 381,
+    "name": "X Pasch",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "8",
+    "description": "This vindictively fun game is ostensibly about gaining control of businesses, which are represented by cards.  Every turn, each player gains income from companies where he has the most boardmembers, then rolls three dice and uses them for various purposes:  bringing a new business into the game, adding boardmembers to existing businesses, or drawing new cards.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/dAN5v5l7PPjZ8puH6KObZA__original/img/qfLdr3Ma2ii7KvZkU4D962Omx3I=/0x0/filters:format(jpeg)/pic687790.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dAN5v5l7PPjZ8puH6KObZA__small/img/tHSaxV87SZ4hD_L5vMDFAtGf9ys=/fit-in/200x150/filters:strip_icc()/pic687790.jpg",
+    "publishers": [
+        "Fanfor-Verlag"
+    ],
+    "designers": [
+        "Valentin Herman"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Card Game",
+            "Dice"
+        ],
+        "families": []
+    }
+}

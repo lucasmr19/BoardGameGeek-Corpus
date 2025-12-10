@@ -1,0 +1,49 @@
+{
+    "id": 265,
+    "name": "Intrigue",
+    "yearpublished": "1994",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "14",
+    "description": "This pure negotiation game pits the players as Renaissance era families that are engaging in rampant nepotism.  Players are seeking positions in the other families' businesses, and to further that pursuit players offer bribes.  However, once accepting a bribe, the 'bought' player is under absolutely no obligation to honor the highest briber or any other verbal deal.  In a word, this game is vicious.<br/><br/>The new AMIGO edition came out in 2005.<br/><br/>The main difference between the F.X. Schmid and the AMIGO versions are that the the F.X. Schmid version uses five houses/buildings per player, with values of 1,2,3,5, and 10, but the AMIGO version uses four buildings/houses per player, with values of 1,3,6, and 10.  Accordingly, the F.X. Schmid version has five professions - knight, merchant, lawyer, writer, and clergy - but the AMIGO version retains only clergy and writer, and adds chemist and doctor.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/l8ki305GFjjmrRworLUzLw__original/img/8Gjm0OPOkdkuZBovbvB951n_g0g=/0x0/filters:format(jpeg)/pic182825.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/l8ki305GFjjmrRworLUzLw__small/img/UZGoQD08li-O011CJNu3LQyusYY=/fit-in/200x150/filters:strip_icc()/pic182825.jpg",
+    "publishers": [
+        "AMIGO",
+        "Cranio Creations",
+        "F.X. Schmid",
+        "Igiari",
+        "JELLY JELLY GAMES",
+        "Mandoo Games",
+        "Mayfair Games",
+        "Popcorn Games"
+    ],
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "artists": [
+        "Eckhard Freytag",
+        "Clément Masson",
+        "Ian Parovel",
+        "Renate Seelig",
+        "Markus Wagner"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Auction / Bidding",
+            "Bribery",
+            "Hand Management",
+            "Negotiation"
+        ],
+        "categories": [
+            "Negotiation",
+            "Renaissance"
+        ],
+        "families": [
+            "Digital Implementations: BrettspielWelt"
+        ]
+    }
+}

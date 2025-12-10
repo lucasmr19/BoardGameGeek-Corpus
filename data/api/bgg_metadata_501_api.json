@@ -1,0 +1,30 @@
+{
+    "id": 501,
+    "name": "Dschungelrennen",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Each player has a group of 5 animals in one color: crocodile, monkey, bear, tiger, elephant.  They all race to gain the best places on the podiums.<br/>There is a podium for each type of animal, with points for first, second and third arrivals.  Once all the first positions of each podium has been taken the game is over. The player the most points, which is not necessarily the player with the most podiums, is the winner.<br/><br/>Movement is by dice which shows either one animal, two animals, or a joker. These reduce the thinking time a lot, as you have only a few choices to make, but still some choices to give the impressions that players are actually playing. In addition to that, certain spaces on the board allow for extra movement. Sometimes you may move an animal in the very back in order to gain some extra movements for the others.<br/><br/>Is a conga-line-style race, because only one animal can occupy one space, and the taken spaces don't count when you move your animal, which results in amazing jumps over other animals.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/hmyvF3sJyN5rg8xIWkyq4g__original/img/ldT3BnyDPuy0JsC252OLiWRll0g=/0x0/filters:format(jpeg)/pic1314186.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hmyvF3sJyN5rg8xIWkyq4g__small/img/6MPs42Ufvmin8My5zD9P-SSVpjE=/fit-in/200x150/filters:strip_icc()/pic1314186.jpg",
+    "publishers": [
+        "Otto Maier Verlag"
+    ],
+    "designers": [
+        "Wolfgang Riedesser"
+    ],
+    "artists": [
+        "Heinz-Peter Fothen"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Children's Game",
+            "Racing"
+        ],
+        "families": []
+    }
+}

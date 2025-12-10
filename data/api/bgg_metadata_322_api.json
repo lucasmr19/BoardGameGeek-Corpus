@@ -1,0 +1,43 @@
+{
+    "id": 322,
+    "name": "Tonga Bonga",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "In Tonga Bonga, each player pilots a ship around a little group of islands with the goal of visiting four of the five remote islands and returning to Tonga Bonga Bay.<br/><br/>Winning the race does not win the game, however; what matters is having the most money. Each player has room for three sailors (represented by dice) on their ship, and at the start of a round, in order players decide how much money to offer the sailors who will serve as their captain and first mate that round. (The cabin boy always works for free.) Next, in order players roll their dice, then assign one die to each other ship &mdash; never their own! If you place a die with an equal or higher pip value on a ship where a die already present, you bump that earlier die to a lesser role. (In short, the ships always end up with the highest die in the captain position.) One side of each die has a seasick sailor, who doesn't go to sea that round, so not all ships will necessarily be full.<br/><br/>Once all the dice have been placed, in order players move their ship, ideally reaching islands before others and leaving one of your tokens there. Whenever you land on an island, you reach $25 from the bank, but you must then pay $5 to each player who landed there ahead of you. At the end of a round, players collect the wages next to the captain and first mate spots holding their dice.<br/><br/>A player who has visited four islands can return to Tonga Bonga Bay, collecting $10 when they dock there. At the end of that round, the game ends, and whoever has the most money wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/LlcT5_MK4afNYWBZv8VnPw__original/img/nunr6tLBHi3cniYUMd6cCZR0uBU=/0x0/filters:format(png)/pic8249170.png",
+    "thumbnail": "https://cf.geekdo-images.com/LlcT5_MK4afNYWBZv8VnPw__small/img/Fi88a7uV9HINlpFfqHuTIGt0StA=/fit-in/200x150/filters:strip_icc()/pic8249170.png",
+    "publishers": [
+        "Playte",
+        "Ravensburger"
+    ],
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "artists": [
+        "Wanjin Gill",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Betting and Bluffing",
+            "Bribery",
+            "Dice Rolling",
+            "Set Collection"
+        ],
+        "categories": [
+            "Economic",
+            "Nautical",
+            "Racing"
+        ],
+        "families": [
+            "Components: Game Box Used In Play",
+            "Country: Tonga",
+            "Theme: Tropical",
+            "Theme: Tropical Islands"
+        ]
+    }
+}

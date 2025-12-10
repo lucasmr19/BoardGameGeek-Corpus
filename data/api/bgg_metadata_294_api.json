@@ -1,0 +1,38 @@
+{
+    "id": 294,
+    "name": "Keydom",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Independently produced by British game designer Richard Breese, the three hundred copies of this game sold within hours of its initial offering at Essen 1998.  Players represent a family of medieval professionals, such as Stonemasons or Fishermen.  Using a set of numbered tokens and some misdirection, players try to achieve control in several areas of the board.  Perhaps they are seeking resources.  Or perhaps they will use their hard-fought resources to purchase special actions, magical spells, or a piece of the royal Keylore.  The first player to acquire all three pieces of regalia and take them to the throne room is crowned King and is the winner.  Re-tooled, this game was re-released as Aladdin's Dragons in 2000.<br/><br/>Keydom is Richard Breese's second game in the key series.<br/><br/>Re-implemented by:<br/><br/>    Aladdin's Dragons<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/FygbwlRjyNnl1uZMa8WmIA__original/img/3bMbq3qZiHJI8gX1aK_L8SDguKI=/0x0/filters:format(jpeg)/pic560205.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FygbwlRjyNnl1uZMa8WmIA__small/img/qizQEjSy4b99xy8NxRtr69-YCy8=/fit-in/200x150/filters:strip_icc()/pic560205.jpg",
+    "publishers": [
+        "R&D Games"
+    ],
+    "designers": [
+        "Richard Breese"
+    ],
+    "artists": [
+        "Juliet Breese"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Multiple Lot",
+            "Set Collection",
+            "Worker Placement"
+        ],
+        "categories": [
+            "Bluffing",
+            "Fantasy",
+            "Medieval"
+        ],
+        "families": [
+            "Series: Key (Richard Breese)"
+        ]
+    }
+}

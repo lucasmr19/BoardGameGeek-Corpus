@@ -1,0 +1,59 @@
+{
+    "id": 466,
+    "name": "Inkognito",
+    "yearpublished": "1988",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Game description from the publisher:<br/><br/>The goal of each agent in Inkognito is to complete a mission, together with his partner. At the beginning of the game, however, players don't know which mission they must fulfill!<br/><br/>In the standard four-player game, each player guides one of four secret agents. The four characters are allied in pairs: Lord Fiddlebottom and Colonel Bubble are always partnered against Agent X and Madame Zsa Zsa. Each of the four agents is represented by one of four different figures, with different builds: tall, short, fat, thin. Only one of them represents the actual character controlled by a player. The other three figures represent spies which are friendly to him and that are trying to confuse the opposition.<br/><br/>On a turn, a player shakes the Phantom of Prophecy randomizer to determine his three available actions, e.g., moving on a land route or a sea route. The player moves his figures, trying to reach spaces already occupied by the other players' figures or the Ambassador. When figures are in the same space, the current player gets the right to &quot;ask questions&quot; and inspect some of the cards of that player. By deduction and a logical process of elimination, he can draw conclusions as to the identity and intentions of the other players.<br/><br/>The first goal of every agent is to discover which of the other players is his partner. This partner has the other half of the &quot;code&quot; indicating his secret mission. After discovering (or thinking he has discovered) the real identity of the other players, an agent must trade his secret mission card with his ally. This will reveal the final mission and what must be done to complete it. If either agent on a team completes the mission, both he and his partner win the game.<br/><br/>There is another character with an important role in the game: the Ambassador. He can be used to get clearer information about the other characters. Everyone wants to meet him because he is well-informed and can be useful to accomplish your purposes, but he can also help your rivals, so do everything you can to keep him far from them.<br/><br/>The 2013 version of Inkognito from Ares Games raises the maximum player count to five by allowing someone to play the Ambassador and move it during his turn. He can still gather clues when the other players question the Ambassador during their turn, and the other players can still gather clues from him. The goal of the Ambassador's player is to know everything about the other characters, guessing their identities and builds. If the Ambassador achieves &quot;perfect knowledge&quot; before a team accomplishes its secret missions, he wins the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/W3BGlJsdZO0_MH75qLjStQ__original/img/MlR2wxpXBT-hMktt2P7Kgy7kA74=/0x0/filters:format(jpeg)/pic3061724.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/W3BGlJsdZO0_MH75qLjStQ__small/img/7-RWK99Ojx39mgkZa3MqpxILSR8=/fit-in/200x150/filters:strip_icc()/pic3061724.jpg",
+    "publishers": [
+        "Ares Games",
+        "Devir",
+        "IELLO",
+        "Kaissa Chess & Games",
+        "Korea Boardgames",
+        "MB Giochi",
+        "MB Spellen",
+        "MB Spiele",
+        "MB spill",
+        "Milton Bradley",
+        "Oliphante",
+        "Paper Iyagi",
+        "Piatnik",
+        "Planplay",
+        "Red Glove",
+        "Rio Grande Games",
+        "UBO CnC",
+        "Venice Connection",
+        "Winning Moves Germany"
+    ],
+    "designers": [
+        "Leo Colovini",
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Peter Gifford",
+        "Studio Tapiro"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Point to Point Movement",
+            "Roll / Spin and Move",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Deduction",
+            "Spies / Secret Agents"
+        ],
+        "families": [
+            "Cities: Venice (Veneto, Italy)",
+            "Components: Marbles",
+            "Components: Player Screens",
+            "Country: Italy"
+        ]
+    }
+}

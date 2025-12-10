@@ -1,0 +1,35 @@
+{
+    "id": 102,
+    "name": "Klunker",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Klunker features elements similar to Uwe Rosenberg's Bohnanza, with players trying to specialize in collecting only a few types of cards.<br/><br/>To start play, each player has 1 banknote (a random face-down card) in their safe and a hand of six cards; seven types of jewelry are included in the game. On a turn, each player in clockwise order from the round's starting player places 0-6 cards from their hand into their store window. (If a player's window is empty, they must place at least one card.) Next, in clockwise order players can place one card face up in their safe or pass; when a player passes, they take the lowest numbered purchase card, and players continue placing cards one by one until they pass.<br/><br/>Starting with the player who has the lowest purchase card, players can buy all of the cards in someone's store window &mdash; including their own &mdash; by paying the owner 1 banknote, after which they place these cards in their safe. (If you have cards in your store window, you must purchase cards.)<br/><br/>As soon as a player has four of the same type of jewelry in their safe, whether from playing cards there directly or from purchasing someone's window goods, they must cash in those cards. If you have only one type of jewelry in the safe, you flip all four cards into your safe for 4 bank notes. For each extra type of jewelry in the safe, you flip one fewer card, e.g., with three types of jewelry, you flip only 2 banknotes, discarding the other two cards from play.<br/><br/>If a player declines to purchase cards, the purchase round ends immediately, then players refill their hand to six cards. If this isn't possible because the deck has run out, the game ends. Whoever has the most banknotes wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/YQ29ZNsQjKyIB_fkWPViQQ__original/img/EyvOveuxihzoTOm0-AQkYCK-BaI=/0x0/filters:format(jpeg)/pic158573.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YQ29ZNsQjKyIB_fkWPViQQ__small/img/jew5WyPxRSiftXtgZPJXZ1FD3K0=/fit-in/200x150/filters:strip_icc()/pic158573.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "artists": [
+        "Oliver Moser"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Theme: Burglary and Heists",
+            "Theme: Jewelry"
+        ]
+    }
+}

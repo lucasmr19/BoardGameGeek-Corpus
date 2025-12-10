@@ -1,0 +1,33 @@
+{
+    "id": 362,
+    "name": "Elefantenparade",
+    "yearpublished": "1988",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "12",
+    "description": "Players have 2 elephants each which move along the track, collecting mahogany logs if possible. You can either move any 3 elephants 1,2 &amp; 3 spaces in any order, or you can move all the elephants in a parade forward one place. The logs are on certain squares, so you try to move the other elephants so that yours land exactly onto the logs, without getting detached from the parade. Other squares are water, which lock the elephant down until all have passed, unless you have a parade and everyone moves forward one. At the end of the track are three palaces with more logs for the first, second and third elephants home. Most logs wins. A lovely game with Indian graphics and neat wooden elephants.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/r6PlRM93hpzsbGyLVlj0bA__original/img/bBaktnXLzYGJ68GdRFskHkY-KDY=/0x0/filters:format(jpeg)/pic4415975.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/r6PlRM93hpzsbGyLVlj0bA__small/img/dfpiM8HlDTD6oCVYwEVX6za5Gz4=/fit-in/200x150/filters:strip_icc()/pic4415975.jpg",
+    "publishers": [
+        "Otto Maier Verlag"
+    ],
+    "designers": [
+        "Henri Sala"
+    ],
+    "artists": [
+        "Tilman Michalski"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Abstract Strategy",
+            "Animals",
+            "Racing"
+        ],
+        "families": [
+            "Animals: Elephants"
+        ]
+    }
+}

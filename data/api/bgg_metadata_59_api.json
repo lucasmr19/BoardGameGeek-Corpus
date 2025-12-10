@@ -1,0 +1,39 @@
+{
+    "id": 59,
+    "name": "Giganten",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Besides attempting to find oil in dusty Texas, players must also try to outbid one another for sales contracts in the oil industry.  An oilfield with drilling sites scattered about is spread out before the players, who take their trucks out trying to grab those sites as quickly as possible.<br/><br/>Three groups of tiles are laid over the drilling sites, giving a range of value for each site once it has been reached by a player.  The deeper a site is into the field the greater its overall yield. But players have to weigh this against creating a constant supply from the smaller yields that are closer at the beginning of the game.<br/><br/>Once oil has been produced, players can attempt to sell it on the market. But there are only three companies, and with four players this means that one player will be shut out each turn.  Bidding has an interesting element to it in that player's bidding pools are hidden from one another, making it difficult to tell whether a player is bluffing.<br/><br/>Reimplemented as Black Gold<br/><br/>",
+    "image": "https://cf.geekdo-images.com/xiJmbkTIlaBidfWsewdrdg__original/img/HK4fOXCCLay0A4YVqXO_l0zZOeo=/0x0/filters:format(jpeg)/pic431734.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xiJmbkTIlaBidfWsewdrdg__small/img/bQ-kfXi7Zw3_XSSVMv50-zDgHY4=/fit-in/200x150/filters:strip_icc()/pic431734.jpg",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Wilko Manz"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Commodity Speculation",
+            "Multi-Use Cards"
+        ],
+        "categories": [
+            "Economic",
+            "Exploration",
+            "Industry / Manufacturing"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Theme: Oil / Gas / Petroleum",
+            "Theme: Trucks"
+        ]
+    }
+}

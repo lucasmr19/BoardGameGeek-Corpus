@@ -1,0 +1,52 @@
+{
+    "id": 230,
+    "name": "Merchant of Venus",
+    "yearpublished": "1988",
+    "minplayers": "1",
+    "maxplayers": "6",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "Merchant of Venus makes players take on the roles of space traders chasing wealth and fortune. Each player moves their ship through interconnected systems on a fixed map, discovering new alien worlds to trade with. As players start to make money delivering commodities, their earnings can be used to purchase equipment and construct their own infrastructure. The player who first acquires enough total value in cash and port/factory deeds wins the game.<br/><br/>The game uses a basic roll-and-move mechanism for movement, but modifies it with engine ship upgrades that let the players skip certain spaces during movement. When players reach cities and spaceports, they can buy and sell commodities. Different species are randomly distributed throughout the universe at the start of the game, and players will only uncover which species lives where through exploration in the course of the game - the layout of which species lives where works to offset the rigidity of the fixed map by making different routes through the map profitable each game.<br/><br/>The prices a player receives for selling their cargo is determined by the species that lives in the system, and what commodities a port offers for purchase is determined by a unique and dynamic supply-and-demand mechanism. With their money, players can replace their spaceships with better models, or build factories (which create better commodities) and spaceports (which speed up trading). They can also buy upgrades for their ships (like shields, lasers, or engines).<br/><br/>Variations included in the rulebook allow for interplayer combat and solo play, and the exact target wealth players have to acquire in order to win is decided on before each play.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/FZ7aD_jdYDqpcSBQ1rkT8A__original/img/DRiPQCym-5XtuaO6hswEoGzcKkY=/0x0/filters:format(jpeg)/pic159117.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FZ7aD_jdYDqpcSBQ1rkT8A__small/img/P8HOlVIvm5Kj1vBCB35WMU0y77s=/fit-in/200x150/filters:strip_icc()/pic159117.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Richard Hamblen"
+    ],
+    "artists": [
+        "Charles Kibler",
+        "George I. Parrish, Jr.",
+        "Regina De Simone"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Dice Rolling",
+            "Movement Points",
+            "Pick-up and Deliver",
+            "Point to Point Movement",
+            "Roll / Spin and Move",
+            "Solo / Solitaire Game",
+            "Trading",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Economic",
+            "Exploration",
+            "Science Fiction",
+            "Space Exploration",
+            "Transportation"
+        ],
+        "families": [
+            "Components: Map (Interplanetary or Interstellar scale)",
+            "Creatures: Aliens / Extraterrestrials",
+            "Occupation: Merchant",
+            "Players: Games with Solitaire Rules",
+            "Space: Asteroids",
+            "Space: Venus"
+        ]
+    }
+}

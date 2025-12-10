@@ -1,0 +1,33 @@
+{
+    "id": 21,
+    "name": "Gateway to the Stars",
+    "yearpublished": "1994",
+    "minplayers": "1",
+    "maxplayers": "7",
+    "minplaytime": "0",
+    "maxplaytime": "0",
+    "age": "12",
+    "description": "A 4X game (eXplore, eXpand, eXploit, eXterminate) along the lines of Stellar Conquest, players each control a space faring empire that moves out to other star systems to explore and conquer.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/kK61hx1j0HmMp9kuEZEfmg__original/img/87kF2NoOXGN54six4TO50zqkD-Y=/0x0/filters:format(jpeg)/pic1615146.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kK61hx1j0HmMp9kuEZEfmg__small/img/XE3vJU-TX0hIPysk5lAYOEtzp6U=/fit-in/200x150/filters:strip_icc()/pic1615146.jpg",
+    "publishers": [
+        "Twentieth Century Renaissance"
+    ],
+    "designers": [
+        "Mark A. Snowden"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Civilization",
+            "Exploration",
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Mechanism: 4X"
+        ]
+    }
+}

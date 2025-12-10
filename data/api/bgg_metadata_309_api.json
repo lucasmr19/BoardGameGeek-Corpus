@@ -1,0 +1,39 @@
+{
+    "id": 309,
+    "name": "Arabana-Ikibiti",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "This game was quite the rage at Essen 1997. Enough so that Funagain decided to get into the publishing business by producing a new version (with the same title), and that Kosmos later published an altered version as Kahuna.<br/><br/>The game itself is rather simple. There's a large collection of islands that are going to be connected by bridges. Bridges are placed onto the board when the matching card is played. The kicker is that when a player gets a majority of the bridges on one island, his opponent's bridges from that island suddenly disappear. Once the deck has been exhausted three times, the dominant force on the islands wins.<br/><br/>Re-implemented as:<br/><br/>    Kahuna<br/>    Kanaloa<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/5j8l6I32BhdNjzxeNRBivA__original/img/DVIF5M9uZyFf1zu3TCBd-2kFulk=/0x0/filters:format(jpeg)/pic282327.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5j8l6I32BhdNjzxeNRBivA__small/img/iy9-45XAxhd4U4eA7FfgQUOfgX4=/fit-in/200x150/filters:strip_icc()/pic282327.jpg",
+    "publishers": [
+        "Bambus Spieleverlag",
+        "Funagain"
+    ],
+    "designers": [
+        "Günter Cornett"
+    ],
+    "artists": [
+        "Bob Herried",
+        "Sabine Mielke",
+        "Rick Soued"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Network and Route Building"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Card Game"
+        ],
+        "families": [
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

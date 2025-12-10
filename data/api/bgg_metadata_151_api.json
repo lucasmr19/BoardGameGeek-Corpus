@@ -1,0 +1,35 @@
+{
+    "id": 151,
+    "name": "Piratenbillard",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "8",
+    "description": "This interesting dexterity game is played on a table-like board that is a wooden lattice with a piece of linen stretched over the bottom.  Little colored balls are placed in the resulting holes, and then players use long wooden mallets to strike the bottom of the table.  When a ball is hit correctly, it will pop out of the space it's in and land in another space closer to the opposite side of the board.  Landing on another player's ball lets you capture it, but if your ball lands off the board, it's out of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/fBHqgRlPMxc484r8Lfbm_A__original/img/bEe8uyij04RfhUgRdR1P22P3x0g=/0x0/filters:format(jpeg)/pic2698865.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fBHqgRlPMxc484r8Lfbm_A__small/img/tuAL9l7Yp2QspS7VCKrk_rH6_WE=/fit-in/200x150/filters:strip_icc()/pic2698865.jpg",
+    "publishers": [
+        "ABACUSSPIELE"
+    ],
+    "designers": [
+        "Reinhold Wittig"
+    ],
+    "artists": [
+        "Franz Vohwinkel",
+        "Reinhold Wittig"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Action / Dexterity",
+            "Pirates"
+        ],
+        "families": [
+            "Components: 10 x 10 Grids",
+            "Components: Marbles",
+            "Series: Abacus Wood Box"
+        ]
+    }
+}

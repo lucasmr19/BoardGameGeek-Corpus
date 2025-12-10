@@ -1,0 +1,36 @@
+{
+    "id": 38,
+    "name": "Runes",
+    "yearpublished": "1981",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Runes is a different kind of word game where players actually construct the letters with special game pieces.  Players attempt to figure out not simply the spelling but the actual letter structure of the hidden words.<br/><br/>Players take turns putting one letter segment in a letter box on another player's board; they get a point if the segment belongs to that letter and the other player gets a point if it doesn't. When a player thinks they know an opponent's word they guess it and gain points equal to the number of segments in the word (or lose the points if they are incorrect).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/kazoS3z-rZ4RFBvAHMKbzA__original/img/aL3ufthCmP9yC4rNz3x99XgyI-U=/0x0/filters:format(jpeg)/pic6274530.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/kazoS3z-rZ4RFBvAHMKbzA__small/img/GQHS_kv0AuE0MCa1NhCv1sI35s8=/fit-in/200x150/filters:strip_icc()/pic6274530.jpg",
+    "publishers": [
+        "Eon Products, Inc. (Eon)",
+        "franjos Spieleverlag"
+    ],
+    "designers": [
+        "Bill Eberle",
+        "Jack Kittredge",
+        "Peter Olotka"
+    ],
+    "artists": [
+        "Linda Bound",
+        "Franz-Josef Schulte"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Deduction"
+        ],
+        "categories": [
+            "Deduction",
+            "Word Game"
+        ],
+        "families": []
+    }
+}

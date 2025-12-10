@@ -1,0 +1,39 @@
+{
+    "id": 279,
+    "name": "The Very Clever Pipe Game",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "10",
+    "description": "The game consists of a set of cards. The cards have white and black pipes in various six-outlet configurations, and players take turns placing them onto the table.  When a player constructs a completely closed-off section of pipe in their color, he takes all the cards from that section.  After all cards have been played, the player with the most scored cards wins.  Additionally, the cards also have two different floors (which appear underneath the pipes) that can be used to expand the game to a four-player affair.<br/><br/>The game was re-released in 2002 with a reduced deck (48 cards instead of 120) as part of the Hip Pocket Games series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/C1FSN7UB4z_DsFZP3ORO4A__original/img/K-Hlj4bPjW1tdlg-yeKJLLLAe7o=/0x0/filters:format(jpeg)/pic5654.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/C1FSN7UB4z_DsFZP3ORO4A__small/img/P7348CY69flGANHqRBc7jn-qnec=/fit-in/200x150/filters:strip_icc()/pic5654.jpg",
+    "publishers": [
+        "Cheapass Games"
+    ],
+    "designers": [
+        "James Ernest"
+    ],
+    "artists": [
+        "James Ernest"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Move Through Deck",
+            "Pattern Building",
+            "Square Grid",
+            "Take That",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Card Game"
+        ],
+        "families": [
+            "Series: Hip Pocket Games"
+        ]
+    }
+}

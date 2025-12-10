@@ -1,0 +1,46 @@
+{
+    "id": 408,
+    "name": "Zoon",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "This is a non-collectible card game; it comes in sets of two pre-built factions (e.g. Rhinogoths &amp; Monkus or Warus &amp; Boarix). The Zoon are warring tribes of genetic experiments that humans left behind on Earth. Half human, half animal, the Zoon fight while humans observe their behavior from space.<br/><br/>The El Moondo version came in sets of four factions decks, and contained rules for a four-player version, in addition to the standard two-player game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/tURTqbPEZw6o-26ZlqnH7g__original/img/2h8aoaDvdr74ED5DhddtKIx5prk=/0x0/filters:format(jpeg)/pic140712.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tURTqbPEZw6o-26ZlqnH7g__small/img/CdXqCqx9uIb7kG4mC6_y2QKNrKE=/fit-in/200x150/filters:strip_icc()/pic140712.jpg",
+    "publishers": [
+        "AMIGO",
+        "Card World",
+        "Lézéditions du Yéti",
+        "Matagot",
+        "West End Games",
+        "Yeti Entertainment"
+    ],
+    "designers": [
+        "Migou Auteurs",
+        "Robert Cepo",
+        "Nicolas Pilartz"
+    ],
+    "artists": [
+        "Robert Cepo"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Secret Unit Deployment"
+        ],
+        "categories": [
+            "Animals",
+            "Bluffing",
+            "Card Game",
+            "Fighting"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: 6 x 6 Grids",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

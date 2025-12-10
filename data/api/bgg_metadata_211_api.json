@@ -1,0 +1,35 @@
+{
+    "id": 211,
+    "name": "Times to Remember",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "10",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "In Times to Remember, the players are trying to remember particular times. Is that clear enough? No? Okay, here are more details.<br/><br/>Players aren't trying to remember times from their own lives, but rather times from the shared experiences of humanity as a whole. Each player or team starts the game with a set of brackets or tokens (depending on the version of the game), and the first player to rid herself of brackets wins.<br/><br/>On a turn, all players are confronted with a trivia question, say, &quot;When did the first Star Wars arrive in theaters?&quot; Each player then uses one bracket to mark a particular year or series of years on her individual year chart. Once everyone has placed their answers, the questioner reveals the answer and everyone sees whether that year appears in the range they guessed. If so, they remove that bracket from the game; if not, they keep the bracket. No matter how much you might want to hedge your guesses, eventually you'll need to guess a year dead on, so plumb the depths of your memory and take your best shot!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Rpngk7uqOrdtDzwEm6aJMA__original/img/TS6xEoaBw7Fq-SPsI_HU8l_Vvdc=/0x0/filters:format(jpeg)/pic2205312.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Rpngk7uqOrdtDzwEm6aJMA__small/img/PgjQg-4PidppMUZj0pK_-L9QZao=/fit-in/200x150/filters:strip_icc()/pic2205312.jpg",
+    "publishers": [
+        "Blackrock Games",
+        "Cocktail Games",
+        "Hasbro",
+        "MB Jeux",
+        "MB Spiele",
+        "Milton Bradley"
+    ],
+    "designers": [
+        "Richard Borg"
+    ],
+    "artists": [
+        "Tony Rochon"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Party Game",
+            "Trivia"
+        ],
+        "families": []
+    }
+}

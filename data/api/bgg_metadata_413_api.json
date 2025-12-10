@@ -1,0 +1,36 @@
+{
+    "id": 413,
+    "name": "Die Erben von Hoax",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "This is a reworking of an older Eon game known simply as Hoax.  The new additions include a new character as well as a point system to replace the all-or-nothing nature of accusations.  The basic idea is to pretend to be somebody you are not while working towards the goal of figuring out who other people are. Each player is assigned one of seven different characters -- each with its own unique abilities -- but can pretend to be any character and use its corresponding powers. Abilities are used to acquire three different types of goods, which can be spent to get clues to opponents' identities. If the majority of the other players think you're pretending to be a character that you're not, you must either admit that you are not that character (and permanently lose the use of its power), or reveal that you are and win the game.<br/><br/>Is a re-implementation of:<br/><br/>    Hoax<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/sQN5S2X8do98LWpLQzLcnw__original/img/IjgSMfs2jDD6O_jfyinuYfR8E38=/0x0/filters:format(jpeg)/pic6048060.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sQN5S2X8do98LWpLQzLcnw__small/img/7VSuVv7YiZ14ipu2b6ErCSsPi-Q=/fit-in/200x150/filters:strip_icc()/pic6048060.jpg",
+    "publishers": [
+        "Spielzeit!"
+    ],
+    "designers": [
+        "Bill Eberle",
+        "Volker Hesselmann",
+        "Edward Horn, Jr.",
+        "Jack Kittredge",
+        "Peter Olotka"
+    ],
+    "artists": [
+        "Georg von Westphalen"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Voting"
+        ],
+        "categories": [
+            "Bluffing",
+            "Deduction"
+        ],
+        "families": []
+    }
+}

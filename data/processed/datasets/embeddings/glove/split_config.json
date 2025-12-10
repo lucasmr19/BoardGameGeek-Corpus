@@ -1,0 +1,31 @@
+{
+  "input_type": "npy",
+  "train_ratio": 0.7,
+  "val_ratio": 0.15,
+  "test_ratio": 0.15,
+  "seed": 42,
+  "format": "npz",
+  "total_samples": 31758,
+  "n_features": 300,
+  "train_size": 22230,
+  "val_size": 4764,
+  "test_size": 4764,
+  "class_distribution": {
+    "train": {
+      "negative": 7410,
+      "positive": 7410,
+      "neutral": 7410
+    },
+    "val": {
+      "positive": 1588,
+      "negative": 1588,
+      "neutral": 1588
+    },
+    "test": {
+      "neutral": 1588,
+      "negative": 1588,
+      "positive": 1588
+    }
+  },
+  "save_config": true
+}

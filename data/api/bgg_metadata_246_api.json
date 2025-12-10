@@ -1,0 +1,29 @@
+{
+    "id": 246,
+    "name": "Politika",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "minplaytime": "0",
+    "maxplaytime": "0",
+    "age": "12",
+    "description": "Card game that could only have come from Italy! Based on their politics, players try to form the government, and when they do, they try to pull in as much cash as possible, through advantageous laws or just plain corruption and bribery. Other players hamper this in any way they can, and, if they win a vote of no-confidence, hope to take over the government. Not to improve it of course, just to do the same as the previous one.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/dK2U3FyjrsbyHdmEuKgbJQ__original/img/LeQEnJZFalyYcfyQW85VFnXeLls=/0x0/filters:format(jpeg)/pic1300732.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/dK2U3FyjrsbyHdmEuKgbJQ__small/img/18Ar28Y0fK8fW8ivqtpvxOfbOYc=/fit-in/200x150/filters:strip_icc()/pic1300732.jpg",
+    "publishers": [
+        "Mox Srl"
+    ],
+    "designers": [
+        "Gabriele Ausiello",
+        "Michele Quondam"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game",
+            "Political"
+        ],
+        "families": []
+    }
+}

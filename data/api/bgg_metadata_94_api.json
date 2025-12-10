@@ -1,0 +1,38 @@
+{
+    "id": 94,
+    "name": "Union Pacific",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Union Pacific is a train-themed stock market game.  On each turn, players must choose between expanding a company to increase its value and adding a share of stock to their hand, or playing stock onto the table from their hand to increase their ownership of one or two companies.  There are four semi-random scoring events, in which the first and second place share holder in each company are paid dividends.  Only stock that has been previously played onto the table is considered during the scoring rounds.   Union Pacific is a special company whose shares are claimed according to special rules.  Union Pacific is not represented on the board but instead pays dividends to all share holders according to a fixed progression chart.  Money is only used to track victory conditions and cannot be spent during the game.  The winner is the player with the most money at the end of the game.<br/><br/>Re-implements:<br/><br/><br/>     Airlines<br/><br/><br/>Re-implemented as:<br/><br/><br/>     Airlines Europe<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/69chi17STdg_NfBrM7UpHA__original/img/1iBmXk3GbNmPiTKI_sdv0rakqaI=/0x0/filters:format(jpeg)/pic226392.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/69chi17STdg_NfBrM7UpHA__small/img/W6l_vOL8ytRHf8m9-npolkd5NY4=/fit-in/200x150/filters:strip_icc()/pic226392.jpg",
+    "publishers": [
+        "AMIGO",
+        "999 Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Network and Route Building",
+            "Open Drafting",
+            "Stock Holding"
+        ],
+        "categories": [
+            "Economic",
+            "Trains"
+        ],
+        "families": [
+            "Country: USA"
+        ]
+    }
+}

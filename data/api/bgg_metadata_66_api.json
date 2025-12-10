@@ -1,0 +1,41 @@
+{
+    "id": 66,
+    "name": "Löwenherz",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "The king lies near death, so the princes compete to dominate the kingdom and secure the throne by grabbing as much land as possible.<br/><br/>This is, in the ideal, a 4 player game. Each turn a card is revealed that displays 3 actions that players can choose from. Each player in turn choose an action by playing a 1, 2 or 3 card identifying the first, second or third action on the revealed card. The beauty of this mechanism lies in the distribution of 3 actions among 4 players. Someone always misses out.<br/><br/>If two players choose the same action (and this is often, decided by the last player as the first 3 often - not always - but often  choose actions a1, 2 and 3) the players who chose it negotiate a solution. If they cannot come to an agreement they duel.<br/><br/>This is one of the defining elements of the game, but can take some time (negotiations can) and so was dropped from the re-implementation as Domaine.<br/><br/>The game board is built of 6 tiles randomly placed in a frame producing a slightly different game each time. It is seen by many as the third in a Teuber thematic trilogy defined by Entdecker, CATAN, Löwenherz.<br/><br/>The board is conflicted and in the manner of Go the idea is to capture as much territory as possible.  Each player starts with three castles (12 across all four players, and a crowded board). They build walls to create kingdoms, and train knights to defend them, both key actions on that action card they bid on each turn.<br/><br/>Consequently this is a high conflict area grabbing game with a heavy element of negotiation.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/qsiGPdi9ktEKj3rU8HcAog__original/img/LoxqSRScweTL2i0niuaNolPn8hI=/0x0/filters:format(jpeg)/pic582814.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qsiGPdi9ktEKj3rU8HcAog__small/img/JmMkAohECrQ9BzfASGZnjlx-Ms4=/fit-in/200x150/filters:strip_icc()/pic582814.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Andreas Steiner"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Auction / Bidding",
+            "Enclosure",
+            "Modular Board",
+            "Negotiation",
+            "Square Grid"
+        ],
+        "categories": [
+            "Medieval",
+            "Political"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: 10 x 15 Grids"
+        ]
+    }
+}

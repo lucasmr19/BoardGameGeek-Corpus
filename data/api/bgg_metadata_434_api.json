@@ -1,0 +1,39 @@
+{
+    "id": 434,
+    "name": "Yucata'",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "9",
+    "description": "Simple movement game themed on Mayan graphics. Players have 7 cards (numbered 1-5 and 2 actions) and leapfrog their stone down the track. There are initial stones laid on the track and you collect them as you pass. According to their color, you throw stones away at the end, most stones left wins. The game has different variants of the initial layout.<br/><br/>Online Play<br/><br/><br/>     Yucata (turn-based)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/-E68f63tPubyv-cb04l5OQ__original/img/6riA7loIrkyh0Pbt8AZlbx9LyIU=/0x0/filters:format(jpeg)/pic1948722.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-E68f63tPubyv-cb04l5OQ__small/img/PsyEjJfTR_sxINIQWrGcl7aszKc=/fit-in/200x150/filters:strip_icc()/pic1948722.jpg",
+    "publishers": [
+        "Alga",
+        "Användbart Litet Företag",
+        "Hans im Glück"
+    ],
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Race",
+            "Set Collection"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Card Game"
+        ],
+        "families": [
+            "Digital Implementations: Yucata",
+            "Theme: Mayans"
+        ]
+    }
+}

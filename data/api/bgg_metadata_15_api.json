@@ -1,0 +1,58 @@
+{
+    "id": 15,
+    "name": "Cosmic Encounter",
+    "yearpublished": "1977",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "By request of Fantasy Flight Games, Board Game Geek lists the various editions of Cosmic Encounter in separate entries. Each edition is the same game at its core, but the features, compatible expansions, and production differ among them. This entry is for the original 1977 Eon version.<br/><br/>Players represent alien races that are seeking to spread themselves onto five foreign worlds.  To accomplish this, they make challenges against other players and enlist the aid of interested parties.  But alien powers, which are unique to each race, give players ways to bend or outright break some rule in the game.<br/><br/>The game continues until one player occupies five planets in other systems to win. Shared victories are possible and a player need not occupy one's own system to win.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/-h1dJq8he4yvRG7rRzF-nQ__original/img/Acu3-TEjeRexlWAGcp1vwYV9et4=/0x0/filters:format(jpeg)/pic428608.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-h1dJq8he4yvRG7rRzF-nQ__small/img/eAwlQGfEMd4JICzJcqc5A9o4x8w=/fit-in/200x150/filters:strip_icc()/pic428608.jpg",
+    "publishers": [
+        "Eon Products, Inc. (Eon)",
+        "Alga",
+        "ASS Altenburger Spielkarten",
+        "Descartes Editeur",
+        "Games Workshop Ltd.",
+        "Grow Jogos e Brinquedos",
+        "Tsukuda Hobby",
+        "West End Games"
+    ],
+    "designers": [
+        "Bill Eberle",
+        "Jack Kittredge",
+        "Bill Norton",
+        "Peter Olotka"
+    ],
+    "artists": [
+        "John Blanche",
+        "Chris Ferguson",
+        "Anders Jeppsson",
+        "Dean Morrissey",
+        "Paul Render",
+        "Lori Walls"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Alliances",
+            "Hand Management",
+            "Negotiation",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Bluffing",
+            "Negotiation",
+            "Science Fiction"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Creatures: Aliens / Extraterrestrials",
+            "Digital Implementations: VASSAL",
+            "Game: Cosmic Encounter",
+            "Misc: BGG Hall of Fame",
+            "Misc: Dice Tower Hall of Fame"
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "id": 308,
+    "name": "Santa Fe",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "70",
+    "maxplaytime": "70",
+    "age": "10",
+    "description": "Each game is made up of rounds. A round begins with all players playing one card from their hands and placing it face down on the table. Then, all cards are exposed simultaneously.<br/><br/>There are 66 City Cards and each carry a name of a city along with a number value (ranging from 2 to 7). Since the trains begin their expansion from the easternmost part of the board, the farther west the city, the higher its number value. Players score points only for City Cards that are played and placed face up. Cards that remain unplayed in hands have no value. The numerical value of a City Card is multiplied by the number of railroads connected to it.<br/><br/>Players may also play a Double turn Card, a combination of a City Card with a Branch Line card or a combination of a Double Turn Card and a Branch Line Card.<br/><br/>A Double Turn Card allows a player to place two pieces of track in both track phases of a turn (although only one piece of track may be placed if desired). Furthermore, all bonuses are doubled during the round that card is played.<br/><br/>Each Railroad has two Branch Line Cards and a player may pay $1 and draw one of them. (Players may only hold one Branch Line Card in their hands at any one time.) If held, the Branch Line Card must be played immediately on the next round in conjunction with either a City or Double Turn Card.<br/><br/>Play of a Branch Line Card allows a player to start a new route of track for the named railroad from any city that railroad connects, thereby extending the railroad.<br/><br/>After exposing a card, the round continues with two turns of laying track. Players do not control any specific rail line. Each player can place track on any color provided that the played track connects to an existing corresponding rail network on the board. Once all track is placed, all players replenish their hands (up to five cards). The First Player passes the First Player Train to the player on the left (who becomes the First Player for the subsequent round) and the next round begins.<br/><br/>The first player to connect the first railroad to any city earns $2. Certain cities are marked with colored squares (matching the colors of certain railroads). Should a corresponding color railroad enter that city, the player making that connection gets a bonus of $4. Double Turn Cards double all bonuses in a round.<br/><br/>When all track pieces of all the railroads have been played or if a player is unable to play any piece of track because all playable railroads are &quot;dead-ended&quot;, the game ends and points are tallied.<br/><br/>Points are received in two ways. First, players receive 1 point for each $1 they have. Second, each City Card is worth its value times the number of different rail lines connected to it. The player with the highest total wins! (In case of a tie, the player with the most City Cards valued at &quot;7&quot; is declared the victor.)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/XQahp_hq0Zgxq6wQE0zFNQ__original/img/PmebyL0zbQ8iFM_oc5ihpIxplOo=/0x0/filters:format(jpeg)/pic86174.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XQahp_hq0Zgxq6wQE0zFNQ__small/img/yedKoVeSmjvLS_Br8618qRdNQ4o=/fit-in/200x150/filters:strip_icc()/pic86174.jpg",
+    "publishers": [
+        "White Wind"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Ralf E. Kahlert"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Network and Route Building",
+            "Open Drafting"
+        ],
+        "categories": [
+            "Trains"
+        ],
+        "families": [
+            "Game: Santa Fe"
+        ]
+    }
+}

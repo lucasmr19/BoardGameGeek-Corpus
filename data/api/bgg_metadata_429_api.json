@@ -1,0 +1,32 @@
+{
+    "id": 429,
+    "name": "Magalon",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Rivalry between wizards. The players become the wizards who travel through the mysterious forest of Magalon in search of the magic items which will allow them admission to the prestigious &quot;Council of 11&quot;. They have to collect 3 magical items - the Amulet of Power, the Stone of Wisdom and the Ring of Immortality. Whoever possesses these 3 objects will be admitted to the Council.<br/><br/>The aim of each player is to be the first to return to the entrance of the forest with their wizard (the arrival and departure squares) after having collected the necessary 3 items.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/A5cNciEaY6_mNNZXKNJ7Mg__original/img/LabVpW2Tpa6Fgp74OZpis5h0Sik=/0x0/filters:format(jpeg)/pic283153.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/A5cNciEaY6_mNNZXKNJ7Mg__small/img/AtVYoGtzgEEJMuoNBtlp0EiLqNI=/fit-in/200x150/filters:strip_icc()/pic283153.jpg",
+    "publishers": [
+        "Ravensburger"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Tim Gill",
+        "Mark Holiday",
+        "Kinetic"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Fantasy",
+            "Racing"
+        ],
+        "families": []
+    }
+}

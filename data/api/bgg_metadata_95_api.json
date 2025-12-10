@@ -1,0 +1,39 @@
+{
+    "id": 95,
+    "name": "Igel Ärgern",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Translated literally, the title means &quot;Hedgehog Irking&quot; (or a bit more loosely, &quot;Annoying the Hedgehogs&quot;), but the game is usually referred to in English as &quot;Hedgehogs in a Hurry.&quot; This game gives players several wooden disks (the hedgehogs) to place in one of six rows.  During a turn, you roll a die, optionally move any of your hedgehogs one row left or right, then move any hedgehog (not necessarily yours!) in the row your rolled forward one space.  But watch out for black spaces; hedgehogs caught there can't continue moving until they're in last place.  The first player to get three of their four hedgehogs to the end of the board wins.  Some later versions of this game come with dozens of different variants to keep the game interesting.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/3_qW8pQo3PPY3q7Oze4LTA__original/img/P6m2cH4J7CfkCkvSkfrxU8qQ5cU=/0x0/filters:format(jpeg)/pic309356.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3_qW8pQo3PPY3q7Oze4LTA__small/img/NDnPuoasdLsNZC1UqefvfPHtOWM=/fit-in/200x150/filters:strip_icc()/pic309356.jpg",
+    "publishers": [
+        "Doris & Frank",
+        "University Games"
+    ],
+    "designers": [
+        "Doris Matthäus",
+        "Frank Nestel"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Race",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Animals",
+            "Children's Game",
+            "Dice"
+        ],
+        "families": [
+            "Animals: Hedgehogs / Porcupines"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "id": 391,
+    "name": "Ocean",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "The idea is for players to populate the various oceans with large schools of fish, and then strategically place their animals so they can eat the greatest value of fish.<br/><br/>The mechanics of the game are simple. There are five oceans which are set out in a column. The rest of the cards are divided into two decks: fish and animals. Fish cards carry values from 0 - 3 points each.<br/><br/>A player fills his hand with five cards, of which at least one must be an animal card. All animal cards in a player's possession are placed face-up in front of him. Animals are color coded to specific oceans and may only be played on that ocean. Fish may be played on any ocean.<br/><br/>Players then alternate playing cards to the oceans. Fish cards are played to the right side of an ocean, while animal cards are played to the left of their respective 'home' ocean. Each 'side' may only contain a maximum of five cards.<br/><br/>The idea is to time the placement of your animal cards so as to score the most points based on the value of the fish already played to that ocean. So, if three fish cards had been played to the Atlantic Ocean, worth 1, 2 ad 0 points respectively (for a total of 3 points), the first player to play an animal card on that ocean (it must be THE animal which can be played on that ocean) will score 3 points. The second player to plan an animal card to that ocean scores double the points (6 points). The third player to place an animal on that ocean scores triple the points (9 points); etc.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/c26cEtrDKBk5exGPPRN4ug__original/img/kOKVFga0zppXD7q3ZJTcA3PZwZg=/0x0/filters:format(jpeg)/pic53640.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/c26cEtrDKBk5exGPPRN4ug__small/img/6AyCKRCiaOm6MVKd7x7889i2l-o=/fit-in/200x150/filters:strip_icc()/pic53640.jpg",
+    "publishers": [
+        "Adlung-Spiele"
+    ],
+    "designers": [
+        "Peter Schurzmann"
+    ],
+    "artists": [
+        "László Csatai"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Fish / Fishes",
+            "Theme: Sealife, Seas, and Oceans"
+        ]
+    }
+}

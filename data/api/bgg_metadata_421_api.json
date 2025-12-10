@@ -1,0 +1,58 @@
+{
+    "id": 421,
+    "name": "1830: Railways & Robber Barons",
+    "yearpublished": "1986",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "180",
+    "maxplaytime": "360",
+    "age": "14",
+    "description": "1830 is one of the most famous 18xx games. One of the things some gamers like about this game is that the game has no 'chance' element. That is to say, if players wished to play two games with the same moves, the outcome would be the same also.<br/><br/>This game takes the basic mechanics from Tresham's 1829, and adds several new elements. Players are seeking to make the most money by buying and selling stock in various share companies located on eastern United States map. The stock manipulation aspect of the game is widely-regarded as one of the best. The board itself is actually a fairly abstract hexagonal system, with track tiles placed on top of the hexes. Plus each 18xx title adds new and different elements to the game. This game features private rail companies and an extremely vicious, 'robber baron' oriented stock market. A game is finished when the bank runs out of money or one player is forced to declare bankruptcy, and the player with the greatest personal holdings wins.<br/><br/>The 2011 version of 1830 was published by Mayfair Games in partnership with Lookout Games of Germany. This publication was developed under license from Francis Tresham in co-operation with Bruce Shelley (the original 1830 developer). This version contains rules and components for Francis Tresham's original classic design, a faster-playing basic game, and new variants from some of the world's best railroad game developers.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/3EmD1SEI5fVpR4rbdkU0AA__original/img/M6qiL7ZNU_mjgZXHZjOrVxNamfU=/0x0/filters:format(jpeg)/pic882119.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3EmD1SEI5fVpR4rbdkU0AA__small/img/v_GuoUgKbMTvzcRkTcH6aOH9wWs=/fit-in/200x150/filters:strip_icc()/pic882119.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Lookout Games",
+        "999 Games",
+        "Game Harbor",
+        "Mayfair Games",
+        "Stratelibri"
+    ],
+    "designers": [
+        "Bruce Shelley",
+        "Francis Tresham"
+    ],
+    "artists": [
+        "Mike Atkinson",
+        "Jared Blando",
+        "Charles Kibler",
+        "James Talbot",
+        "Mark Zug"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Hexagon Grid",
+            "Investment",
+            "Market",
+            "Network and Route Building",
+            "Ownership",
+            "Stock Holding",
+            "Tile Placement",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Economic",
+            "Trains",
+            "Transportation"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Components: Map (Continental / National scale)",
+            "Country: USA",
+            "Digital Implementations: 18xx.games",
+            "Misc: BGG Hall of Fame",
+            "Series: 18xx"
+        ]
+    }
+}

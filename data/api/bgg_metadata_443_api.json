@@ -1,0 +1,43 @@
+{
+    "id": 443,
+    "name": "Code 777",
+    "yearpublished": "1985",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "The clever little game Code 777 combines the elements of a good, logical deduction game and Indian poker. Each player receives a rack for keeping three tiles drawn from a pool of tiles, which are seven different numbers in seven different colors (28 tiles in total); however, the rack is turned away from you. When players sit in a circle, each player can see everyone else's tiles, except their own. Each turn, players draw a card with a question like, &quot;Do you see more yellow sevens or more blue sevens?&quot; which should help the others determine their tiles. Once you're reasonably sure of which tiles you have in front of you, you can take a guess &mdash; but if you're wrong, you have to start over with a fresh set of tiles ...<br/><br/>Code 777 was explicitly inspired by What's That on My Head?, and Alex Randolph credited Robert Abbott with co-designing this game based on that inspiration.<br/><br/>In 2010, Stronghold Games released Code 777: 25th Anniversary Deluxe Edition, adding both a fifth player to the game and symbols to make it colorblind-friendly. In 2015, Stronghold Games released Code 777: 30th Anniversary Limited Edition, which is the final edition from Stronghold Games.<br/><br/>In 2015 DiceTree Games released a multi-lingual edition of the game.<br/><br/>Similar to:<br/><br/>    What's That on My Head?<br/>    Egghead<br/>    Figure It<br/>    Amnesia<br/>    Guess What I Am!<br/>    Coyote<br/>    Pow Wow<br/>    Am I a Banana?<br/>    What's That on My Head?<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/O-o5sVxmvFrHAJ_UT0UNrw__original/img/pRiqWT8bLjU_0JXTsoBUjS5Hi6o=/0x0/filters:format(png)/pic2552987.png",
+    "thumbnail": "https://cf.geekdo-images.com/O-o5sVxmvFrHAJ_UT0UNrw__small/img/luyRTvVoMm3MElK3E0AyppCJD7M=/fit-in/200x150/filters:strip_icc()/pic2552987.png",
+    "publishers": [
+        "Chieftain Products",
+        "DiceTree Games",
+        "Jumbo",
+        "King International",
+        "Stronghold Games"
+    ],
+    "designers": [
+        "Robert Abbott",
+        "Alex Randolph"
+    ],
+    "artists": [
+        "William Bricker",
+        "Kinetic"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Deduction",
+            "Paper-and-Pencil"
+        ],
+        "categories": [
+            "Deduction",
+            "Puzzle"
+        ],
+        "families": [
+            "Game: What's That on My Head?",
+            "Mechanism: Deduction – Blind Man's Bluff",
+            "Series: Book Box (DiceTree)"
+        ]
+    }
+}

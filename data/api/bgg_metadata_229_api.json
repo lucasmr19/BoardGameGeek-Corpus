@@ -1,0 +1,42 @@
+{
+    "id": 229,
+    "name": "King of the Elves",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "The Elven king is dead, and players are competing to become the next king.  This game is similar in nature to Elfenroads/Elfenland in that players try to visit as many cities as possible using optimal transportation cards; what's different is that the lay of the land is also dictated by card play.  Other players may interfere with your journey through the use of thieves, obstacles, and sea serpents.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/L_ijbDT0eKXZBTB8RGzJJA__original/img/rD3fOt5_BFUQeOu2H9XrKmtiNqo=/0x0/filters:format(jpeg)/pic369769.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/L_ijbDT0eKXZBTB8RGzJJA__small/img/6ifi9itZZySwvvDapkL3rpdDmyk=/fit-in/200x150/filters:strip_icc()/pic369769.jpg",
+    "publishers": [
+        "AMIGO",
+        "999 Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Income",
+            "Investment",
+            "Open Drafting",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Card Game",
+            "Fantasy",
+            "Travel"
+        ],
+        "families": [
+            "Creatures: Fairies / Elves / Pixies",
+            "Game: Elfenroads"
+        ]
+    }
+}

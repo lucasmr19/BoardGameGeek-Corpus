@@ -1,0 +1,44 @@
+{
+    "id": 433,
+    "name": "Shark",
+    "yearpublished": "1987",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Shark is a stock-trading game slightly reminiscent of Acquire in that abstract play on the game board determines the share values of the various companies.  The similarities end there, though, as Shark is more free-wheeling than Acquire.<br/><br/>At the start of your turn, you can buy shares (up to five) and sell shares (as many as you want), then you roll dice to determine which of the four company markers you place on the board and in which region. A company marker on its own doesn't contribute to the value of a company; only groups of at least two markers count, so groups of 5, 4, 1, and 1 markers would create a value of $9,000 for each of that company's shares. If you place a marker that combines those two lone markers, then you'd have groups of 5, 4, and 3, so the share price would shoot to $12,000. If you placed that marker on its own, the share price wouldn't change. When you place a marker, you gain money equal to that company's new share price, so you have an incentive to boost a company's size &mdash; but all players receive funds equal to the difference between the old share price and new for each share they hold, so are you enriching them more than yourself?<br/><br/>Of course, you can also place a marker to tank a company's share price. When a company's group expands to touch a smaller group, that smaller group is removed from the board, lowering the value of that company's shares (as long as the group had at least two markers) and costing everyone money equal to the loss in value. (Groups of equal size cannot touch, and you cannot place a marker to force a smaller group to touch a larger one.) To end your turn, you can again sell as many shares as you want and buy shares up to the per-turn limit of five.<br/><br/>Removed markers are banished from the game, not returned to the supply. Once all of a company's markers have been used, or a company's share price reaches $15,000, or all of the shares have been sold, the game ends, and players cash out all their shares to see who has the most money.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/wU-CelFCsMaOrhWwAiny0g__original/img/gjJVZP30YNCeFmPxxpZyTkBS85g=/0x0/filters:format(jpeg)/pic6985693.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wU-CelFCsMaOrhWwAiny0g__small/img/yBv4f9_eXfmfuh6bFTGT_QTQOao=/fit-in/200x150/filters:strip_icc()/pic6985693.jpg",
+    "publishers": [
+        "BGA Plus",
+        "Falomir Juegos",
+        "Flying Turtle Games",
+        "Korea Boardgames",
+        "Otto Maier Verlag",
+        "Ravensburger",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "H. Jean Vanaise"
+    ],
+    "artists": [
+        "A. Lefort",
+        "J. C. Sohier",
+        "Walter Wagner"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Dice Rolling",
+            "Stock Holding"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Animals: Sharks",
+            "Components: 12 x 12 Grids"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 222,
+    "name": "Space Beans",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "40",
+    "maxplaytime": "40",
+    "age": "10",
+    "description": "This game is a successor to the popular Bohnanza but is less complex and is not based on trading.<br/><br/>Players attempt to collect 30 points in &quot;trophies&quot; to win the game. This is accomplished by working with up to two collections of space beans - 1 public (face-up) and 1 secret (face-down).<br/><br/>The primary mechanic is drawing beans, placing them in one of your collections (public or secret) if you have any matching cards to play, then passing your entire hand to the player on your right. If you compile a collection that contains a number of beans equal to the number value on one of beans in the collection, you may redeem the collection for the same amount of points on that card.<br/><br/>For example: If a player has three violet beans, and one of them has a value of 3, that collection can be converted for three trophy points. The card numbered 3 would go into the trophy pile, and the other cards into the discard pile.<br/><br/>Space Beans is part of the Bohnanza family of games.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/tC7YOp3S1rHocF5k-GVR8w__original/img/U6ZWfkYyQBngp8gZ_kMogaMrTaE=/0x0/filters:format(jpeg)/pic129430.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tC7YOp3S1rHocF5k-GVR8w__small/img/wL0ImJni4QyHtXSO6GEU968-xeE=/fit-in/200x150/filters:strip_icc()/pic129430.jpg",
+    "publishers": [
+        "AMIGO",
+        "Mercurio",
+        "Midgaard Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Uwe Rosenberg"
+    ],
+    "artists": [
+        "Björn Pertoft"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Open Drafting",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game",
+            "Science Fiction"
+        ],
+        "families": [
+            "Game: Bohnanza"
+        ]
+    }
+}

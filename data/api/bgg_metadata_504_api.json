@@ -1,0 +1,36 @@
+{
+    "id": 504,
+    "name": "Die Verbotene Stadt",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "The Chinese Emperor has been powerless for a long time. Intrigue and corruption prevail within the city walls. Just before a wedding the ceremonial garments of the Emperor are stolen. How it happened is clear. A band of corrupt officials have exploited the waning power of the Emperor for themselves. The Emperor calls in his last faithful advisers (the players) and tells them &quot;Return the garments to me no matter what!&quot; The players heed the emperors request and try to find as many garment cards as possible.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/iceMtOgaKeJb1Nt48NOEUQ__original/img/Qu9vP6f_doMfrcEBdosqdB1-cBs=/0x0/filters:format(jpeg)/pic246245.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iceMtOgaKeJb1Nt48NOEUQ__small/img/VpzFtO_vz6jIEC0dgDN6d9_pjnc=/fit-in/200x150/filters:strip_icc()/pic246245.jpg",
+    "publishers": [
+        "Otto Maier Verlag"
+    ],
+    "designers": [
+        "Alex Randolph",
+        "Johann Rüttinger"
+    ],
+    "artists": [
+        "Ulrich Lichthardt",
+        "Johann Rüttinger"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement"
+        ],
+        "categories": [
+            "Bluffing"
+        ],
+        "families": [
+            "Construction: Forbidden City (China)",
+            "Country: China"
+        ]
+    }
+}

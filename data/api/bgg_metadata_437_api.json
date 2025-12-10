@@ -1,0 +1,44 @@
+{
+    "id": 437,
+    "name": "Master Labyrinth",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "This earlier Master Labyrinth is very different than the 2007 dragon-themed Master Labyrinth.<br/><br/>Part of the Ravensburger Labyrinth Games series, this game is based on the simpler, original Labyrinth game. It is played on a board with maze tiles (straight, L, and T shaped corridors) randomly arranged on it.  Players are represented on the board by little wizard pawns.  Players are wizards-in-training, and they are charged with exploring the maze and finding all the ingredients (numbered chips) needed to become a Wizard.  The trick is that chips must be claimed in numerical order.  Perhaps the most novel aspect of this game is that players mutate the maze by sliding a tile onto the board from the side, which hopefully will enable them to travel to the next ingredient.  Once all twenty-one items have been claimed, the highest total score wins, but each player also holds a secret recipe worth bonus points if they were able to capture three specific ingredients.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/aO1Yr8UG_2EsWh3s2WoF4g__original/img/UX6fkyg90dLUn0OY5GjTt1ejdfU=/0x0/filters:format(jpeg)/pic2888783.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aO1Yr8UG_2EsWh3s2WoF4g__small/img/prJQcEQh1ytDT5UVLiilzqWdr8M=/fit-in/200x150/filters:strip_icc()/pic2888783.jpg",
+    "publishers": [
+        "Ravensburger",
+        "Mál og menning",
+        "Otto Maier Verlag"
+    ],
+    "designers": [
+        "Max J. Kobbert"
+    ],
+    "artists": [
+        "Monika Broeske",
+        "Andreas Härlin"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Map Deformation",
+            "Modular Board",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Children's Game",
+            "Fantasy",
+            "Maze",
+            "Puzzle"
+        ],
+        "families": [
+            "Components: 7 x 7 Grids",
+            "Game: Labyrinth",
+            "Misc: Mensa Select",
+            "Theme: Wizards"
+        ]
+    }
+}

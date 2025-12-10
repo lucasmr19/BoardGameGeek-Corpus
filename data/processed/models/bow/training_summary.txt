@@ -1,0 +1,34 @@
+======================================================================
+EXERCISE 4: MODEL TRAINING SUMMARY
+======================================================================
+
+Total documents: 31878
+Class distribution: {'neutral': 10626, 'negative': 10626, 'positive': 10626}
+Total features: 48760
+  - TF-IDF features: 20000
+  - Opinion features: 28760
+
+Available models: MultinomialNB, SGDClassifier, RandomForest, XGBoost
+Models trained: 12/12
+Output directory: data/processed/models
+
+Model configurations:
+  - MultinomialNB: Pipeline with ShiftToPositive + MaxAbsScaler
+  - SGDClassifier: Pipeline with StandardScaler
+  - RandomForest: No scaling (tree-based)
+  - XGBoost: No scaling (tree-based)
+
+Trained model files:
+  - MultinomialNB_combined.pkl
+  - MultinomialNB_ngrams.pkl
+  - MultinomialNB_opinion.pkl
+  - RandomForest_combined.pkl
+  - RandomForest_ngrams.pkl
+  - RandomForest_opinion.pkl
+  - SGDClassifier_combined.pkl
+  - SGDClassifier_ngrams.pkl
+  - SGDClassifier_opinion.pkl
+  - XGBoost_combined.pkl
+  - XGBoost_ngrams.pkl
+  - XGBoost_opinion.pkl
+  - shared_label_encoder.pkl

@@ -1,0 +1,32 @@
+{
+    "id": 399,
+    "name": "Tom Clancy's Politika",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "from User Review:<br/>Tom Clancy, the famous author of military-style thrillers, long been a wargaming fan. Now, he has entered into the wargame market with Politika, produced by a company of his own, Red Storm Entertainment.<br/><br/>The premise of the game is that Yeltsin has died and there is now a power struggle amongst various factions within Russia to take control of the vast country. The game is billed as 'The Strategy Game of political intrigue in modern day Russia'.<br/><br/>Based on the videogame Tom Clancy's Politika.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/qzAn9ft7Obqy_VkUNwHOMg__original/img/5-JUUh-fHd8TGIbobreu94Rh6yU=/0x0/filters:format(jpeg)/pic26384.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qzAn9ft7Obqy_VkUNwHOMg__small/img/4DpuNszJZSchZBdcuaEOW6Iaqxo=/fit-in/200x150/filters:strip_icc()/pic26384.jpg",
+    "publishers": [
+        "Red Storm Entertainment"
+    ],
+    "designers": [
+        "Jim Van Verth"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Trading",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Political"
+        ],
+        "families": [
+            "Authors: Tom Clancy"
+        ]
+    }
+}

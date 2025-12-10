@@ -1,0 +1,39 @@
+{
+    "id": 189,
+    "name": "Die Siedler von Nürnberg",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Based on the well-known Settlers of Catan, this stand-alone game published in commemoration of the anniversary of the founding of the city of N&uuml;rnberg gives players some new twists to the familiar experience.  Unlike standard Settlers, the game layout is not modular.  Instead the board features a split map, half of which has the goods-producing hexes of a conventional Settlers game where settlements will be built and the other half showing a closeup of N&uuml;rnberg where &quot;workshops&quot; will be built (in lieu of promoting settlements to cities as in the original Settlers).  The players also get currency for manufactured goods which in turn they spend on walls and towers to surround the city, which earn prestige points which ultimately count toward victory points.  Probably the most interesting other detail is that instead of rolling dice, a special deck of cards is used to reveal the production number -- and possibly an event -- at the beginning of each player's turn.<br/><br/>Belongs to the Catan Series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Lw61tgg--ySb6aC3Oq1JPA__original/img/H9ELZj6guondcScbAsppgf9tKYc=/0x0/filters:format(jpeg)/pic3325254.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Lw61tgg--ySb6aC3Oq1JPA__small/img/rGNi-IEMerU0ngT3ou55Igryusk=/fit-in/200x150/filters:strip_icc()/pic3325254.jpg",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Tanja Donner"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hand Management",
+            "Memory",
+            "Trading"
+        ],
+        "categories": [
+            "Medieval",
+            "Negotiation"
+        ],
+        "families": [
+            "Animals: Sheep",
+            "Cities: Nuremberg (Bavaria, Germany)",
+            "Game: Catan"
+        ]
+    }
+}

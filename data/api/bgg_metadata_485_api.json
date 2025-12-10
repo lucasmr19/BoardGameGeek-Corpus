@@ -1,0 +1,41 @@
+{
+    "id": 485,
+    "name": "Galloping Pigs",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "6",
+    "description": "Galloping Pigs is a cute little 'not-quite-a-children's-game' game where players are collecting points in the form of food.  Plastic pigs are placed on a track made from cards laid in a circle, and then players are given cards in the colors of the pigs.  Each turn, a player selects a card, and moves the corresponding pig one space forward.  If the space in front is occupied by another pig, then the moving pig 'leapfrogs' that, and this can continue until the pig takes the lead, which gives the active player a food card.  Play goes on like this until all cards for the round have been played, however in order to keep the food (points) you collect during a round, your final movement for the round must score some more food.<br/><br/>Ages 6 and up<br/><br/>",
+    "image": "https://cf.geekdo-images.com/YH-4jssIN5Cg1LCLufb-wg__original/img/MGxNfWrjZtgKnY_I59M0PtwgOw4=/0x0/filters:format(jpeg)/pic10338.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YH-4jssIN5Cg1LCLufb-wg__small/img/jlkVTdjqVkOSX3xwb_j58LcH66Y=/fit-in/200x150/filters:strip_icc()/pic10338.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "HomoLudicus",
+        "Otto Maier Verlag",
+        "Oya",
+        "PS-Games",
+        "Red Glove",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd."
+    ],
+    "designers": [
+        "Heinz Meister"
+    ],
+    "artists": [
+        "Iskender Gider",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Animals",
+            "Card Game",
+            "Children's Game"
+        ],
+        "families": [
+            "Animals: Pigs"
+        ]
+    }
+}

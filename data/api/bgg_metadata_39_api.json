@@ -1,0 +1,48 @@
+{
+    "id": 39,
+    "name": "Darkover",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Based on the books of Marion Zimmer Bradley this game melds your typical strategy game with what would normally be found in a party game.  Players vie for control in a world steeped in psychic energy.  Mixing strategic placement of counters with chanting and &quot;I dare you..&quot; party game mechanics makes for a truly unique game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/6xSMvokg5iLIGScjuv5kEg__original/img/xjsBzqQ7hhzQc0iHBDwDJXIIG6Q=/0x0/filters:format(jpeg)/pic21974.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6xSMvokg5iLIGScjuv5kEg__small/img/Kuzl5hcMvkIFnUkAWBbsneyBp6w=/fit-in/200x150/filters:strip_icc()/pic21974.jpg",
+    "publishers": [
+        "Eon Products, Inc. (Eon)"
+    ],
+    "designers": [
+        "Bill Eberle",
+        "Jack Kittredge",
+        "Peter Olotka"
+    ],
+    "artists": [
+        "Hannah M. G. Shapero",
+        "Michael Whelan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Events",
+            "Open Drafting",
+            "Paper-and-Pencil",
+            "Rock-Paper-Scissors",
+            "Sudden Death Ending",
+            "Variable Player Powers",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Bluffing",
+            "Fantasy",
+            "Novel-based"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: 3-Dimensional (3D)",
+            "Theme: Psychic Powers"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": 498,
+    "name": "Sufferin' Spirits",
+    "yearpublished": "1987",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "0",
+    "description": "from the game review:<br/><br/>Players attempt to put to rest the spirits of the deceased by finding their favorite objects.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/7zZxHEg0RKNwS-yBA-ZZ-w__original/img/shZS3aLiL1yJrR7_9MyPucnpsu8=/0x0/filters:format(jpeg)/pic1260637.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7zZxHEg0RKNwS-yBA-ZZ-w__small/img/SkwbVLAbVmwjjmigMK8c2dIa6vk=/fit-in/200x150/filters:strip_icc()/pic1260637.jpg",
+    "publishers": [
+        "Three Wishes"
+    ],
+    "designers": [
+        "Nik Sewell"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Horror"
+        ],
+        "families": [
+            "Creatures: Ghosts"
+        ]
+    }
+}

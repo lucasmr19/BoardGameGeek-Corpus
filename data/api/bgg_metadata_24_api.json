@@ -1,0 +1,45 @@
+{
+    "id": 24,
+    "name": "Twilight Imperium",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "Sprawling game of space faring races out to dominate known space.<br/><br/>This game combines a number of elements from other game systems into a unique package. Hex tiles create the game board and each player begins with a race with unique powers. The game focuses heavily on a political voting phase and a web of trade agreements between players.<br/><br/><br/>Part of the Twilight Imperium Series / Family.<br/><br/>Expanded with:<br/><br/>    Twilight Imperium: Borderlands<br/>    Twilight Imperium: Distant Suns<br/>    Twilight Imperium: Twilight Armada<br/>    Twilight Imperium: The Outer Rim<br/><br/><br/>Re-implemented in:<br/><br/>    Twilight Imperium: Second Edition<br/>    Twilight Imperium: Third Edition<br/>    Twilight Imperium (Fourth Edition)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/4CEaXqehBHS4JCPGMDfnsg__original/img/hlBKez79K3my9EIFynxty5iwTCA=/0x0/filters:format(jpeg)/pic857.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4CEaXqehBHS4JCPGMDfnsg__small/img/zSHJ5HoLmv4SH8LSsQW_6VubexA=/fit-in/200x150/filters:strip_icc()/pic857.jpg",
+    "publishers": [
+        "Fantasy Flight Games"
+    ],
+    "designers": [
+        "Christian T. Petersen"
+    ],
+    "artists": [
+        "Bill Heagy"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Modular Board",
+            "Tile Placement",
+            "Variable Player Powers",
+            "Voting"
+        ],
+        "categories": [
+            "Civilization",
+            "Negotiation",
+            "Political",
+            "Science Fiction",
+            "Space Exploration",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Hexagonal Tiles",
+            "Game: Twilight Imperium",
+            "Mechanism: 4X"
+        ]
+    }
+}

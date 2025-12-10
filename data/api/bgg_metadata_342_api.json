@@ -1,0 +1,38 @@
+{
+    "id": 342,
+    "name": "Hong Kong",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "8",
+    "description": "Hong Kong is an abstract 2-player strategy game where players take turns building skyscrapers in Hong Kong. Each player is trying to cover the most area while simultaneously trying to take over each other's buildings.  The player covering the most squares on the board wins the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/gcBYNCYnQG3vhJdexjALoQ__original/img/M8ern0I1T6fA8F3eB_0j30c3nWc=/0x0/filters:format(jpeg)/pic1264804.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gcBYNCYnQG3vhJdexjALoQ__small/img/4EmLAE495vR7h7uI9ZDJo8GsRXg=/fit-in/200x150/filters:strip_icc()/pic1264804.jpg",
+    "publishers": [
+        "Piatnik"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Simon Roberts"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Square Grid",
+            "Stacking and Balancing"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "City Building"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)",
+            "Components: 5 x 5 Grids",
+            "Players: Two-Player Only Games",
+            "Region: Hong Kong"
+        ]
+    }
+}

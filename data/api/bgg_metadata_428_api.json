@@ -1,0 +1,32 @@
+{
+    "id": 428,
+    "name": "Galopp Royal",
+    "yearpublished": "1995",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "9",
+    "description": "While ostensibly a racing game - a &quot;racing your sedan chair around the gardens of Versailles&quot; game, no less - the heart of Galopp Royal is the auction rounds that precedes each race: a jumble of bluffing, bidding &amp; wild swings of luck.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/xZtEAoqtr7eSe0h4vt01dQ__original/img/Cw_TTzhMGJg5DnL-CDhvJ8LKFLI=/0x0/filters:format(jpeg)/pic704737.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/xZtEAoqtr7eSe0h4vt01dQ__small/img/RHpictPboMV8hQ6aL_BsZt8G5Jw=/fit-in/200x150/filters:strip_icc()/pic704737.jpg",
+    "publishers": [
+        "Goldsieber Spiele"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "Dice",
+            "Racing"
+        ],
+        "families": []
+    }
+}

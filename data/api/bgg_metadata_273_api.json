@@ -1,0 +1,42 @@
+{
+    "id": 273,
+    "name": "Africa 1880",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "14",
+    "description": "Africa 1880 -- Relive the Colonial adventure with Africa 1880! Between 1880 and 1914 European nations fiercely raced to gain control of the Dark Continent. Each player represents a nation exploring and colonizing Africa. The success of their adventure, however, has more to do with intrigue in the luxurious parlors of the embassies than hacking away through the jungle. Negotiating alliances and declaring war are what change the face of the world!&rdquo; Contains 22 resin-cast miniatures, 180 die-cut counters, one game board representing Africa, one rule book in English and French, and order sheets<br/><br/>",
+    "image": "https://cf.geekdo-images.com/gJd57vK5ANXurnMy_sOoig__original/img/AcPCLwEW30HaNBYt4wU8YHOG7Po=/0x0/filters:format(jpeg)/pic177674.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gJd57vK5ANXurnMy_sOoig__small/img/gG2Oe7J6d5lbA4ZeK8tT-AgHP4E=/fit-in/200x150/filters:strip_icc()/pic177674.jpg",
+    "publishers": [
+        "Tilsit",
+        "Truant Spiele"
+    ],
+    "designers": [
+        "Francis Pacherie"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Player Elimination",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing",
+            "Exploration",
+            "Negotiation",
+            "Political",
+            "Post-Napoleonic",
+            "Wargame"
+        ],
+        "families": [
+            "Continents: Africa",
+            "Game: Diplomacy",
+            "Theme: Colonial"
+        ]
+    }
+}

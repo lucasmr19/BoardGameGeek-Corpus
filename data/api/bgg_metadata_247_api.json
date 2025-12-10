@@ -1,0 +1,42 @@
+{
+    "id": 247,
+    "name": "Gloria Picktoria",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Players are trying to collect majorities in as many of the ten different commodities/glamorous chicken possessions as possible, by placing the most cards (or second most) of that card type out than anyone else. There are three scoring rounds, which are delimited by the appearance of certain cards from the draw pile.<br/><br/>Some Union Pacific/Airlines enthusiasts might recognize the scoring system, as the shares aspect is very similar.<br/><br/>Published as Reibach &amp; Co. in Germany 1996 and as Get the Goods in America, 1997, and again as Gloria Picktoria by Zoch in 2007 (using their Chicken theme.)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/gn85w-jhVSqd4e8RJ7ahEw__original/img/55qVTq1lw7hb19ztpyBv6PajLu0=/0x0/filters:format(jpeg)/pic587284.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gn85w-jhVSqd4e8RJ7ahEw__small/img/SC4E1m3Q0bbfuank7JQS4SlhSIs=/fit-in/200x150/filters:strip_icc()/pic587284.jpg",
+    "publishers": [
+        "999 Games",
+        "F.X. Schmid",
+        "Gigamic",
+        "Rio Grande Games",
+        "U.S. Games Systems, Inc.",
+        "Zoch Verlag"
+    ],
+    "designers": [
+        "Mick Ado",
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Open Drafting",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Chickens / Roosters",
+            "Animals: Foxes",
+            "Series: The Chicken Family of Zoch"
+        ]
+    }
+}

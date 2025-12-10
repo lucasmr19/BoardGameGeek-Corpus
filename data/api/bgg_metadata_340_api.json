@@ -1,0 +1,56 @@
+{
+    "id": 340,
+    "name": "Frank's Zoo",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "This game is played in several hands. In each hand the players try to be the first to get rid of all of their cards. Their scores are based on how early in the hand they get rid of all their cards. There are two ways to play: you can play where all hands are played the same, or you can play the game with changing partners.<br/><br/>This is a climbing game, similar to The Great Dalmuti, Tichu, and others.  The difference here is that the ranks are different kinds of colorfully illustrated animals. Each is scared away only by certain other animals.  Players set out one to whatever cards of a particular variety, and someone can play onto that pile only if they have more of that animal or an equal number of some animal that can scare it away.  Players get points by playing all their cards, collecting lions, and collecting a hedgehog.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/w6d3l6nVyd8M8PR7veGPig__original/img/FlrwMOMhU4W3NQ8Uc-GEXSR2zPs=/0x0/filters:format(jpeg)/pic8968641.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/w6d3l6nVyd8M8PR7veGPig__small/img/aUk0LtPqHlvro6rIm-st5FIps_k=/fit-in/200x150/filters:strip_icc()/pic8968641.jpg",
+    "publishers": [
+        "Doris & Frank",
+        "Arch Games",
+        "Enigma (Bergsala Enigma)",
+        "HeidelBÄR Games",
+        "MINDOK",
+        "PS-Games",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd."
+    ],
+    "designers": [
+        "Doris Matthäus",
+        "Frank Nestel"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Ladder Climbing",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Alligators / Crocodiles",
+            "Animals: Bears",
+            "Animals: Chameleons",
+            "Animals: Elephants",
+            "Animals: Fish / Fishes",
+            "Animals: Foxes",
+            "Animals: Hedgehogs / Porcupines",
+            "Animals: Lions",
+            "Animals: Mice",
+            "Animals: Seals",
+            "Animals: Whales",
+            "Card Games: Climbing",
+            "Card Games: Shedding / Stops"
+        ]
+    }
+}

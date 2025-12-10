@@ -1,0 +1,47 @@
+{
+    "id": 106,
+    "name": "Mystery Rummy: Jack the Ripper",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "This game attaches an interesting theme to a fairly standard Rummy framework.  Playing Victims, Suspects, Scenes, and Evidence-melds, players try to build a case against various suspects for the famous Jack the Ripper serial murders.  Whichever suit has the most cards played in it when a player goes out is the guilty party, but if all the Victim cards come out before the end of the game, the Ripper might escape, giving the player who produced that card a significant point allowance.<br/><br/>This is #1 in the Mystery Rummy series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/lVc5ebKuO3kLu6a0m-cZuA__original/img/jwBmQ9Fc_tCeDCu9JG1tnwok-DI=/0x0/filters:format(jpeg)/pic592086.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lVc5ebKuO3kLu6a0m-cZuA__small/img/xBBA7X5p6rOzGV0RLr92x1DQ66E=/fit-in/200x150/filters:strip_icc()/pic592086.jpg",
+    "publishers": [
+        "U.S. Games Systems, Inc.",
+        "Eagle-Gryphon Games",
+        "Edge Entertainment",
+        "Kaissa Chess & Games",
+        "Neptuno Games",
+        "Pegasus Spiele"
+    ],
+    "designers": [
+        "Mike Fitzgerald"
+    ],
+    "artists": [
+        "Christine Conrad",
+        "Eugenia Nobati",
+        "Virginijus Poshkus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Voting"
+        ],
+        "categories": [
+            "Card Game",
+            "Murder / Mystery"
+        ],
+        "families": [
+            "Card Games: Draw and Discard",
+            "Historical Figures: Jack the Ripper",
+            "Misc: LongPack Games",
+            "Series: Mystery Rummy",
+            "Traditional Card Games: Rummy"
+        ]
+    }
+}

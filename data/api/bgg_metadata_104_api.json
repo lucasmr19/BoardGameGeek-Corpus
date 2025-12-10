@@ -1,0 +1,33 @@
+{
+    "id": 104,
+    "name": "Extrablatt",
+    "yearpublished": "1991",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "14",
+    "description": "Players take on the role of editors in this older German title, choosing stories of various general types (politics, sports, entertainment, etc.) to run in their respective newspapers.  Two factors determine a story's worth: timing and size.  The timing is relevant because the later in the game the story is run the more points it's potentially worth.  But in this game (as in the real world) size is important, because only the biggest story of any given headline will score.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Xv1NZE6mocfGb2XzpzQyPg__original/img/SzpoVQ67bkr18UCzHE04UPLK0ls=/0x0/filters:format(jpeg)/pic235375.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Xv1NZE6mocfGb2XzpzQyPg__small/img/E5tiB5y5XLr_VonclZj6G3pxmJw=/fit-in/200x150/filters:strip_icc()/pic235375.jpg",
+    "publishers": [
+        "Moskito Spiele"
+    ],
+    "designers": [
+        "Wulfdieter Hornung",
+        "Karl-Heinz Schmiel"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Set Collection",
+            "Simulation",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Territory Building"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 430,
+    "name": "Asterix: Das Kartenspiel",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "The year is 50 B.C. Gaul is entirely occupied by the Romans. Well, not entirely... A simple card game themed on the famous comic graphic novels, with indomitable Gauls bashing unfortunate Romans. Players have a set of cards (Asterix, Obelix, Getafix, Cacofonix &amp; Vitalstatistix) numbered 1 to 10, each card having a different combination of 1-4 magic potions to act as a tie-break. A deck of 55 Roman soldiers, ranging from the cook to Crismus Bonus &amp; Julius himself, are competed for in turn. A scoring card is shown, players select their Gaul cards and show them together, highest wins the Roman and discards their winning card. The other players return their cards to their hands to fight again. There are also Pirate cards which reduce your winnings and Dogmatix cards which allow the players to draw from the deck and either keep the card themselves or pass it onto another player. The rank of the Roman increases your score, but combinations of the same rank are worth much more.<br/><br/>Re-implemented by:<br/><br/>    The Gnumies <br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/Euydt8qSU8G9uM3YP_5Mwg__original/img/5kj5GcdcUvBmAYk8AQ8RiRkiM64=/0x0/filters:format(jpeg)/pic249626.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Euydt8qSU8G9uM3YP_5Mwg__small/img/1tBA8rDLWwFcKCX9FfKVoTbYu8M=/fit-in/200x150/filters:strip_icc()/pic249626.jpg",
+    "publishers": [
+        "F.X. Schmid",
+        "Spear's Games"
+    ],
+    "designers": [
+        "David Parlett"
+    ],
+    "artists": [
+        "René Goscinny",
+        "Albert Uderzo"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing",
+            "Card Game",
+            "Comic Book / Strip"
+        ],
+        "families": [
+            "Comic Books: Asterix"
+        ]
+    }
+}

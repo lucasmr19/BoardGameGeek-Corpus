@@ -1,0 +1,35 @@
+{
+    "id": 228,
+    "name": "Lunch Money",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "13",
+    "description": "This card game simulates children (a little girl is featured on all cards) running around the playground beating up each other and stealing their lunch money.  Once you get past the strange theme, there's a fun little game where players beat each other senseless with cards like 'Poke in the Eye', 'Uppercut', and 'Humiliation.'  Not for the weak willed, this game is mean.  The last player still standing wins.<br/><br/>Re-implemented by:<br/><br/>    Beer Money<br/><br/><br/>Integrates with:<br/><br/>    Beer Money<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/UVl6bt_8kuY7GidRg7tGhA__original/img/RKWCnT1y07EhLHhEtEYuf73tN94=/0x0/filters:format(jpeg)/pic11310.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UVl6bt_8kuY7GidRg7tGhA__small/img/6djRuEnG87sWXrO1LS0AUxvKhFg=/fit-in/200x150/filters:strip_icc()/pic11310.jpg",
+    "publishers": [
+        "Atlas Games",
+        "NekoCorp"
+    ],
+    "designers": [
+        "John Nephew",
+        "Charlie Wiedman"
+    ],
+    "artists": [
+        "Andrew Yates"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Take That"
+        ],
+        "categories": [
+            "Card Game",
+            "Fighting"
+        ],
+        "families": []
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": 46,
+    "name": "Medici",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Another Reiner Knizia standby, this game plays very well with varying numbers of people.  The object is to accrue the most points during three rounds, which you do by spending your points to bid on sets of cards.  Each turn the current player turns up one to three cards for all the players to bid on, with the highest bid taking all cards.  The cards denote a commodity type and quantity/value.  The round ends when each player's ships are full, or the commodity card deck is exhausted.  After each round, points are awarded to each player having the most of a given commodity, and to the one with the most valuable total &quot;cargo load&quot;.<br/><br/>Part of the Knizia auction trilogy.<br/>One of the Knizia Florentine auction games.<br/><br/> Related Games: <br/><br/><br/>     Medici vs Strozzi (two-player version)<br/>     Strozzi<br/>     Mercator, included in Neue Spiele im alten Rom (ancestor to Medici).<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/iif2Nv17Vhw8puN2bATaaw__original/img/imp-iw4Sq2_rv7pEWbGRIpcmVTw=/0x0/filters:format(png)/pic7794273.png",
+    "thumbnail": "https://cf.geekdo-images.com/iif2Nv17Vhw8puN2bATaaw__small/img/GtXKwk8tJkmHtUvWPT2FIabXh0w=/fit-in/200x150/filters:strip_icc()/pic7794273.png",
+    "publishers": [
+        "AMIGO",
+        "ABACUSSPIELE",
+        "asmodee",
+        "Devil Dice Games",
+        "Grail Games",
+        "Group SNE",
+        "Lui-même",
+        "PaperGames (III)",
+        "Rio Grande Games",
+        "Steamforged Games Ltd."
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "David Cherry",
+        "Vincent Dutrait",
+        "Dominique Ehrhard",
+        "Jun Suemi",
+        "Kelly Vizma",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Once Around",
+            "Income",
+            "Push Your Luck",
+            "Set Collection",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Renaissance"
+        ],
+        "families": [
+            "Cities: Florence (Tuscany, Italy)",
+            "Components: Wooden pieces & boards",
+            "Country: Italy",
+            "Crowdfunding: Kickstarter",
+            "Misc: LongPack Games",
+            "Occupation: Merchant",
+            "Series: Knizia Florentine auction games"
+        ]
+    }
+}

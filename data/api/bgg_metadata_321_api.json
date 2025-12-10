@@ -1,0 +1,43 @@
+{
+    "id": 321,
+    "name": "The Mole in the Hole",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "A children's game that is equally entertaining for adults.  Players move their moles, who are on a quest to dig underground searching for The Golden Shovel.  A distinctive feature of this game is the multi-part board - there are four boards laid on top of each other, each with holes in it leading 'down' to the next level.  Players move their moles to those holes and, when one board is 'complete' (i.e., all holes occupied), the board, and any moles remaining on it, are removed from play.  Players continue working their way down from level to level, each board having fewer holes than the previous, until they reach the final level, which has only one hole leading to The Golden Shovel.  A simple race-to-the-finish game with fun, colorful playing pieces, just as much fun with or without the kids!<br/><br/>This game is actually a mild re-working of Inner Circle, also called Top Star, by Virginia Charves. Thematically re-implemented as Up And Down.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Euh04jnKwlMUCxwRil6vcQ__original/img/S9Bn8WyG-HSDX_Z8x5l8aoWfxT4=/0x0/filters:format(jpeg)/pic187440.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Euh04jnKwlMUCxwRil6vcQ__small/img/mDVTctS_mW0pkTcxRsPjMiKnVo8=/fit-in/200x150/filters:strip_icc()/pic187440.jpg",
+    "publishers": [
+        "Ravensburger",
+        "Grow Jogos e Brinquedos",
+        "VAKKO"
+    ],
+    "designers": [
+        "Virginia Charves",
+        "Bertram Kaes"
+    ],
+    "artists": [
+        "Walter Pepperle",
+        "Foto Rhomberg"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hexagon Grid",
+            "Map Reduction",
+            "Modular Board",
+            "Point to Point Movement",
+            "Race"
+        ],
+        "categories": [
+            "Animals",
+            "Children's Game"
+        ],
+        "families": [
+            "Animals: Moles",
+            "Components: 3-Dimensional (3D)"
+        ]
+    }
+}

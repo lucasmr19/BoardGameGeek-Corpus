@@ -1,0 +1,36 @@
+{
+    "id": 206,
+    "name": "Jalape-NO!",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "9",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Jalape-NO!, first released as Pepper, is a trick-taking game in which you want to dodge the spiciness to end up with the lowest score possible.<br/><br/>The deck consists of 108 cards (102 number cards and 6 pepper cards), with cards being numbered 1-18 in six colors and with the 1s being peppers. Based on the player count, you use 4-6 colors of cards ranging from 1-9 to 1-18.<br/><br/>At the start of each round, you receive 12 cards in hand, and you must place any peppers on the table in front of you. The lead player in a trick plays any card from their hand or one of their peppers. Each other player must follow suit, if possible, except that you are not forced to play the matching pepper card, should you have it. (However, if you do have it, you cannot play a pepper of another color to this trick.) Whoever plays the highest card in the suit led wins the trick and leads the next trick. If you win a pepper in a trick, place it on the table in front of you; you can play this pepper on a future trick, whether to lead off the trick or to play it on a trick that's already in progress.<br/><br/>As soon as a player has no cards in hand, the round ends. All players add any cards in hand to the cards in front of them, whether peppers or cards claimed in tricks. Each pepper you have is worth 2 points, and each card in the same suit as a pepper you have is worth 1 point. After five rounds, the player with the lowest score wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/_ysCHgcIA3319_0VeNy0bA__original/img/VW0c34B_sT0TjvsVBp7CkA2s5Xc=/0x0/filters:format(png)/pic6685640.png",
+    "thumbnail": "https://cf.geekdo-images.com/_ysCHgcIA3319_0VeNy0bA__small/img/iLhwmATwpuBGC1hzVbD0TvE-HSM=/fit-in/200x150/filters:strip_icc()/pic6685640.png",
+    "publishers": [
+        "F.X. Schmid",
+        "Playte",
+        "テンデイズゲームズ (TendaysGames)",
+        "25th Century Games"
+    ],
+    "designers": [
+        "Michael Kiesling",
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Danny Aldana",
+        "Götz Wiedenroth"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

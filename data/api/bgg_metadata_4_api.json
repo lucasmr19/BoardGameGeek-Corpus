@@ -1,0 +1,40 @@
+{
+    "id": 4,
+    "name": "Tal der Könige",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "When you see the triangular box and the luxurious, large blocks of Tal der K&ouml;nige (German: &quot;Valley of the Kings&quot;), you can tell this game was designed to be beautiful as well as functional.  The object of the game is to build pyramids out of the different colored blocks.  A pyramid scores more points when it's made from a few colors, but it's much harder to consistently outbid the other players for the necessary blocks.  The game is over when the Pharoah's Pyramid in the center is completed, which is built using all the blocks that the players don't use during the course of the game.<br/><br/>Final round 1990 Hippodice Spieleautorenwettbewerb.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/nYiYhUlatT2DpyXaJqXK3w__original/img/2NNluROL0K_q4H8yMxIyoiHXnxc=/0x0/filters:format(jpeg)/pic285299.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nYiYhUlatT2DpyXaJqXK3w__small/img/igbXSLFwM7XAz78r1FeVVVe6gJk=/fit-in/200x150/filters:strip_icc()/pic285299.jpg",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Christian Beierer"
+    ],
+    "artists": [
+        "Thomas di Paolo"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Area Majority / Influence",
+            "Auction / Bidding",
+            "Set Collection"
+        ],
+        "categories": [
+            "Ancient"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Cities: Luxor (Egypt)",
+            "Constructions: Pyramids",
+            "Containers: Triangular Boxes",
+            "Promotional: Board Games"
+        ]
+    }
+}

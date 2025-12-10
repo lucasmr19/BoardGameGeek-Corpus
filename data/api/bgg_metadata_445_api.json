@@ -1,0 +1,36 @@
+{
+    "id": 445,
+    "name": "Die Osterinsel",
+    "yearpublished": "1994",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "A simple game. Race to the end of a path. On your turn, you must move one figure and place as many rocks in the heads of other figures as the number of spaces you moved. Of the first two finishers, the one with the most rocks in his head wins.<br/><br/>The pieces are big honking Moai (Easter Island Statues) heads made of plastic which are hollow. The game is short and simple. There is not a huge amount of strategy and it helps if the other players cannot remember how many rocks are in the others heads.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Q43I5rYyVlwD6pna8FIwoQ__original/img/6cVT8HNSGZIMGbK1CvSpZH2yAlc=/0x0/filters:format(jpeg)/pic242020.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Q43I5rYyVlwD6pna8FIwoQ__small/img/RdMGhuf1Sjm-SUKz_TG8HlCId-E=/fit-in/200x150/filters:strip_icc()/pic242020.jpg",
+    "publishers": [
+        "Blatz"
+    ],
+    "designers": [
+        "Leo Colovini",
+        "Alex Randolph"
+    ],
+    "artists": [
+        "Hartmut Gärling",
+        "Fabio Visintin"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Open Drafting"
+        ],
+        "categories": [
+            "Racing"
+        ],
+        "families": [
+            "Country: Chile",
+            "Islands: Easter (Chile)"
+        ]
+    }
+}

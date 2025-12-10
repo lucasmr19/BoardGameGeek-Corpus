@@ -1,0 +1,37 @@
+{
+    "id": 197,
+    "name": "HellRail: Second Perdition",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "75",
+    "maxplaytime": "75",
+    "age": "13",
+    "description": "Based on Dante&#039;s Inferno, HellRail: 2nd Perdition has players creating rail to deliver the souls of the damned to the appropriate circles of Hell.  The card mechanics are clever, as every card can become a load to be delivered, or be used to build rail, move trains, or draw more cards.  Additionally, upon arriving at each circle, players have the choice to call forth that circle's powers, possibly putting a serious crimp in their opponents' efforts.<br/><br/>Re-implements:<br/><br/>    HellRail<br/><br/><br/>Re-implemented as:<br/><br/>    FrachtExpress<br/>    HellRail: Third Perdition<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/woG49ZIrirhmIOaioHregg__original/img/ETGJnMJgI34Jog9CzhjDCci1egY=/0x0/filters:format(jpeg)/pic122523.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/woG49ZIrirhmIOaioHregg__small/img/nqnq4HP522uAnKFGtjC1W4z909I=/fit-in/200x150/filters:strip_icc()/pic122523.jpg",
+    "publishers": [
+        "Giochi Rari",
+        "Glastyn Games"
+    ],
+    "designers": [
+        "James Kyle"
+    ],
+    "artists": [
+        "Angelo Porazzi"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Pick-up and Deliver"
+        ],
+        "categories": [
+            "Card Game",
+            "Trains",
+            "Transportation"
+        ],
+        "families": [
+            "Game: HellRail",
+            "Theme: Hell"
+        ]
+    }
+}

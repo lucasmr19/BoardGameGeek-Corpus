@@ -1,0 +1,50 @@
+{
+    "id": 115,
+    "name": "I'm the Boss!",
+    "yearpublished": "1994",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "The six Investor cards are shuffled and one is dealt face up to each player. Any Investor cards not dealt to the players are set aside for now. The Influence Card deck is shuffled and each player is dealt five cards face down. The player whose Investor is first in alphabetical order goes first. The player to the starting player&rsquo;s right places the Dollar marker on any space on the game board.<br/><br/>Each space on the game board represents a potential deal which Investors have to approve the deal and the number of dividends to be paid to those investors.<br/><br/>On one&rsquo;s turn, a player can open negotiations on the deal where the Dollar marker rests or roll the six-sided die. If the player rolls the die, the Dollar marker is advanced clockwise around the game board counting the available deals as spaces. Once the Dollar marker rests, the player may try to negotiate that deal or draw three Influence cards. If by drawing cards, the player&rsquo;s hand exceeds twelve the player chooses which cards to discard to the limit.<br/><br/>Should a player choose to make the deal, the player negotiates with the player or players representing the Investors how to divide the money at stake. The amount is number of dividends written on the space multiplied by value of the shares written on the deal tile. Any or all of the players may use their Influence cards to affect the outcome of the deal:<br/><br/>&bull;    Clan cards may act in place of Investors whether the Investors are in play or not.<br/>&bull;    Travel cards put Investors out of play for the negotiations. Some are specific for a given Investor; some are wild to be played on any Investor.<br/>&bull;    Recruitment cards can only be played in sets of three to steal another player&rsquo;s Investor and make it your own.<br/>&bull;    Boss cards give the player control of the negotiations.<br/>&bull;    Stop cards immediately stop the effects of Travel, Recruitment, and Boss Influence cards.<br/><br/>The players are paid from the bank when a deal has been struck. The game board space is covered with the Deal tile (effectively closing the space from further game play), the Dollar marker is moved to the next open space, and play continues with next player.<br/><br/>Once nine deals have been made, a die is rolled after each subsequent deal to determine whether the game ends (with the odds increasing each time). Victory goes to whoever has the biggest bankroll!<br/><br/>--user description<br/><br/>",
+    "image": "https://cf.geekdo-images.com/BwLVB048K-u7s_VfRZZibQ__original/img/EvS_FoTsLPWZhIJZY9HVpiKzA7c=/0x0/filters:format(png)/pic7810845.png",
+    "thumbnail": "https://cf.geekdo-images.com/BwLVB048K-u7s_VfRZZibQ__small/img/q5BKFx6onYC6AcdF0J5zVZjgCDQ=/fit-in/200x150/filters:strip_icc()/pic7810845.png",
+    "publishers": [
+        "Eagle-Gryphon Games",
+        "Edge Entertainment",
+        "Face2Face Games",
+        "Kaissa Chess & Games",
+        "Korea Boardgames",
+        "New Games Order, LLC",
+        "Schmidt Spiele",
+        "Siam Board Games",
+        "Stratelibri",
+        "Swan Panasia Co., Ltd."
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [
+        "William O'Connor",
+        "Diego Sanchez"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hand Management",
+            "Negotiation",
+            "Roll / Spin and Move",
+            "Set Collection",
+            "Take That"
+        ],
+        "categories": [
+            "Economic",
+            "Negotiation"
+        ],
+        "families": [
+            "Digital Implementations: Board Game Arena",
+            "Series: Family Games (Gryphon Games)"
+        ]
+    }
+}

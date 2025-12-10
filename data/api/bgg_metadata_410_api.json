@@ -1,0 +1,36 @@
+{
+    "id": 410,
+    "name": "D'raf",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "11",
+    "description": "The object of the game is to be the first to drive your car off the side of the table. A road which has as many lanes as contestants is constructed from a number of gray road tiles. Each turn, players select a card from 2 to 10, which is the number of spaces they're moving. After these are revealed remembering that players cannot duplicate a card played by someone previous, players move forward down the road. Each of the cards allows for a certain number of road tile placements from your supply, a number of maneuvers per turn, and the damage your current speed will inflict should you careen into another car. Additionally, a percent of the tiles have special actions associated with them, which give the car on them the ability to jump, or hit a semi-truck, or skid out of control, or just plain slow down 'cuz there's a Smokey comin' on his flipside... The game is over when a car reaches the edge of the table, which gives the game a variable ending. Plus if ever a group of cars pulls out to a six-space lead, then all trailing cars are eliminated.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/CA2PFbnK8oZSF5PS1fECnA__original/img/2LRQ9LIgGQsK5V4eKxbKxO5H6Bk=/0x0/filters:format(png)/pic8256720.png",
+    "thumbnail": "https://cf.geekdo-images.com/CA2PFbnK8oZSF5PS1fECnA__small/img/G4new0qo1CpUs71iM2kvH6-7bZA=/fit-in/200x150/filters:strip_icc()/pic8256720.png",
+    "publishers": [
+        "Damwise Publishing",
+        "Splotter Con",
+        "Splotter Spellen"
+    ],
+    "designers": [
+        "Herman Haverkort",
+        "Joris Wiersinga"
+    ],
+    "artists": [
+        "Jan Lipiński"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Tile Placement"
+        ],
+        "categories": [
+            "Racing"
+        ],
+        "families": [
+            "Sports: Auto Racing"
+        ]
+    }
+}

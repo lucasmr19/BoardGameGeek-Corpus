@@ -1,0 +1,62 @@
+{
+    "id": 394,
+    "name": "Kahuna",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "40",
+    "age": "10",
+    "description": "&quot;Who will rule the South Seas? Two Kahuna - ancient sorcerers of the Pacific - compete for dominance on an archipelago consisting of twelve small islands. Using their magic and wisdom, they struggle for control of the islands. They anxiously await the cards handed to them by fate. But when the time is right, they move to capture one, two, or even more islands, trying to gain the upper hand. At the mercy of the magical powers of the South Seas, they quickly realize that even the best magic is no good without strategy.&quot;<br/><br/>Originally published in 1997 as Arabana-Ikibiti by the designer's own publisher Bambus Spieleverlag, then reprinted by Funagain in the U.S., Kosmos' Kahuna &ndash; part of its Kosmos two-player series &ndash; is the best known implementation of this design.<br/><br/>It's a two-player game, played on a board depicting twelve islands. Players use cards to place bridges between these islands or remove opponent's bridges. If you get the majority of bridges around an island, you place one of your marker stones on it and also remove any of your opponent's bridges to that island &ndash; which might cause them to lose a bridge majority on an adjacent island and lose a marker stone there.<br/><br/>The game is played in three rounds. A round ends when all cards from the face down deck and the three face up cards have been taken. Then points are scored for the islands with a marker stone on them. The game can also end sooner when one player has absolutely NO bridges left on the board.<br/><br/>The Kosmos edition has excellent graphics and nice wooden pieces and plays very well.<br/><br/>Reimplements:<br/><br/>     Arabana-Ikibiti<br/><br/><br/>Reimplemented by:<br/><br/>     Kanaloa<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__original/img/eFUPl6jyG6enyuTqqEE-4vGw7NI=/0x0/filters:format(jpeg)/pic2606165.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__small/img/bc5NxkspfUfPskxlC30SxlwNyxs=/fit-in/200x150/filters:strip_icc()/pic2606165.jpg",
+    "publishers": [
+        "KOSMOS",
+        "999 Games",
+        "Arclight Games",
+        "Filosofia Éditions",
+        "Galakta",
+        "IELLO",
+        "Korea Boardgames",
+        "Laser plus",
+        "Paper Iyagi",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd.",
+        "Tilsit",
+        "White Goblin Games"
+    ],
+    "designers": [
+        "Günter Cornett"
+    ],
+    "artists": [
+        "Michaela Kienle",
+        "Anke Pohl",
+        "Thilo Rick",
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Multi-Use Cards",
+            "Network and Route Building",
+            "Open Drafting",
+            "Set Collection",
+            "Sudden Death Ending",
+            "Tags",
+            "Take That"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Digital Implementations: Apple App Store",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: Yucata",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)",
+            "Theme: Tropical",
+            "Theme: Tropical Islands"
+        ]
+    }
+}

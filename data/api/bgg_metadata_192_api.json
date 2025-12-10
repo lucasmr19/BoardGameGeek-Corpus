@@ -1,0 +1,40 @@
+{
+    "id": 192,
+    "name": "Nicht die Bohne!",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "This warped but fun card game is more intense than it first appears to be.  Players try to collect points in four different suits, but along the way points can be made negative instead of positive or even canceled entirely by taking one of the 'Nicht die Bohne' cards.  With its interesting trading mechanism, this game can be a little hard to grasp at first, but it's worth the effort.  A note to the wise: although this game shares a common theme of beans (Bohnen) with Bohnanza, that's about the only similarity.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/n2IG6WPnOpyHkkA3dUJXmQ__original/img/zKlWoQMuz0B4XktvdFfMQd0EDjE=/0x0/filters:format(jpeg)/pic19366.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/n2IG6WPnOpyHkkA3dUJXmQ__small/img/pR1GHygcrtNR9eWxDyVvJIomZvM=/fit-in/200x150/filters:strip_icc()/pic19366.jpg",
+    "publishers": [
+        "AMIGO",
+        "Korea Boardgames",
+        "Lifestyle Boardgames Ltd",
+        "Nasza Księgarnia",
+        "Oya"
+    ],
+    "designers": [
+        "Horst-Rainer Rösner"
+    ],
+    "artists": [
+        "Nikola Kucharska",
+        "Wei Li Ng",
+        "Björn Pertoft",
+        "Thomas Vuarchex",
+        "Zhong Zhun"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection",
+            "Trading"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": []
+    }
+}

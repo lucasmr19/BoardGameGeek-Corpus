@@ -1,0 +1,52 @@
+{
+    "id": 475,
+    "name": "Taj Mahal",
+    "yearpublished": "2000",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "90",
+    "age": "14",
+    "description": "Northwest India at the beginning of the 18th century. The rule of the Grand Moguls is waning, and the Maharishis and princes seize the opportunity to take control of the region. By influencing the prominent forces, building magnificent palaces, and ensuring a steady supply of commodities, the princes increase their power until the most successful has won.<br/><br/>The goal of the game is to gain the most influence points. These can be obtained by building palaces and by acquiring commodities. A palace can be built after securing the support of the Vizier, the General, the Monk, the Princess, or the Grand Mogul. Commodities are gained by seizing control of a region or by retrieving them on a space where a palace has just been built.<br/><br/>There are twelve turns with an auction for the region control and the support of the Vizier, General, Monk, Princess, and Grand Mogul, each represented by a different symbol. Players use cards in four colors to bid for the various prizes, and each player may only play one color in any given turn. During your turn you can either increase your bid by playing more cards or withdraw. When you do, you gain the reward for every symbol you have the majority of. You place palaces, gain region tiles, and increase your score accordingly. There are bonus points for connecting palaces over several regions on the map.After the final area on the board is auctioned, the player with the highest point total wins the game.<br/><br/>This game is #3 in the Alea big box series.<br/><br/>Note: the 2018 edition from Fantasy Flight Games includes rules for 2 players. You use only the cards included in the game, so no additional components are required. Anyone could use these rules with any version of the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/1AbjSJSVWFJ5GEXriWLd0w__original/img/pUWU53usRd2ck1OAXApT5haZUW4=/0x0/filters:format(jpeg)/pic4092498.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1AbjSJSVWFJ5GEXriWLd0w__small/img/Hl5F3BOBmcd-NmdNfkbDHbqheNo=/fit-in/200x150/filters:strip_icc()/pic4092498.jpg",
+    "publishers": [
+        "alea",
+        "Ravensburger",
+        "ABACUSSPIELE",
+        "Group SNE",
+        "Hobby Japan",
+        "Quined White Goblin Games",
+        "Rio Grande Games",
+        "Ystari Games",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Atha Kanaani",
+        "Bree Lindsoe",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Turn Order Until Pass",
+            "Hand Management",
+            "Network and Route Building",
+            "Open Drafting",
+            "Set Collection"
+        ],
+        "categories": [
+            "Bluffing",
+            "Political"
+        ],
+        "families": [
+            "Cities: Agra (India)",
+            "Country: India",
+            "Series: Alea Big Box",
+            "Series: Euro Classics (Reiner Knizia)"
+        ]
+    }
+}

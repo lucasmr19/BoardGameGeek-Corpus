@@ -1,0 +1,55 @@
+{
+    "id": 7,
+    "name": "Cathedral",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "In Cathedral, each player has a set of pieces of a different color. The pieces are in the shapes of buildings, covering from one to five square units. The first player takes the single neutral Cathedral piece and places it onto the board. Players then alternate placing one of their buildings onto the board until neither player can place another building. Players capture territory by surrounding areas that are occupied by at most one opponent or neutral building. A captured piece is removed and captured territory becomes off-limits to the opponent. The player with the fewest 'square units' of buildings that can't be placed wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/78Dgd-b_1_xEv4OXVKdaag__original/img/1V-WCnoHrm2tDjBHpXfxoKp2rCo=/0x0/filters:format(jpeg)/pic7012177.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/78Dgd-b_1_xEv4OXVKdaag__small/img/mrvl6BsXE-IGkqt2otFbIe7zYV4=/fit-in/200x150/filters:strip_icc()/pic7012177.jpg",
+    "publishers": [
+        "Brightway Products Ltd",
+        "Falomir Juegos",
+        "Family Games, Inc.",
+        "Gazebo Games UK Ltd.",
+        "Gigamic",
+        "Holzinsel",
+        "I.Q. Company",
+        "Lagoon Games",
+        "Mattel, Inc.",
+        "Robert P. Moore Games",
+        "Yangxin Industrial Company Limited"
+    ],
+    "designers": [
+        "Robert P. Moore"
+    ],
+    "artists": [
+        "(Uncredited)",
+        "S. Mattusek"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Enclosure",
+            "Pattern Building",
+            "Square Grid",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Children's Game",
+            "City Building",
+            "Territory Building"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Components: 10 x 10 Grids",
+            "Components: Polyominoes",
+            "Components: Wooden pieces & boards",
+            "Players: Two-Player Only Games",
+            "Theme: City"
+        ]
+    }
+}

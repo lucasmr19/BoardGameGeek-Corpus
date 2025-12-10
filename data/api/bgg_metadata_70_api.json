@@ -1,0 +1,39 @@
+{
+    "id": 70,
+    "name": "Big City",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "This game, with its really wonderful plastic bits, is about building a city.  Players acquire cards in eight different 'neighborhoods' and then use them to lay out buildings either one, two, or three spaces large.  The points they receive for a given building is a base score plus bonuses for the buildings surrounding it.  What makes this game really unique is the city hall.  Some player must play it (scoring no points for himself) in order for anyone to start placing any structure beyond the simple residences and business.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/LkPdT03ObmWklCB8S3DZfw__original/img/tOLxwWWirwmmZ5fYgh2wJ7c6MqA=/0x0/filters:format(jpeg)/pic1043072.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/LkPdT03ObmWklCB8S3DZfw__small/img/VkSxZn40RQ0TpW5-9YfI2Qbl2Gk=/fit-in/200x150/filters:strip_icc()/pic1043072.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "999 Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Franz-Benno Delonge"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Modular Board",
+            "Tile Placement"
+        ],
+        "categories": [
+            "City Building"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: Polyominoes",
+            "Theme: City"
+        ]
+    }
+}

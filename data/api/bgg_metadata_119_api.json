@@ -1,0 +1,58 @@
+{
+    "id": 119,
+    "name": "Cosmolancer",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "9",
+    "description": "Auf Heller und Pfennig takes participants to a medieval marketplace. Each turn, players place tiles onto the grid board that modify (either positively or negatively) the amount of money to be made by the shops that share that tile's row or column. Three times the board is filled with tiles and shop money is earned, after which the player with the most money wins.<br/><br/>In Kingdoms, the first English-language version of Auf Heller und Pfennig, players try to collect the most gold by establishing castles in the richest regions of the realm while avoiding hazards like dragons, swamps, and trolls. The 2011 edition includes detailed plastic castles, a streamlined rulebook, and the addition of a wizard tile &mdash; one that increases the rank of adjacent castles, multiplying their scores &mdash; previously available only at game conventions.<br/><br/>As of 2024, Cosmolancer is the newest version of this design, with players taking the role of freelance photographers in space! As in the other versions, the game lasts three rounds, and to start a round, each player draws a random tile and keeps it secret. On a turn, you either:<br/><br/>&bull; Draw a tile and place it in an empty space on the 6x5 grid.<br/>&bull; Place the tile in your hand.<br/>&bull; Place one of your tokens, which are numbered 1-4, in an empty space.<br/><br/>When all of the spaces are filled, you score each of your tokens, multiplying the number on the token by the sum of the tiles in its row and column, with some special tiles nullifying positive values or splitting a row into two segments. You retrieve all of your 1 tokens, but the others are now out of play. After three rounds, whoever has the highest score wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/beS7setHhqAMOp9jXlUBBw__original/img/vIwSktsyDPP0qQCp2cZA7gBTf6k=/0x0/filters:format(png)/pic8457547.png",
+    "thumbnail": "https://cf.geekdo-images.com/beS7setHhqAMOp9jXlUBBw__small/img/7OTTb_tqVSxokbOqamDthmQY8iM=/fit-in/200x150/filters:strip_icc()/pic8457547.png",
+    "publishers": [
+        "Hans im Glück",
+        "ADC Blackfire Entertainment",
+        "Arclight Games",
+        "Avalon Hill",
+        "cutia.ro",
+        "Delta Vision Publishing",
+        "Edge Entertainment",
+        "Enigma (Bergsala Enigma)",
+        "Fantasmagoria",
+        "Fantasy Flight Games",
+        "Menart",
+        "Midgaard Games",
+        "MINDOK",
+        "Swan Panasia Co., Ltd."
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Kevin Childress",
+        "Hugo Cuellar",
+        "Anders Finér",
+        "Charlie Layton",
+        "Eric Lofgren",
+        "Henning Ludvigsen",
+        "Jim Pavelec",
+        "Peter Tikos",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Fantasy",
+            "Medieval"
+        ],
+        "families": [
+            "Category: Dized Tutorial",
+            "Components: 5 x 6 Grids",
+            "Series: Fantasy Flight Silver Line"
+        ]
+    }
+}

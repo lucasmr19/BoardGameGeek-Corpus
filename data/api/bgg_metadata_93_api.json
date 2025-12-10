@@ -1,0 +1,68 @@
+{
+    "id": 93,
+    "name": "El Grande",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "In this award-winning game, players take on the roles of Grandes in medieval Spain.  The king's power is flagging, and these powerful lords are vying for control of the various regions.  To that end, you draft caballeros (knights) into your court and subsequently move them onto the board to help seize control of regions.  After every third round, the regions are scored, and after the ninth round, the player with the most points is the winner.<br/><br/>In each of the nine rounds, you select one of your 13 power cards to determine turn order as well as the number of caballeros you get to move from the provinces (general supply) into your court (personal supply).<br/><br/>A turn then consists of selecting one of five action cards which allow variations to the rules and additional scoring opportunities in addition to determining how many caballeros to move from your court to one or more of the regions on the board (or into the castillo - a secretive tower). Normally, you may only place your caballeros into regions adjacent to the one containing the king. The one hard and fast rule in El Grande is that nothing may move into or out of the king's region. One of the five action cards that is always available each round allows you to move the king to a new region. The other four action cards vary from round to round.<br/><br/>The goal is to have a caballero majority in as many regions (and the castillo) as possible during a scoring round. Following the scoring of the castillo, you place any cubes you had there into the region you secretly indicated on your region dial. Each region is then scored individually according to a table printed in that region. Two-point bonuses are awarded for having sole majority in the region containing your Grande and in the region containing the king.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__original/img/E_QazS4f8ffj6oBcUl3C_VROCEw=/0x0/filters:format(jpeg)/pic7906240.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__small/img/XPcVtsZPITv5qe3IXpzMKa5RSYA=/fit-in/200x150/filters:strip_icc()/pic7906240.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "999 Games",
+        "Användbart Litet Företag",
+        "Descartes Editeur",
+        "Devir",
+        "Feelindigo",
+        "Filosofia Éditions",
+        "Gabinete Lúdico",
+        "Game Harbor",
+        "Gém Klub Kft.",
+        "Giochi Uniti",
+        "Lautapelit.fi",
+        "Lucky Duck Games",
+        "MINDOK",
+        "Möbius Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Wolfgang Kramer",
+        "Richard Ulrich"
+    ],
+    "artists": [
+        "Doris Matthäus",
+        "Stefan Sonnberger",
+        "Franz-Georg Stämmele"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Drafting",
+            "Area Majority / Influence",
+            "Auction / Bidding",
+            "Hand Management",
+            "Open Drafting",
+            "Selection Order Bid",
+            "Simultaneous Action Selection",
+            "Take That",
+            "Turn Order: Auction"
+        ],
+        "categories": [
+            "Medieval"
+        ],
+        "families": [
+            "Category: Dized Tutorial",
+            "Components: Map (Continental / National scale)",
+            "Containers: Tin/Metal Box",
+            "Country: Spain",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: Yucata",
+            "Game: El Grande",
+            "Misc: BGG Hall of Fame",
+            "Misc: Dice Tower Hall of Fame",
+            "Misc: Made by Panda"
+        ]
+    }
+}

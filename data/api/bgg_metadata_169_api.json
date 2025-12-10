@@ -1,0 +1,41 @@
+{
+    "id": 169,
+    "name": "En Garde",
+    "yearpublished": "1993",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Experience the thrill of fencing&mdash; board game style! In this two-player game, tactics, skill, and a little bit of luck will determine the best fencer.  Teach yourselves the concepts with the basic game, test yourselves with the standard game, and challenge yourselves with the advanced game. Cards fly back and forth as the fencers attack, and parry-riposte.<br/><br/>Who will be bold enough to attack first?  Is it possible to win with that initial attack or has your opponent beguiled you into an attack while waiting to mount a parry-riposte?<br/><br/>En Garde is a very dynamic game&mdash; strategically rich yet easy to learn and play.  Three levels of rules are included in the game.<br/><br/>Re-Imagined as:<br/><br/>    Flash Duel<br/><br/><br/>Re-implemented as:<br/><br/>    Duell<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/gFbEKDxJTqC_3Y-nGXyMCg__original/img/n9O3-yDY3dE4zlC5f0hq2Roi69I=/0x0/filters:format(jpeg)/pic620883.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gFbEKDxJTqC_3Y-nGXyMCg__small/img/SjLKD2wxmNpyH72XXHW-NdyjZD0=/fit-in/200x150/filters:strip_icc()/pic620883.jpg",
+    "publishers": [
+        "ABACUSSPIELE",
+        "Eagle-Gryphon Games",
+        "Ferti",
+        "New Games Order, LLC"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Pierô"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Tug of War"
+        ],
+        "categories": [
+            "Card Game",
+            "Sports"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Players: Two-Player Only Games",
+            "Series: Two-Player Games (Gryphon Games)",
+            "Sports: Fencing"
+        ]
+    }
+}

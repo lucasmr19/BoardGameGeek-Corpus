@@ -1,0 +1,37 @@
+{
+    "id": 285,
+    "name": "Monsters Ravage America",
+    "yearpublished": "1998",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Each player is one of six Giant Monsters, stomping across a map of the USA in search of cities to destroy. The monsters run the gamut from the classic (enormous lizards and gargantuan apes) to the slightly more unconventional (50-foot glow worms, anyone?), and each has its own set of attributes and powers.<br/><br/>Ingeniously, everyone also controls an arm of the military, which can be used to attack and weaken the other monsters on the board. It's a losing battle for the militia -- monsters can wipe out military bases and reduce the total number of forces available to each player -- but you can get a few good licks in early in the game.<br/><br/>The battle escalates until the 20th city is reduced to rubble. At that time, all the monsters duke it out in a free-for-all, mano-a-clawo Monster Challenge; and when the dust settles, the last monster standing is declared the winner.<br/><br/>This game was remade into Monsters Menace America.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/fVQ2-ddywrLhkcehf9yL9g__original/img/1pFXlYJDETy43kh1MXj21JftH3o=/0x0/filters:format(jpeg)/pic265330.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fVQ2-ddywrLhkcehf9yL9g__small/img/0-jn2SdeXl-FBNOeRHB5YB-pWyY=/fit-in/200x150/filters:strip_icc()/pic265330.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "J. C. Connors (I)",
+        "Ben Knight"
+    ],
+    "artists": [
+        "Jean Baer",
+        "Ben Knight",
+        "Tyson Milbert",
+        "Dave Shaw (II)"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": [
+            "Creatures: Monsters",
+            "Theme: Kaiju"
+        ]
+    }
+}

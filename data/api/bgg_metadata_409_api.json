@@ -1,0 +1,34 @@
+{
+    "id": 409,
+    "name": "Dschungel",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "A paraphrased description of the game from Adlung Spiele:<br/><br/>Trapped in the jungle, the players race to break through the engulfing maze of undergrowth. Only now and again are there a few free paths in an otherwise seemingly impenetrable primeval forest. Three stage goals must be reached, so be sure not to lose perspective!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/chXee_yFj9NGkTkHQDTEJw__original/img/dZfRLEzfG9o1z2dWVxMwnrgCMkw=/0x0/filters:format(jpeg)/pic202834.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/chXee_yFj9NGkTkHQDTEJw__small/img/4i2H1ivZk1kfirWOFxfc2qloGa0=/fit-in/200x150/filters:strip_icc()/pic202834.jpg",
+    "publishers": [
+        "Adlung-Spiele"
+    ],
+    "designers": [
+        "Bernhard Naegele"
+    ],
+    "artists": [
+        "Jürgen Martens"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Memory"
+        ],
+        "categories": [
+            "Card Game",
+            "Memory"
+        ],
+        "families": [
+            "Components: 7 x 7 Grids"
+        ]
+    }
+}

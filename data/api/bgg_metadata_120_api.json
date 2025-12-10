@@ -1,0 +1,49 @@
+{
+    "id": 120,
+    "name": "Hoity Toity",
+    "yearpublished": "1990",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "What do bored English noblemen do with their free time?  Well, according to this Spiel des Jahres (1990) winner by Klaus Teuber, they like collecting old junk and then showing it off.  Players buy or steal various pieces of junk in the form of cards, trying to form the largest and oldest collection.  Built on a 'rock-paper-scissors' mechanism, this game gives all players a couple of choices each turn.  The trick is in guessing what your opponents are likely to do, and planning your choice accordingly&mdash;only after everyone's decision is revealed do you know for certain whether you made the right one.<br/><br/>Note: Hoity Toity (Uberplay, 2004) is for 3 to 6 players.<br/>      Spionage! (G&amp;RRR, 1992) is for 2 to 5 players<br/><br/>",
+    "image": "https://cf.geekdo-images.com/hOby2j2vNp7CJSySwmczyA__original/img/DXeknF0pb8Bi3IzOE2A3-j384LI=/0x0/filters:format(jpeg)/pic38466.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hOby2j2vNp7CJSySwmczyA__small/img/4Ct6qzcR8UHPjmEGnHYlMWeGKEU=/fit-in/200x150/filters:strip_icc()/pic38466.jpg",
+    "publishers": [
+        "alea",
+        "The Avalon Hill Game Co",
+        "F.X. Schmid",
+        "G&RRR",
+        "Gibsons",
+        "Jumbo",
+        "MIKA",
+        "Überplay",
+        "Vini-Spil"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Leif Åbjörnsson",
+        "Tanja Donner",
+        "Ritva Hussain-Shahid",
+        "Michaela Kienle",
+        "Björn Lindsten",
+        "Cornelia von Seidlein"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Rock-Paper-Scissors",
+            "Set Collection",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Series: Alea Big Box"
+        ]
+    }
+}

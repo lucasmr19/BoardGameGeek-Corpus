@@ -1,0 +1,38 @@
+{
+    "id": 334,
+    "name": "Advance to Boardwalk",
+    "yearpublished": "1985",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "8",
+    "description": "Don't let the name fool you. The game has nothing to do with Monopoly. The name was obviously chosen in an attempt to capitalize on that mega-selling monster.<br/><br/>There are four tracts of land illustrated on the board, which depicts an ocean-front boardwalk. Each tract of land contains five properties valued from $1 million to $8 million. Each turn, a player rolls two regular dice and one special die. The special die has four sides depicting a color matching one of the land tracts, with the other two sides depicting a 'W' and 'F' respectively. The number rolled on the regular two dice is the amount of money the player can spend on development, while the color depicted on the special die is the tract of land he may build on. Thus, if a player rolled an 8 and a red, he has $8 million to spend on developing buildings in the red tract. He can split this $8 million as he sees fit. For example, he may build a building on the $5 million plot and one on the $3 million plot; or he may opt to build one building on the $8 million plot. Quite a few building options here.<br/><br/>The 'W' on the special die is a 'wild' color. If it was rolled instead of a color, the player may select which tract he wishes to build on. The 'F' means that a player draws a Fortune card and does not build that turn. Fortune cards allow a player to perform a variety of actions, including constructing extra buildings, moving one of his already placed buildings, removing an opponent's building, etc. A player may play one of these Fortune cards per turn.<br/><br/>When a player constructs a building and obtains the most buildings on a particular plot, he takes the deed to that property and moves his token along the boardwalk an amount equal to the value of the deed. If a player wrested control of the deed from an opponent, the opponent is then moved back that number of spaces. Buildings are placed on the board in a fashion identical to that used in Manhattan...they are stacked on top of existing buildings. If there is a tie for the most buildings, the player who built first on that plot possesses the deed.<br/><br/>Some have described this game as 'Manhattan lite', and they're not far off. One certainly has similar thought processes and must constantly keep an eye out for optimum plays which will wrest control of deeds (control of buildings in Manhattan) from opponents. There's another planning element thrown in, too. Certain spaces along the boardwalk are marked with an 'F'. If a player advances his token to one of these locations, he draws a Fortune card. These cards can be extremely powerful and cause a severe swing in deed controls. Thus, it is not always wise to go for the largest deed acquisition if a lesser gain would allow you to move your token onto an 'F' location. Clever.<br/><br/>The game continues until one player has placed all of his buildings (sounds a bit like Rheinländer, doesn't it?) or until one player has reached the end of the boardwalk. The player with the highest total value of deeds is the victor.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/XrG0R6KuZ2CroUZ8b7Jjcg__original/img/clB3ZmJeekiSUrCTzbMDh9PDIHw=/0x0/filters:format(jpeg)/pic194793.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/XrG0R6KuZ2CroUZ8b7Jjcg__small/img/4d8ekfGtxfM5tSyskTJ3uqvzCEQ=/fit-in/200x150/filters:strip_icc()/pic194793.jpg",
+    "publishers": [
+        "Borras Plana S.A.",
+        "Editrice Giochi",
+        "Parker Brothers",
+        "Winning Moves Games (USA)"
+    ],
+    "designers": [
+        "Charles Phillips"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Dice Rolling",
+            "Hand Management",
+            "Take That"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Cities: Atlantic City (New Jersey, USA)",
+            "Series: Monopoly Derivatives (Official)"
+        ]
+    }
+}

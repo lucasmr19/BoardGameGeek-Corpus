@@ -1,0 +1,33 @@
+{
+    "id": 195,
+    "name": "NASCAR Champions",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "It looks a bit like Daytona 500 with its oversized racetrack gameboard, but it's a much simpler game.  The main thing going on is that you roll the five dice on your turn and pick which three you want to play.  Each die has the five colors for the five cars in the race and one &quot;checkered flag&quot; side which means you draw a card.  The dice are numbered 1 to 5 (that is, each die has one of the five numbers), and the three you pick have to be played in order.  If you draw a card, it might instruct you to move a particular car, or the car in last place, or to spin a car out; or it might make you a &quot;Sponsor&quot; of a car, meaning you could get prize money for a car other than your main car.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/WvSkvw72h7eok4AZEp5BRw__original/img/_ZBkNxtI_qKToV3f3agEuzbu4Oc=/0x0/filters:format(jpeg)/pic178499.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WvSkvw72h7eok4AZEp5BRw__small/img/3fjJpnSBZJZv9GtTgFa1pvmmdtg=/fit-in/200x150/filters:strip_icc()/pic178499.jpg",
+    "publishers": [
+        "Milton Bradley"
+    ],
+    "designers": [
+        "Craig Van Ness"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Dice",
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Sports: Auto Racing"
+        ]
+    }
+}

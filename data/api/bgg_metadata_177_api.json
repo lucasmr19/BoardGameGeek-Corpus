@@ -1,0 +1,53 @@
+{
+    "id": 177,
+    "name": "Advanced Civilization",
+    "yearpublished": "1991",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "360",
+    "maxplaytime": "480",
+    "age": "12",
+    "description": "The use of the word &quot;Advanced&quot; to describe this expansion followed existing Avalon Hill tradition. &quot;Enhanced&quot; is likely more appropriate.  Playing with this expansion is no more difficult than playing the base Civilization game.  This expansion reworks a few of the original rules, includes a reworked version of Civilization: Expansion Trade Cards Set and adds more civilization advancements to the technology tree.<br/><br/>Included are more civilization advancements (both quantity and type), which give the players new options for advancement, as well as a slightly restructured commodity trading round, which has new resources and disasters to be traded. The most significant aspect of the game is a restructuring of the advancement/victory conditions, which remove the limits on advancement cards.  Some claim this makes the strategies more homogeneous while others claim the reverse is true.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/9ROB7NpxefRUmpR9UroQ8w__original/img/--qlhvNNj8zF9cWLlihdTg0jzmE=/0x0/filters:format(jpeg)/pic87459.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9ROB7NpxefRUmpR9UroQ8w__small/img/XDH667tVl2KjQ6szNjT7ceEmh5E=/fit-in/200x150/filters:strip_icc()/pic87459.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Lauren Banerd",
+        "Jim Eliason",
+        "Jeff Groteboer",
+        "Bruce Harper",
+        "Eric Hunter",
+        "Steven Padgett",
+        "Gary Rapanos",
+        "Michael Roos",
+        "Jennifer Schlickbernd",
+        "Jeff Suchard"
+    ],
+    "artists": [
+        "Rodger B. MacGowan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Commodity Speculation",
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Ancient",
+            "Civilization",
+            "Economic",
+            "Expansion for Base-game",
+            "Negotiation"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Components: Map (Continental / National scale)",
+            "Digital Implementations: VASSAL",
+            "Game: Civilization",
+            "Players: Expansions Changing Player Count"
+        ]
+    }
+}

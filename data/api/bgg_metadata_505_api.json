@@ -1,0 +1,35 @@
+{
+    "id": 505,
+    "name": "Goldener Drache",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "A clever racing game from Wolfgang Riedesser of Ave Caesar fame.  Players navigate flying dragons from North to South to reach the Golden Volcano.  You start with a set of wind stones marked N, S, O, W, SO, and SW (Ost is German for East).  You get a sloping rack in the shape of a dragon tail and at the start of the game pick the order for your wind stones on your rack, putting one stone underneath your own dragon at its starting position.<br/><br/>On your turn, you draw the bottom stone from your rack, place it (in the wind direction indicated) next to a dragon on the board, your dragon or another player's, and move the dragon onto your stone.  The stone the dragon had been standing on goes to the top of your rack, to be used again when it rolls down eventually to the bottom.<br/><br/>You make three moves per turn and try to put the other dragons into tough situations while making progress with your own.  So you generally want to play a North stone to move somebody else and the S, SO, and SW stones for your own dragon -- but there are blocks and corners, so this won't always be possible.<br/><br/>The main strategic tip is to try to move the dragons that have been left standing on stones with southward movement so as to get the S stones onto your own rack.  You also have two Storm cards (to allow 5 moves instead of 3 on a turn) and two Lightning cards (to prevent another player trying to move your dragon) to deploy during the course of the game.<br/><br/>Although the structural underpinnings and the slight benefit of memory might make you think you're going to have a serious, thinking game, Goldener Drache actually plays out as very light and take-thatty for a fun 15 minutes and &quot;Let's do it again!&quot;<br/><br/>",
+    "image": "https://cf.geekdo-images.com/fJ58JMyEq7_lNbl6t3n9hA__original/img/IfazPf1uUwfNKY7C3Ac0Wqnqzl4=/0x0/filters:format(jpeg)/pic294989.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fJ58JMyEq7_lNbl6t3n9hA__small/img/22ECC9LpZKCVd9i49J8AF39-1Yc=/fit-in/200x150/filters:strip_icc()/pic294989.jpg",
+    "publishers": [
+        "F.X. Schmid"
+    ],
+    "designers": [
+        "Wolfgang Riedesser"
+    ],
+    "artists": [
+        "Dewa Waworka"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Queue",
+            "Memory"
+        ],
+        "categories": [
+            "Fantasy",
+            "Racing"
+        ],
+        "families": [
+            "Creatures: Dragons"
+        ]
+    }
+}

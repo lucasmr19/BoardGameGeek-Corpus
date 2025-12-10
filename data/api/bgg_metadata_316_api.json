@@ -1,0 +1,48 @@
+{
+    "id": 316,
+    "name": "Chase",
+    "yearpublished": "1985",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Each player starts Chase with a row of nine dice on their side of the hexagonal game board, with the faces of those d6s adding up to 25. On a turn, a player moves a die as many spaces in a straight line as the value showing on the die's face. A die can't move through another piece, but it can wrap around the side of the board and it can bounce off the front or back wall at an angle to move its full distance.<br/><br/>If you land a die on an opponent's die, that second die is removed and the value of that die added to the lowest die on the opponent's team, keeping their pip count at 25. (If a die reaches 6, you add any remaining speed to what is now the lowest die.) If you land on one of your own dice, you bump that die one space in the same direction, possibly leading to another bump or a capture.<br/><br/>Instead of moving, if you have two dice next to one another, you can spend the turn adjusting their values while keeping their sum the same. If, for example, you have a 2 and 5 adjacent to one another, you can change them to 1 &amp; 6, 3 &amp; 4, 4 &amp; 3, 5 &amp; 2, or 6 &amp; 1.<br/><br/>The center of the board has a chamber on it. You cannot move a die through the chamber. If you land a die on the chamber, you split the value of that die on two dice as evenly as possible. (You start the game with one spare.) Those dice emerge from the chamber on spaces adjacent to it, possibly resulting in bumps or captures.<br/><br/>If you knock an opponent down to only four dice, then they have a pip count below 25 and they lose the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/FQmiPHFfyXg7_AvPkzsEDA__original/img/jfyxMUaiSWk2-8rD9pSjoxQCOVk=/0x0/filters:format(jpeg)/pic19452.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/FQmiPHFfyXg7_AvPkzsEDA__small/img/AAX4cxeZJnrTrtoEnAKzhC6E8Nk=/fit-in/200x150/filters:strip_icc()/pic19452.jpg",
+    "publishers": [
+        "Blue Dolphin Games",
+        "Laurin Verlag",
+        "nestorgames",
+        "Tactical Studies Rules (TSR)"
+    ],
+    "designers": [
+        "Tom Kruszewski"
+    ],
+    "artists": [
+        "Dave LaForce",
+        "Nathan Morse",
+        "Colleen O'Malley",
+        "Néstor Romeral Andrés"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Hexagon Grid"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Dice"
+        ],
+        "families": [
+            "Category: Combinatorial",
+            "Components: Dice as Playing Units",
+            "Containers: Zippered Pouch",
+            "Digital Implementations: Abstract Play",
+            "Digital Implementations: Ai Ai",
+            "Digital Implementations: Super Duper Games",
+            "Players: Two-Player Only Games",
+            "Series: Master Moves (TSR)"
+        ]
+    }
+}

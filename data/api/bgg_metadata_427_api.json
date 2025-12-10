@@ -1,0 +1,37 @@
+{
+    "id": 427,
+    "name": "Grass",
+    "yearpublished": "1980",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "18",
+    "description": "Regarded as a distant cousin of the French card game, Mille Bornes, this card game casts the players as dope dealers looking to make a quick buck or two selling pot.  Players seek to add 'drug deal' cards of varied monetary values to their stash, but others can attempt to interfere on their turn.  When one player has squirreled away $250,000, he is declared the winner.<br/><br/>Re-implements:<br/><br/>    Mille Bornes<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/udaDGwpHHUmLOM1XAlUY7Q__original/img/6w23Cjj7AUih4v3MgLvKdxR2qek=/0x0/filters:format(jpeg)/pic264444.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/udaDGwpHHUmLOM1XAlUY7Q__small/img/18GPtA-iNNqXrbQ_O5xxFXDVq2k=/fit-in/200x150/filters:strip_icc()/pic264444.jpg",
+    "publishers": [
+        "(Unknown)",
+        "Euro Games"
+    ],
+    "designers": [
+        "Jeff London"
+    ],
+    "artists": [
+        "(Uncredited)",
+        "Jeff London"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Take That"
+        ],
+        "categories": [
+            "Card Game",
+            "Economic"
+        ],
+        "families": [
+            "Game: Mille Bornes"
+        ]
+    }
+}

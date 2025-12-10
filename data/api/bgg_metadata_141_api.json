@@ -1,0 +1,38 @@
+{
+    "id": 141,
+    "name": "Andromeda",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Each player controls bases/stations (in the form of little wooden cubes) which they use to attempt to build Economic Centers on the moons of seven planets in an alien planetary system.  After moving their tokens on to a planet, players use an interesting little device ('planet ring'/'wormhole' - functions like a blind draw bag) to select one of the tokens on the planet.  Players take actions by collecting sets of cards which correspond to the the various planets.  The game also features a unique trading system which facilitates the card collecting. Careful card trading and calculating risk of establishing economic centers, and some variants, mitigate some of the luck factor.<br/><br/><br/><br/>Game Summary<br/>Setup: 9 cards/player. Place 1 cube per planet per player, plus additional cube per planet matching cards dealt out; remaining cubes on earth. Each gets 2 special action cards.Each round: First, players may play a single special action card, in order. Then, Trade Step. Finally, Action Step.<br/><br/>Trade Step: Start player first plays cards (2-3) to offer, one at a time; other players simultaneously show cards to trade, different than offered. Start player must trade; recipient either accepts cards into hand, or leaves out. Clockwise from Start Player, next player with cards still in front of them either makes a trade or takes their cards back. Continue till 0-1 people left with cards in front; they take them back to hand.<br/><br/>Action Step: Start player takes 3 actions, then others take 2 each. Actions can be:<br/>- discard 2 cards, then draw 2<br/>- turn in set of 3-7 cards to send half (rounding down) as many cubes from earth to a planet<br/>- turn in set of 3-7 cards to advance Ship Level, Tech Level, or to make attempt to establish colony on a planet matching cards played: place cubes on that planet into the cosmic ashtray, randomize, then reveal up to as many cubes as attempts made. If reveal your cube, place it on a station; turn over. If other player's cube, send it back to earth.<br/>- Sets: if no wilds (&quot;pure&quot;), take appropriate bonus wild card matching the size of the set (if available); wilds can be used later as parts of sets<br/><br/>Then rotate starting player to the left. Game ends when all stations on 3 planets have been taken. Score VP shown on board (for Tech level, stations occupied, and cubes on earth). Most VP wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/V9lP5-yzs6HnG540w51qZA__original/img/1iIyOpx-Uxbozn5L_qcSNt7zxmQ=/0x0/filters:format(jpeg)/pic159314.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/V9lP5-yzs6HnG540w51qZA__small/img/rMz9ONaw3HugZLfBoLqBQAQid2g=/fit-in/200x150/filters:strip_icc()/pic159314.jpg",
+    "publishers": [
+        "999 Games",
+        "ABACUSSPIELE",
+        "Grünspan-Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Science Fiction",
+            "Space Exploration",
+            "Territory Building"
+        ],
+        "families": []
+    }
+}

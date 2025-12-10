@@ -1,0 +1,44 @@
+{
+    "id": 371,
+    "name": "Mystery Rummy: Murders in the Rue Morgue",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "20",
+    "maxplaytime": "40",
+    "age": "8",
+    "description": "The second Mystery Rummy game.  In this one players investigate the murder from the Edgar Allan Poe story.  The basic mechanics (evidence card melds, gavel cards, etc.) are similar to the first Mystery Rummy game, but this one adds a hidden &quot;kitty&quot; in which players secretly place cards throughout the hand.  The first player to go out (before the draw deck is exhausted) wins the kitty in addition to their regular melds.<br/><br/>Can be played as a partnership game with 4 players.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/6AThu9Mb2meLmIsa9IIkoA__original/img/fL7K-JxW8E8kECrVqLQCqLP6pbU=/0x0/filters:format(jpeg)/pic2542198.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6AThu9Mb2meLmIsa9IIkoA__small/img/EsaHSGFUpSwqAm2qZUXaVQ87Hr8=/fit-in/200x150/filters:strip_icc()/pic2542198.jpg",
+    "publishers": [
+        "Eagle-Gryphon Games",
+        "Kaissa Chess & Games",
+        "Pegasus Spiele",
+        "U.S. Games Systems, Inc."
+    ],
+    "designers": [
+        "Mike Fitzgerald"
+    ],
+    "artists": [
+        "Christine Conrad",
+        "Virginijus Poshkus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Set Collection",
+            "Team-Based Game"
+        ],
+        "categories": [
+            "Card Game",
+            "Murder / Mystery"
+        ],
+        "families": [
+            "Books: Mystery Novels",
+            "Card Games: Draw and Discard",
+            "Misc: LongPack Games",
+            "Series: Mystery Rummy",
+            "Traditional Card Games: Rummy"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 329,
+    "name": "Russian Front",
+    "yearpublished": "1985",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "480",
+    "maxplaytime": "1200",
+    "age": "12",
+    "description": "A Game of the War in the East: 1941-44.<br/><br/>Russian Front is a wargame that re-creates the ebb and flow of the largest, longest and most costly military campaign of World War II. The game covers the vast theater of operations and the massive forces employed by the Soviet Union and by Nazi Germany and her allies. Only this time, YOU are in command.<br/><br/><br/>    Alternate scenarios: Games can be played that start in May or June of 1941, in 1942, or in 1943.<br/>    Unique Combat system: Combat occurs within a hex, units take incremental losses, and battles can require more than one round of resolution.<br/>    Land, Air, and sea: Units are included for and battles occur in all combat environments.<br/>    Blitz Attacks: Armor units may breakthrough fronts to drive deep into enemy territory.<br/>    Variable Endings: End any game at the conclusion of a six month period or continue on to the end of the campaign.<br/><br/><br/>The Basic rules allow players to quickly start playing the game and mastering the system. The Advanced and Optional rules allow players to choose the levels of complexity and detail that they enjoy.<br/><br/>TIME SCALE: One month per turn. <br/>MAP SCALE: Twenty-five miles per hex. <br/>UNIT SCALE: Corps, armies, fleets, and flotillas. <br/>PLAYERS: Two. <br/>PLAYING TIME: From two to eighteen hours, depending on the scenario and rules used.<br/><br/>&mdash;description from the back of the box<br/><br/><br/>\t\t\t\t<br/>\t\t\t\t<br/>\t\t\t\t\tScenariosIncluded in the game are three scenarios: 1941, 1942, and 1943.  The Barbarossa scenario also has an early start option with some historically plausible options for allowing this.  The '42 scenario, while historical, is quite imbalanced in favor of the Axis player.  Is a great way to practice the Summer '42 turns though so it is certainly recommended.  Finally is the '43 scenario.  This is imbalanced in favor of the Soviet player and is essentially Barbarossa in reverse.  It is very, very important that players practice this one.  It is the best way to learn the strengths of the Soviet side.<br/><br/>\t\t\t\t<br/>\t\t\t\t<br/>\t\t\t\t\tConsolidated RulebookThe Avalon Hill Game Company (TAHGC) quickly released a few important errata for the printed game.  This was released in GENERAL 22-4.  Then, two years later, extensive errata was released in GENERAL 24-1.  Both of these are available for download in the 'files' section below.  However, a new digital rulebook is available for download with all errata already incorporated.  This is also available in the 'files' section.<br/><br/>\t\t\t\t<br/>\t\t\t\t<br/>\t\t\t\t\tThe Wargame Academy Tournament RulesVarious rules are subject to interpretation.  The stated goal of the Wargame Academy is to provide a tournament rulebook where interpretive rules are explicitly stated with only one ruling.  This will enable tournament play.  Visit <a target='_blank' href=\"http://www.wargameacademy.org\" rel=\"nofollow noreferrer noopener\">www.wargameacademy.org</a> for more information and for a copy of the book.<br/><br/>\t\t\t\t<br/>\t\t\t\t<br/>\t\t\t\t\tMap ExtensionsSome players through the years desired a bit more space on the map.  To that end custom map extensions have been designed by more than one player.  The VASSAL module now has map extensions available as an option for play.  West to Berlin, Northeast to Archangel, and Southeast to Baku are all included.  Later these extensions will be available for download in a printable file.<br/><br/>(additional information by user JokerRulez)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/z2e8HBR12h3OGqMTwsJgeg__original/img/JhuwOIJGdzeqthH-yKppsXR8ItY=/0x0/filters:format(jpeg)/pic6507497.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/z2e8HBR12h3OGqMTwsJgeg__small/img/uBiFSkGMOGZQ6ei3mEAdruEOoMI=/fit-in/200x150/filters:strip_icc()/pic6507497.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Hobby Japan"
+    ],
+    "designers": [
+        "Neil Zimmerer"
+    ],
+    "artists": [
+        "Charles Kibler",
+        "George I. Parrish, Jr.",
+        "Neil Zimmerer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Simulation"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Country: Belarus",
+            "Country: Germany",
+            "Country: Russia",
+            "Country: Soviet Union",
+            "Country: Ukraine",
+            "History: World War II (Eastern Front)",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players"
+        ]
+    }
+}

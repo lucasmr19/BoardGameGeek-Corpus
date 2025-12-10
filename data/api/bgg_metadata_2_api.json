@@ -1,0 +1,38 @@
+{
+    "id": 2,
+    "name": "Dragonmaster",
+    "yearpublished": "1981",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Dragonmaster is a trick-taking card game based on an older game called Coup d'État. Each player is given a supply of plastic gems, which represent points. Each player will get to be the dealer for five different hands, with slightly different goals for each hand. After all cards have been dealt out, the dealer decides which hand best suits his or her current cards, and the other players are penalized points (in the form of crystals) for taking certain tricks or cards. For instance, if &quot;first&quot; or &quot;last&quot; is called, then a player is penalized for taking the first or last tricks. All players will get a chance to be dealer for five hands, but other players can steal this opportunity by taking all of the tricks during certain hands. At the end, the biggest pile of gems wins the game.<br/><br/>Jewel contents:<br/><br/>10 clear (2 extra)<br/>14 green (2 extra)<br/>22 red (2 extra)<br/>22 blue (2 extra)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/oQYhaJx5Lg3KcGis2reuWQ__original/img/owag4VgJDPyPt2ciYB9Hc5l4GnQ=/0x0/filters:format(jpeg)/pic4001505.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/oQYhaJx5Lg3KcGis2reuWQ__small/img/3bIZnNfVM1viwH9A9d2Rrip1Y80=/fit-in/200x150/filters:strip_icc()/pic4001505.jpg",
+    "publishers": [
+        "E. S. Lowe Company Inc.",
+        "Milton Bradley"
+    ],
+    "designers": [
+        "G. W. \"Jerry\" D'Arcey"
+    ],
+    "artists": [
+        "Bob Pepper"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Trick-taking"
+        ],
+        "categories": [
+            "Card Game",
+            "Fantasy"
+        ],
+        "families": [
+            "Card Games: Compendium",
+            "Components: Gems/Crystals",
+            "Creatures: Dragons",
+            "Theme: Art style – Art Nouveau"
+        ]
+    }
+}

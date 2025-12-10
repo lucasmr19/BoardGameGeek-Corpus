@@ -1,0 +1,31 @@
+{
+    "id": 136,
+    "name": "Robin Hood",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Robin Hood and his Merry Men are trying to grab as much treasure as possible from the clutches of the Sheriff of Nottingham. Each player wants to be the most successful master-thief and therefore must have absolutely no scruples -- even stealing the treasures which fellow players thought they had safely tucked away! The player with the most valuable treasures will win when the game ends.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/rzUEoSG6pjvYMs0nrjlMDA__original/img/ziPx4ZVfG7KEfb3ymW7C2y3L8Es=/0x0/filters:format(jpeg)/pic193282.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rzUEoSG6pjvYMs0nrjlMDA__small/img/dlggukc5lvSPJ9f6bFit3bRzktg=/fit-in/200x150/filters:strip_icc()/pic193282.jpg",
+    "publishers": [
+        "AMIGO"
+    ],
+    "designers": [
+        "Klaus Palesch"
+    ],
+    "artists": [
+        "Oliver Freudenreich"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Folk Tales & Fairy Tales: Robin Hood"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": 460,
+    "name": "Railway Rivals",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "This is a classic simple railway racing game, perhaps the first modern railroading game, where you draw the railway lines on hex-board. This one uses the sort of colored marker pens you can wipe off with a damp cloth after the game. The game goes through phases; initially you draw tracks and earn money for linking cities. When a number of cities are joined, you start racing, the cities being chosen randomly. The races are simple dice-rollers and the 1st &amp; 2nd place get prize money. After a couple of races, you draw some more tracks, then race some more and so on.<br/><br/>The railways cost more if you go over mountains etc, but this gives you shorter routes. You can run parallel to other lines at a cost, or simply link into another player's track and rent the tracks of other players when you race.<br/><br/>The board has a UK map on one side and a US map on the other, both giving amusing challenges, and the game has good repeat value. The designer David Watts has published a lot of stand alone Railway Rivals maps, and there is another edition of this game, Dampfross published by Laurin.<br/><br/>Re-implemented by:<br/><br/>    Dampfross<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/7CGV9Of3kmucTTApmcgb3w__original/img/N1cARCmWqLJ6wcBjmoYx4jlPQdE=/0x0/filters:format(jpeg)/pic195636.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/7CGV9Of3kmucTTApmcgb3w__small/img/FmdHzMPElkYzfh2BvxVtTr2Kzfk=/fit-in/200x150/filters:strip_icc()/pic195636.jpg",
+    "publishers": [
+        "Fairmount Gaming Simulations Co.",
+        "Games Workshop Ltd.",
+        "Rostherne Games"
+    ],
+    "designers": [
+        "David G. Watts"
+    ],
+    "artists": [
+        "Andrew Poole",
+        "David G. Watts"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Line Drawing"
+        ],
+        "categories": [
+            "Racing",
+            "Trains"
+        ],
+        "families": [
+            "Game: Railway Rivals"
+        ]
+    }
+}

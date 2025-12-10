@@ -1,0 +1,36 @@
+{
+    "id": 143,
+    "name": "Wortelboer",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "0",
+    "description": "In this very unusual card game, players are given equal stacks of cards, which have either carrots, bunnies, or foxes pictured on them.  The idea is that players set the cards out in biological pyramids, with the carrots eaten by the bunnies and the bunnies eaten by the foxes.  However, there is nothing simple about this intriguing and mystifying little game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/fVovqLT6UmUsKJM0lEPCFQ__original/img/iAqJpX6tywgmBxIVnq54Hnc8OWs=/0x0/filters:format(jpeg)/pic1857703.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fVovqLT6UmUsKJM0lEPCFQ__small/img/3gxk70ONOSrjjT7eV0OtI6eIIB8=/fit-in/200x150/filters:strip_icc()/pic1857703.jpg",
+    "publishers": [
+        "Think Games"
+    ],
+    "designers": [
+        "Gerard Mulder",
+        "Johan Schuyl"
+    ],
+    "artists": [
+        "Sander ten Napel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Take That"
+        ],
+        "categories": [
+            "Animals",
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Foxes",
+            "Animals: Rabbits / Hares"
+        ]
+    }
+}

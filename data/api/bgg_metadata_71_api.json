@@ -1,0 +1,69 @@
+{
+    "id": 71,
+    "name": "Civilization",
+    "yearpublished": "1980",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "minplaytime": "360",
+    "maxplaytime": "360",
+    "age": "12",
+    "description": "Civilization is a game of skill for 2 to 7 players. It covers the development of ancient civilizations from the invention of agriculture c. 8000 B.C. to the emergence of Rome around the middle of the third century B.C. Each player leads a nation of peoples over a map board of the Eastern Mediterranean and Near East as they attempt to carve a niche for themselves and their culture.<br/><br/>Although battles and territorial strategy are important, this is not a war game because it is not won by battle or conquest. Instead, the object of play is to gain a level of overall advancement involving cultural, economic, and political factors so that such conflicts that do arise are a result of rivalry and land shortage rather than a desire to eliminate other players. Nomad and farmer, warrior and merchant, artisan and citizen all have an essential part to play in the development of civilization. It is the player who most effectively changes emphasis between these various outlooks who will achieve the best balance and win.<br/><br/>(from the Introduction to the Avalon Hill edition rulebook)<br/><br/>This game has a huge following and is widely regarded as one of the best games about ancient civilizations. Each player takes on the role of leader of an ancient civilization, such as the Illyrians or Babylonians. Your task is to guide your people through the ages by expanding your empire and using its proceeds to finance new technological advances, such as Literacy, Metalworking, or Law. The advancements help your civilization better cope with its problems as well as help bring new advancements.<br/><br/>Civilization is widely thought to be the first game ever to incorporate a &quot;technology tree,&quot; allowing players to gain certain items and abilities only after particular other items were obtained. This influential mechanism has been adopted by countless other board games, card games, and computer games.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/YnRVKSq3NrLKVGPNzcYvqg__original/img/DVfIjAcXRotFftj6yPOc7KKYXNA=/0x0/filters:format(jpeg)/pic374847.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YnRVKSq3NrLKVGPNzcYvqg__small/img/CUSJ06HO4-802yb7VSq_MgpOSpE=/fit-in/200x150/filters:strip_icc()/pic374847.jpg",
+    "publishers": [
+        "Hartland Trefoil Ltd.",
+        "ACE Pelit Oy",
+        "The Avalon Hill Game Co",
+        "Compendium Games",
+        "Descartes Editeur",
+        "Gibsons",
+        "Joc Internacional",
+        "Piatnik",
+        "Spiel & Kunst",
+        "Welt der Spiele"
+    ],
+    "designers": [
+        "Francis Tresham"
+    ],
+    "artists": [
+        "Ed Dovey",
+        "Charles Kibler",
+        "Rodger B. MacGowan",
+        "Guillaume Rohmer",
+        "Dale Sheaffer",
+        "Francis Tresham"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Hand Management",
+            "Set Collection",
+            "Simulation",
+            "Tech Trees / Tech Tracks",
+            "Trading",
+            "Turn Order: Stat-Based"
+        ],
+        "categories": [
+            "Ancient",
+            "Civilization",
+            "Economic",
+            "Negotiation"
+        ],
+        "families": [
+            "Ancient: Babylon",
+            "Ancient: Egypt",
+            "Ancient: Greece",
+            "Ancient: Rome",
+            "Components: Map (Continental / National scale)",
+            "Game: Civilization",
+            "Islands: Crete (Greece)",
+            "Misc: BGG Hall of Fame",
+            "Misc: Dice Tower Hall of Fame",
+            "Players: Games with expansions that change player count",
+            "Region: Aegean Sea",
+            "Region: Mediterranean Sea",
+            "War Level of Command: Grand Strategy"
+        ]
+    }
+}

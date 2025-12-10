@@ -1,0 +1,37 @@
+{
+    "id": 90,
+    "name": "Star Wars: Episode 1 – Clash of the Lightsabers",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "Spewed out amidst the rest of the 'Phantom Menace' merchandise, this little card game from Hasbro actually rises to a decent level for the true Gamer.  The game focuses on the duel between Qui-Gon and Darth Maul.  Players face off in three battles per round trying to beat the other in two out of the three battles.  If you win a round then you score a point on the victory track.  Players have to manage a hand of cards and decide when to press forward and when to concede a battle.<br/><br/>From the box:<br/><br/>Relive the Final Duel in a one-on-one contest of strategy and skill!<br/><br/>It's your turn to determine the fate of Naboo!  Pick who you will be -- Sith Lord Darth Maul or Jedi Master Qui-Gon Jinn -- and duel to the finish!<br/><br/>Hand by hand, round by round, use your Battle Deck to attack and defend. Use strategy. Use skill. Use the Force. Move your figure through thte FInal Duel cards towards victory until the battle is won. Who will be the winner?<br/><br/>Contents<br/><br/><br/>    55 Qui-Gon Jinn Battle Cards<br/>    55 Darth Maul Battle Cards<br/>    5 Qui-Gon Jinn Final Duel Cards<br/>    5 Darth Maul Final Duel Cards<br/>    1 Qui-Gon Jinn Pewter Figure<br/>    1 Darth Maul Pewter Figure<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/bGUi_KpRqipvbGhtsbEKFA__original/img/Oiw7eem4-N_LunqR1AVTYG6UmJY=/0x0/filters:format(jpeg)/pic192632.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/bGUi_KpRqipvbGhtsbEKFA__small/img/zjIU5Og-_KEMrchGHimSxx6LhiU=/fit-in/200x150/filters:strip_icc()/pic192632.jpg",
+    "publishers": [
+        "Hasbro",
+        "Milton Bradley"
+    ],
+    "designers": [
+        "Craig Van Ness"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Card Play Conflict Resolution",
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game",
+            "Movies / TV / Radio theme",
+            "Science Fiction"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Movies: Star Wars",
+            "Players: Two-Player Only Games"
+        ]
+    }
+}

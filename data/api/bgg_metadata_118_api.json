@@ -1,0 +1,81 @@
+{
+    "id": 118,
+    "name": "Modern Art",
+    "yearpublished": "1992",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Buying and selling paintings can be a very lucrative business.  Five different artists have produced a bunch of paintings, and it's the player's task to be both the buyer and the seller, hopefully making a profit in both roles.  He does this by putting a painting from his hand up for auction each turn.  He gets the money if some other player buys it, but must pay the bank if he buys it for himself.  After each round, paintings are valued by the number of paintings of that type that were sold.  The broker with the most cash after four rounds is the winner.<br/><br/>Part of the Knizia auction trilogy.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__original/img/s3Gai8XBTVfWFFlYpL4XF3kIlWU=/0x0/filters:format(png)/pic3458036.png",
+    "thumbnail": "https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__small/img/AUqMholGVlwXLjMcxwiziE_7Ffw=/fit-in/200x150/filters:strip_icc()/pic3458036.png",
+    "publishers": [
+        "Hans im Glück",
+        "Arrakis Games",
+        "CMON Global Limited",
+        "DiceTree Games",
+        "Drosselmeyer & Co. Ltd.",
+        "Fractal Juegos",
+        "Galápagos Jogos",
+        "GeGe Co. Ltd.",
+        "Kaissa Chess & Games",
+        "Land of Beautiful Mind (سرزمین ذهن زیبا)",
+        "Lautapelit.fi",
+        "Lavka Games",
+        "Lighthouse Games",
+        "Matagot",
+        "Mayfair Games",
+        "New Games Order, LLC",
+        "Odysseia Jogos",
+        "Oink Games",
+        "Pegasus Spiele",
+        "Phantasia Co., Ltd",
+        "Rebel Sp. z o.o.",
+        "Wargames Club Publishing",
+        "WoodCat"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Carole Carrion",
+        "Manuel Carvalho",
+        "Chen Cheng-po",
+        "Mike Doyle (I)",
+        "Pete Fenlon",
+        "Gianfranco Giordano",
+        "Paul Laane",
+        "Ramon Martins",
+        "Daniel Melim",
+        "Rafael Silveira",
+        "Sigrid Thaler",
+        "Zeilbeck & Natzeck Design Company"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: English",
+            "Auction: Once Around",
+            "Auction: Sealed Bid",
+            "Auction: Turn Order Until Pass",
+            "Commodity Speculation",
+            "Hand Management",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Card Game",
+            "Economic"
+        ],
+        "families": [
+            "Components: Player Screens",
+            "Misc: Dice Tower Hall of Fame",
+            "Misc: LongPack Games",
+            "Series: 31 Minutos (Fractal Juegos)",
+            "Series: Book Box (DiceTree)",
+            "Theme: Art",
+            "Theme: Fine Art and Art Museums",
+            "Theme: Painting / Paintings"
+        ]
+    }
+}

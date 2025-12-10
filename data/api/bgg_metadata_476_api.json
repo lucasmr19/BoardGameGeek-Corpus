@@ -1,0 +1,35 @@
+{
+    "id": 476,
+    "name": "Mr. President",
+    "yearpublished": "1967",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Part of the 3M Bookshelf Series.<br/><br/>Mr. President is a highly realistic reenactment of the campaign events which lead to the election of the President and Vice-President of the United States.  The two major political parties choose their candidates from a slate of possible nominees, each of whom possesses varying strengths and weaknesses. In their quest for victory, players feel the same frustrations and make the same decisions that confront actual candidates.  Strategies which were intended to sweep a party into office may suddenly require a drastic change of tactics.<br/><br/>Mr. President includes Advanced Play rules covering Nominations, Advertising, Fund-Raising, Debates, and Incumbent Candidates.<br/><br/>In the 2-player game, one player controls the President and Vice President of a party.<br/><br/>In the 4-player game, two teams of candidates for President and Vice-President compete.<br/><br/>The 1967 or later copyright date differentiates this version from the earlier 1965/1966 release by 3M, which is an entirely different game.<br/><br/>NOTE:<br/>There are significant differences between the 1967 version and the 1971 version.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/g5EiMjIvHf-Fb_DOodCgow__original/img/YbtXbTKbgXA2Dm-MxPWt4KJJvsc=/0x0/filters:format(jpeg)/pic18382.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/g5EiMjIvHf-Fb_DOodCgow__small/img/q0oALdW00pvI8jNeHhp-qwPDt84=/fit-in/200x150/filters:strip_icc()/pic18382.jpg",
+    "publishers": [
+        "3M"
+    ],
+    "designers": [
+        "Jack Carmichael"
+    ],
+    "artists": [
+        "(Uncredited)"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game",
+            "Political"
+        ],
+        "families": [
+            "Political: Elections",
+            "Series: 3M Bookshelf Series"
+        ]
+    }
+}

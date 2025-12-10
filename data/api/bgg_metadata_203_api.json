@@ -1,0 +1,34 @@
+{
+    "id": 203,
+    "name": "Skworms",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "6",
+    "description": "&quot;The Worms Crawl In, The Worms Crawl Up Game&quot; <br/>The object of the game is to be the first to get all your worms up the skeleton's bones so they disappear into his skull.<br/><br/>The players divide the worms between themselves, the youngest starts and the oldest gets the brain (a bad thing). On your turn, you spin the spinner to find out what you're allowed to do; this can be: <br/>- hang one of your worms on the skull, <br/>- pull a worm out of the skull and give it to another player, <br/>- give a worm to the player with the brain, <br/>- give/take the brain and spin again, <br/>- feed 1 worm to the skeleton, or <br/>- feed 2 worms to the skeleton.<br/><br/>When feeding worms to the skeleton, you turn the crank and hope your worm(s) will crawl up into the skull--but there's a chance it'll fall right back out into your lap, possibly accompanied by other worms that got stuck during a previous player's turn.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/iCBHd4G3HeJw3u7ghZSFxA__original/img/SdcjkFA3xItQKh8Q0WwiT84ILZU=/0x0/filters:format(png)/pic8297424.png",
+    "thumbnail": "https://cf.geekdo-images.com/iCBHd4G3HeJw3u7ghZSFxA__small/img/DXeHiK4raDudS0vuEpr51YmRMTY=/fit-in/200x150/filters:strip_icc()/pic8297424.png",
+    "publishers": [
+        "Parker Brothers"
+    ],
+    "designers": [
+        "Scott Frisco"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Roll / Spin and Move",
+            "Take That"
+        ],
+        "categories": [
+            "Action / Dexterity",
+            "Children's Game",
+            "Horror"
+        ],
+        "families": [
+            "Animals: Worms"
+        ]
+    }
+}

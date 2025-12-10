@@ -1,0 +1,45 @@
+{
+    "id": 492,
+    "name": "Aladdin's Dragons",
+    "yearpublished": "2000",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "After the immediate response to Richard Breese&#039;s Keydom at Essen 1999, Hans im Glück contracted to take the basic game idea and produce a version of the game.  Aladdin's Dragons, or Morgenland in the original German, is the product of their cooperation.<br/><br/>The game features players putting numbered bidding chips face-down onto the board sequentially.  After the players have placed all of their chips, then each of the areas is resolved.  The bottom part of the board is where players attempt to gather treasure tokens, which is the overall currency of the game.  The middle part of the board features a number of special actions, which help the players cast spells, trade in their resource tokens, or block other players' actions.  The top part of the board is where players use treasure tokens to purchase artifacts, and the player who can collect the most artifacts by the end of the game will be the victor.<br/><br/>Won Games Magazine Game of the Year award in 2001.<br/><br/>Re-implements:<br/><br/>    Keydom<br/><br/><br/>Re-implemented by:<br/><br/>    Aladdin's Dragons (card game version by same name as board game)<br/><br/><br/>Microbadges:    (Buy One)<br/><br/>      Aladdin&#039;s Dragons fan<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/GFgQQ4ZMH8kr3LsGvYHZHw__original/img/aGawfUSiBKA_0TuH0A2k-NaaoeE=/0x0/filters:format(jpeg)/pic143493.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GFgQQ4ZMH8kr3LsGvYHZHw__small/img/Cwelgy3mEzc1hUD5z30pKMuvqtQ=/fit-in/200x150/filters:strip_icc()/pic143493.jpg",
+    "publishers": [
+        "Hans im Glück",
+        "999 Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Richard Breese"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Multiple Lot",
+            "Betting and Bluffing",
+            "Set Collection",
+            "Worker Placement"
+        ],
+        "categories": [
+            "Arabian",
+            "Bluffing",
+            "Fantasy",
+            "Medieval"
+        ],
+        "families": [
+            "Creatures: Dragons",
+            "Folk Tales & Fairy Tales: Aladdin",
+            "Mythology: Arabian",
+            "Region: Middle East"
+        ]
+    }
+}

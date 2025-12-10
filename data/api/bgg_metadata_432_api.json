@@ -1,0 +1,93 @@
+{
+    "id": 432,
+    "name": "Take 5",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "10",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "8",
+    "description": "In 6 nimmt!, a.k.a. Category 5 and many other names, you want to score as few points as possible.<br/><br/>To play the game, you shuffle the 104 number cards, lay out four cards face-up to start the four rows, then deal ten cards to each player. Each turn, players simultaneously choose and reveal a card from their hand, then add the cards to the rows, with cards being placed in ascending order based on their number; specifically, each card is placed in the row that ends with the highest number that's below the card's number. When the sixth card is placed in a row, the owner of that card claims the other five cards and the sixth card becomes the first card in its row.<br/><br/>In addition to a number from 1 to 104, each card has a point value. After finishing ten rounds, players tally their score and see whether the game ends. (Category 5 ends when a player has a score greater than 74, for example, while 6 nimmt! ends when someone tops 66.) When this happens, the player with the fewest points wins!<br/><br/>6 nimmt! works with 2-10 players, and the dynamics of gameplay change the more players that you have. One variant for the game has you use 34 cards, 44 cards, 54 cards, etc. (instead of all 104 cards) when you have three, four, five, etc. players. This change allows you to know which cards are in play, thereby allowing you to track which cards have been played and (theoretically) make better choices as to which card to play when.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/WuOY1XAIJQ-RGAmT_apW_w__original/img/06TSBC2s-cwbxfPmy_pf7n5p-jM=/0x0/filters:format(jpeg)/pic8632998.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/WuOY1XAIJQ-RGAmT_apW_w__small/img/dhNHd8Ztln_lUFAdti6WkPnGTGg=/fit-in/200x150/filters:strip_icc()/pic8632998.jpg",
+    "publishers": [
+        "AMIGO",
+        "999 Games",
+        "Albi",
+        "asmodee",
+        "Brain Games",
+        "Broadway Toys LTD",
+        "Bureau de Juegos",
+        "Buró",
+        "Carletto",
+        "Copag Cards (Copag)",
+        "Dal Negro",
+        "Dr. Wood Challenge Centre",
+        "Endless Games (I)",
+        "Fractal Juegos",
+        "G3",
+        "Gigamic",
+        "Giochi Uniti",
+        "Hasbro",
+        "Kaissa Chess & Games",
+        "Kärnan",
+        "Kikigagne?",
+        "Korea Boardgames",
+        "Land of Beautiful Mind (سرزمین ذهن زیبا)",
+        "Lanlalen",
+        "Last Level",
+        "Lautapelit.fi",
+        "Lifestyle Boardgames Ltd",
+        "Mar Lúdico",
+        "Max Bersinger",
+        "Mayfair Games",
+        "Mercurio",
+        "Midgaard Games",
+        "MIPL",
+        "Möbius Games",
+        "Nelospelit",
+        "Pando Games",
+        "Paper Iyagi",
+        "Piatnik",
+        "Rebel Sp. z o.o.",
+        "Shafir Games (המשחקים של חיים שפיר)",
+        "Swan Panasia Co., Ltd.",
+        "Tempo Games (I)",
+        "U.S. Games Systems, Inc.",
+        "VR Distribution"
+    ],
+    "designers": [
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Timur Baskakov",
+        "Design Edge",
+        "Oliver Freudenreich",
+        "Bill Herrin",
+        "Gatis Sluka",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Score-and-Reset Game",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Card Game",
+            "Number",
+            "Party Game"
+        ],
+        "families": [
+            "Animals: Cattle / Cows",
+            "Containers: Tin/Metal Box",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: BrettspielWelt",
+            "Game: 6 nimmt!",
+            "Misc: Dice Tower Hall of Fame",
+            "Misc: LongPack Games",
+            "Misc: Lowest Score Wins",
+            "Misc: Mensa Select"
+        ]
+    }
+}

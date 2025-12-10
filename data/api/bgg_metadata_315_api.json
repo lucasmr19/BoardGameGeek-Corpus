@@ -1,0 +1,62 @@
+{
+    "id": 315,
+    "name": "Bagh Chal",
+    "yearpublished": "1000",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "20",
+    "maxplaytime": "20",
+    "age": "8",
+    "description": "Bagh Chal is a traditional abstract game that is popular in Nepal. The name roughly translates to &quot;Tigers Moving&quot;. It is an abstract strategy game with an asymmetric setup, i.e. a different number of pieces per side (like Hnefatafl and its ilk). One opponent plays four tiger pieces and the other plays twenty goats.<br/><br/>The board bears a passing resemblance to a Chinese Chess board in that the pieces move along lines from intersection to intersection. However, the gameplay is more similar to Alquerque, Checkers or Draughts. At the start of the game, there are four tigers on the board while there are no goats. The goat player places his/her pieces on the board one by one wherever they choose, with the tiger player getting a move between each placing. Once all the goats are on the board, the two players take turns moving one of their pieces one space. A tiger can alternatively capture a single goat by jumping over it in a line  to an empty space. The tigers win if they can capture five goats. The goal for the goats (who cannot make captures) is to hem the tigers in, giving them no opportunity to move or jump.<br/><br/>It is one variant from a family of similar Asian games played with varying numbers of tigers/leopards/goats/cows/etc and varying board topologies.<br/>See also Cows and Leopards and Fox and Geese.<br/><br/>Games played on exactly the same board layout (same lines connecting the intersections and same size) include the traditional Spanish Alquerque and Fanoron-Dimy, the smaller variant of Fanorona from Madagascar. See the according image galleries of these games.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/GDB5d5rg5VKQwnjrd0sHNw__original/img/H_G_7foBXJaLu_fXjwMmGJwaomM=/0x0/filters:format(jpeg)/pic49485.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GDB5d5rg5VKQwnjrd0sHNw__small/img/Jk_wJlcUM5gWAZL6S3YMhCm5rlo=/fit-in/200x150/filters:strip_icc()/pic49485.jpg",
+    "publishers": [
+        "(Public Domain)",
+        "A Toi De Jouhet",
+        "Adrenaline Brush Ltd",
+        "Association for Craft Producers",
+        "Creative Crafthouse",
+        "Geoludie",
+        "Krealudik",
+        "L. P. Septímio",
+        "Lemery Games",
+        "La Mèche Rebelle Editions",
+        "Mitra",
+        "NewVenture Games",
+        "Oficina do Aprendiz",
+        "Origem",
+        "Pressman Toy Corp.",
+        "World on Wheels"
+    ],
+    "designers": [
+        "(Uncredited)"
+    ],
+    "artists": [
+        "Ivett Perlaky",
+        "Julien Torsat",
+        "Lívia Varga"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Animals: Goats",
+            "Animals: Tigers",
+            "Category: Combinatorial",
+            "Components: 5 x 5 Grids",
+            "Containers: Drawstring Bag",
+            "Digital Implementations: igGameCenter",
+            "Digital Implementations: Tabletopia",
+            "Digital Implementations: VASSAL",
+            "Mechanism: Hunt",
+            "Players: Two-Player Only Games",
+            "Series: LUDOS Asia (Lemery Games)",
+            "Traditional Games: Alquerque / Fanorona (Indian War Games)"
+        ]
+    }
+}

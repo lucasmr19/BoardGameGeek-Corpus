@@ -1,0 +1,48 @@
+{
+    "id": 162,
+    "name": "The Awful Green Things From Outer Space",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "60",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "This humorous, entertaining game pits two players against each other aboard a spaceship.  One plays the ship's crew, trying to kill the evil and rapidly multiplying aliens controlled by his opponent.  And although the crew members have several weapons available to them, they don't know what effect those weapons will have until they try using them in combat against the Awful Green Things. Originally appeared in the Dragon magazine #28.  The Outside the Znutar expansion, published in Dragon magazine #40, is included in the box in the Steve Jackson Games versions of the game.<br/><br/>Similar but more serious titles are SPI's The Wreck of the B.S.M. Pandora or TFG's Intruder.<br/><br/>Supplemental articles were published in TSR's Dragon Magazine including:<br/><br/>&quot;The Awful Green Things From Outer Space&quot; Tom Wham - Issue 28 (page 26) <br/>Addenda &quot;Outside the Znutar&quot; Tom Wham - Issue 40 (insert)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/P064U4bvkFbCeLVCELGOdQ__original/img/D4zu2vKGUA9FiQH-6vxsydAABZs=/0x0/filters:format(jpeg)/pic949958.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/P064U4bvkFbCeLVCELGOdQ__small/img/W-WR4WGP0EaFYR7CVl6PmXE_zAo=/fit-in/200x150/filters:strip_icc()/pic949958.jpg",
+    "publishers": [
+        "Grow Jogos e Brinquedos",
+        "Steve Jackson Games",
+        "Tactical Studies Rules (TSR)"
+    ],
+    "designers": [
+        "Tom Wham"
+    ],
+    "artists": [
+        "Carl Anderson",
+        "Jeffrey D. George",
+        "Beverly Hale",
+        "Tom Wham"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling",
+            "Movement Points",
+            "Simulation",
+            "Variable Player Powers",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Science Fiction",
+            "Wargame"
+        ],
+        "families": [
+            "Containers: Video Tape Boxes",
+            "Creatures: Aliens / Extraterrestrials",
+            "Magazine: Dragon",
+            "Players: Two-Player Only Games",
+            "Series: Pocket Box (Steve Jackson Games)"
+        ]
+    }
+}

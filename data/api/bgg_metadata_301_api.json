@@ -1,0 +1,39 @@
+{
+    "id": 301,
+    "name": "Campanile",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Very nice combination of tile placement and betting. Players lay long tiles to build 5 towers taller and taller, whilst betting on which will be the tallest to shortest. The trick is that when you lay a tile to raise a tower one, two or three stories tall, this controls how much you can bet (1,2 or 3 tokens) and crucially, which draw pile you take from (pile 1, 2 or 3). Since the draw piles are face-up, I might want to draw from pile 3 to get a tile which will boost a tower I've bet on, but that means I have to lay a card three stories, and so I might have to play a tile from my hand that helps the other players! A very nice mechanism which gives those simple, frustrating choices we all enjoy. The scoring gives points to the first and second majority backers on each tower.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/uX11J2JenL9xTl4v7H0UJQ__original/img/L1_NUjgsMqWqoW8Pfr5M0GDmJkQ=/0x0/filters:format(jpeg)/pic578060.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uX11J2JenL9xTl4v7H0UJQ__small/img/KiAdxffTQGrd2DfUdljDhe-IZps=/fit-in/200x150/filters:strip_icc()/pic578060.jpg",
+    "publishers": [
+        "Blatz",
+        "DDD Verlag GmbH"
+    ],
+    "designers": [
+        "Hanno Kuhn",
+        "Wilfried Kuhn"
+    ],
+    "artists": [
+        "Angus Gray-Burbridge",
+        "Katharina Kubisch"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Betting and Bluffing",
+            "Hand Management",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Series: DDD Verlag Small Box Games"
+        ]
+    }
+}

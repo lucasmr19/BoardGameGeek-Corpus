@@ -1,0 +1,34 @@
+{
+    "id": 107,
+    "name": "Peaceful Resistance",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "3",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "0",
+    "description": "This small-publisher game comes with loads of wooden hex-shaped tiles, a hex board, and three pawns.  The object of the game is to move your pawn from one corner of the hex board to the opposite corner.  However, instead of taking your move, you can place a hex tile on the board.  These are used to block your opponent, because while your pawn can always go down any number of hex tiles, it can only step up one level at a time.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ldkZLe9PAaal_nwJAfKW5g__original/img/sCYmlDF0zKVcMwTrqIY6BUbEzMw=/0x0/filters:format(jpeg)/pic162080.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ldkZLe9PAaal_nwJAfKW5g__small/img/8Y57U3ryI6O0nl4fD5BKg2N2WE0=/fit-in/200x150/filters:strip_icc()/pic162080.jpg",
+    "publishers": [
+        "D&R Games"
+    ],
+    "designers": [
+        "Dave Thornburg"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Grid Movement",
+            "Hexagon Grid",
+            "Three Dimensional Movement",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Components: HexHex7 Grids"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 388,
+    "name": "Finale",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Another game in Kosmos two-player series, this game casts players as soccer (football) coaches on opposite teams.  Players use special square cards to represent the players they have in each of the positions: strikers, mid-fielders, defenders, and goalies.  Each turn, one of the two players will be the offense based on a simultaneous selection of cards from their respective play books.  Then players allocate their players to the current play, which rotates the used players.  A player card has a number of soccer balls on each edge, which tells how many skill points the player will contribute to a given play, and using the player (thusly rotating him) might actually weaken him for the next use.<br/><br/>Re-implemented as:<br/><br/>    Tooor!<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/iSyd9cmtC70aGSJMTLoGDQ__original/img/zni4rls-r4AMY50YiIL0QCHb_G8=/0x0/filters:format(jpeg)/pic184182.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iSyd9cmtC70aGSJMTLoGDQ__small/img/pMAwS0_aHKOmz8yjkWLp5CROBgQ=/fit-in/200x150/filters:strip_icc()/pic184182.jpg",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Oliver Abendroth"
+    ],
+    "artists": [
+        "Marion Pott"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game",
+            "Sports"
+        ],
+        "families": [
+            "Components: 5 x 7 Grids",
+            "Players: Two-Player Only Games",
+            "Series: Two-player games (Kosmos)",
+            "Sports: Football / Soccer"
+        ]
+    }
+}

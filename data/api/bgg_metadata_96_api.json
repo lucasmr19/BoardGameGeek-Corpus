@@ -1,0 +1,41 @@
+{
+    "id": 96,
+    "name": "Broadsides & Boarding Parties",
+    "yearpublished": "1982",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Broadsides and Boarding Parties was the first title in Milton Bradley&#039;s Gamemaster series of games.  It is a light tactical war game during the age of sail where two ships face off against one another on the sea.  There are basically two layers to the game, the broadsides portion in which players plot their movement with a deck of cards, attempting to maneuver their ships in such a way that they can fire a volley of cannon balls at the opponent while minimizing the risk of return fire.<br/><br/>The second layer of the game begins when the movement of ships results in them bumping into one another.  In these instances the Boarding Parties portion comes into play.  Here players line up their ships next to one another and attempt to storm the other ship and kill the opposing captain.  Players can only move a limited amount of their units each turn and so some planning is required to hem in the opposing captain.<br/><br/>The components for the game are quite elaborate.  Each player is given a fully detailed plastic ship about a foot long with removable masts.  Also, each player is given a whole crew of little plastic pirate figures, cannon, and captain.  Lastly the board is full color and styled in the period.<br/><br/><br/>Note that the first edition was published in 1982 by Larry Harris, Jr. (Citadel Game Systems) and came in a box similar in size to the Games Workshop Ltd. or The Avalon Hill Game Co games.  There are no elaborate plastic ships, cannons or playing pieces in the original edition, though.  You get paper maps and cardboard counters.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/92yhg_m_GRgyk4kDHYJHwA__original/img/v61mlN4a095k7QID9KuNl_BduUY=/0x0/filters:format(jpeg)/pic1021646.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/92yhg_m_GRgyk4kDHYJHwA__small/img/6hCeghL4a2cLQVu9usDK1u_XogE=/fit-in/200x150/filters:strip_icc()/pic1021646.jpg",
+    "publishers": [
+        "Citadel's Game Series (CGS)",
+        "Milton Bradley"
+    ],
+    "designers": [
+        "Larry Harris, Jr."
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Action Queue",
+            "Dice Rolling",
+            "Grid Movement",
+            "Hand Management",
+            "Point to Point Movement",
+            "Square Grid"
+        ],
+        "categories": [
+            "Nautical",
+            "Pirates",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Miniatures",
+            "Players: Two-Player Only Games",
+            "Series: Gamemaster (Milton Bradley)"
+        ]
+    }
+}

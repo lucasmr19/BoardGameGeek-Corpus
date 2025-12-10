@@ -1,0 +1,39 @@
+{
+    "id": 27,
+    "name": "Supremacy: The Game of the Superpowers",
+    "yearpublished": "1984",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "300",
+    "age": "12",
+    "description": "Supremacy pits conventional superpowers against one another for control of the earth.  Along the lines of modern warfare Risk, only with an integrated supply/demand economic system.  Warfare comes in all forms from conventional, biological, chemical and all the way to nuclear.  Neat little plastic mushroom clouds are included to show where regions of the earth have been blasted, and if nuclear winter occurs, all players lose.  The game also spawned a great many supplements to expand the game further.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/DEX9Es2Bh_SoByJDo6q5zQ__original/img/aMAloVD05yHWIsTEFfobzkEPxX4=/0x0/filters:format(jpeg)/pic368339.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DEX9Es2Bh_SoByJDo6q5zQ__small/img/8tkqu7P4vy1da735dGPY2xE8gXg=/fit-in/200x150/filters:strip_icc()/pic368339.jpg",
+    "publishers": [
+        "Supremacy Games",
+        "Descartes Editeur",
+        "Grow Jogos e Brinquedos"
+    ],
+    "designers": [
+        "Robert J. Simpson"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Commodity Speculation",
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Economic",
+            "Modern Warfare",
+            "Political",
+            "Wargame"
+        ],
+        "families": [
+            "Components: Map (Global Scale)",
+            "Game: Supremacy",
+            "Theme: Nuclear option"
+        ]
+    }
+}

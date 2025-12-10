@@ -1,0 +1,72 @@
+{
+    "id": 327,
+    "name": "Loopin' Louie",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "10",
+    "maxplaytime": "10",
+    "age": "4",
+    "description": "In Loopin' Louie, a battery-powered motor placed in the center of the table rotates a boom with a little plastic plane. Four radial arms lead out to the players' barns and the chickens they're trying to protect. Each barn has a little lever, which is used to knock the rotating plane away from your chickens and hopefully into someone else's. When only one player has chickens remaining, he or she wins the game. Very silly and very addictive.<br/><br/>Extremely similar versions of the game, but with different themes, are available.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/e9CWevSJC03NzLybnCKEVQ__original/img/FZ8ti8jTLQPuHuQHWDt0hE6YHDs=/0x0/filters:format(png)/pic4025029.png",
+    "thumbnail": "https://cf.geekdo-images.com/e9CWevSJC03NzLybnCKEVQ__small/img/vQZYNWt9xSZez7NCoMB5Lz9yBdY=/fit-in/200x150/filters:strip_icc()/pic4025029.png",
+    "publishers": [
+        "Milton Bradley",
+        "Arclight Games",
+        "Bandai Co., Ltd.",
+        "Broadway Toys LTD",
+        "The Canadian Group",
+        "Cranio Creations",
+        "Crown Products",
+        "Editrice Giochi",
+        "Goliath Games",
+        "Hanayama",
+        "Hasbro",
+        "Ideal",
+        "Ideal Games (I)",
+        "K.E. Mathiasen A/S",
+        "Kod Kod",
+        "Korea Boardgames",
+        "Lanlalen",
+        "Lifestyle Boardgames Ltd",
+        "Longshore Limited",
+        "MB Giochi",
+        "MB Jeux",
+        "MB Juegos",
+        "MB spel",
+        "MB Spellen",
+        "MB Spiele",
+        "Piatnik",
+        "Reflexshop",
+        "Spin Master Ltd.",
+        "Tactic",
+        "Zito! Ώρα για παιχνίδι"
+    ],
+    "designers": [
+        "Masaru Aoki",
+        "Carol Wiseley"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Player Elimination",
+            "Real-Time"
+        ],
+        "categories": [
+            "Action / Dexterity",
+            "Animals",
+            "Aviation / Flight",
+            "Children's Game",
+            "Electronic",
+            "Movies / TV / Radio theme",
+            "Real-time"
+        ],
+        "families": [
+            "Animals: Chickens / Roosters",
+            "Brands: Disney",
+            "Movies: Pixar",
+            "Movies: Toy Story",
+            "Occupation: Aviator"
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "id": 158,
+    "name": "Elfengold",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "10",
+    "description": "This is an expansion for Elfenland, not to be confused with the stand-alone game of the same title (Elfengold) published by Alan Moon&#039;s now-defunct White Wind game company. Elfengold adds an entire economic aspect to the game, which makes it much more similar to its Elfenroads predecessor. Players bid against one another to purchase the transportation tiles that are available each turn. To generate the gold for these purchases, players must make a choice each turn to either take gold or more cards. This can be a very difficult decision as tiles are useless without cards, and vice versa.<br/><br/>As is becoming normal, this expansion was released shortly after Elfenland won Spiel des Jahres.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/wq7xy0wZbg2CpdS18UId2A__original/img/T5pI57piiVZvxLrXQ7s8wPt3POM=/0x0/filters:format(jpeg)/pic256532.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/wq7xy0wZbg2CpdS18UId2A__small/img/g6sxXmUVsxuEOsyfnCioTvYfuM0=/fit-in/200x150/filters:strip_icc()/pic256532.jpg",
+    "publishers": [
+        "999 Games",
+        "AMIGO"
+    ],
+    "designers": [
+        "Alan R. Moon"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Hand Management",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Expansion for Base-game",
+            "Fantasy",
+            "Transportation"
+        ],
+        "families": [
+            "Creatures: Fairies / Elves / Pixies",
+            "Game: Elfenroads"
+        ]
+    }
+}

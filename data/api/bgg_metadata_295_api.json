@@ -1,0 +1,37 @@
+{
+    "id": 295,
+    "name": "Europa 1945-2030",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "This game details the creation and expansion of the European Union in the years following World War II.  Players are represented by a group of EU delegates that travels across the many different countries of Europe.  When a country's threshold of resistance is equalled by the number of delegates, the country is eligible to enter the Union, assuming the players can come to an agreement.  Additionally as the game progresses, various countries have an increasing potential to fall into armed conflict, which the players must avert should they wish to retain their good standing.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/YFA5xM_4VAHnJHg2XkAeiQ__original/img/bk-ZthwMT1PsZ8cA_vuBVZ-XN24=/0x0/filters:format(jpeg)/pic431972.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YFA5xM_4VAHnJHg2XkAeiQ__small/img/8ccbJIjZAr18SalF9oKXfnBXdBc=/fit-in/200x150/filters:strip_icc()/pic431972.jpg",
+    "publishers": [
+        "Descartes Editeur",
+        "Eurogames"
+    ],
+    "designers": [
+        "Leo Colovini",
+        "Duccio Vitale"
+    ],
+    "artists": [
+        "Atelier Patrice Larue",
+        "Pascal Trigaux"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Voting"
+        ],
+        "categories": [
+            "Negotiation",
+            "Political"
+        ],
+        "families": [
+            "Continents: Europe"
+        ]
+    }
+}

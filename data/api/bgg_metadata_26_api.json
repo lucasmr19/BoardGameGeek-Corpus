@@ -1,0 +1,41 @@
+{
+    "id": 26,
+    "name": "Age of Renaissance",
+    "yearpublished": "1996",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "300",
+    "age": "12",
+    "description": "A game that is often described as a semi-sequel to Civilization.<br/><br/>Players attempt to build up their cultures during the Middle Ages and Renaissance periods. The game features a card deck that holds events, payout cards, and famous leaders of the particular eras. Although all cards will turn up somewhere during the game, the timing and position in which they will be played is crucial and will ensure a different game every time.<br/><br/>The main goal of each city-state is to gain points in the form of technical advances, while keeping their culture's misery level as low as possible. The payout structure is similar to those of Civilization and Advanced Civilization in that more resources of the same type yield increasingly higher payouts. This time particular payouts are triggered by card play for every player at once. An ingenious and very smooth working &ldquo;combat&rdquo; system is implemented to determine province &ndash; and thus resource - control.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/hNg-cufowH-csaTfzC_nPw__original/img/FXsJRqYH2tFltJrLqSlWdoZaJs8=/0x0/filters:format(jpeg)/pic5682587.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hNg-cufowH-csaTfzC_nPw__small/img/M3hGcwq2PbwUmWE8anROZLBckKc=/fit-in/200x150/filters:strip_icc()/pic5682587.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Descartes Editeur"
+    ],
+    "designers": [
+        "Don Greenwood",
+        "Jared Scarborough"
+    ],
+    "artists": [
+        "Stephen Langmead",
+        "Kurt Miller"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Auction / Bidding",
+            "Simulation"
+        ],
+        "categories": [
+            "Civilization",
+            "Economic",
+            "Medieval",
+            "Renaissance"
+        ],
+        "families": [
+            "Continents: Europe"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "id": 220,
+    "name": "High Society",
+    "yearpublished": "1995",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "15",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "In Reiner Knizia&#039;s High Society, players bid against each other to acquire the various trappings of wealth (positive-number and multiplier cards) while avoiding its pitfalls (negative number and divisor cards).  While bidding, though, keep an eye on your remaining cash - at the end of the game, even though all those positive-number cards might add up to a win, the player with the least money isn't even considered for victory.<br/><br/><br/>In 2003 re-published by Überplay.<br/><br/>In 2003 published with a new theme by Amigo as Einfach Tierisch.<br/><br/>In 2006, published by University Games as Animalement V&ocirc;tre (French version) and Beestenveiling (Dutch version).<br/><br/>In 2008, re-published by Eagle-Gryphon Games<br/><br/>In 2018, re-published by Osprey Games<br/><br/>",
+    "image": "https://cf.geekdo-images.com/_3wm5Ikl8NtF6oTQ5KT-1g__original/img/Dv5M1RcWQ6UEZyd2eAey-OfSsrU=/0x0/filters:format(jpeg)/pic3894197.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_3wm5Ikl8NtF6oTQ5KT-1g__small/img/m5NSJT2r-BoSXYt9d1wQGT4dbUA=/fit-in/200x150/filters:strip_icc()/pic3894197.jpg",
+    "publishers": [
+        "Ravensburger",
+        "Across the Board",
+        "AMIGO",
+        "Eagle-Gryphon Games",
+        "FoxGames",
+        "GaGa Games",
+        "Gemblo Company",
+        "Kanga Games",
+        "Meeple King",
+        "Muduko",
+        "New Games Order, LLC",
+        "Nova Era (Нова Ера)",
+        "OPEN'N PLAY",
+        "Origames",
+        "Osprey Games",
+        "Popcorn Games",
+        "SD Games",
+        "Studio Supernova",
+        "Swan Panasia Co., Ltd.",
+        "Überplay",
+        "University Games",
+        "Wargames Club Publishing"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Mateusz Bielski",
+        "Medusa Dollmaker",
+        "Wesly Gibs",
+        "Dahee Lee",
+        "Alvin Madden",
+        "Yusuke Mamada",
+        "Ulf Marckwort",
+        "Paul Niemeyer",
+        "Björn Pertoft",
+        "Piotr Sokołowski",
+        "Rolf Vogt",
+        "Markus Wagner"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Turn Order Until Pass",
+            "Constrained Bidding",
+            "Hand Management"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Series: Bookshelf (Gryphon Games)",
+            "Theme: Art style – Art Nouveau"
+        ]
+    }
+}

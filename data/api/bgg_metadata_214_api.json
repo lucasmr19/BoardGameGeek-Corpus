@@ -1,0 +1,45 @@
+{
+    "id": 214,
+    "name": "Café International",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "This game revolves around the placement of multi-national customers in a restaurant. The board shows many different tables, each with four chairs around them. The tables are grouped by nation, so the Chinese like to sit with other Chinese. However, some of the chairs are on the border between two nations, so a person from either place could occupy the seat. To further complicate this odd tile game, each of the people is either male or female, and tables must be gender-balanced.  As the game progresses some tiles become unplayable...<br/><br/>",
+    "image": "https://cf.geekdo-images.com/VieUvCI62VUhQ9C4agum3A__original/img/qzA2t0vjkwoGm5yaTBog1ZmewS0=/0x0/filters:format(png)/pic3987975.png",
+    "thumbnail": "https://cf.geekdo-images.com/VieUvCI62VUhQ9C4agum3A__small/img/dZ4v6yOOU5E-oPFK0UbqBGoXyzU=/fit-in/200x150/filters:strip_icc()/pic3987975.png",
+    "publishers": [
+        "AMIGO",
+        "Kaissa Chess & Games",
+        "Leo Toys",
+        "Mattel, Inc.",
+        "Relaxx",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd."
+    ],
+    "designers": [
+        "Rudi Hoffmann"
+    ],
+    "artists": [
+        "Oliver Freudenreich",
+        "J. W. Thompson"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Pattern Building",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Components: 13 x 13 Grids",
+            "Digital Implementations: BrettspielWelt",
+            "Game: Café International",
+            "Theme: Restaurant - Café"
+        ]
+    }
+}

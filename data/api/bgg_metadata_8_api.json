@@ -1,0 +1,33 @@
+{
+    "id": 8,
+    "name": "Lords of Creation",
+    "yearpublished": "1993",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "In this interesting offering from Warfrog, players become Gods seeking to dominate a world with their followers.  The first part of the game involves constructing the game board, after which players take turns using cards to determine how many new people should appear and what type of terrain they will inhabit.  All tribes start off as barbarians, but soon the calming effect of civilization settles the marauding bands; although civilized tribes score more, they can no longer attack.  What they can do, though, is civilize other players' followers.  Sure it gives opponents more points, but at least those followers won't come after you!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/-pwShxFPJWrxye8o193e-w__original/img/QVz5wc68n_jsB3OcsANsZdZLpw0=/0x0/filters:format(jpeg)/pic374320.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-pwShxFPJWrxye8o193e-w__small/img/yu4YwhAZrZdjo4xTTu2cdpc-nlA=/fit-in/200x150/filters:strip_icc()/pic374320.jpg",
+    "publishers": [
+        "Vendetta",
+        "Warfrog Games"
+    ],
+    "designers": [
+        "Martin Wallace"
+    ],
+    "artists": [
+        "Bryan King"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Modular Board"
+        ],
+        "categories": [
+            "Civilization",
+            "Fantasy"
+        ],
+        "families": []
+    }
+}

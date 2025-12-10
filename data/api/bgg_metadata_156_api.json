@@ -1,0 +1,40 @@
+{
+    "id": 156,
+    "name": "Wildlife Adventure",
+    "yearpublished": "1985",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "In Wildlife Adventure, players guide expeditions around the world to locate endangered species. Each player gets to extend one expedition on their turn, and travel vouchers allow the player to make extra moves, place obstacles, or change their mission. The game ends when one player locates all of his animals.<br/><br/>Reimplemented as<br/><br/><br/>     Expeditions: Around the World<br/>     Schatzsucher (children's version)<br/>     Expedition: Famous Explorers<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/5K6nKzyg5H9qJMz5tLNEEA__original/img/lX9ks4ulIZbzSTB_9cbktaJ1mVE=/0x0/filters:format(jpeg)/pic7096.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/5K6nKzyg5H9qJMz5tLNEEA__small/img/05d6bP0SUBLTMPnbjPqxbLRQk6A=/fit-in/200x150/filters:strip_icc()/pic7096.jpg",
+    "publishers": [
+        "Imago",
+        "Otto Maier Verlag",
+        "Ravensburger"
+    ],
+    "designers": [
+        "Wolfgang Kramer",
+        "Ursula Kramer"
+    ],
+    "artists": [
+        "Gerhard Schmid"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Network and Route Building",
+            "Point to Point Movement"
+        ],
+        "categories": [
+            "Animals",
+            "Exploration",
+            "Transportation"
+        ],
+        "families": [
+            "Theme: Endangered / Extinct species",
+            "Theme: Safaris"
+        ]
+    }
+}

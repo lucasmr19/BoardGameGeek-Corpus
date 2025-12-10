@@ -1,0 +1,76 @@
+{
+    "id": 54,
+    "name": "Tikal",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "10",
+    "description": "Tikal is a game of exploration within the Central American jungles in search of lost temples and the treasures within. Players send their team of explorers into the jungle, exposing more and more of the terrain.  Along the way, you find temples that require further uncovering and treasures.  Players attempt to score points for occupying temples and holding onto treasure.<br/><br/>Tikal is the first game of the Mask Trilogy.<br/><br/>Sequel:<br/><br/>     Tikal II: The Lost Temple<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/ajU3xzGDUKihjNdvjCR1Hw__original/img/6dCgK1EESbk9GNuCiwQ4XiqIW3Y=/0x0/filters:format(jpeg)/pic3328391.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ajU3xzGDUKihjNdvjCR1Hw__small/img/pXR57sUMEJ-GJydf-yyAu0ZLgZw=/fit-in/200x150/filters:strip_icc()/pic3328391.jpg",
+    "publishers": [
+        "Ravensburger",
+        "Super Meeple",
+        "ABACUSSPIELE",
+        "CMON Global Limited",
+        "Conclave Editora",
+        "DV Games",
+        "Egmont Polska",
+        "Gém Klub Kft.",
+        "Hobby Game Mall",
+        "Keep Exploring Games",
+        "Maldito Games",
+        "Rio Grande Games",
+        "Siam Board Games",
+        "YOKA Games",
+        "Zvezda"
+    ],
+    "designers": [
+        "Michael Kiesling",
+        "Wolfgang Kramer"
+    ],
+    "artists": [
+        "Mariusz Gandzel",
+        "Paul Mafayon",
+        "Christophe Swal",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Action Points",
+            "Area Majority / Influence",
+            "Auction / Bidding",
+            "Events",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Kill Steal",
+            "Layering",
+            "Map Addition",
+            "Modular Board",
+            "Set Collection",
+            "Tile Placement",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "Adventure",
+            "Ancient",
+            "Exploration",
+            "Territory Building"
+        ],
+        "families": [
+            "Country: Guatemala",
+            "Crowdfunding: Spieleschmiede",
+            "Digital Implementations: Board Game Arena",
+            "Misc: Dice Tower Hall of Fame",
+            "Promotional: Board Games",
+            "Series: The Mask Trilogy (Kramer / Kiesling)",
+            "Theme: Archaeology / Paleontology",
+            "Theme: Mayans",
+            "Theme: Native Americans / First Peoples",
+            "Theme: Temple",
+            "Theme: Tropical"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": 305,
+    "name": "Der Fliegende Holländer",
+    "yearpublished": "1992",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Early Klaus Teuber game with a well deserved reputation, from a publisher better known for electronic games! The odd combination of mechanisms is a bit tricky to grasp at first, but soon reveals a nice contest. There are various ships in different colors marked on the board and players are dealt 3 random cards to show a share in three of the ships. Also on the board are treasure chests with rising values, and colored markers for each ship move from chest to chest, showing the worth of that vessel. Players begin with cash, 3 Smithy &amp; 3 Trade card, and some lucky horseshoes that they keep on a rack hidden from the other players. These are variously numbered and two dice are rolled at each turn to provide the lucky number.<br/><br/>As the Flying Dutchman sails the seven seas, it can either move onto islands or the ships. If it is moved onto a ship, players reveal if they are share holders and pay the current value back to the bank as its marker is moved down to zero. On your turn, you can opt to use your Trade card to exchange 2 of your share cards, effectively dodging the Dutchman's threat. Or you can play a Smithy card, to allow you to take horseshoes at the end of the turn. But mainly you can attempt to control the Dutchman's move, by secretly laying down horseshoes to match the lucky number, the closest winning control. A nice rule, if there's a tie, the players are meant to try to agree, then barter, and finally compete with more horseshoes (all to the benefit of the Smithy card players!). Played horseshoes are pooled until Smithies divy them up.<br/><br/>If the Dutchman is moved to an island, the controlling players reveal a share card and take the value of that ship from the bank. The round ends with all the chest markers moving up once, including a black marker, which ends the game when it reaches the highest chest. Players reveal their share cards and take the final value on the chests, most money wins.<br/><br/>Puzzling to begin with, but you quickly realize whether your shares are under threat from a Dutchman's move, so you either trade out or try to gain control. If you're not under threat, it may be worth use your Smithy to grab the pool of horseshoes. Get your timing right and the whole thing becomes very rewarding. Simple choices, not perfectly balanced, but the players at times co-operate or struggle, making for an entertaining voyage.<br/><br/>Winner of the 1992 Deutscher Spiele Preis.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/x5JRP9Y_BaG-4vq2PJw-Dw__original/img/UFnpyTSbXhJ0AatoFc0t3er9d5E=/0x0/filters:format(jpeg)/pic2042135.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/x5JRP9Y_BaG-4vq2PJw-Dw__small/img/NO7cG5U2VP8LBYtfIBYlKNrMBgs=/fit-in/200x150/filters:strip_icc()/pic2042135.jpg",
+    "publishers": [
+        "Bandai Co., Ltd.",
+        "Huki",
+        "New Games Order, LLC",
+        "Parker Brothers",
+        "Parker Spiele"
+    ],
+    "designers": [
+        "Klaus Teuber"
+    ],
+    "artists": [
+        "Yusuke Mamada",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Stock Holding",
+            "Trading"
+        ],
+        "categories": [
+            "Bluffing",
+            "Nautical"
+        ],
+        "families": []
+    }
+}

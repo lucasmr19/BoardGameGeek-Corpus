@@ -1,0 +1,35 @@
+{
+    "id": 495,
+    "name": "Time Pirates",
+    "yearpublished": "2000",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "10",
+    "description": "Players are skipping through time to steal various artifacts from ancient civilizations. Each of the time periods have only two pathways, so travel is somewhat limited. When in an era, you can refill the tiles, collect tiles, or move on. However, the Time Police are also patrolling the time periods. If the Time Police catch you, they'll steal all the tiles of your largest collection of artifacts! After three rounds of collection, the player with the best collection wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/U4U2ccEcV31ngM4GUVmvZw__original/img/Euc_NKNk6ixhSkH-aGQr3AbkgYQ=/0x0/filters:format(jpeg)/pic72230.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/U4U2ccEcV31ngM4GUVmvZw__small/img/xJMSpvkzAmooikaYUi1W2mqwkkw=/fit-in/200x150/filters:strip_icc()/pic72230.jpg",
+    "publishers": [
+        "Piatnik",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Alan R. Moon",
+        "Aaron Weissblum"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection"
+        ],
+        "categories": [
+            "Pirates"
+        ],
+        "families": [
+            "Theme: Time Travel"
+        ]
+    }
+}

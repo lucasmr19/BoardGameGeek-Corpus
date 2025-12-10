@@ -1,0 +1,40 @@
+{
+    "id": 79,
+    "name": "MedFront: War in North Africa 1940-43",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "MedFront details the conflict between the Allies and Germany during WWII from 1940-43, as well as the Spanish Civil War from 1936-39. Players have to contend with production, supply, command control and the weather to break the other side's lines and achieve victory.  The game comes with a fantastic detailed map of Spain and North Africa printed on card and many wooden blocks for the units. This is just one portion of the complete EuroFront series, which covers the entire European conflict of WWII.<br/><br/>This title uses Columbia Games Block system.  While there are variations in the rule sets, all of their games are based on the block system.  Basically this means that rather than using the traditional  counters to represent units on the map the game uses wooden blocks that stand upright with unit details only shown on one side.  This does two things:  First it provides an easy way of producing a &quot;fog of war&quot; because your opponent can not tell, save through good memory, what type of unit a specific piece is or its current strength.  Second, having the blocks stand on end allows the possibility of rotating a block so the current strength is the top number.  Although most war games have some type of mechanism that lets units take steps in their overall strength, counters normally have at most two steps because they only have two sides.  Blocks, however, have four so you can easily keep track of twice the amount of detail that many other war games provide.  With the use of blocks Columbia has provided a way of adding a good deal of depth to their war games without adding complex layers of bookkeeping, allowing interesting and relatively short sessions of play.<br/><br/>WestFront II: The War in Europe 1943-45 – Second Edition includes updated MedFront maps and some Spanish units; EuroFront: The War in Europe, 1936-45 – Second Edition has the updated MedFront rules (and the Spanish Civil War scenario and other Spanish units) for those maps.<br/><br/>Expanded by:<br/><br/>    EuroFront: War in Europe, 1939-45<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/3SyjHSpkiqaTp7LzofApAQ__original/img/qxRKJpPd5I6aF2wX20PoAwVpda8=/0x0/filters:format(jpeg)/pic13658.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/3SyjHSpkiqaTp7LzofApAQ__small/img/W6prxrAHyvgnF-6Yrqd7uihJKys=/fit-in/200x150/filters:strip_icc()/pic13658.jpg",
+    "publishers": [
+        "Columbia Games"
+    ],
+    "designers": [
+        "Craig Besinque"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Secret Unit Deployment",
+            "Simulation"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: Block Wargames",
+            "Decades: The 1940's",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players",
+            "Series: Front Series (Columbia)"
+        ]
+    }
+}

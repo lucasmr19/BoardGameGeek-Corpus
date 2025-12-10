@@ -1,0 +1,36 @@
+{
+    "id": 355,
+    "name": "Das letzte Paradies",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "In Das letzte Paradies, the players purchase building sites through secret bids, and either build villas or hotels there, or leave the land undeveloped. Buildings are lucrative only if the immediate surrounding area is preserved. The value of nature is appreciated so much more if it is in danger of disappearing. Correspondingly, the price of virgin land varies widely - either very high, or very low - because preservation of nature does not give you income, but it does get you more recognition for your troubles.<br/><br/>This edge between commerce and nature is rendered even more difficult for the players because at the end (at least in this game) only one pays you money. Who then possesses little at the start, and who has lost in every game, matters little, except who is the richest person at the end.<br/><br/>Each round, players bid for tiles to lay on the island paradise. One side is a building, the other a forest. The buyer chooses which side to play on. The more forest remains, the more your buildings are worth. However, the more buildings you own, the less forest there will be. Players bid with coins in their closed fist. The highest bidder wins, however, they only pay the cost of the second highest bid. In order to win, you must finish with more money than you started with. As soon as the last building counter has been sold and placed on the board (and any resulting bonuses have been paid) the game ends. All players who have less money than they started with have lost. Out of the remaining players, the winner is the person with the most money.<br/><br/>______________________<br/><br/>The game is part of the Franckh-Kosmos/ &#039;Spiele-Galerie&#039; series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/VzRUe9sMxa3ALb_yawXaLQ__original/img/bctZ59IwfpAUWyRGWs6oW4Zh4ag=/0x0/filters:format(png)/pic6756383.png",
+    "thumbnail": "https://cf.geekdo-images.com/VzRUe9sMxa3ALb_yawXaLQ__small/img/1FiayuRT-vZTQqaRTCCWWkirI70=/fit-in/200x150/filters:strip_icc()/pic6756383.png",
+    "publishers": [
+        "KOSMOS"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Sealed Bid",
+            "Negotiation"
+        ],
+        "categories": [
+            "Environmental",
+            "Territory Building"
+        ],
+        "families": [
+            "Series: Edition Perlhuhn / Franckh-Kosmos"
+        ]
+    }
+}

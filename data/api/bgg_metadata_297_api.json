@@ -1,0 +1,33 @@
+{
+    "id": 297,
+    "name": "Stadens nyckel",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "9",
+    "description": "In this fun but luck-intensive game, players represent noble families trying to build up their neighborhoods and have their family members in high offices at the right times.  These goals are aided by cards, which either aid families competing for high office or show buildings that can be placed in the neighborhoods.  At the end of each turn an event card takes effect, giving points to officeholders, allowing free building, or causing some other occurrence.  Layed out around the board during game setup, these event cards are revealed to allow players to see the upcoming three events.  When all the event cards have taken effect, players score points for their neighborhoods and for occupying high offices.   The player with the most points takes the day.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/UVMjgA0XI47E4OGrE1GPUg__original/img/_zSDHc6C-IjoCdybW4JqNg1x_bA=/0x0/filters:format(jpeg)/pic7741066.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/UVMjgA0XI47E4OGrE1GPUg__small/img/kttl2oKQ81F2Bzk8YNFMOm6Aa1E=/fit-in/200x150/filters:strip_icc()/pic7741066.jpg",
+    "publishers": [
+        "Casper",
+        "Target Games"
+    ],
+    "designers": [
+        "Dan Glimne"
+    ],
+    "artists": [
+        "Per Gullarp"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding"
+        ],
+        "categories": [
+            "City Building",
+            "Political"
+        ],
+        "families": []
+    }
+}

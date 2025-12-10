@@ -1,0 +1,33 @@
+{
+    "id": 180,
+    "name": "Pool Position",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "The setting is pool side at a swanky hotel and players are trying to get their beach towels into the choice locations next to the pool.  Players use equal sets of power cards to determine the number of placement points for each round.  These movement points are then used to place their towels or dislodge others' towels.  However activity in a particular row of towels attracts the attention of the cabana boys, who can eventually lock a row up permanently.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/A4hCrEJ4r1BMv6soVyQsVw__original/img/HU3HNMx5Dw-t0jXfvORS6R58wNE=/0x0/filters:format(jpeg)/pic249632.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/A4hCrEJ4r1BMv6soVyQsVw__small/img/ZWow7jPk5ZfAefq3AnX7q1yLQOI=/fit-in/200x150/filters:strip_icc()/pic249632.jpg",
+    "publishers": [
+        "F.X. Schmid"
+    ],
+    "designers": [
+        "Thorsten Gimmler"
+    ],
+    "artists": [
+        "Walter Pepperle"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Card Game"
+        ],
+        "families": []
+    }
+}

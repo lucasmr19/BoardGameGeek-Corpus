@@ -1,0 +1,37 @@
+{
+    "id": 126,
+    "name": "The Really Nasty Horse Racing Game",
+    "yearpublished": "1989",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "The world of horseracing has long been associated with cheating in all its forms.  But few games ever attempt to simulate that aspect.  Players are assigned a horse and must move it around the track by rolling a single die.  This would be rather boring if the game didn't allow for the players to bet on another player's horse, so the dilemma is whether or not to move your horse badly just to make it easier for the horse you bet on to win.  Even that could be boring, but then each player is issued cards that allow them to commit dirty tricks, for instance making a horse fall or forcing the winner to take a drug test.  All in all, it makes for some very interesting racing.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/0b2Q_D4JyzNA1V8RcQAtBg__original/img/zyG8PACB6MSdLTYEhPTQACzsjo8=/0x0/filters:format(jpeg)/pic2008449.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/0b2Q_D4JyzNA1V8RcQAtBg__small/img/MNVf600x6S3S2kn7rG0gmxfk2R4=/fit-in/200x150/filters:strip_icc()/pic2008449.jpg",
+    "publishers": [
+        "Rascals Products Limited",
+        "University Games",
+        "Upstarts",
+        "Winning Moves UK Ltd."
+    ],
+    "designers": [
+        "Simon Knock"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Betting and Bluffing",
+            "Roll / Spin and Move"
+        ],
+        "categories": [
+            "Animals",
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Sports: Horse Racing"
+        ]
+    }
+}

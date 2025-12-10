@@ -1,0 +1,48 @@
+{
+    "id": 116,
+    "name": "Guillotine",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "The French Revolution is famous in part for the use of the guillotine to put nobles to death, and this is the macabre subject of this light card game.  As executioners pandering to the masses, the players are trying to behead the most popular nobles.  Each day the nobles are lined up and players take turns killing the ones at the front of the line until all the nobles are gone.  However, players are given cards which will manipulate the line order right before 'harvesting' heads, which is what makes the game interesting.  After three days of chopping, the highest total carries the day.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__original/img/uJQubpcCxCE4G1pmM8akyrLAVRY=/0x0/filters:format(jpeg)/pic143139.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/9gdaUHNTcgv8RhFhG0kzBw__small/img/9KfEtRGEfW5Q7Mv_0JbyKQ-oox0=/fit-in/200x150/filters:strip_icc()/pic143139.jpg",
+    "publishers": [
+        "Wizards of the Coast",
+        "AMIGO",
+        "Darwin Project",
+        "Enigma (Bergsala Enigma)",
+        "Halloween Concept",
+        "Hasbro",
+        "Play Factory",
+        "PS-Games"
+    ],
+    "designers": [
+        "Paul Peterson"
+    ],
+    "artists": [
+        "Quinton Hoover",
+        "Mike Raabe"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Open Drafting",
+            "Set Collection",
+            "Take That"
+        ],
+        "categories": [
+            "Age of Reason",
+            "Card Game",
+            "Humor"
+        ],
+        "families": [
+            "Country: France",
+            "Mechanism: Card Line",
+            "Political: Movements and/or Activism"
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": 283,
+    "name": "Advanced Third Reich",
+    "yearpublished": "1992",
+    "minplayers": "1",
+    "maxplayers": "6",
+    "minplaytime": "180",
+    "maxplaytime": "1200",
+    "age": "18",
+    "description": "Advanced Third Reich is a board wargame published originally by The Avalon Hill Game Co. The game is a rewrite of Third Reich,  and is a simulation of the European and African theaters of World War II. In 2003 GMT Games published A World at War, a substantially revamped and streamlined version of Advanced Third Reich, designed by Bruce Harper.  Designed to reflect the corps scale, a turn represents three months of movement and fighting.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/o_9Fdqs4Xiyi6nvyTJT0QQ__original/img/iWDSqLwV2ptlqNVG0wf0IS4xdUs=/0x0/filters:format(jpeg)/pic5417225.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o_9Fdqs4Xiyi6nvyTJT0QQ__small/img/o7WCUWTqNsTnH-YMo9K8aXv84Gc=/fit-in/200x150/filters:strip_icc()/pic5417225.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co"
+    ],
+    "designers": [
+        "Bruce Harper"
+    ],
+    "artists": [
+        "Charles Kibler"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Scenario / Mission / Campaign Game",
+            "Simulation",
+            "Tech Trees / Tech Tracks"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)",
+            "Continents: Europe",
+            "Series: Third Reich (Avalon Hill and others)",
+            "War Level of Command: Strategic"
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": 232,
+    "name": "Serenissima",
+    "yearpublished": "1996",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "The Theme<br/><br/>In the fourteenth century, the Atlantic was an ocean without end and America was yet to be discovered. The Mediterranean was a sea of great prosperity - the only route between East and West. The greatest fleets of the age battled for the most lucrative trade routes.<br/><br/>Trade cities like Venice, Genoa, Barcelona or Istanbul grew as powerful as whole nations, establishing trade routes as far as North Africa or Middle East, bringing back Spice, Gems or Gold to the western Mediterranean. SERENISSIMA recreates this era, when the Mediterranean was at the centre of world trade.<br/><br/>The Game<br/><br/>Each players assume the role of one of those four city-states. Their goal is to establish their sphere of influence in the Mediterranean, and share all sorts of commodities to make their trading empire the most prosperous. In the course of a game, players must build galleys, hire crew and buy/sell commodities. The value of goods can be influenced by players having monopolies in certain commodities. Players can also take control of ports, thereby earning extra income from players using the port, as well as being able to get this port's specific commodity.<br/><br/>In the end, the scoring is based on the number of ports each player control, but also on the fact that those ports have commodities of different kind available. Ports come in three types : small, medium, and city-states. Whereas small ports are quite easy to satisfy (they need only two commodities to be considered &quot;full&quot;), the four starting city-states are far more difficult to please, as they will need all kind of commodities available (6 additional commodities, plus the one they produce).<br/><br/>During the course of the game, the number and type of commodities available in ports also controls the number of crew members you can hire, if you can build galleys or forts, and the price of commodities when you sell them. For example, a player won't be able to build new galleys until they have wood and iron available in one of the ports they control. Once a galley has been built, it has 5 spaces available, that can be filled by the crew or the goods. Every crew member allows movement through one space, and makes the galley more powerful. But those spaces are also needed to carry the goods that are worth money. Money that can be used to hire new crews, build new galleys, or commodities. A balance thus needs to be struck between trading commodities and taking control of ports - between a fleet of merchant galleys and a fleet of warships.<br/><br/>The game lasts between 5 to 8 turns depending on the number of active players. Turn order is defined by bidding. The winner of the bid choose whether he will play first, second, third or last. Depending on the situation and what the player wants to do, playing first or last might be equally interesting. For example, by playing first, a player would be unable to react to other players move, but he could avoid having his galleys blockaded.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/JDu-gDsxSSL49NPK7tfipg__original/img/3q8CAGuSM98IZ1p4bfAtF2tIx9s=/0x0/filters:format(jpeg)/pic322925.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JDu-gDsxSSL49NPK7tfipg__small/img/9N_wI7AtLR1qsSEq2MZI18nAA9Q=/fit-in/200x150/filters:strip_icc()/pic322925.jpg",
+    "publishers": [
+        "Descartes Editeur",
+        "Eurogames",
+        "999 Games"
+    ],
+    "designers": [
+        "Dominique Ehrhard",
+        "Duccio Vitale"
+    ],
+    "artists": [
+        "Dominique Ehrhard",
+        "Guillaume Rohmer",
+        "Duccio Vitale"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling",
+            "Pick-up and Deliver",
+            "Trading",
+            "Turn Order: Auction"
+        ],
+        "categories": [
+            "Economic",
+            "Nautical",
+            "Renaissance"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)",
+            "Region: Mediterranean Sea"
+        ]
+    }
+}

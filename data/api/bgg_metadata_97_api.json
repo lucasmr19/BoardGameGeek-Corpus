@@ -1,0 +1,41 @@
+{
+    "id": 97,
+    "name": "Conquest of the Empire",
+    "yearpublished": "1984",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "180",
+    "maxplaytime": "240",
+    "age": "10",
+    "description": "Conquest of the Empire is part of Milton Bradley&#039;s Gamemaster series.  It is set during the Roman Empire and depicts the struggle around the Mediterranean as rival factions attempt to take control of the empire.  Each player plays one of these factions and receives a Caesar figure, several general figures, and ships of a specific color.  Along with these leaders, players utilize a pool of generic units composed of infantry, cavalry, and catapults.  All game pieces are plastic figures.<br/><br/>Players attempt to conquer their neighbors and build up cities and fortifications to increase production of wealth.  Players also may build road networks that allow for faster movement, by all armies.  Along the way players have to contend with rising inflation which makes military units more and more expensive.  Eventually through elimination one player pulls ahead for the win.<br/><br/>Re-implemented by:<br/><br/>    Eagle Games&#039;s Conquest of the Empire (2005)<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/aSc7hgWRp5j9FiIVY3jzLA__original/img/0EIDCfmlc6Dk_0YELMtEzo7C6Ng=/0x0/filters:format(jpeg)/pic901704.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/aSc7hgWRp5j9FiIVY3jzLA__small/img/8VUt1hqG_xfCkew8QzxMJFMUufw=/fit-in/200x150/filters:strip_icc()/pic901704.jpg",
+    "publishers": [
+        "Milton Bradley"
+    ],
+    "designers": [
+        "Larry Harris, Jr."
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Ancient",
+            "Economic",
+            "Wargame"
+        ],
+        "families": [
+            "Ancient: Rome",
+            "Components: Map (Continental / National scale)",
+            "Components: Miniatures",
+            "Digital Implementations: TableTop Simulator Mod (TTS)",
+            "Digital Implementations: VASSAL",
+            "History: Roman Empire",
+            "Region: Mediterranean Sea",
+            "Series: Gamemaster (Milton Bradley)"
+        ]
+    }
+}

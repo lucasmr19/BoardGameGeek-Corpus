@@ -1,0 +1,40 @@
+{
+    "id": 363,
+    "name": "Cat Blues",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Cat Blues, first released as Katzenjammer Blues, is an unusual hybrid of rummy and auction rules, with a couple of strange ideas thrown in about the game ending once 20 points total have been scored, with a 5-point penalty for most jokers. It's a quick, cutthroat card game, colorfully decorated with cartoony blues-band cats and mice.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/nwLMuyqj24tIk_zkZqsYPA__original/img/yn8dxFjwGCMOHaKnAJda6lJINV8=/0x0/filters:format(jpeg)/pic4899604.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nwLMuyqj24tIk_zkZqsYPA__small/img/hvOzbQIOPKRUm7Lpw-h3Qx6FAMc=/fit-in/200x150/filters:strip_icc()/pic4899604.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "New Games Order, LLC",
+        "OPEN'N PLAY",
+        "Popcorn Games",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Set Collection"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Animals: Cats",
+            "Animals: Mice",
+            "Series: à la Carte (Goldsieber)"
+        ]
+    }
+}

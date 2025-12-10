@@ -1,0 +1,46 @@
+{
+    "id": 287,
+    "name": "Bazaar",
+    "yearpublished": "1967",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "8",
+    "description": "The components of Bazaar include a whole bunch of little chips, in five colors. At the start of the game, two equation cards are randomly chosen. Each equation card has five equations on it, for a total of ten equations that will be in effect for the duration of the game. The equations state equivalences between certain combinations of colors, for example:<br/><br/><br/>    Red = Green Green<br/>    Green Yellow = Blue Blue Red<br/><br/><br/>Four target cards are turned up, each with some combination of five chips represented on the target card (so a typical target card might be Green Green Blue Blue Blue).<br/><br/>On your turn, you roll a colored die to randomly pick a colored chip for yourself, or you can make one exchange of your colored chips based on the equations. The goal is to end up with the right combination of chips to get one of the target cards. You want to do this quickly &ndash; and even more importantly, with as few chips left over as possible after you've purchased the target card &ndash; because this is how you score points.<br/><br/>The original version is part of the 3M Bookshelf Series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/J27GE88YCaKh2wdLFeAChA__original/img/RCiqvTy8GZWA4Bn_QyE6AVqApt8=/0x0/filters:format(jpeg)/pic1066791.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/J27GE88YCaKh2wdLFeAChA__small/img/nvX5Am47nCnNReh1RiE6SkNjUG8=/fit-in/200x150/filters:strip_icc()/pic1066791.jpg",
+    "publishers": [
+        "3M",
+        "Discovery Toys",
+        "Eagle-Gryphon Games",
+        "Estrela",
+        "Klee",
+        "Parker Spiele",
+        "Schmidt International",
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [
+        "Pixel Productions Inc."
+    ],
+    "classifications": {
+        "mechanics": [
+            "Set Collection",
+            "Trading"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Math",
+            "Puzzle"
+        ],
+        "families": [
+            "Components: Gems/Crystals",
+            "Digital Implementations: BrettspielWelt",
+            "Food & Drink: Beer",
+            "Series: 3M Bookshelf Series"
+        ]
+    }
+}

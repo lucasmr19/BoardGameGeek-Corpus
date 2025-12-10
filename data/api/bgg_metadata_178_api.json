@@ -1,0 +1,40 @@
+{
+    "id": 178,
+    "name": "Mole Hill",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "15",
+    "maxplaytime": "15",
+    "age": "8",
+    "description": "In this strange little game, players take the roles of a gardener protecting his lawn and a mole digging it up.  The gardener must try to block the mole's moves and fence him in quickly, while the mole must dig as many holes as possible before being caught.<br/><br/>Essentially, the mole may move any direction, horizontally or diagonally from square to square, while the gardener places boundary sticks down along the edges of the square, which the mole may not cross.  The mole and gardener may either move or place down a boundary stick, and move alternately.  Eventually, the gardener will hem the mole in completely and the round is over.  In addition, if the mole can move into flower beds, extra points are scored.  By moving to the center, the mole may also tunnel deeply to any selected square on the board, thus escaping the (by then) rapidly closing trap of boundary sticks.  Depending on how many moves this took, more or less points are earned by the mole.<br/><br/>Once points are totaled up, the roles are reversed and another round is played.  The winner is the player who scored the most points as the mole.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/-elr3id1gJj81PDHrstdDw__original/img/gYHhKX2WdZnz9X07tbgwgih1_yg=/0x0/filters:format(jpeg)/pic294034.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-elr3id1gJj81PDHrstdDw__small/img/l01Qfl5STdYrANYoojPoX-3nVLc=/fit-in/200x150/filters:strip_icc()/pic294034.jpg",
+    "publishers": [
+        "Användbart Litet Företag",
+        "Blatz",
+        "nestorgames"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Néstor Romeral Andrés"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Enclosure",
+            "Variable Player Powers"
+        ],
+        "categories": [
+            "Abstract Strategy"
+        ],
+        "families": [
+            "Animals: Moles",
+            "Components: 7 x 9 Grids",
+            "Containers: Zippered Pouch",
+            "Players: Two-Player Only Games",
+            "Theme: Gardening"
+        ]
+    }
+}

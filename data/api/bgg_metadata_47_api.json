@@ -1,0 +1,56 @@
+{
+    "id": 47,
+    "name": "Chinatown",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "This is a negotiation game in the truest sense of the word. In it, players acquire ownership of sections of city blocks then place tiles, representing businesses, onto the block-sections.  At the end of each turn, each tile you've laid gives you some sort of payout, but completed businesses (formed of three to six connected tiles of the same type) pay quite a bit better.  All these resources are dealt to the players randomly, however, so players must trade to get matching businesses and adjacent locations.<br/><br/>This game is #2 in the Alea big box series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__original/img/csj-VB0pfmq8KNUxwTYdDC2gxB4=/0x0/filters:format(jpeg)/pic403442.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__small/img/VEXGKhNHkULY2hJ41r4Agob5RvE=/fit-in/200x150/filters:strip_icc()/pic403442.jpg",
+    "publishers": [
+        "alea",
+        "Ravensburger",
+        "(Unknown)",
+        "Competo / Marektoy",
+        "Filosofia Éditions",
+        "Heidelberger Spieleverlag",
+        "Mandoo Games",
+        "Quined White Goblin Games",
+        "Siam Board Games",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Karsten Hartwig"
+    ],
+    "artists": [
+        "Mathieu Leyssenne",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Enclosure",
+            "Income",
+            "Investment",
+            "Negotiation",
+            "Set Collection",
+            "Tile Placement",
+            "Trading",
+            "Victory Points as a Resource"
+        ],
+        "categories": [
+            "City Building",
+            "Economic",
+            "Negotiation"
+        ],
+        "families": [
+            "Cities: New York (New York, USA)",
+            "Decades: The 1960's",
+            "Occupation: Architect",
+            "Series: Alea Big Box",
+            "Series: Filosofia Reprints"
+        ]
+    }
+}

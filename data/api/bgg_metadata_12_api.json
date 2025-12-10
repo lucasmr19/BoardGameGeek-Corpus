@@ -1,0 +1,76 @@
+{
+    "id": 12,
+    "name": "Ra",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "45",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "Ra is an auction and set-collection game with an Ancient Egyptian theme.  Each turn players are able to purchase lots of tiles with their bidding tiles (suns).  Once a player has used up his or her suns, the other players continue until they do likewise, which may set up a situation with a single uncontested player bidding on tiles before the end of the round occurs.  Tension builds because the round may end before all players have had a chance to win their three lots for the epoch.  The various tiles either give immediate points, prevent negative points for not having certain types at the end of the round (epoch), or give points after the final round.  The game lasts for three &quot;epochs&quot; (rounds).  The game is easy to learn.<br/><br/>From the Box:<br/>The game spans 1500 years of Egyptian history in less than an hour!<br/>The players seek to expand their power and fame and there are many ways to accomplish this: Influencing Pharaohs, Building monuments, Farming on the Nile, Paying homage to the Gods, Advancing the technology and culture of the people. Ra is an auction and set collecting game where players may choose to take risks for great rewards or... And all this is for the glory of the Sun God Ra!<br/><br/>",
+    "image": "https://cf.geekdo-images.com/k7lG683LBZdvFyS-FH-MpA__original/img/hEqkeRnhyNLxeryIIdOnAHdItfo=/0x0/filters:format(png)/pic6746812.png",
+    "thumbnail": "https://cf.geekdo-images.com/k7lG683LBZdvFyS-FH-MpA__small/img/6KTtiknxxGwd0ARKrlsdoXFtHfI=/fit-in/200x150/filters:strip_icc()/pic6746812.png",
+    "publishers": [
+        "alea",
+        "Ravensburger",
+        "25th Century Games",
+        "999 Games",
+        "ABACUSSPIELE",
+        "DiceTree Games",
+        "Edge Entertainment",
+        "Giochix.it",
+        "Hobby World",
+        "Korea Boardgames",
+        "Lucky Duck Games",
+        "New Games Order, LLC",
+        "Planeta Igor",
+        "Precisamente",
+        "Rawstone",
+        "Reflexshop",
+        "Rio Grande Games",
+        "Swan Panasia Co., Ltd.",
+        "Tranjis Games",
+        "Überplay",
+        "Windrider Games"
+    ],
+    "designers": [
+        "Reiner Knizia"
+    ],
+    "artists": [
+        "Leonardo Borazio",
+        "Edge Studio",
+        "Zach Graves",
+        "Allison Kline",
+        "Gahyun Lee",
+        "Ian O'Toole",
+        "Tiago Sousa",
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Auction: Once Around",
+            "Closed Economy Auction",
+            "Constrained Bidding",
+            "Hidden Victory Points",
+            "Push Your Luck",
+            "Set Collection"
+        ],
+        "categories": [
+            "Ancient",
+            "Mythology"
+        ],
+        "families": [
+            "Ancient: Egypt",
+            "Crowdfunding: Gamefound",
+            "Game: Ra",
+            "Misc: BGG Hall of Fame",
+            "Misc: Dice Tower Hall of Fame",
+            "Misc: LongPack Games",
+            "Mythology: Egyptian",
+            "Series: Alea Big Box",
+            "Series: Book Box (DiceTree)",
+            "Series: Euro Classics (Reiner Knizia)"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": 150,
+    "name": "PitchCar",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "6",
+    "description": "This game entry refers to two nearly identical games that are not compatible with one another. Ages 6 and up.<br/><br/>PitchCar and Carabande are dexterity games where large, wooden, puzzle-like pieces are used to construct a race track that looks very similar to a slot car track when finished.  But instead of electricity, players use finger-flicks to send small pucks around the track, a la Carrom.<br/><br/>Contents:<br/><br/>     Eight car discs<br/>     One black &quot;spacer&quot; disc<br/>     Six straightaways <br/>     Ten 90-degree curves <br/>     Rail pieces for straights and curves<br/>     One Start/Finish line sticker<br/>     One rule sheet with suggested track layouts<br/>     One score pad<br/><br/><br/><br/><br/><br/>    <br/>         Carabande was produced by Goldsieber and had only the single expansion with the Action Set.  Both are currently out of print.  It was also produced in a special &quot;Audi&quot; edition, titled Rennspiel-Action. In the BGG photo gallery, Carabande has yellow/orange rails.Expanded by:<br/><br/>    Carabande Action Set<br/><br/><br/><br/>         PitchCar is produced by Ferti.  It currently has nine expansions that add &quot;tight&quot; curves, crossroads, small jumps, long straightaways, 45-degree curves, curved bottlenecks, loops &amp; an adapter that will allow for mixing PitchCar and PitchCar Mini.  PitchCar apparently also has two editions, where the first edition has the black laminate on the top and bottom of the track pieces, where the second edition only has the laminate on the top of the track pieces.   In the BGG photo gallery, PitchCar has red rails.Expanded by:<br/><br/>    PitchCar Extension<br/>    PitchCar Extension 2<br/>    PitchCar Extension 3: Special Long Straights<br/>    PitchCar Extension 4: Stunt Race<br/>    PitchCar Extension 5: The Cross<br/>    PitchCar Extension 6: No Limit<br/>    PitchCar Extension 7: The Loop<br/>    PitchCar Extension: The Upsilon<br/>    PitchCar Extension: The Adapter<br/><br/><br/>Re-implemented by:<br/><br/>    PitchCar Mini<br/><br/><br/><br/>    <br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/lvC1qJo4-RQ_zqudi_oRmA__original/img/6hC5NG-_7acG1lMzMfrAnou4Fb8=/0x0/filters:format(jpeg)/pic215555.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lvC1qJo4-RQ_zqudi_oRmA__small/img/7IuVc3d0QWtb0eCd6PaYHg8Qg2U=/fit-in/200x150/filters:strip_icc()/pic215555.jpg",
+    "publishers": [
+        "Ferti",
+        "Goldsieber Spiele",
+        "Historien Spiele Galerie (Historien Spielegalerie)",
+        "Lautapelit.fi",
+        "Vision"
+    ],
+    "designers": [
+        "Jean du Poël"
+    ],
+    "artists": [
+        "Jean du Poël"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Flicking",
+            "Modular Board",
+            "Race"
+        ],
+        "categories": [
+            "Action / Dexterity",
+            "Children's Game",
+            "Party Game",
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Game: PitchCar",
+            "Mechanism: Finger Flicking Games",
+            "Promotional: Board Games",
+            "Sports: Auto Racing"
+        ]
+    }
+}

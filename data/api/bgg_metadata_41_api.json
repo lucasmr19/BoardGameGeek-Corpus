@@ -1,0 +1,73 @@
+{
+    "id": 41,
+    "name": "Can't Stop",
+    "yearpublished": "1980",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "9",
+    "description": "In this Sid Sackson classic, players must press their luck with dice and choose combinations tactically to close out three columns. The board has one column for each possible total of two six-sided dice, but the number of spaces in each column varies: the more probable a total, the more spaces in that column and the more rolls it takes to complete. On their turn, a player rolls four dice and arranges them in duos: 1 4 5 6 can become 1+4 and 5+6 for 5 &amp; 11, 1+5 and 4+6 for 6 &amp; 10, or 1+6 and 4+5 for 7 &amp; 9. The player places or advances progress markers in the open column(s) associated with their chosen totals, then chooses whether to roll again or end their turn and replace the progress markers with markers of their color. A player can only advance three different columns in a turn and cannot advance a column which any player has closed out by reaching the end space; if a roll doesn&rsquo;t result in any legal plays, the turn ends with that turn&rsquo;s progress lost.<br/><br/>A predecessor from 1974, The Great Races, exists as a paper-and-pencil game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__original/img/A_bSjGJJXDFfSocVclabxi8ArY8=/0x0/filters:format(png)/pic6875169.png",
+    "thumbnail": "https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__small/img/mLHWOFfdxrWljImkFZ2ulIhHt7A=/fit-in/200x150/filters:strip_icc()/pic6875169.png",
+    "publishers": [
+        "Parker Brothers",
+        "asmodee",
+        "Borras Plana S.A.",
+        "Clipper",
+        "Eagle-Gryphon Games",
+        "Ediciones de Mente",
+        "Editrice Giochi",
+        "Face2Face Games",
+        "förlAgo AB",
+        "Fractal Juegos",
+        "franjos Spieleverlag",
+        "Gonggan27",
+        "Maldito Games",
+        "Miro Company",
+        "New Games Order, LLC",
+        "OPEN'N PLAY",
+        "Oya",
+        "Palitoy Ltd.",
+        "Playte",
+        "Popcorn Games",
+        "Ravensburger",
+        "Swan Panasia Co., Ltd.",
+        "Vennerød Forlag AS"
+    ],
+    "designers": [
+        "Sid Sackson"
+    ],
+    "artists": [
+        "Klemens Franz",
+        "Wanjin Gill",
+        "Heiko Günther",
+        "Kim Hong-Do",
+        "Gabriel Laulunen (II)",
+        "Ronan Le Maître",
+        "Walter Pepperle",
+        "Monroy Gómez Verónica",
+        "Klaus Wilinski",
+        "Atelier Wilinski"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Push Your Luck",
+            "Race",
+            "Roll / Spin and Move",
+            "Track Movement"
+        ],
+        "categories": [
+            "Dice"
+        ],
+        "families": [
+            "Digital Implementations: Apple App Store",
+            "Digital Implementations: Board Game Arena",
+            "Digital Implementations: BrettspielWelt",
+            "Misc: Dice Tower Hall of Fame",
+            "Series: 31 Minutos (Fractal Juegos)",
+            "Series: L.BOARD (Playte)"
+        ]
+    }
+}

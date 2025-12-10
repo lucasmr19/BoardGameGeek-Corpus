@@ -1,0 +1,72 @@
+{
+    "id": 112,
+    "name": "Condottiere",
+    "yearpublished": "1995",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "20",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "It is 13th century Italy. Trade is flourishing between the city-states and the Levant. Venice, Florence, and Genoa are all bursting with wealth. However, each city-state is also plagued with a weak national army, leaving them defenseless against invasion from their envious neighbors. Enter the Condottiere. <br/> As veteran English soldiers returned from the Crusades, Italy found itself with an influx of desperate and capable men. These hired swords were contracted to fight for individual city-states by an agreement known as a condotta. The most elite of these men were the mercenary leaders known as the Condottiere.<br/><br/>The object of Condottiere is to acquire four connected provinces in renaissance Italy. To do this players auction off different provinces on the board and bid on these provinces with a hand of cards representing mercenaries, seasons, scarecrows, and political figures. However, unlike standard auctions in which only the highest bidder loses their bid, in Condottiere every player loses their bid.  Players are, in effect, bidding the number of troops they are willing to lose in order to win a province. However, several special effect cards shake the contests up and keep the players guessing.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/PZ3Y8nJBWeQzLrCbjFcNFA__original/img/8Bpu1jLH8p2HG7Wr3qvtd_v4LP8=/0x0/filters:format(jpeg)/pic6974400.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/PZ3Y8nJBWeQzLrCbjFcNFA__small/img/JlexS7tQcxoP8MUfTCd0ct39a2A=/fit-in/200x150/filters:strip_icc()/pic6974400.jpg",
+    "publishers": [
+        "Eurogames",
+        "(Unknown)",
+        "Arclight Games",
+        "Delta Vision Publishing",
+        "Descartes Editeur",
+        "Edge Entertainment",
+        "Fantasy Flight Games",
+        "Galakta",
+        "Giochi Uniti",
+        "Heidelberger Spieleverlag",
+        "Hobby World",
+        "Lautapelit.fi",
+        "Nexus Editrice",
+        "Roomiz Games",
+        "Ubik",
+        "Z-Man Games"
+    ],
+    "designers": [
+        "Dominique Ehrhard",
+        "Duccio Vitale",
+        "Justin Kemppainen"
+    ],
+    "artists": [
+        "Dominique Ehrhard",
+        "John Goodenough",
+        "Serge Hochain",
+        "Tomasz Jedruszek",
+        "Scott Nicely",
+        "Mohammad Noureddine",
+        "David Palumbo",
+        "Samuel R. Shimota"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Auction / Bidding",
+            "Constrained Bidding",
+            "Hand Management"
+        ],
+        "categories": [
+            "Bluffing",
+            "Card Game",
+            "Medieval",
+            "Negotiation"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Cities: Florence (Tuscany, Italy)",
+            "Cities: Genoa (Liguria, Italy)",
+            "Cities: Venice (Veneto, Italy)",
+            "Components: Map (Continental / National scale)",
+            "Components: Wooden pieces & boards",
+            "Country: Italy",
+            "Digital Implementations: VASSAL",
+            "History: Italian City-States",
+            "Series: Fantasy Flight Silver Line"
+        ]
+    }
+}

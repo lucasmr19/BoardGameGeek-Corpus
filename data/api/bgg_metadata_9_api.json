@@ -1,0 +1,37 @@
+{
+    "id": 9,
+    "name": "El Caballero",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "13",
+    "description": "Although referred to as a sequel to El Grande, El Caballero shares few aspects with its namesake, being a fun but intense brain-burner in which players explore and attempt to control the lands and waterways of the New World.<br/><br/>The players are following Columbus by exploring the islands he discovered. Players slowly explore the islands &ndash; by picking and placing land tiles that are most favorable to them &ndash; and discover wealth in the form of gold and fish. As they learn about the land and sea areas of this new land, they position their caballeros to try to maintain control of the important regions. Castillos give them a measure of protection from others, and ships allow them to establish trade and to fish for food. Success is measured in the size of land and sea areas they control. Their success is measured twice, and in the end these scores are summed and the winner declared.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/lWotCtplnl0sI3bS_jF3-Q__original/img/lpPExjqfY9fpRvaqnlhVkhKPoqU=/0x0/filters:format(jpeg)/pic1731731.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lWotCtplnl0sI3bS_jF3-Q__small/img/ShhWmA15xDKbigT_kE3CTAfs3Y0=/fit-in/200x150/filters:strip_icc()/pic1731731.jpg",
+    "publishers": [
+        "999 Games",
+        "Hans im Glück",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Wolfgang Kramer",
+        "Richard Ulrich"
+    ],
+    "artists": [
+        "Doris Matthäus"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Exploration"
+        ],
+        "families": [
+            "Game: El Grande"
+        ]
+    }
+}

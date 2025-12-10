@@ -1,0 +1,38 @@
+{
+    "id": 263,
+    "name": "Manitou",
+    "yearpublished": "1997",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "12",
+    "description": "It is time for the buffalo hunt.  Each player displays the hunters and great warriors of his tribe which make up his hunting party.  Great warriors can capture opponents' tribesmen and score points for you.  Strong hunters can win buffalo for the tribe.  Whoever plays his cards with the greatest skill over the three hunts wins the game.<br/><br/>Part of the Goldsieber à la Carte line of games.<br/><br/>Re-implemented as:<br/><br/><br/>     Big Manitou<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/b-JI7jNQioP5BP1TLxwlrA__original/img/88BHTHA8ZGuAHvxjhpNu2-4SN3c=/0x0/filters:format(jpeg)/pic158910.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/b-JI7jNQioP5BP1TLxwlrA__small/img/u-yuzibDFI8cKb24xB-3IyVsMX8=/fit-in/200x150/filters:strip_icc()/pic158910.jpg",
+    "publishers": [
+        "Goldsieber Spiele"
+    ],
+    "designers": [
+        "Günter Burkhardt"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management",
+            "Open Drafting",
+            "Rock-Paper-Scissors"
+        ],
+        "categories": [
+            "Card Game"
+        ],
+        "families": [
+            "Digital Implementations: BrettspielWelt",
+            "Series: à la Carte (Goldsieber)",
+            "Theme: Native Americans / First Peoples"
+        ]
+    }
+}

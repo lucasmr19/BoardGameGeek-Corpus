@@ -1,0 +1,42 @@
+{
+    "id": 424,
+    "name": "1870: Railroading Across the Trans Mississippi from 1870",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "360",
+    "maxplaytime": "360",
+    "age": "14",
+    "description": "This 18xx game takes the basic mechanics from Tresham's 1829, and adds several new elements. Players seek to make the most money by buying and selling stock in various rail companies located on a map of central United States. The board itself is actually a fairly abstract hexagonal system, with track tiles placed on top of the hexes. Players buy and sell stock in various share companies, whose actions are controlled by the majority stockholder. The stock manipulation aspect of the game is widely-regarded as one of the best.  Plus each 18xx title adds new and different elements to the game.<br/><br/>This game features private companies with special money-making capabilities and sizeable map which encourages most (if not all) share companies to become profitable.  A game is finished when the bank runs out of money, and the player with the greatest personal holdings wins.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/vsbzlxw-DEe4wEBcT3z_ng__original/img/AjBrx79872KueKfg7QG4VRjhiyU=/0x0/filters:format(jpeg)/pic159312.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vsbzlxw-DEe4wEBcT3z_ng__small/img/zYmSM5jxBNemVkyWvvkKFMAOIro=/fit-in/200x150/filters:strip_icc()/pic159312.jpg",
+    "publishers": [
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Bill Dixon"
+    ],
+    "artists": [
+        "John Kamacher",
+        "Mike Russo",
+        "Chris Vande Voort"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Hexagon Grid",
+            "Network and Route Building",
+            "Stock Holding"
+        ],
+        "categories": [
+            "Economic",
+            "Trains"
+        ],
+        "families": [
+            "Country: USA",
+            "Digital Implementations: 18xx.games",
+            "Series: 18xx",
+            "States: Mississippi"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": 459,
+    "name": "Ausgebremst",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "Using the basic system pioneered in Ave Caesar, this racing game casts the players as race car drivers.  Players use cards to move their cars forward a number of spaces, however the tracks often have 'choke' points where few cars can race side-by-side (not unlike Kramer&#039;s Detroit/Cleveland Grand Prix system).  The track is constructed from three double-sided half-boards, which can be combined in a number of different ways for easier and harder tracks.  For the advanced game, each player's movement cards can be divided different ways, depending on the strategy that he wishes to employ for the given track.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/hE4Pt-dGovS2PjL6BITugQ__original/img/uimQZ8GyG72fT1OPT5wVMO1Otbg=/0x0/filters:format(jpeg)/pic4060428.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/hE4Pt-dGovS2PjL6BITugQ__small/img/h_ooD2TqtXh3_I78KfQUhqxWI1o=/fit-in/200x150/filters:strip_icc()/pic4060428.jpg",
+    "publishers": [
+        "ASS Altenburger Spielkarten"
+    ],
+    "designers": [
+        "Wolfgang Riedesser"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Modular Board",
+            "Race",
+            "Track Movement"
+        ],
+        "categories": [
+            "Racing",
+            "Sports"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Sports: Auto Racing"
+        ]
+    }
+}

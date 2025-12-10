@@ -1,0 +1,35 @@
+{
+    "id": 323,
+    "name": "Anno 1452",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "A game about the consolidating of power in the Holy Roman Empire in 1452. Players attempt to gain victory points through a variety of sources. In a system that has similarities to El Grande, players have a limited number of actions each turn to place resources into territories on a map. Going beyond El Grande, the game provides several different types of resources to manage and also gives players several different ways of undermining other players' positions.<br/><br/>One element that stands out is a balancing mechanism where the weakest player each turn is crowned king and is given several benefits. The weak player then has a strong military advantage in getting a better position in the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/zpTvg7U1pThQvVtPoh7k5w__original/img/Y6NihzLypWiS-U7R33lDsQ_QQrU=/0x0/filters:format(jpeg)/pic756524.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/zpTvg7U1pThQvVtPoh7k5w__small/img/lVlth9vw1i8Ge89coD_V8MU0Src=/fit-in/200x150/filters:strip_icc()/pic756524.jpg",
+    "publishers": [
+        "Piatnik"
+    ],
+    "designers": [
+        "Gerhard E. Kodys"
+    ],
+    "artists": [
+        "Simon Roberts"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Dice Rolling"
+        ],
+        "categories": [
+            "Medieval",
+            "Territory Building"
+        ],
+        "families": [
+            "Components: Map (Continental / National scale)"
+        ]
+    }
+}

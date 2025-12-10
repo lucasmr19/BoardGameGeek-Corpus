@@ -1,0 +1,40 @@
+{
+    "id": 142,
+    "name": "Vino",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "90",
+    "maxplaytime": "90",
+    "age": "12",
+    "description": "Players compete with each other to own vineyards in Italy.  Each vineyard may be used to grow certain types of grapes, and players make money by selling grapes on the open market.  Through careful manipulation of the market and the domination of vineyards in each province, the player with the most vineyards wins the game.<br/><br/>1st Place 1994 Hippodice Spieleautorenwettbewerb (as Das Spiel der Weinberge).<br/><br/>",
+    "image": "https://cf.geekdo-images.com/ULz-2vGyrIBFXz53fkI36g__original/img/PqtUv_EP-S0cJshQpsGnHbR0iRg=/0x0/filters:format(jpeg)/pic423043.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ULz-2vGyrIBFXz53fkI36g__small/img/Zb3R5PUyvM52CAhZcyN2jUX9eEs=/fit-in/200x150/filters:strip_icc()/pic423043.jpg",
+    "publishers": [
+        "Goldsieber Spiele",
+        "Rio Grande Games"
+    ],
+    "designers": [
+        "Christwart Conrad"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Commodity Speculation",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Components: Marbles",
+            "Components: Player Screens",
+            "Country: Italy",
+            "Food & Drink: Wine"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": 243,
+    "name": "Advanced Squad Leader",
+    "yearpublished": "1985",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "120",
+    "maxplaytime": "480",
+    "age": "14",
+    "description": "Advanced Squad Leader is the completely reorganized and re-designed version of the original Squad Leader system. This three-ring binder is the basic rules for the entire system and provides the ultimate combination of playability and detail. Full-color charts and beautiful pictures make this the most readable of rulebooks - and it includes a full-service index as well for quick reference.<br/><br/>And ASL is more than &quot;squads&quot;; the system includes the rules for everything from machine guns to bazookas, tanks and ordnance weapons, paratrooper drops, glider landings and beach assaults. And much more. This set of rules is constantly kept up to date by expansions included with the modules.<br/><br/>ASL goals are scenario-defined and vary from tasks such as exiting troops off of one edge of the board, to inflicting a certain number of casualty points on the opposing force, to capturing a certain number of goal-buildings or areas.<br/><br/>This is just the rulebook. To start playing the game the newcomer must get, at least, the Beyond Valor: ASL Module 1. There are a great many ASL Modules available. &quot;Core Modules&quot; provide additional rules, units from different nationalities, and additional geomorphic mapboards. &quot;Historical Modules&quot; provide campaign games simulating multi-day battles using actual historical maps rather than geomorphic mapboards, including additional rules, counters and paper maps. Many modules have dependencies on earlier modules.<br/><br/>Rulebook contents:<br/><br/>    Introduction<br/>    Chapters A, B, C, D, H (Design Your Own, German &amp; Russian vehicle notes only), J [1st edition]<br/>    Chapters A, B, C, D, E, H (Design Your Own, German &amp; Russian vehicle notes only), J, K [2nd edition]<br/>    Index &amp; Glossary<br/><br/><br/><br/>1st edition additional changes/chapters:<br/><br/>    chapter E in Yanks: ASL Module 3<br/>    chapter F in West of Alamein: ASL Module 5<br/>    chapter G in Code of Bushido: ASL Module 8 / Gung Ho!: ASL Module 9<br/>    chapter K in Paratrooper: ASL Module 2<br/>    8 revised RuleBook pages  [A 17-18/A 29-30/B 31-32/F 1-2 all marked &quot;92&quot;] in Croix de Guerre: ASL Module 10<br/><br/><br/><br/>2nd edition additional chapters:<br/><br/>    chapter F in Hollow Legions: ASL Module 7a<br/>    chapter G in Rising Sun: ASL Module 13<br/><br/><br/><br/>(Note: this is a description of the ASL rulebook which is published separately. For the ASL family, check Game wiki.)<br/><br/>",
+    "image": "https://cf.geekdo-images.com/RaYWgwcNIv7cSnlkioz62g__original/img/GJuJt5xdy3qSKiDiknIzsBlne7Q=/0x0/filters:format(jpeg)/pic771969.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/RaYWgwcNIv7cSnlkioz62g__small/img/4EAhVr_O_i4qY2hqqbCOLwGxMQg=/fit-in/200x150/filters:strip_icc()/pic771969.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Hobby Japan",
+        "Multi-Man Publishing"
+    ],
+    "designers": [
+        "Don Greenwood"
+    ],
+    "artists": [
+        "Nicolás Eskubi",
+        "Charles Kibler",
+        "Rodger B. MacGowan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Critical Hits and Failures",
+            "Dice Rolling",
+            "Grid Movement",
+            "Hexagon Grid",
+            "Interrupts",
+            "Line of Sight",
+            "Modular Board",
+            "Movement Points",
+            "Ratio / Combat Results Table",
+            "Scenario / Mission / Campaign Game",
+            "Secret Unit Deployment",
+            "Simulation",
+            "Variable Player Powers",
+            "Variable Set-up"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Digital Implementations: VASSAL",
+            "Misc: Dice Tower Hall of Fame",
+            "Players: Games with expansions that add solo play",
+            "Players: Two-Player Only Games",
+            "Players: Wargames with Rules Supporting Only Two Players",
+            "Series: Advanced Squad Leader",
+            "War Battlespace: Land warfare",
+            "War Level of Command: Tactical"
+        ]
+    }
+}

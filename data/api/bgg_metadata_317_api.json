@@ -1,0 +1,35 @@
+{
+    "id": 317,
+    "name": "The Mob",
+    "yearpublished": "1993",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "60",
+    "maxplaytime": "60",
+    "age": "12",
+    "description": "This game, a sequel to Mafioso, is also published as Capone.  The object is to make money with illegal businesses and then reinvest your ill-gotten gains into 'legit' businesses.   Each turn, players use the cards they're dealt sequentially to take control of businesses with their family members.  Furthermore, if you wrest control of a business from another family, the foreign family members that were there are sent to 'sleep with the fishes.'<br/><br/>Re-implements:<br/><br/>    Mafioso<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/vU6_WSSmFpzRd28XRA34gg__original/img/dkBYezzochLxXfrZ9PvnSjCk34M=/0x0/filters:format(jpeg)/pic192718.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vU6_WSSmFpzRd28XRA34gg__small/img/5TatipOnGr_l7eNdfs9PpoOGnoE=/fit-in/200x150/filters:strip_icc()/pic192718.jpg",
+    "publishers": [
+        "AMIGO",
+        "Gibsons"
+    ],
+    "designers": [
+        "Mark Caines",
+        "Anthony Watts"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Mafia"
+        ],
+        "families": [
+            "Historical Figures: Al Capone",
+            "History: Prohibition in the USA",
+            "Interwar period (Nov. 1918 - Aug. 1939)"
+        ]
+    }
+}

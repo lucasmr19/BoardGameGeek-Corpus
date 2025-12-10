@@ -1,0 +1,47 @@
+{
+    "id": 310,
+    "name": "Wizard's Quest",
+    "yearpublished": "1979",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "minplaytime": "180",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "A Heroic Fantasy Wargame wherein Peacemaker the Wizard, tired of eons of conflict over rulership of the island kingdom of Marnon, sets up a quest competition to choose the rightful ruler and end all bloodshed forever.<br/><br/>The map portrays the island of Marnon divided into 36 numbered territories and 8 bordering castle spaces. Orcs are placed in approximately 1/3rd of these spaces, then players place their Men in the remaining spaces. An opposing player places your 3 Magic Items around the map for you to find later. The first player to collect all three of their own treasures is the winner.<br/><br/>Each turn, Orcs around the board repopulate and then frenzy, indiscriminately attacking nearby Men. The Dragon flies around and eats Orcs and Men. Peacemaker the Wizard visits a region and bestows prosperity, and also enforces peace there that turn. After all this, each player may petition the Wizard for a card, receive reinforcements, and then carry out an attack campaign. Players forces include Men and two 'superpower' counters: Hero and Sorcerer.<br/><br/>Garret J. Donner later took his concept of objects moving semi-randomly and sometimes under partial control of the players (The Wizard and The Dragon) and designed the game Dragonhunt around it.<br/><br/>Avalon Hill Complexity rating - 2<br/><br/>",
+    "image": "https://cf.geekdo-images.com/32jmGAE0yH2TCbLGTwjIZg__original/img/H42G9LxQnUTJXckYdblRjEq5wNE=/0x0/filters:format(jpeg)/pic157002.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/32jmGAE0yH2TCbLGTwjIZg__small/img/EkPiFhFX_qtLlRaiZ4CWHDG42Bs=/fit-in/200x150/filters:strip_icc()/pic157002.jpg",
+    "publishers": [
+        "The Avalon Hill Game Co",
+        "Klee",
+        "Pelito",
+        "Schmidt France",
+        "Schmidt Spiele"
+    ],
+    "designers": [
+        "Willis P. Carpenter",
+        "Garrett J. Donner",
+        "Michael S. Steer",
+        "Mick Uhl"
+    ],
+    "artists": [
+        "Chris White (I)",
+        "Ugurcan Yüce"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Movement",
+            "Dice Rolling",
+            "Simulation",
+            "Variable Phase Order"
+        ],
+        "categories": [
+            "Adventure",
+            "Fantasy",
+            "Wargame"
+        ],
+        "families": [
+            "Creatures: Dragons",
+            "Theme: Wizards"
+        ]
+    }
+}

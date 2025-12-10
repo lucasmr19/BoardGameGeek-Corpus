@@ -1,0 +1,38 @@
+{
+    "id": 87,
+    "name": "Victory: World War II",
+    "yearpublished": "1998",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "120",
+    "maxplaytime": "120",
+    "age": "12",
+    "description": "Victory: World War II, originally released as Victory: The Blocks of War, is a Block game published in 1998 by Columbia Games.  It is a generic war game played on modular maps with World War II units.  The game uses a stripped down Front system, with the whole command control element removed and simplified movement and unit production.  Block sets for blue and red players and maps 1 to 4 are included in the base game.<br/><br/>There are many supplements available, including basic block sets for four additional colors (black, orange, green, and gray), ten-unit elite sets for each color, maps with various terrain, and a logistics expansion which provides a twist on production and adds other strategic elements to the game.<br/><br/>Expanded by:<br/><br/>    Victory: The Blocks of War – Additional Blocksets<br/>    Victory: The Blocks of War – Elite Blocksets<br/>    Victory: The Blocks of War – Extra Maps<br/>    Victory: The Blocks of War – Logistics Set<br/><br/><br/>Victory FAQ based on info in the rules forum here and elsewhere.<br/><br/>Reimplemented by:<br/><br/>    Victory: World War II – Second Edition published in 2019. Includes the Logistics Set and elements from the Elite Blocksets. Maps 1, 2, 6 and 7 are included<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/lMd38yFCJVCoB4ikLqaYwg__original/img/LIuSzpRE0x84DEp9JW6hixODGWI=/0x0/filters:format(jpeg)/pic2403125.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/lMd38yFCJVCoB4ikLqaYwg__small/img/2CJ-6T2T5AugltXywOlRqqvd0zw=/fit-in/200x150/filters:strip_icc()/pic2403125.jpg",
+    "publishers": [
+        "Columbia Games",
+        "Tilsit"
+    ],
+    "designers": [
+        "Tom Dalgliesh",
+        "Grant Dalgliesh"
+    ],
+    "artists": [
+        "Eric Hotz"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Dice Rolling",
+            "Hexagon Grid",
+            "Secret Unit Deployment"
+        ],
+        "categories": [
+            "Wargame",
+            "World War II"
+        ],
+        "families": [
+            "Components: Block Wargames"
+        ]
+    }
+}

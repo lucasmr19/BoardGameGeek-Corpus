@@ -1,0 +1,60 @@
+{
+    "id": 199,
+    "name": "Manhattan",
+    "yearpublished": "1994",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "45",
+    "maxplaytime": "45",
+    "age": "10",
+    "description": "In Manhattan, players construct a skyline of skyscrapers over several districts, or city blocks, of Manhattan Island. Ultimately, each player seeks to have built the tallest buildings in the most city blocks of the Island.<br/><br/>Each turn, players will play a card that illustrates which part of a city block they may place a &quot;floor&quot; on a building. The placement card is unique for each player in that the section they may place in is relative to their seating at the table. The player who has placed the top most floor controls that building. Each round, scores are tallied based on control of each of the neighborhoods.<br/><br/>At the end of the game, the player who has scored the most points through area control and tallest buildings wins.<br/><br/>Note: In the Finnish edition, the districts are named after six great cities of the world: Hong Kong, Sao Paulo, Cairo, Sydney, Frankfurt and Manhattan.<br/><br/>(Espa&ntilde;ol)<br/><br/>En Manhattan los jugadores construyen un 'skyline' de rascacielos en distintos distritos o zonas de la isla de Manhattan. El fin &uacute;ltimo de cada jugador ser&aacute; haber construido el edificio m&aacute;s alto en la mayor&iacute;a de zonas de la isla.<br/><br/>Cada turno, se juega una carta que ilustra en qu&eacute; parte de un bloque de la ciudad pueden poner un &quot;piso&quot; sobre un edificio. La carta de colaci&oacute;n es &uacute;nica, en tanto cada jugador coloca en cada secci&oacute;n del tablero, en relaci&oacute;n a su posici&oacute;n alrededor de la mesa. El jugador que ponga el piso m&aacute;s alto controla el edificio. Cada turno, se realiza un recuento basado en qui&eacute;n domina cada uno de los barrios.<br/><br/>Al final de la partida gana el jugador que ha conseguido m&aacute;s puntos mediante el control de las &aacute;reas y los edificios m&aacute;s altos.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/J38tww49pGTsp3bmgEekkA__original/img/x-9leXy53NTZmlbwFWE3xxc2Twg=/0x0/filters:format(png)/pic3573055.png",
+    "thumbnail": "https://cf.geekdo-images.com/J38tww49pGTsp3bmgEekkA__small/img/c_s6sLaYvcLGNOyLyF4rHGJkbMw=/fit-in/200x150/filters:strip_icc()/pic3573055.png",
+    "publishers": [
+        "Hans im Glück",
+        "Mandoo Games",
+        "999 Games",
+        "Act in games",
+        "Arclight Games",
+        "Broadway Toys LTD",
+        "Fabrika Igr",
+        "FoxGames",
+        "FoxMind",
+        "Korea Boardgames",
+        "Last Level",
+        "Litas Spil",
+        "Ludodélire",
+        "Mayfair Games",
+        "Mercurio",
+        "Nelospelit",
+        "Olsen",
+        "Rio Grande Games",
+        "Tactic"
+    ],
+    "designers": [
+        "Andreas Seyfarth"
+    ],
+    "artists": [
+        "Jacqui Davis",
+        "Jaqui Davis",
+        "Ramon Mascarenas",
+        "Monika Mucha",
+        "Zeilbeck & Natzeck Design Company"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Hand Management"
+        ],
+        "categories": [
+            "City Building"
+        ],
+        "families": [
+            "Cities: New York (New York, USA)",
+            "Components: 3-Dimensional (3D)",
+            "Digital Implementations: BrettspielWelt",
+            "Occupation: Architect",
+            "Theme: Construction"
+        ]
+    }
+}

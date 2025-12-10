@@ -1,0 +1,38 @@
+{
+    "id": 482,
+    "name": "Sky Runner",
+    "yearpublished": "1999",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "In Sky Runner, players become daring cat burglars scaling a towering skyscraper in a race to reach the top. Using a simultaneous bidding system reminiscent of Raj/What the Heck?, players compete to win cards that enable movement, sabotage, or stealing vital gear from rivals.<br/><br/>But this isn&rsquo;t just a numbers game&mdash;Sky Runner adds clever twists to the bidding genre with unique &quot;parasite&quot; cards, sneaky sabotage moves, and equipment-swiping showdowns. Outmaneuvering your opponents is just as important as climbing quickly.<br/><br/>The modular 3D board allows for a variety of layouts and difficulty levels, ensuring each game feels fresh. As the skyscraper changes, so too must your tactics.<br/><br/>With its fast-paced gameplay, chaotic bluffing, and vertical ambition, Sky Runner delivers a clever mix of strategy, sabotage, and sky-high suspense.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/Zw2QMsPG0aJg2_vcZ3CcfQ__original/img/aqWYw7bmOrqoIXDZNAdV-APU1xU=/0x0/filters:format(jpeg)/pic6855513.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Zw2QMsPG0aJg2_vcZ3CcfQ__small/img/a4DO_sFf-GAf_GgDmVsx53S3EE8=/fit-in/200x150/filters:strip_icc()/pic6855513.jpg",
+    "publishers": [
+        "Användbart Litet Företag",
+        "Ravensburger"
+    ],
+    "designers": [
+        "Dan Glimne",
+        "Erik Karlsson",
+        "Joel Sevelin"
+    ],
+    "artists": [
+        "Franz Vohwinkel"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Auction / Bidding",
+            "Hand Management",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Racing"
+        ],
+        "families": [
+            "Components: 3-Dimensional (3D)"
+        ]
+    }
+}

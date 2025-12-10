@@ -1,0 +1,109 @@
+
+📊 General statistics
+- Total reviews: 5123075
+- Rated reviews: 4828370
+- Reviews with text: 881341
+- Reviews with rating & text: 681696
+- Unique users: 15295
+- Non-unique users: 5278
+- 10 non-unique users: ['Yashima', 'SaraCV', 'cwmassey', 'yorinaga_k', 'aadepizol', 'codinh', 'warder57', 'liketheboys', 'ajie426', 'TheRook']
+
+⭐ Ratings distribution (top 10)
+   5.0: 4900
+   6.0: 4762
+   2.0: 2549
+   1.0: 2520
+   3.0: 2505
+   4.0: 2427
+  10.0: 2279
+   7.0: 2204
+   8.0: 2050
+   9.0: 2042
+
+📝 Sample raw text:
+['Only played that one legendary game of this. Would definitely want to try again sometime now with a better understanding of boardgames in general.', "Interesting and complicated game.. I just really dislike it at the same time. Duncan likes it and there aren't many copies in our gaming circles, so we keep it, but I doubt I'll ever play it again.", 'A four hour game that never feels like four hours - truly a great game. I really think that if you played this more than once a year, that you could trim the time a little bit as well.', "Outstanding game.\nA long game and you af inviolved all the time. Actually I've only played i once(exsl a get to learn die marcher play), but 10 is the only I can rate. We were all involved all the time and thou it lasted for around 5 hours it didn't seem so long a game. Might be my best gameexperience of all time.", 'Abstract representations of German politics -- so abstract that it has very little sense of politics at all. (If everyone pours in resources into a single state, it just means that that state has more points to give out, when the results should be zero-sum.) Graphic design of pieces is poor. Played it once in 2008 and it never made it to the table again and I don’t regret that for a second.'] ...
+
+🔍 Contexts for 'game' (window=3, first 5):
+  ('played one legendary', 'game', 'would definitely want')
+  ('interesting complicated', 'game', 'really dislike time')
+  ('four hour', 'game', 'never feels like')
+  ('hours truly great', 'game', 'really think played')
+  ('outstanding', 'game', 'long game af')
+
+⚖️ Top 5 common contexts for ['good', 'bad'] (window=2):
+[("play 5 _ 's cup", 14), ('_ party game', 14), ("_ game 's", 10), ("_ game n't", 6), ("_ game 'm", 5)]
+
+📌 Most frequent words (top 15):
+  game: 36967
+  's: 12957
+  n't: 11775
+  play: 11547
+  like: 8643
+  games: 7237
+  one: 6491
+  cards: 5506
+  fun: 5358
+  played: 5271
+  time: 5245
+  players: 5229
+  much: 5032
+  really: 5012
+  good: 4526
+
+🟢 Hapax legomena (first 20):
+['trim', 'inviolved', 'once(exsl', 'marcher', 'gameexperience', 'asignaturas', 'pendientes', '11/03/2015', 'fiero', 'gordo', 'agradables', 'relacionas', 'significan', 'jugarle', 'randomest', 'grock', 'k1mm1ngs', 'gops', '1ming', '2fen']
+
+📏 Word length distribution (top 10):
+  Length 1: 17059 occurrences
+  Length 2: 40062 occurrences
+  Length 3: 99534 occurrences
+  Length 4: 220741 occurrences
+  Length 5: 163608 occurrences
+  Length 6: 132360 occurrences
+  Length 7: 99858 occurrences
+  Length 8: 70749 occurrences
+  Length 9: 49811 occurrences
+  Length 10: 36929 occurrences
+
+🔗 Top 10 bigrams:
+  ('ca', "n't"): 1237
+  ('game', "'s"): 1014
+  ('board', 'game'): 782
+  ('feels', 'like'): 768
+  ('game', "n't"): 755
+  ('good', 'game'): 723
+  ('feel', 'like'): 722
+  ("n't", 'like'): 711
+  ('play', 'game'): 690
+  ("'ve", 'played'): 625
+
+🔗 Top 5 trigrams:
+  ("'d", 'rather', 'play'): 185
+  ('worker', 'placement', 'game'): 140
+  ('would', 'rather', 'play'): 111
+  ("n't", 'feel', 'like'): 111
+  ('2', 'player', 'game'): 102
+
+📎 Top 10 collocations:
+  ('ca', "n't"): 1237
+  ('game', "'s"): 1014
+  ('board', 'game'): 782
+  ('feels', 'like'): 768
+  ('game', "n't"): 755
+  ('good', 'game'): 723
+  ('feel', 'like'): 722
+  ("n't", 'like'): 711
+  ('play', 'game'): 690
+  ("'ve", 'played'): 625
+
+📂 Token counts by category:
+Category       Tokens    Types     LexDiv    
+negative       343599    26644     0.078
+neutral        316043    26247     0.083
+positive       307669    32067     0.104
+
+📂 Review counts by category:
+Category       Num Reviews
+neutral        10586     
+negative       10586     
+positive       10586     

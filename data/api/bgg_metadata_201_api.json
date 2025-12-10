@@ -1,0 +1,58 @@
+{
+    "id": 201,
+    "name": "The Rose King",
+    "yearpublished": "1992",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "10",
+    "description": "Originally published as Texas by db-Spiele.<br/><br/>The battle between farmers and ranchers is fairly abstract. A single pawn travels on a square grid. Each player has a hand of cards face up. These each have a direction and a distance. The player can either draw a card and add it to his hand, or play a card. If he plays a card, then the pawn moves the appropriate distance to an empty square, and the player places one of his markers. Each player also has judge symbols that can each be used only once. The judge lets you move onto a previously placed opposition marker and reverse it. Players score points for each contiguous region equal to the square of the number of markers. If a player is not careful, such a move may be forced, as there is a maximum number of cards that a player may hold.<br/><br/>Contains rules for playing with 4 (in two partnerships of two players).<br/><br/>Later republished 1999 as Rosenk&ouml;nig by Kosmos, as part of the two-player game series. The republication also included a re-theming of the game. The setting changed from Texas to England, and the factions changed from farmers and ranchers to the factions of the Plantagenet family from the Wars of the Roses (1455-1485) - the Lancaster (red rose) and the York (white rose) factions in a similarly abstracted fashion.<br/><br/>Rosenk&ouml;nig is part of the Kosmos two-player series.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/vfFy_HLiBNLxptwxFDMmDg__original/img/P3_WKEg4RBXmBWIVE4pMhFD35x4=/0x0/filters:format(jpeg)/pic2855891.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/vfFy_HLiBNLxptwxFDMmDg__small/img/CJ8yTQu3kt8o4ZwF5ZbMJWDj564=/fit-in/200x150/filters:strip_icc()/pic2855891.jpg",
+    "publishers": [
+        "db-Spiele",
+        "KOSMOS",
+        "999 Games",
+        "OPEN'N PLAY",
+        "Playte",
+        "Tilsit",
+        "White Goblin Games"
+    ],
+    "designers": [
+        "Dirk Henn"
+    ],
+    "artists": [
+        "Tanja Donner",
+        "Wanjin Gill",
+        "Anke Pohl",
+        "Thilo Rick",
+        "Andreas Steiner",
+        "Claus Stephan"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Grid Movement",
+            "Hand Management",
+            "Move Through Deck",
+            "Pattern Building",
+            "Square Grid",
+            "Static Capture",
+            "Sudden Death Ending",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Abstract Strategy",
+            "Medieval"
+        ],
+        "families": [
+            "Components: 9 x 9 Grids",
+            "Digital Implementations: Yucata",
+            "History: Wars of the Roses",
+            "Players: Two-Player Only Games",
+            "Series: L.BOARD (Playte)",
+            "Series: Two-player games (Kosmos)"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": 389,
+    "name": "Die Mauer",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "Each player has a matching set of pieces, Walls, a Tower and a Gate, and tries to clear their hand first or is deducted points. Each turn, one player is Master Builder, and all players secretly choose a piece in their fist. When revealed, if the Master Builder chose uniquely, that piece is added to the wall, but if any player chose the exact match, they get to build instead.<br/><br/>Walls can go next to anything, but Towers or Gates may only sit next to walls.<br/><br/>Players have the option of an empty fist too. If the Master Builder is the only empty fist, it gets to pick from its hand. If one other player had an empty fist, they secretly pass a piece to the Master Builder. If more than one empty fist matches the Master Builder's choice, no-one builds.<br/><br/>Play continues with the next player being the Master Builder and so on until somebody clears their hand. If you still hold pieces, Towers lose you 15pts, Gates 10pts and the Walls from 1-6 pts. Play a few rounds and total the scores.<br/><br/>Group think and the building rules have some control, but this is a nice game of bluff and mind-reading. Get it right, and you'll sail through. Get it wrong and you'll rack up the points! Good fun, good for a pub or bar, nice bits and very quick play.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/AT0QfS7vfbm4YP--jymAZA__original/img/fNWBB8AgrdUKedJVD6x52PLWo-0=/0x0/filters:format(jpeg)/pic172280.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/AT0QfS7vfbm4YP--jymAZA__small/img/FQKSNzE77bLDzljixcmhd0oDAwo=/fit-in/200x150/filters:strip_icc()/pic172280.jpg",
+    "publishers": [
+        "(Self-Published)",
+        "Zoch Verlag"
+    ],
+    "designers": [
+        "Thomas Fackler"
+    ],
+    "artists": [
+        "Thomas Fackler"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Bluffing"
+        ],
+        "families": []
+    }
+}

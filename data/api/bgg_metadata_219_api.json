@@ -1,0 +1,34 @@
+{
+    "id": 219,
+    "name": "Volle Hütte",
+    "yearpublished": "1997",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "12",
+    "description": "Players take on the role of club-owners vying for customers' Deutsch Marks in this unique board game, called Full House in German.<br/><br/>Each player is given a small board representing their cafe or pub. In your turn, you can either place a tile in your pub, representing different types of seating (bar, patio, formal) &amp; activities (dancing, shooting pool, playing fooseball), or you can select a customer card, to draw in customers to those specific tiles, if you have the seating available. A third choice is to take a Billing card, which gives you a tip in cash money, and makes all customers in all the players bars pay their bills too. Yellow customers are worth 10 DM, red 20 DM and blue customers pay 30 DM.<br/><br/>When there are at least ten customers floating around, players can also spend a Action card which moves customers around. The cards either move off a specific tile type to a type you choose, or from a tile type you choose to a specific tile. So you might move customers specifically from the terrace seating to any other type of your choice (such as the disco floor), or from a tile of your choice (such as the bar) to specifically a Pool Table. The cards allow from 1-4 customers to move, depending on the tiles.<br/><br/>This is the clever part. As the customers move, they normally pay their bill, unless the Action card shows a No Pay symbol, making them bill-dodgers. When customers move, they first look for a suitable spot within the same pub! Only if they can't find one (either it lacks that type of tile, or there isn't enough room to accommodate them), do they then start wandering clockwise to the next pub, and keep going until they find a suitable spot. If they can't, they leave the game.<br/><br/>So if you have an Action card that pays a bill, and you have the right empty spaces in your bar (because you've carefully put in a variety of attractions), you move your customers around inside your bar and collect the money (&quot;Hey, we're paying our bar tab now, we're gonna shoot some Pool&quot;). If you have a suitable Action card with a No Pay symbol, you move customers from another player's bar into yours (&quot;This place stinks guys, let's skip out and find a Fooseball!&quot;). It is this clever management of customers that will net you big profits.<br/><br/>And if your bar is pretty full, especially with blue and red customers, you call a billing as your first action. The other players also collect, but you should have a margin on them, plus the tip (from 30-70 DM).<br/><br/>There are always three Customer cards and three Action cards face up, and two fresh tiles, so you should be able to make good choices and plan ahead a little. The game ends when the Action cards or the Billing cards are exhausted.<br/><br/>The winner is the player with the most money, having milked the punters as much as possible.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/R7z-RyRJpbJpbJh_OSbu_g__original/img/SvO00dRrnJUJLZQI8ESNOJ73iPw=/0x0/filters:format(jpeg)/pic1300663.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/R7z-RyRJpbJpbJh_OSbu_g__small/img/Z65NzJre_5FYTxJU0SWFqwEs8iE=/fit-in/200x150/filters:strip_icc()/pic1300663.jpg",
+    "publishers": [
+        "ASS Altenburger Spielkarten"
+    ],
+    "designers": [
+        "Stefan Dorra"
+    ],
+    "artists": [
+        "Wilfried Gebhard"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Hand Management",
+            "Tile Placement"
+        ],
+        "categories": [
+            "Economic"
+        ],
+        "families": [
+            "Components: 12 x 12 Grids"
+        ]
+    }
+}

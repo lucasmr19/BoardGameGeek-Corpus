@@ -1,0 +1,74 @@
+[
+  {
+    "username": "jboy666",
+    "rating": 1.0,
+    "comment": "pnp",
+    "timestamp": 1653429600
+  },
+  {
+    "username": "BlackLeadAlchemist",
+    "rating": 2.0,
+    "comment": "Boring. It's an exercise on counting and geometry. It'd be okay if it was a bit more exciting",
+    "timestamp": 1374703200
+  },
+  {
+    "username": "tphon",
+    "rating": 3.0,
+    "comment": "No Cards",
+    "timestamp": 1728511200
+  },
+  {
+    "username": "Kaffedrake",
+    "rating": 4.0,
+    "comment": "Somewhere in among the bumping, splitting, bouncing, wrapping and transferring I'm lost. I'm just not that fond of tactics without clarity.",
+    "timestamp": 1569621600
+  },
+  {
+    "username": "fogus",
+    "rating": 5.2,
+    "comment": "[2015.01.10]\n\nThis game is completely opaque to me. That said, I can see its appeal even though I have a blockage around its tactics and strategies.",
+    "timestamp": 1447110000
+  },
+  {
+    "username": "Peter Loftus",
+    "rating": 5.0,
+    "comment": "Never as good as I wanted it to be so never got much table time. Cannibalised it for the dice and threw away the board, which after 20 plus years was slightly mouldy...",
+    "timestamp": 1430690400
+  },
+  {
+    "username": "simoncorne",
+    "rating": 6.0,
+    "comment": "St Gemma's Otley, £0.99",
+    "timestamp": 1728252000
+  },
+  {
+    "username": "hiimjosh",
+    "rating": 6.0,
+    "comment": "I didn't get to explore it very much as the implementation I was using was very buggy, however there are a lot of neat ideas. You have a bunch of dice starting on your side, and the objective is to get the opponent down to 4 dice (it will make more sense why later). Dice move in straight lines the number of pips on the dice. If you land directly on an opponent's die, you capture it and they must somehow reallocate the pips of that die - always maintaining 25 (6*4=24 which is why 4 getting to 4 dice wins). If you land on your own die, you bump it one space. You can also transfer pips with adjacent dice. The board wraps around on the lateral sides and dice ricochet off the top and bottom. There is a center space where you can split a die into two separate dice.\n\nThe dice mechanics are really cool, however the movement is a lot more restrictive than you might expect leading to an otherwise rollicking time to be riddled with \"tsk-tsk-tsk\" from the ruleset. I'd rather just play something without so invalid moves.",
+    "timestamp": 1691013600
+  },
+  {
+    "username": "roccob",
+    "rating": 7.0,
+    "comment": "home-made copy",
+    "timestamp": 1707692400
+  },
+  {
+    "username": "ponchera69",
+    "rating": 8.0,
+    "comment": "2",
+    "timestamp": 1750284000
+  },
+  {
+    "username": "DanFred",
+    "rating": 8.5,
+    "comment": "Chase is nothing if not quirky. I can almost guarantee you don't have another game like Chase in your collection. Not very intuitive and very wonky but still very fun abstract game that is unique and fun.",
+    "timestamp": 1741647600
+  },
+  {
+    "username": "kataclysm",
+    "rating": 10.0,
+    "comment": "What a great little game! It's full of dice, but there's no chance. Just a few moves into my first play I understood how to move and could move with intent. Little by little, strategies and bad plays became clearer. You could play this game 20 more times and still discover new things about it. Chase meets my criteria for the ideal strategy game. Plus I just love moving the dice around like pawns.",
+    "timestamp": 1603926000
+  }
+]

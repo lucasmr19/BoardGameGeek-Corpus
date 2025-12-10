@@ -1,0 +1,44 @@
+{
+    "id": 14,
+    "name": "Basari",
+    "yearpublished": "1998",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "minplaytime": "25",
+    "maxplaytime": "25",
+    "age": "10",
+    "description": "Basari is a game of gem merchants competing in a marketplace&quot;: racing, collecting, trading, and predicting what the other merchants will do.<br/><br/>To start the game, players receive 12 gemstones (3 each of 4 colors). <br/>Each turn there will be a movement phase and an action phase:<br/><br/>For movement, everyone simultaneously rolls their die and moves their markers around a track.<br/><br/>They then choose one of three different actions to perform. The actions are:<br/>- to take a variety of gems from a market stall, <br/>- to immediately score from between 4 and 7 points, or <br/>- to roll and move again and also collect points.<br/><br/>The action cards are revealed simultaneously. If only 1 player chose a particular action, they simply perform that action. If 2 players chose the same action, they barter back and forth with gemstones. One player will eventually accept the other's offer of gems, and the other will take the action. If 3 or 4 players all chose the same action card, that action is cancelled. Note that in 4-player games, there will always be a conflict in choice of 3 actions, so much more negotiating goes on.<br/><br/>A new turn begins with everyone rolling their die, moving, then choosing and revealing their action cards. When any merchant piece completes a lap around the board, the round ends and bonus points are awarded based on who has the majority in each gem color and who has completed a lap. After three rounds, the game is over and the highest score wins.<br/><br/>Re-implemented by:<br/><br/><br/>     Edel, Stein & Reich<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/NIgg_RpaqVFpYnBSF7wGBQ__original/img/jA5azl-Ios5loeQobGOwFdu6nQw=/0x0/filters:format(jpeg)/pic391903.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/NIgg_RpaqVFpYnBSF7wGBQ__small/img/BrlkRHF4vEns7T7LdutbqAffsZY=/fit-in/200x150/filters:strip_icc()/pic391903.jpg",
+    "publishers": [
+        "F.X. Schmid",
+        "New Games Order, LLC",
+        "Nürnberger-Spielkarten-Verlag",
+        "Out of the Box Publishing",
+        "Swan Panasia Co., Ltd.",
+        "White Goblin Games"
+    ],
+    "designers": [
+        "Reinhard Staupe"
+    ],
+    "artists": [
+        "John Kovalic",
+        "Lüders & Baran",
+        "Stefan Theurer"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Roll / Spin and Move",
+            "Set Collection",
+            "Simultaneous Action Selection"
+        ],
+        "categories": [
+            "Negotiation"
+        ],
+        "families": [
+            "Components: Gems/Crystals",
+            "Misc: Mensa Select",
+            "Occupation: Merchant"
+        ]
+    }
+}

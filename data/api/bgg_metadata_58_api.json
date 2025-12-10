@@ -1,0 +1,78 @@
+{
+    "id": 58,
+    "name": "Kings & Things",
+    "yearpublished": "1986",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "60",
+    "maxplaytime": "180",
+    "age": "12",
+    "description": "Kings &amp; Things is a classic Tom Wham game of warring kingdoms in a fantasy world and the legions of things that inhabit them. The board is made from hex tiles, which allows for a different board layout every time. Utilizing an interesting flipped counter element, players attempt to out bluff one another regarding the types of things they have in their armies.<br/><br/>Reimplements:<br/><br/>    King of the Tabletop<br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/QJU-51hfBlaRRDnAtj1oxw__original/img/IdVMsgVTmzNexwVTVQZJVmd5uMo=/0x0/filters:format(jpeg)/pic638820.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/QJU-51hfBlaRRDnAtj1oxw__small/img/Kkyqov9XpPd6k-XKLDwNVyr6RWM=/fit-in/200x150/filters:strip_icc()/pic638820.jpg",
+    "publishers": [
+        "Games Workshop Ltd.",
+        "West End Games",
+        "Z-Man Games",
+        "Hobby Japan",
+        "Pegasus Spiele"
+    ],
+    "designers": [
+        "Doug Kaufman",
+        "Robert J. Kuntz",
+        "Tom Wham"
+    ],
+    "artists": [
+        "Ray-Mel Cornelius",
+        "Charles Elliot (I)",
+        "Loring Eutemey",
+        "Martin Hoffmann",
+        "Richard A. Johnson",
+        "Doris Matthäus",
+        "Claus Stephan",
+        "David A. Trampier",
+        "Walter Velez",
+        "Tom Wham",
+        "Kevin Wilkins"
+    ],
+    "classifications": {
+        "mechanics": [
+            "Area Majority / Influence",
+            "Area Movement",
+            "Dice Rolling",
+            "Events",
+            "Hexagon Grid",
+            "Modular Board",
+            "Secret Unit Deployment"
+        ],
+        "categories": [
+            "Bluffing",
+            "Exploration",
+            "Fantasy",
+            "Humor",
+            "Territory Building",
+            "Wargame"
+        ],
+        "families": [
+            "Admin: Better Description Needed!",
+            "Animals: Birds",
+            "Animals: Camels",
+            "Animals: Dinosaurs",
+            "Animals: Elephants",
+            "Animals: Insects",
+            "Animals: Penguins",
+            "Animals: Raccoons",
+            "Animals: Snakes",
+            "Animals: Spiders",
+            "Animals: Squirrels / Chipmunks",
+            "Animals: Tigers",
+            "Animals: Wolves",
+            "Creatures: Dragons",
+            "Creatures: Goblins",
+            "Creatures: Monsters",
+            "Creatures: Vampires",
+            "Theme: Deserts",
+            "Theme: Hot Air Balloons"
+        ]
+    }
+}

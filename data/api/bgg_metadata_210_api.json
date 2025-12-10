@@ -1,0 +1,34 @@
+{
+    "id": 210,
+    "name": "Don Pepe",
+    "yearpublished": "1999",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "30",
+    "maxplaytime": "30",
+    "age": "8",
+    "description": "In this twisted little game, players take control of a gang of mobsters that are dedicated to extorting money out of businesses and rubbing out the competing mobs in the process.  All of the gang members are placed around an oblong table, with some of the places indicating certain benefits.  If a place has a picture of a business, then the player makes money until the mobster is killed or moved.  If the place has a gun, then he can use it to shoot a mobster across the table.  If a place has a knife, then he can use it to stab someone seated next to him.  Plus, some of the mobsters have the ability to kill others all the time by carrying their own knives and guns.  The game ends when all the available money is taken, and the largest pile of cash takes the game.<br/><br/>",
+    "image": "https://cf.geekdo-images.com/j6XxG1ylZIfb2toKfjlbfw__original/img/EWxorxVZemQ5CjO_g711zLqhlGs=/0x0/filters:format(jpeg)/pic24880.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/j6XxG1ylZIfb2toKfjlbfw__small/img/ozRRwWcFLDRKEwYfida-MvqpeqA=/fit-in/200x150/filters:strip_icc()/pic24880.jpg",
+    "publishers": [
+        "Game Office",
+        "Hasbro",
+        "Parker Brothers",
+        "ToyCo"
+    ],
+    "designers": [
+        "Dominique Ehrhard"
+    ],
+    "artists": [],
+    "classifications": {
+        "mechanics": [
+            "Take That"
+        ],
+        "categories": [
+            "Card Game",
+            "Economic",
+            "Mafia"
+        ],
+        "families": []
+    }
+}

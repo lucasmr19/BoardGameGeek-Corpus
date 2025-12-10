@@ -1,0 +1,31 @@
+{
+    "id": 470,
+    "name": "Road to the White House",
+    "yearpublished": "1992",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "minplaytime": "240",
+    "maxplaytime": "240",
+    "age": "12",
+    "description": "extrapolated from the preview:<br/><br/>The essence of the game is that you are moving from one to four pawns around the country, landing in cities, and scoring &quot;votes&quot; in the appropriate state which are proportional to the size of the city. Each turn, you move and add votes to the states you land in.<br/><br/>There are many complications that can occur. You can sit out a turn and collect money. With money, you can buy &quot;organization&quot; in a state, acting as a multiplier to all subsequent votes you get in that state. You can buy &quot;advertising&quot; - most useful in buying votes in piddly states that you're too busy to visit. You can buy &quot;surrogates&quot; which are additional pawns who may travel, garnering votes, just like your candidate. You can buy &quot;special flights&quot; that help you get to places without the luck of the dice.<br/><br/>The most characteristic part of the game comes in the &quot;issues&quot;. Each player picks a politician with his own profile on how he stands on various issues. Then either through choice or chance cards, issues become &quot;active&quot;. As long as the issue is active, politicians with a relevant stand will have bonuses or penalties when he visits certain states. The game strongly encourages role playing.<br/><br/>The climax of the game comes at the end, as you go down each state to see who has the most votes, thereby winning that state's delegates. There is a smart balloting system, in which the lowest scoring player drops out, giving his states' votes to the next strongest in each state. This continues, with players dropping out in each successive ballot until a winner is chosen.<br/><br/><br/><br/><br/>",
+    "image": "https://cf.geekdo-images.com/K2KqiX_aHkvkQBam3J8GsQ__original/img/vqkqa4KQ-3lvGvvleq-6s68vDR8=/0x0/filters:format(jpeg)/pic448261.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/K2KqiX_aHkvkQBam3J8GsQ__small/img/OFFnqsz0cLvgOrfX2RPrf6YVHLU=/fit-in/200x150/filters:strip_icc()/pic448261.jpg",
+    "publishers": [
+        "Mayfair Games"
+    ],
+    "designers": [
+        "Jim Musser"
+    ],
+    "artists": [
+        "Bill Sanders"
+    ],
+    "classifications": {
+        "mechanics": [],
+        "categories": [
+            "Political"
+        ],
+        "families": [
+            "Country: USA"
+        ]
+    }
+}
