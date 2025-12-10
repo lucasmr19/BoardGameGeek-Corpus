@@ -261,7 +261,7 @@ def main():
     test_dataset = ReviewDataset(X_test, y_test_idx)
     
     # -------------------------------
-    # 3. Hyperparameter Tuning (Optional)
+    # 3. Hyperparameter Tuning
     # -------------------------------
     tuning_results = None
     best_params = None

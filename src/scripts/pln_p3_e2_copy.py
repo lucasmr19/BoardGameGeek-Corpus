@@ -33,18 +33,305 @@ from transformers import (
 )
 from datetime import datetime
 
-from bgg_corpus.config import (
-    SPLITS_DIR_BERT, MODELS_DIR_BERT
+
+SPLITS_DIR_BERT = r"C:\Users\TrendingPC\Documents\Ciencia e Ingeniería de Datos\4to año\PLN\Prácticas\BoardGeekGames-Corpus\data\processed\datasets\bert"
+MODELS_DIR_BERT = r"C:\Users\TrendingPC\Documents\Ciencia e Ingeniería de Datos\4to año\PLN\Prácticas\BoardGeekGames-Corpus\data\processed\models\bert"
+
+import logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S"
 )
-from bgg_corpus.resources import LOGGER
-from modeling import (
-    plot_confusion_matrix, 
-    plot_training_history,
-    BERTReviewDataset,
-    train_epoch_bert,
-    evaluate_bert,
-    HyperparameterTunerBERT,
-)
+LOGGER = logging.getLogger(__name__)
+
+from itertools import product
+
+
+class HyperparameterTunerBERT:
+    """Class for hyperparameter tuning in BERT fine-tuning"""
+    def __init__(self, model_name, num_classes, device):
+        self.model_name = model_name
+        self.num_classes = num_classes
+        self.device = device
+        self.results = []
+    
+    def get_param_grid(self):
+        """Define hyperparameter grid for BERT"""
+        return {
+            'lr': [2e-5, 3e-5, 5e-5],
+            'batch_size': [8, 16, 32],
+            'max_length': [128, 256, 512],
+            'warmup_steps': [0, 100, 500],
+            'weight_decay': [0.0, 0.01]
+        }
+    
+    def create_model(self):
+        """Create fresh BERT model"""
+        model = AutoModelForSequenceClassification.from_pretrained(
+            self.model_name,
+            num_labels=self.num_classes,
+            hidden_dropout_prob=0.2
+        )
+        return model.to(self.device)
+    
+    def train_with_config(self, params, train_texts, train_labels, 
+                         val_texts, val_labels, tokenizer, epochs=5, patience=3):
+        """Train model with specific configuration"""
+        # Create datasets
+        train_dataset = BERTReviewDataset(
+            train_texts, train_labels, tokenizer, params['max_length']
+        )
+        val_dataset = BERTReviewDataset(
+            val_texts, val_labels, tokenizer, params['max_length']
+        )
+        
+        # Create dataloaders
+        train_loader = DataLoader(
+            train_dataset, batch_size=params['batch_size'], shuffle=True
+        )
+        val_loader = DataLoader(
+            val_dataset, batch_size=params['batch_size']
+        )
+        
+        # Create model
+        model = self.create_model()
+        
+        # Optimizer and scheduler
+        optimizer = optim.AdamW(
+            model.parameters(), 
+            lr=params['lr'],
+            weight_decay=params['weight_decay']
+        )
+        
+        total_steps = len(train_loader) * epochs
+        scheduler = get_linear_schedule_with_warmup(
+            optimizer,
+            num_warmup_steps=params['warmup_steps'],
+            num_training_steps=total_steps
+        )
+        
+        criterion = nn.CrossEntropyLoss()
+        
+        best_val_loss = float('inf')
+        best_val_acc = 0
+        patience_counter = 0
+        
+        for epoch in range(epochs):
+            train_loss, train_acc = train_epoch_bert(
+                model, train_loader, criterion, optimizer, scheduler, self.device
+            )
+            val_loss, val_preds, val_labels_arr = evaluate_bert(
+                model, val_loader, criterion, self.device
+            )
+            val_acc = accuracy_score(val_labels_arr, val_preds)
+            
+            if val_loss < best_val_loss:
+                best_val_loss = val_loss
+                best_val_acc = val_acc
+                patience_counter = 0
+            else:
+                patience_counter += 1
+                if patience_counter >= patience:
+                    break
+        
+        return best_val_loss, best_val_acc, model
+    
+    def tune(self, train_texts, train_labels, val_texts, val_labels, 
+             tokenizer, epochs=5, patience=3, max_trials=None):
+        """Perform hyperparameter tuning"""
+        param_grid = self.get_param_grid()
+        
+        keys = list(param_grid.keys())
+        values = list(param_grid.values())
+        combinations = list(product(*values))
+        
+        if max_trials and len(combinations) > max_trials:
+            np.random.shuffle(combinations)
+            combinations = combinations[:max_trials]
+        
+        LOGGER.info(f"Testing {len(combinations)} hyperparameter configurations...")
+        
+        best_config = None
+        best_score = 0
+        
+        for i, combo in enumerate(combinations):
+            params = dict(zip(keys, combo))
+            LOGGER.info(f"\nTrial {i+1}/{len(combinations)}: {params}")
+            
+            try:
+                val_loss, val_acc, model = self.train_with_config(
+                    params, train_texts, train_labels, 
+                    val_texts, val_labels, tokenizer, epochs, patience
+                )
+                
+                result = {
+                    'params': params,
+                    'val_loss': val_loss,
+                    'val_acc': val_acc
+                }
+                self.results.append(result)
+                
+                LOGGER.info(f"Val Loss: {val_loss:.4f}, Val Acc: {val_acc:.4f}")
+                
+                if val_acc > best_score:
+                    best_score = val_acc
+                    best_config = (params, model)
+                    LOGGER.info(f"New best configuration! Val Acc: {val_acc:.4f}")
+            
+            except Exception as e:
+                LOGGER.error(f"Error with configuration {params}: {str(e)}")
+                continue
+        
+        return best_config, self.results
+    
+import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
+
+def plot_confusion_matrix(y_true, y_pred, labels, output_path):
+    """Genera y guarda matriz de confusión"""
+    cm = confusion_matrix(y_true, y_pred)
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', 
+                xticklabels=labels, yticklabels=labels)
+    plt.xlabel('Prediction')
+    plt.ylabel('Actual')
+    plt.title('Confusion Matrix')
+    plt.tight_layout()
+    plt.savefig(output_path)
+    plt.close()
+    LOGGER.info(f"Confusion matrix saved to {output_path}")
+
+def plot_training_history(history, output_path):
+    """Generates and saves training plots"""
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(15, 5))
+    
+    # Loss
+    ax1.plot(history['train_loss'], label='Train Loss')
+    ax1.plot(history['val_loss'], label='Val Loss')
+    ax1.set_xlabel('Epoch')
+    ax1.set_ylabel('Loss')
+    ax1.set_title('Training and Validation Loss')
+    ax1.legend()
+    ax1.grid(True)
+    
+    # Accuracy
+    ax2.plot(history['train_acc'], label='Train Accuracy')
+    ax2.plot(history['val_acc'], label='Val Accuracy')
+    ax2.set_xlabel('Epoch')
+    ax2.set_ylabel('Accuracy')
+    ax2.set_title('Training and Validation Accuracy')
+    ax2.legend()
+    ax2.grid(True)
+    
+    plt.tight_layout()
+    plt.savefig(output_path)
+    plt.close()
+    LOGGER.info(f"Training history saved to {output_path}")
+
+
+import torch
+from torch.utils.data import Dataset
+
+class BERTReviewDataset(Dataset):
+    """Dataset for BERT tokenized reviews"""
+    def __init__(self, texts, labels, tokenizer, max_length=256):
+        self.texts = texts
+        self.labels = torch.LongTensor(labels)
+        self.tokenizer = tokenizer
+        self.max_length = max_length
+    
+    def __len__(self):
+        return len(self.labels)
+    
+    def __getitem__(self, idx):
+        text = str(self.texts[idx])
+        label = self.labels[idx]
+        
+        encoding = self.tokenizer(
+            text,
+            add_special_tokens=True,
+            max_length=self.max_length,
+            padding='max_length',
+            truncation=True,
+            return_attention_mask=True,
+            return_tensors='pt'
+        )
+        
+        return {
+            'input_ids': encoding['input_ids'].flatten(),
+            'attention_mask': encoding['attention_mask'].flatten(),
+            'labels': label
+        }
+
+from tqdm import tqdm
+# -------------------------------
+# Training and Evaluation Functions
+# -------------------------------
+def train_epoch_bert(model, dataloader, criterion, optimizer, scheduler, device):
+    """Train one epoch for BERT model"""
+    model.train()
+    total_loss = 0
+    correct = 0
+    total = 0
+    
+    for batch in tqdm(dataloader, desc="Training", leave=False):
+        input_ids = batch['input_ids'].to(device)
+        attention_mask = batch['attention_mask'].to(device)
+        labels = batch['labels'].to(device)
+        
+        optimizer.zero_grad()
+        
+        outputs = model(
+            input_ids=input_ids,
+            attention_mask=attention_mask,
+            labels=labels
+        )
+        
+        loss = outputs.loss
+        logits = outputs.logits
+        
+        loss.backward()
+        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+        optimizer.step()
+        scheduler.step()
+        
+        total_loss += loss.item()
+        _, predicted = torch.max(logits, 1)
+        total += labels.size(0)
+        correct += (predicted == labels).sum().item()
+    
+    return total_loss / len(dataloader), correct / total
+
+def evaluate_bert(model, dataloader, criterion, device):
+    """Evaluate BERT model"""
+    model.eval()
+    total_loss = 0
+    all_preds = []
+    all_labels = []
+    
+    with torch.no_grad():
+        for batch in dataloader:
+            input_ids = batch['input_ids'].to(device)
+            attention_mask = batch['attention_mask'].to(device)
+            labels = batch['labels'].to(device)
+            
+            outputs = model(
+                input_ids=input_ids,
+                attention_mask=attention_mask,
+                labels=labels
+            )
+            
+            loss = outputs.loss
+            logits = outputs.logits
+            
+            total_loss += loss.item()
+            _, predicted = torch.max(logits, 1)
+            all_preds.extend(predicted.cpu().numpy())
+            all_labels.extend(labels.cpu().numpy())
+    
+    return total_loss / len(dataloader), np.array(all_preds), np.array(all_labels)
 
 # -------------------------------
 # Save Training Summary
@@ -146,7 +433,6 @@ def main():
                        help="Pretrained model name (e.g., bert-base-uncased, roberta-base)")
     parser.add_argument("--max_length", type=int, default=64,
                        help="Maximum sequence length")
-    parser.add_argument("--vocab_size", type=int, default=30522, help="Vocabulary size of the tokenizer")
     parser.add_argument("--hidden_size", type=int, default=768, help="Hidden size of the model")
     parser.add_argument("--num_hidden_layers", type=int, default=12, help="Number of hidden layers")
     parser.add_argument("--num_attention_heads", type=int, default=12, help="Number of attention heads")
@@ -288,7 +574,7 @@ def main():
     # 5. Create final model
     # -------------------------------
     config = BertConfig(
-        vocab_size=args.vocab_size,  # Usually don't change this
+        vocab_size=30522,  # usualmente no lo cambias
         hidden_size=args.hidden_size,
         num_hidden_layers=args.num_hidden_layers,
         num_attention_heads=args.num_attention_heads,

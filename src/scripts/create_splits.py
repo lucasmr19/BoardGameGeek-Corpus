@@ -4,7 +4,7 @@
 Datasets Creation Script
 
 This script loads either:
-    - Sparse TF-IDF/BoW matrices (.npz) located in VECTORS_DIR, or
+    - Sparse TF-IDF/BoW matrices (.npz) with tokens_no_stopwords located in VECTORS_DIR, or
     - Dense static embeddings (.npy) located in EMBEDDINGS_DIR
 
 It then creates stratified train/val/test splits and stores them in the
@@ -28,7 +28,7 @@ import joblib
 import numpy as np
 import pandas as pd
 from collections import Counter
-from scipy.sparse import load_npz, save_npz, csr_matrix
+from scipy.sparse import load_npz, save_npz
 from sklearn.model_selection import train_test_split
 
 from src.bgg_corpus.resources import LOGGER
