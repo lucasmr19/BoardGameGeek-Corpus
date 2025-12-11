@@ -1,0 +1,145 @@
+{
+  "game_name": "Samurai",
+  "n_reviews_analyzed": 12,
+  "aspects": [
+    {
+      "aspect": "strategic_depth",
+      "category": "mechanics",
+      "sentiment": "positive",
+      "evidence": [
+        "the game does so much with so little",
+        "gradually narrowing decision space where the decisions become more important",
+        "maravilloso juego"
+      ],
+      "examples_count": 4
+    },
+    {
+      "aspect": "tile_laying_mechanics",
+      "category": "mechanics",
+      "sentiment": "neutral",
+      "evidence": [
+        "utterly boring tile-laying practice",
+        "a tactical tile laying game with area control"
+      ],
+      "examples_count": 5
+    },
+    {
+      "aspect": "area_control",
+      "category": "mechanics",
+      "sentiment": "positive",
+      "evidence": [
+        "fighting small tight battles distinct from each other but tied together over a larger board",
+        "i can't think of other area control games that handle this so well"
+      ],
+      "examples_count": 3
+    },
+    {
+      "aspect": "randomness_tile_draw",
+      "category": "mechanics",
+      "sentiment": "negative",
+      "evidence": [
+        "the randomness feels arbitrary and swingy",
+        "who didn't get screwed over on the draw",
+        "often comes down to the order you draw your tiles"
+      ],
+      "examples_count": 4
+    },
+    {
+      "aspect": "end_game_uncertainty",
+      "category": "mechanics",
+      "sentiment": "negative",
+      "evidence": [
+        "every game i've played between people of equivalent skill boils down to end-game uncertainty",
+        "sooner or later the game arrives at the point where everything is a set-up play"
+      ],
+      "examples_count": 2
+    },
+    {
+      "aspect": "chaos_level",
+      "category": "mechanics",
+      "sentiment": "negative",
+      "evidence": ["just a little too chaotic for me", "arbitrary and swingy"],
+      "examples_count": 2
+    },
+    {
+      "aspect": "scoring_system",
+      "category": "mechanics",
+      "sentiment": "positive",
+      "evidence": [
+        "good game, with great scoring",
+        "winner is determined by the player with the most majorities of the 3 types"
+      ],
+      "examples_count": 2
+    },
+    {
+      "aspect": "player_scaling",
+      "category": "mechanics",
+      "sentiment": "positive",
+      "evidence": [
+        "probably the coolest and most seamless method of player scaling",
+        "i might even prefer it at 4"
+      ],
+      "examples_count": 2
+    },
+    {
+      "aspect": "frustration_reactive_play",
+      "category": "player_interaction",
+      "sentiment": "negative",
+      "evidence": [
+        "you can only react to one problem at a time",
+        "when it's your turn again your opponents have created two new ones",
+        "it gives me a feeling of frustration"
+      ],
+      "examples_count": 3
+    },
+    {
+      "aspect": "player_conflict_interaction",
+      "category": "player_interaction",
+      "sentiment": "positive",
+      "evidence": [
+        "we can fight near each other, but not be in directly conflict",
+        "fighting small tight battles"
+      ],
+      "examples_count": 2
+    },
+    {
+      "aspect": "rules_simplicity",
+      "category": "rules",
+      "sentiment": "positive",
+      "evidence": ["hits hard for it's light rules"],
+      "examples_count": 1
+    },
+    {
+      "aspect": "components_quality",
+      "category": "components",
+      "sentiment": "positive",
+      "evidence": ["components excellent"],
+      "examples_count": 1
+    },
+    {
+      "aspect": "components_condition",
+      "category": "components",
+      "sentiment": "negative",
+      "evidence": ["smushed corner, splitting seams"],
+      "examples_count": 1
+    },
+    {
+      "aspect": "playtime_length",
+      "category": "playtime",
+      "sentiment": "positive",
+      "evidence": ["reasonably short and engrossing"],
+      "examples_count": 1
+    },
+    {
+      "aspect": "fun_factor",
+      "category": "other",
+      "sentiment": "negative",
+      "evidence": [
+        "it's not a fun game",
+        "utterly boring tile-laying practice",
+        "doesn't tickle me"
+      ],
+      "examples_count": 3
+    }
+  ]
+}

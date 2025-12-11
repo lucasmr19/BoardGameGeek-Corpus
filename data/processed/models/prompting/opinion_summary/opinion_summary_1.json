@@ -1,0 +1,78 @@
+{
+  "game_name": "Die Macher",
+  "n_reviews_analyzed": 68,
+  "summary": "Die Macher is widely regarded as a deep and thematically rich political-euro with strong player interaction and strategic depth — but it comes with a steep learning curve, long playtime, and a high degree of randomness that divides opinions. Players who invest the time often praise its negotiation, resource-management, and coalition mechanics, while others find the luck and bookkeeping overwhelming. The game remains appreciated as a classic heavyweight, but its complexity and age-dated design mean it often struggles to hold the attention of modern groups.",
+  "top_aspects": [
+    {
+      "aspect": "Complexity / Learning curve",
+      "sentiment": "negative",
+      "weight": "high",
+      "evidence": [
+        "it seemed hard to grock and the timing was super important but not at all easy to remember.",
+        "there's alot to keep track of, so it's hard to come up with a good strategy your first time."
+      ]
+    },
+    {
+      "aspect": "Randomness / Luck",
+      "sentiment": "negative",
+      "weight": "high",
+      "combined_aspect": "randomness",
+      "evidence": [
+        "the randomness is unbearable, even worse than the randomest ameritrash.",
+        "too much luck involved, and some of the luck can be pretty brutal if it doesn't go your way."
+      ]
+    },
+    {
+      "aspect": "Player interaction & negotiation mechanics",
+      "sentiment": "positive",
+      "weight": "medium",
+      "evidence": [
+        "negotiation felt really great; we permitted money to exchange hands and i loved how one emergent strategy was to partner up with other players",
+        "lots of interaction and decisions, mechanics are easy, strategy difficult"
+      ]
+    },
+    {
+      "aspect": "Thematic and strategic depth",
+      "sentiment": "positive",
+      "weight": "medium",
+      "evidence": [
+        "it's so very thematic, i really feel like i have to win votes in the regions.",
+        "theme fits well with the mechanics."
+      ]
+    },
+    {
+      "aspect": "Components / Graphic design",
+      "sentiment": "negative",
+      "weight": "low",
+      "evidence": [
+        "graphic design of pieces is poor.",
+        "la estetica de las cartas no es nada intuitiva ... hacen mas engorroso meterte en la partida"
+      ]
+    },
+    {
+      "aspect": "Play length and pacing",
+      "sentiment": "neutral",
+      "weight": "medium",
+      "evidence": [
+        "a four hour game that never feels like four hours",
+        "dull, tedious political adult game that goes on wayy too loonng."
+      ]
+    }
+  ],
+  "positives": [
+    "Deep strategic decisions and long-term planning",
+    "Strong player interaction, negotiation and coalition mechanics",
+    "Thematic and evocative portrayal of German politics",
+    "Engaging gameplay with little downtime even in long sessions"
+  ],
+  "negatives": [
+    "High complexity and steep learning curve",
+    "Excessive randomness and luck undermining strategic control",
+    "Very long playtime and heavy bookkeeping",
+    "Dated graphics and clunky components"
+  ],
+  "conflicting_opinions": [
+    "Some players find the multi-hour length immersive and losing track of time, while others consider the length tedious and exhausting.",
+    "Some enjoy the randomness as thematic uncertainty and excitement, others consider the luck factor too swingy and frustrating."
+  ]
+}

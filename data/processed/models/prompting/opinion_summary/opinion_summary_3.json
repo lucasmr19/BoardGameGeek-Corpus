@@ -1,0 +1,79 @@
+{
+  "game_name": "Samurai",
+  "n_reviews_analyzed": 12,
+  "summary": "Reviewers describe Samurai as a tightly designed, fast, and strategically rich Knizia abstract with strong tactical tension and an elegant area-control system. Many praise its depth, scalability, and drama despite its minimal rules. However, others find it frustrating, overly chaotic, or dull, citing swingy tile draws and constrained decision-making that can feel arbitrary. Opinions diverge sharply depending on tolerance for abstract, low-luck strategy and end-game uncertainty.",
+  "top_aspects": [
+    {
+      "aspect": "Strategic depth and design elegance",
+      "sentiment": "positive",
+      "weight": "high",
+      "evidence": [
+        "the game does so much with so little",
+        "fast, with a strong arc, it has a gradually narrowing decision space where the decisions become more important",
+        "top 3 juegos de knizia. maravilloso juego"
+      ]
+    },
+    {
+      "aspect": "Tension, drama, and area-control interaction",
+      "sentiment": "positive",
+      "weight": "medium",
+      "evidence": [
+        "develop into moments of high drama",
+        "fighting small tight battles distinct from each other but tied together over a larger board",
+        "probably the coolest and most seamless method of player scaling"
+      ]
+    },
+    {
+      "aspect": "Randomness / tile-draw swinginess",
+      "sentiment": "negative",
+      "weight": "high",
+      "evidence": [
+        "the randomness feels arbitrary and swingy",
+        "who didn't get screwed over on the draw",
+        "just a little too chaotic for me"
+      ]
+    },
+    {
+      "aspect": "Frustration / constrained decision-making",
+      "sentiment": "negative",
+      "weight": "medium",
+      "evidence": [
+        "you can only react to one problem at a time, and when it's your turn again your opponents have created two new ones",
+        "every game i've played between people of equivalent skill boils down to end-game uncertainty",
+        "it's like obnoxiously head-scratchy and chin-strokey"
+      ]
+    },
+    {
+      "aspect": "Fun factor / engagement",
+      "sentiment": "negative",
+      "weight": "medium",
+      "evidence": [
+        "samurai is a good game, but it's not a fun game",
+        "utterly boring tile-laying practice"
+      ]
+    },
+    {
+      "aspect": "Components",
+      "sentiment": "positive",
+      "weight": "low",
+      "evidence": ["components excellent"]
+    }
+  ],
+  "positives": [
+    "Elegant and strategically rich design",
+    "High tension and strong tactical interaction",
+    "Good player scaling and tight area-control mechanisms",
+    "Strong pacing and dramatic late-game moments"
+  ],
+  "negatives": [
+    "Perceived randomness and swingy tile draws",
+    "Frustration from constrained reactions and end-game uncertainty",
+    "Some players find it dull, dry, or not fun",
+    "Can feel overly head-scratchy or mentally taxing"
+  ],
+  "conflicting_opinions": [
+    "Some praise its elegance and strategic depth, while others find it dry or boring.",
+    "Some consider the chaos and randomness manageable, while others see tile draws as decisive and frustrating.",
+    "Some enjoy the escalating tension and decision compression, while others dislike the constrained, reactive gameplay."
+  ]
+}
